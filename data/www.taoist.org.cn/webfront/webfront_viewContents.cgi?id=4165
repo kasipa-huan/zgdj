@@ -1,0 +1,612 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260100000000000000&targetPage=Fdjxy2">
+						道协会刊(1962—1986)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260107000000000000&targetPage=Fdjxy2">
+						第7期（1981年7月）
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	《悟真篇》丹法源流（2）
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">《悟真篇》丹法授受渊源 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(一)师承关系&mdash;&mdash;继往部分 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　1．古代记载丹法的《行气玉佩铭》与《悟真篇》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《悟真篇》师承最早的是《行气玉佩铭》的内炼方术，出土石刻《行气玉佩铭》，是在一个十二面体的小玉柱上刻的铭文，文凡四十五字，每面刻三个字，篆书，九字重文，字体极为规整，与洛阳金村出土的韩国钟铭相类似。韩钟是周安王二十二年 (公元前380年)制成的，是春秋末期战国初期的古物。⒁郭沫若先生认为此铭与韩钟应为同时制造的，也能是洛阳金村韩墓中同时出土之物。铭文经郭先生译为近代文言如下： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;行气&mdash;&mdash;深则蓄，蓄则伸，伸则下，下则定，定则固，固则萌，萌则长，长则退，退则天，天几舂在上，地几舂在下，顺则生，逆则死。&rdquo;⒂ </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　闻一多先生在全集内《神仙考》一文中录有此銘的篆体原文，他的译文则与郭先生稍有出入。对深则蓄的深字，原文为 &ldquo;宎&rdquo;，闻先生译为&ldquo;居&rdquo;字；长则退的退字，原文为&ldquo;辶＋夏&rdquo;，闻先生译为&ldquo;优&rdquo;字；天几舂在上的几字，原文为&ldquo;丌&rdquo;宇，闻先生译为&ldquo;其&rdquo;字，其他均与郭先生译文相同。⒃ </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　英国学者李约瑟博士在《道家与道教》一文中，曾经引用此铭，我们也曾从英文回译过来登在《道协会刊》第四期里，回译的口语译文是： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;行气&mdash;&mdash;一定要用以下的方法呼吸：呼吸能稳定就能聚集了，聚集以后就扩张了，扩张后就下去了，下去后就安静了，安静后就凝固了，凝固后就出芽了，出芽后就生长了，生长后回去头部就上达头顶，这样上达天灵盖，下通四肢。顺着这个道理就可以延年，相反的就会死亡。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　李约瑟博士把它引用在吐纳术部分中，但我们分析铭文含义，它应是内丹丹法的雏形，它的操作方法较行气吐纳更深一步，更进一层，若定它为古代丹法的前身，并非附会。所以我们根据以下几个问题，与导引吐纳作一比较，来探讨它是否古代丹法的初期思想并分析内丹起源与《悟真篇》丹法系统继承的关系。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　[气＋火]按照闻一多先生所录铭文篆体，气的原文作&ldquo;气＋火&rdquo;，可能是战国时期秦统一文字之前的异体字，但从道教角度来谈这字的发展及含义，则后来变为属于火部&ldquo;炁&rdquo;字。道经中用&ldquo;炁&rdquo;字作先天气的代号，用&ldquo;气&rdquo;字作后天气的代号，在丹经里，精化之炁用炁字，吐纳导引之气用气字，&ldquo;炁&rdquo;宇实即丹母的同义词。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《丹阳真人语录》云： &ldquo;道者何物也?祖炁便是根源。&rdquo;《性命圭旨》也说：&ldquo;道者果何谓也，一言以定之，曰炁也。&rdquo;清在家道士闵一得注解《阴符经玄解正义》&ldquo;禽之制在炁&rdquo;一句说；此专言炁，此炁何炁?坤元中炁是也，含有真精流珠，其性灵敏，《参同契》不云乎?太阳流珠，常欲去人，卒得金华，转而相因。金华者何？亦指坤元中炁也。&rdquo;又云：&ldquo;契文将欲制之，黄芽为根，炁即黄芽也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　炁字不见于《说文解字》，若以一个宇的区别来证明 &ldquo;炁&rdquo;即丹之理，似较牵强，但从玉佩铭全文来看，则此字当有特殊意义。《抱朴子内篇至理》论行气之妙，凡有关道术的都用炁字，有关呼吸气则用气字，两字用法有明显的区分，则古代行杰法为丹浊的前身，此篇颇可说明问题。一九四七年三月《道德杂志》《先炁、后气二者分合之原理》一文讲到：&ldquo;首重养气，气之所关，本来甚大。不有此气，炁无所含，何以生火?不能生火，水无所孕，何以铸丹?&rdquo;&ldquo;按先天为炁，后天为气，宇宙万物，莫非杰所孕育。炁本至清至纯，故能运行不息。人禀阴阳二气以生，此二气虽为后天气，而实原本子先天炁。&rdquo;此文解释二字意义不同之处更为明析。总之，我们以春秋时期古篆来附会今天丹经用语，证据还不够充足，但结论则是从铭文全体关系来加以肯定的，所以我们以以上理由，推论铭文标题&mdash;&mdash;&ldquo;行气&rdquo;二字，用口语来说就是丹法妙用的意思，而非仅讲气功。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　[蓄]在行气初步开始，蓄字解为聚气是对的，符合丹法运行步骤。深则蓄的&ldquo;深&rdquo;字或&ldquo;居&rdquo;字，我们同意闻一多先生的看法，应以&ldquo;居&rdquo;字为宜。英国李约瑟博士解作稳定，也是&ldquo;居&rdquo;字的意思。南宗白玉蟾说：&ldquo;修丹口诀，第一是聚气凝神。&rdquo;凝神即系&ldquo;稳定&rdquo;。&ldquo;蓄则伸&rdquo;的伸字，应解为&ldquo;运行&rdquo;为好，释为&ldquo;扩张&rdquo;似不确切。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　[定]应解为入静功夫。&ldquo;伸则下&rdquo;，指运行后气降丹田，气降才能凝神入静。《参同契》说：&ldquo;耳目口三宝，闭塞勿发通，真人潜深渊，浮游守规中。&rdquo;就是守窍入静的方法。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　[固]把固字释为凝固是对的，即上述丹法中聚气凝固的第二步过程。《参同契》说：&ldquo;先液而后凝，号曰黄舆焉。&rdquo;又说：&ldquo;卒得金华，转而相因，化为白液，凝而至坚。&rdquo;即系由液结丹由气成质的变化。黄舆、金华、都是黄芽的同义词。⒄ </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　[萌]郭沬若先生释铭文萌字说：&ldquo;如草木之萌芽。&rdquo;很是确切。但郭先生认为它是比喻行气作用，则应商酌。我们认为在丹经中&ldquo;出芽&rdquo;系比喻大药将成，所以称作黄芽。在丹经中用黄芽的名词地方很多，例如《参同契》&ldquo;玄含黄芽，五金之主。&rdquo;俞琰注：&ldquo;玄含黄芽者，水中产铅也。&rdquo;玄是水、即精炁中含有灵药。此为精气神中含芽之喻；又如《悟真篇》&ldquo;黄芽生处坎离交。&rdquo;上阳子注：&ldquo;坎离之气交会，黄芽自生；龙虎二弦之气相交，金丹自结。&rdquo;此为精气神中生芽之喻；再如：《悟真篇》&ldquo;铅遇芽生须急采。&rdquo;⒅铅指精炁，精炁已动，时至神知，急采缓烹，为炼丹关键，此为精气神中药生急采之喻；至于采后炼功，则如陈泥丸金丹诗所说：&ldquo;丹头本是先天气，炼作黄芽发玉英。&rdquo;未采之前是先天气，凝化后则完全成为黄芽。这是凝炼结果的比喻。从以上丹诀来看，&ldquo;芽&rdquo;字为内丹主要成份，如解为气的运用、似觉尚不够深入。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　[退]退字原文为&ldquo;辶＋夏&rdquo;字，闻一多先生则释为&ldquo;优&rdquo;字，我们认为郭先生释为退字是正确的。郭先生说：&ldquo;呼出与深入时的径路相反而退进，退到绝顶。&rdquo;此路径指打通任督两脉，运转河车，引炁逆行，通过三关，上升泥丸(天)之意，丹经术语称为河车运转，坎水逆流。《参同契》曰：&ldquo;反者道之验。&rdquo;俞琰注：&ldquo;退即返也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　[机]机字原文为&ldquo;丌&rdquo;字，郭先生解释说：&ldquo;铭文两个几字，可读为&ldquo;其&rdquo;、也可以读为&ldquo;机&rdquo;，应以读机为较适。&rdquo;闻先生则按篆文释为&ldquo;其&rdquo;字，我们同意郭先生的意见。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　铭文： &ldquo;天几桩在上，地几桩在下。&rdquo;此机字在丹法上即药生之时。闵一得注《阴符经》&ldquo;天性人也，人心机也。&rdquo;一句说；&ldquo;阳以星宿光明之机下照，是发于天也；阴以龙蛇起腾之机上现，是发于地也。&rdquo;机就是炼内药时运行的动态，是活子时发动的代称。在炼内丹时，外药周天循环，天几桩，指上鼎泥丸，为外药停留而去矿留金之处；地几桩，指下炉丹田，为外药归炉蓄藏之所。桩即指上鼎下炉的处所。李约瑟博士解为&ldquo;四肢&rdquo;，似应商榷。盖丹法以天为鼎，以地为炉，以天地比喻人身部位。天地、炉鼎，都是比喻上下位置，非仅仅是气通八脉的四肢部位。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　[顺、逆]丹法顺逆是讲精炁逆行，此处则指铭文的方法必须遵守。郭先生译为&ldquo;顺此行之则生，逆行之则死。&rdquo;很是确切。生指长寿，死指不能达长生的目的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　从以上分析来看，此铭文应属早期内炼方法，有些内炼过程与前面所讲《悟真篇》的丹法内容理论一致，当时虽不称内丹而云行气，但内丹的轮廓已具雏形，给后来内炼方法奠定了初步基础。也可能是《悟真篇》内丹思想最早的根源。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　此铭刻制时间约在公元前三百八十年，地点在洛阳。距老子在世以后约晚一百五十年上下，应在三家分晋之前。而周代宝视玉器，《周礼》有司玉器库藏的&ldquo;典瑞之官&rdquo;，此铭应属当时珍品，可能是天府所藏。洛阳自平王东迁以后，久为东周首都，此铭刻制年代距平王迁都已有四百年上下，此时首都文化定较各封建列国为高。而老庄出生地点都在中原，活动地区也围绕洛阳附近各地，所以此处内炼长生思想必早已存在，且与燕齐海域的神仙、服食等思想应比较有一更高的境界，而与老庄思想，互为影响，所以此铭文有系统和具体的内炁炼养方法，并不奇怪。铭文未记载作者，似此种方术早已流传，非个人听独创。而炼金术和服食法是否出现在内炼方法以前，在这铭文出土以后，可以再作研究了。总之，以此实物来说，这是古代很早流行的内炼方法，文字虽极简单，但轮廓和进程很和《悟真篇》丹法理论相近，所以我们认为这应是《悟真篇》丹法理论最早的渊源。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　2．悟真篇远溯黄老，自称系师承《阴符经》、《道德经》的丹法。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《悟真篇》继承《阴符经》、《道德经》是第二第三师承关系。从道教经典来讲，上述出土古文物的内炼方法还不算早，道教尊奉黄老，内丹经典认为都是黄老所传，所以《悟真篇》叙述授受渊源，先称黄老。绝句第五十八说： &ldquo;阴符宝宇逾三百，道德灵文满五千，今古上仙无限数，尽于此处达真诠。&rdquo;自认为是继承黄老丹法的正统。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　元道士陈观吾在他讲内丹的著作《金丹大要》一书开篇一段即说： &ldquo;金丹之道，黃帝修之而登云天，老君修之而为教祖，求于册者，当以《阴符》、《道德》为祖，《金碧》、《参同》次之，自河上公五传而至伯阳真人，诸老辈枝分派接，丹经妙诀，散满人间，惟紫阳《悟真篇》颇详，又得无名子诸公引而明之。&rdquo;这是说内丹传授渊源系统上要是黄帝&mdash;&mdash;老子&mdash;&mdash;河上公&mdash;&mdash;魏伯阳&mdash;&mdash;张紫阳，他们的著作都是内丹丹法的重要经典，而且像大树和川流一样，枝分派接，源远流长。陈观吾是元代将钟吕金丹派南北宗合并于全真教的一个承先启后人物，他从道教角度论内丹源流及指出张紫阳《悟真篇》总结前人丹法的成就，是有一定的代表性的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　道教既以《阴符经》、《道德经》为内丹祖书，我们为了尊重《悟真篇》原书意旨，假定两经俱为丹法的最早经典，并沿着它们的内在联系，作为一个完整的授受系统，来说明《悟真篇》上有所本，下有所授，渊源经络，一脉相传的发展过程。以下就作者的主张和观点，略加论列： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(1)《悟真篇》与《阴符经》的关系。黄帝这个人，本是传说中的人物，但在道教中是很受尊崇的。他的著作在《汉书&middot;艺文志》录有《黄帝四经》《黄帝铭》《黄帝君臣》《杂黄帝》等书，但均已无存，也并没有《阴符经》的记载。《黄帝阴符经》是唐朝道土李筌发现的，自称得于石壁之中，有封识文字说：&ldquo;上清道士寇谦之藏诸名山，用传同好。&rdquo;清姚际恒《古今伪书考》认为是寇谦之伪作；宋朱熹说恐是李筌所为；宋俞琰《席上腐谈》说：&ldquo;《黄帝阴符经》、《素问》邵康节以为战国时书，托黄帝之名而为之也。&rdquo;邵康节《皇极经世》中说：&ldquo;素问阴符，七国时书也&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　我们认为邵康节的说法很有道理。宋朱熹说： &ldquo;黄帝聪明神圣，得之于天，其于天下之理，无所不知；天下之事，无所不能。上而天地阴阳造化发育之原，下而保神炼气愈疾行年之术，以至其间庶物万事之理，巨细精粗，莫不洞然于胸次．是以其言有及之者，而世之言此者，因自托焉，以神其说于后世。至于战国之时，方术之士，遂笔之于书，以相传授耳。&rdquo;⒆黄帝这形象，是一个古代学术的象征体，是古时社会上发明创造成就的代表体，所以后人说他无所不能无所不知。即使《阴符经》是后人托名著作的，但其内容保存了不少古代炼内丹的思想，则决不只是后代一个人所能伪造的。证以《玉佩铭》的内炼法诀，足可说明。而且以后流传到汉代，作为《参同契》丹法的依据，是非常可信的。来诗人陆游有诗曰：&ldquo;存神止虑自长年，黄老遗书汉尚传，妙语虽传人不省，却从丹灶觅神仙。&rdquo;诗后自注说：&ldquo;汉武帝赐平津侯诏曰；君其存精神止念虑，辅助医药以自持。疑出黄老遗书，在汉尚传也。&rdquo;存神止虑，概括内炼要旨，《阴符经》曰：&ldquo;至静之道，律历所不能契。&rdquo;从内在联系来看，《悟真篇》以《阴符经》为祖书，渊源有自，无须&ldquo;置疑&rdquo;。所以我们就《悟真篇》的内容，与《阴符经》略作比较： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《悟真篇》绝句第五十七： &ldquo;三才相盗及其时，道德神仙隐此机，万化既安诸虑息，百骸俱理证无为。&rdquo;这是发挥《阴符经》 &ldquo;天地万物之盗，万物人之盗，人万物之盗，三盗既宜，三才乃安&rdquo;。一段意义。盗是取得的意思。正取叫取，不正取叫盗。在丹法上，顺行称取，逆行叫盗。《阴符经》说的三才即天地人，丹法是天地与人互相盗取，天地盗取是顺行，人盗取是逆行，《悟真篇》继承道教精神，企图扭转自然发展规律，想达到&ldquo;一粒灵丹吞入腹，始知我命不由天&rdquo;的境地，所以强调逆行。天地人之外三才又指精气神，闵小艮《阴符经玄解正义》解释三才乃安一句说：&ldquo;精充则气充，气充则神充，神充精乃足。&rdquo;所以盗的含义，在丹法上实即是采取药物而已。《阴符经》又接上段说：&ldquo;故曰：食其时，百骸理，动其机，万化安。&rdquo;这是绝句后两句的根据，经文&ldquo;时&rdquo;和&ldquo;机&rdquo;是同义，这是一个并列句，炼精化炁阶段，其机在候活子时以为采取之功；炼炁化神时，其机在候正子时以为锻炼之准，锻炼以后，身心大定，寂然不动，大地皆春，此时万化既安，诸虑尽息，百骸俱理，进入性功。此即陆游诗内所称：&ldquo;存神止虑&rdquo;，亦即契《阴符》之作用，寓《道德》之自然，由了命而了性之理，所以《悟真篇》的丹法许多地方是就《阴符经》的内容加以发挥，从这一首绝句就可以窥见一斑。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《悟真篇》依据经文，强调 &ldquo;机&rdquo;字，如绝句第三十八：&ldquo;天地盈虚自有时，审能消息始知机。&rdquo;第六十：&ldquo;了了心猿三寸机，三千功行与天齐。&rdquo;都和《阴符经》内容机字有关，三十八绝句是强调时和机，与绝句五十七相同，是指活子时；六十绝句是强调以心役机，则能成丹。前一首见上文解释，后一首则与经文：&ldquo;心生于物，死于物，机在目。&rdquo;有关。盖心假目为用，以目观&ldquo;机&rdquo;。不为物所干扰，始得真机，这和《吕祖百字碑》：&ldquo;真常须应物，应物要不迷。&rdquo;意思相同。盖神藏于心，发于二目，神附于目而内视，得时而动，得机而采，不被外物所迷，元神自能专一，这叫&ldquo;心目同用&rdquo;的功夫。后来机宇成为丹法的专用术语。宋周敦颐解释机字说：&ldquo;动而未形在有无之间者曰机。&rdquo;⒇丹经指此为药生的时间，也指火候的应用。所以《阴符经》内反复又说：&ldquo;其盗机也，天下莫能见，莫能知，君子得之固躬，小人得之轻命。&rdquo;即明指盗机即逆行成仙的道理。何以说小人得之轻命呢?《悟真篇》绝句第二十四：&ldquo;火生于木本藏锋，不会钻研莫强攻，祸发总因斯害己，要须制伏觅金公。&rdquo;这是发挥《阴符经》&ldquo;火生于木，祸发必克&rdquo;的含义。上文我们引《悟真篇》绝句&ldquo;了了心猿三寸机&rdquo;一首，指出系以心役物，以目御机。但人心本静，如木之本，而木能生火，即喻感物而动，如果钻木取火，用不如法，后天欲动，烧却本真，即&ldquo;祸发总因斯害己&rdquo;之意。经文只讲祸发必克，但如何制伏，并未明说。《悟真篇》则指出应觅&ldquo;金公&rdquo;，金公为铅的隐语，即以铅制汞以水定火之意。水火互用，大丹可凝，这是《悟真篇》祖述《阴符经》的目的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　对《阴符经》有不同的许多解释，但我们比较两者内容，指出渊源所自，而两书内在的密切关系，也就极其明确了。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(2)悟真篇与《道德经》的关系。钟吕金丹派，以《道德经》为丹经祖书。而老子《道德经》中，语言极其概括抽象，故儒释道三家，对《道德经》各有不同的解释，易于各取所需，而经文内容，又多修养内炼思想，故元陈致虚《金丹大要》内《道德经》总论一章说：&ldquo;老子之道，即金丹大道也&rdquo;。&ldquo;如恍惚中有象有物，杳冥中有精有信，此皆指大道，显露玄机者也．经内隐八十余异名，如众甫、神器、玄牝、橐籥之类。盖深注意于道，使后人从是而悟，因悟而入，因入而有为，有为者即金丹也。&rdquo;这些话代表了钟吕金丹派的见解。但《道德经》虽系讲玄理，《悟真篇》则将玄理化成丹诀丹法，亦即丹法家所称既有渊源，复加自悟，发挥奥义，自成一家。兹比较两经内容如下： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《悟真篇》绝句第三十九： &ldquo;要得谷神长不死，须凭玄牝立根基，真精既返黄金室，一颗灵光永不离。&rdquo;张伯端所指玄牝，清刘一明《悟真直指》解释说：&ldquo;谷神之动静，即玄牝之门也。这个门在人身为四大不着之处，天地之正中，虚悬一穴，开闔有时，动静自然，号之曰玄关一窍，又号之曰众妙之门，玄牝之门，是为天地之根，盗机妙用，须从此处立基。&rdquo;他这意思是说玄牝即丹法所指玄关一窍。张伯端《金丹四百字》说：&ldquo;此窍非凡窍，乾坤共合成，名为神气穴，内有坎离精。&rdquo;说明这一窍是结丹之处。而谷神则是结丹的药物，刘一明指为真一之精的别名，实际就是丹母。他在注释中又说：&ldquo;谷神、真精、灵光，仍是一个物事，不过就已成未成分别言之&rdquo;。按他的解释推论，黄金室与玄牝自亦是同义之辞，都指盗机之后，采药归炉，加以锻炼之意。但玄牝地点，河上公注为口鼻。《悟真篇》则反对这种说法。绝句四十：&ldquo;玄牝之门世罕知，休将口鼻妄施为，饶他吐纳经千载，怎得金乌搦兔儿。&rdquo;则反复说明结丹处所的重要性，不要被河上公注释所误。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《悟真篇》绝句第九说： &ldquo;虚心实腹义俱深，只为虚心要识心，不若炼丹先实腹，且教收取满堂金。&rdquo;这是发挥《道德经》第三章：&ldquo;虚其心，实其腹，弱其志，强其骨。&rdquo;河上公注：&ldquo;虚心是除嗜欲去乱烦，实腹是怀道抱一守五神也。&rdquo;诗中的满堂金，指金丹而言。清仇知几《悟真篇注》&ldquo;虚心是性功上事，实腹是命功上事，应先炼铅实腹，再行抱一之法以虚心&rdquo;。这是说先实腹再虚心。实腹、指炼气筑基，守丹田，结丹母；虛心，指凝神入静，扫除万虑，达到万化既安百骸俱理境界，这也符合张伯端先命功后性功的主张。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　以上两书內容比较，仅举以上二例，以便窥见一斑。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　在道教丹法上认为《阴符经》、《道德经》、《悟真篇》三书内容是一致的。陈致虚在《悟真四注》绝句五十八注内说： &ldquo;《阴符》、《道德》丹经之祖书，上仙皆籍之以为筌蹄，修之成道。是知《阴符》、《道德》、《悟真》三书同一事也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　但也因为两书文字古奥简括，领会各有不同。清朱元育在《参同契阐幽》中说：《阴符》、《道德》两经，垂示真诠，然其书乃直指归根复命至真之要道，尚未落丹经诸名相也。魏伯阳建立火候药物诸名词。 &rdquo;又在《悟真篇阐幽》说：&ldquo;此书源头出自《阴符》、《道德》两经，其作用则略仿《参同契》，大抵是恐泄天机，不敢直说，故有药物、炉鼎、火候之法象，有乾坤、坎离、龙虎、铅汞之寓言&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　大抵内丹丹经，都引用《阴符经》、《道德经》以表示自己为黄老正宗，学有所本。至于两书是否讲丹法呢 ?各家看法不同，本文重点谈《悟真篇》丹法渊源，既然作者自称师承出自黄老，我们也就尊重作者原意，从三书在丹法上的内在联系中摘出以上几个重点来，说明本篇源流分明，师承有自，是一脉相传而来的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　本来古代道经，言简意賅，各家注解者可以各取所需，作为自己著作的根据。《悟真篇》尊黄老之古经，借教主之声望，取抽象之文章，作具体之解释，既表示师传之渊源，又可以启后学之信仰，一千年来，道教谈内丹的都认为它是承前启后继往开来的著作，并尊为规范，成为南北两宗同尊之祖经，这种成就，实在不是偶然的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　3．《悟真篇》直接继承《参同契》。《悟真篇》与《参同契》关系更为密切，这是第四个师承。关于《阴符》、《道德》两经，词句简奥，含义深邃，虽寓丹法之旨，末落名相之中，并非系统地完备地讲述丹法。而系统谈丹法的著作，应以《参同契》为最早最完备的经典。《悟真篇》也是用它作为主要的依据。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　张伯端既尊《阴符》、《道德》为内丹祖书，又依据《参同契》内容加以发挥，并袭用其内外丹通用的术语，来阐发丹法的奥旨，所以两经授受渊源，最为密切。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　但作者对自己使用《参同契》的术语，也担心会将读者引入迷途，所以在《悟真篇》 &ldquo;读参同契歌&rdquo;中，列举书内所用&ldquo;两仪、四象、八卦、乾坤、吉凶、悔吝等卦象爻辞后，总括一句说：&ldquo;百姓日用不知，圣人能究本源，顾易道妙尽乾坤之理，遂托象于斯文。&rdquo;这是告诉读者，术语都是托象，就是用卦象作比喻，不要拘泥在这形式上面，而是悟出它内蕴的真诀。所以在此歌中又进一步说：&ldquo;犹设象以指意，悟真意则象捐，达者惟简惟易，迷者愈惑愈繁，故修真之士读&lt;参同契》者，不在乎泥象执文。&rdquo;这更明确地告诉读者，&ldquo;象&rdquo;只是一种比喻，必须透过形式而悟其内涵真意，才能掌握内丹丹法。这也就是作者把他所著丹经命名为《悟真篇》的原因。〔21〕 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(1)《参同契》的作者及其时代 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《参同契》著者魏伯阳，会稽上虞人，名翱，别号云牙子。在晋葛洪 &lt;神仙传》中，记载他入山作神丹，服后成仙的故事。又记他著《参同契》《五行相类》凡三卷，似把他列成烧炼丹药的方士一类人物。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　后蜀彭晓《参同契分章通真义序》说： &ldquo;世袭簪裾，惟公不仕，修真潜默，养志虚无，博赡文词，通诸纬候，恬淡守素，唯道是从，每视軒裳，如糠粃焉。不知师授谁氏，得古文《龙虎经》，尽获妙旨。乃约《周易》撰《参同契》三篇，&hellip;&hellip;所述多以寓言借事，隐显异文，密示青州徐从事，徐乃隐名而注之。至后汉孝桓帝时，公复传授与同郡淳于叔通，遂行于世。&rdquo;《历世神仙体道通鉴》记载与上文相同，但结语说：&ldquo;《参同契》二卷，其说似解《周易》，其实假借爻象，以论作丹之意&rdquo;。则认为它是炼内丹的祖书。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　关于魏伯阳的身世，历代正史及典籍中很少记载，除上述材料外，《参同契》书中尚有 &ldquo;自序篇&rdquo;，简单叙述了自己的身世和心情，他说：&ldquo;邹国鄙夫，幽谷朽生，挟怀朴素，不乐权荣，栖迟鄙陋，忽略利名，执守恬淡，希时安宁，宴然闲居，乃撰斯文。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　他是会稽人，但他不肯直说，却用 &ldquo;郐国&rdquo;来暗示，郐字拆开是&ldquo;会邑&rdquo;，隐寓会稽地方。他说自己是幽谷朽生，是自称隐居山谷中似朽木不可雕的闲人，有人认为朽是衰朽，似不恰当。他自述闪心朴素，不喜名利，中怀恬淡，所以退隐。但也盼社会安宁，所以埋头写作，欲罢不能。这是自己心境的写照，也是著此书的动机。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　作者生卒年月，虽资料缺乏，但按照彭晓所记时代，系在桓帝以前。此时国势衰微，宦官外戚专权，党锢株连，接踵不断，加以灾祸频仍，生民饥馑，社会动乱，遍野哀鸿。《参同契》虽与《太平经》同时，但《太平经》大部分为民间著作，教义广泛，语言朴素，虽非成于一时一地一人之手，又限于时代，因而有、不少宗教迷信及維护封建统治阶级利益的思想，但主要是指摘不平，寻求生路。内容很多地方反对恃强凌弱和享受特权，反映了当时受剥削受压迫的群众的痛苦，表示出对贫穷者及弱者的同情。这些教义当时代表了劳动人民的呼声，起了积极的作用，成为黄巾起义的先声。而四川三张，也借此经经义，改革社会的组织，以平衡阶级矛盾，此经涵义是奋发有为的。与此同时，《参同契》作者则是世袭簪缨的人，对当时社会动乱颇致不满，又不能力挽狂澜，于是消极遁世，退隐山谷，埋首著作，与世隔绝。其自序中有 &ldquo;委时去害，与鬼为邻&rdquo;的话，虽系暗示作者是魏姓，但也籍此抒发内心的积郁。所以如果仅队其纯为炼丹方士，似亦为臆测之词。但《太平经》来自民间，尊奉者立教授徒，组织起义，有救义，有组织，有行动，已初具道教规模，成为开创宗教的基础，而魏伯阳则出身土族，避乱退隐，专研丹木，与世隔绝，因此《参同契》与《太平经》的性质及作用，教义与丹法未可相提并论，但魏伯阳在《参同契自序篇》里，表示了写此书时的心情： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">文字郑重说， 世人不熟思， 寻度其源流， </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">幽明本共居， 窃为贤者谈， 曷敢轻为书， </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">结舌欲不语， 绝道获罪诛， 写情著竹帛， </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">又恐泄天符， 犹豫增叹息， 俯仰辄思虑， </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">陶冶有法度， 未忍悉陈敷， 略述其纪纲， </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">枝条见扶疎。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　这一段，可以看出他当时苦闷仿徨的心境。他研究丹法，心有所得，但惧天罚，惧人祸，既不肯自己珍秘，又恐全泄灵机，于是用繁多的比喻，深晦的语言，创立了丹经一种特殊文体。而且在当时文网密布之下，也不愿广作宣传，于是隐姓埋名，故作哑谜，秘母言子，舍本逐末，以略示丹法的途径。在上面诗中，已说明欲罢不能的心境，藏头露尾的苦心。他是搞内丹方术的方士，无意创教，自然同创教的人不能对比，但他在道教丹法丹诀上，却奠定了他不朽的事业。而在养生保健方面也作了卓越的贡献。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　他在 &ldquo;自序篇&rdquo;结尾说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;委时去害，与鬼为邻，百世一下，遨游人间，汤遭阨际，水旱隔井。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　宋俞琰在《参同契发挥》解释这几句话说： &ldquo;委与鬼乘，魏字也；百世一下加人字，伯字也；汤遭旱灾无水加际边，阳字也。这更说明这书写完时，是没有署名，而著者的名字，是后人加上的。为什么当时连姓名也用隐语呢?盖畏讥惧谗，不得不这样隐姓埋名。不但对身世、对姓名隐晦，就是《参同契》书中所用三种比喻，大易、黄老、炉火，对于丹法都是用的隐喻手法，借三者之形式，写内蕴之丹诀。因其词意隐晦，读时很像猜谜。但道教中人，于经典之外，另传口诀，使用简易语言，点破其中诀窍，凡属关键性的操作方法，均系师徒口口相传，不落文字，而且非常慎重，不肯轻谈，此种禁戒与《参同契》&ldquo;窃为贤者谈，曷敢轻为书，写情著竹帛，又恐泄天符&rdquo;。的话有关，所以《参同契》在隋唐以前，传者较少。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　至于怎样在书中用大易、黄老、炉火作炼丹方法的比喻呢，我们想在下面略加解释。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(2)《参同契》丹法的内容 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　第一，《参同契》假借易象作丹法比喻：宋朱熹在所著《周易参同契考异》里说。 &ldquo;《参同契》书名意义即参为杂，同为通，契为合。&rdquo;认为与周易之理混杂意通而义合。这是儒家独尊周易的解释，实际魏伯阳不过借易经的形式讲丹法的内容，的易学是根据西汉宣帝时京房易，用纳甲方法把卦象与五行结合起来，以阐明易理的象数，在《参同契》三相篇小序中解释《参同契》三宇的意义说：&ldquo;三相者：一相大易性情；二相黄老之术；三相炉火之事。三道由一，故名三相类。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　魏伯阳为什么选择用易象作为丹法的比喻呢 ?这也是在两汉时期，周易已被社会上重视，阴阳五行学说更是盛行，所以他采用了易卦的外形，运用了纳甲方法把八卦和五行结合起来，以加强自己著作的神秘性。他说明这理由时说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;若夫至圣，不过伏羲，始画八卦，效法天地；文王帝之宗，循而演爻辞。夫子庶圣雄，十翼以辅之。三君天所挺，迭兴更御时。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　伏羲、周文王、孔子三位圣人既依次以易象说明天地的奥秘，因此自己也继承易经象数之理，来作为推论丹法的依据。但他的讲义理、讲象数，都是丹法的比喻，并不是探讨易经哲理的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　第二、《参同契》以黄老著作为自己的理论的依据：《三相类》中说： &ldquo;大易性情，各如其度，黄老用究，较而可御，炉火之事，真有所据，三道由一，俱出径路。&rdquo;〔22〕按他的解释：大易者，丹法外形也；黄老者，丹法理论根据也，炉火者，丹法道术也。三者同参，归于真一，所以书名叫《参同契》，而以黄老著作为理论根据。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　在魏伯阳自序中谈到黄老，他说： &ldquo;引内养性，黄老自然，含德之厚，归根返元，近在我心，不离己身，抱一毋舍，可以长存。&rdquo;此处发挥老子道法自然的道理。清朱元育注释说：&ldquo;养性，养祖性也，即上德也。学人若洞明此性，即可以归根复命，返本还原。祖性一体分为两用，便是身心，必须守中抱一，则长生久视之道得矣。&rdquo;注内所列&ldquo;上德&rdquo;&ldquo;归根复命&rdquo;、&ldquo;守中、&ldquo;抱一&rdquo;、&ldquo;长生久视&rdquo;，都是引用《道德经》内容，可以说明作者发挥《道德经》的地方不少。〔23〕 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　第三，《参同契》使用炉火的比喻阐明内丹的内炼方法：《参同契》除引用《周易》黄老外，更将天地日月等自然现象作为人身系小天地的比喻，并用外丹炉火烧炼的术语比喻内丹的炼法，把人身比做外丹所用的鼎炉，以身中精气为药物，以神为运用的火候，使精气神凝聚不散而结为金丹。因此外丹所用的术语如：药物、铅汞、丹砂、火候、水火等，都被借用为内炼丹法的词语。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　他全书大部分谈的是内炼方法的丹术丹诀，例如在 &ldquo;性命归元章&rdquo;说：</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;九还七返，八归九居、男白女赤，金火相拘，则水定火，五行之初，道之形象，真乙难图。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　他这一段主要说炼丹的药是 &ldquo;金&rdquo;和&ldquo;火&rdquo;，相拘是互相制约，互相配合。&ldquo;金&rdquo;是先天药的代号，&ldquo;火&rdquo;是元神的代号。&ldquo;则水定火&rdquo;就是使水火互相凝结到一起，五行之初是说这是五行里最基本的东西，把这些配合一起，成为金丹。这是用外丹炉火的术语来讲内丹操作方法的实例，这种隐喻的方法，为以后丹鼎派开一先河，后来属于内丹丹法著作，大部分所用术语是由《参同契》来的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　道教经典，浩如烟海，范围广泛，内容繁多，丹经仅为道术的一部分，自不能以偏概全，认为它是道教中心。但道教认为它是长生阶梯，所以置于公开传教之外，而将其宗教化神秘化，并将人身比附宇宙，主张天人合一，建立了一种神秘性的生命哲学，并认为是不传之秘。张伯瑞继承《参同契》丹法，并得到口授心传，袭用了《参同契》的内容及术语，写出自己炼功心得。但相距九百多年，沧桑变迁，道术发展，自不能墨守成规，停滞不变，后者胜于前者，是必然发展的规律，所以《悟真篇》的丹法丹诀，当然比《参同契》更明显更完备。我们将两书内容提出下列三点稍作比较，来说明后者对前者加以发展的情况。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(3)《悟真篇》进一步明确并发挥《参同契》的丹诀。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　第一、《悟真篇》确定《参同契》是内炼丹法，反对烧炼和服食。因为《参同契》用语过于抽象，所以外丹家解为烧炼，选药草者解为服食。《悟真篇》为了确定丹法性质，指出这些理解都是歧途。律句第八说： &ldquo;休炼三黄及四神，若寻众草更非真，阴阳得类方交感，二八相当自合亲。潭底日红阴怪灭， 山头月白药苗新，时人要识真铅汞，不是凡砂及水银。&rdquo;这说明内丹既非烧炼，也与服食不同。又明确指出来：&ldquo;咽津纳气是人行，有药方能造化生，鼎内若无真种子，犹将水火煮空铛。&rdquo;指出咽津液、吐纳术也都不是内丹。但为什么一部分丹法炼士把《参同契》解为烧炼呢，就是因为《参同契》把&ldquo;药&rdquo;字用&ldquo;金&rdquo;来代替，纳甲方法是包括五行的，金生水，金为先天精的代号，水为后天精的代号。《参同契》讲金水配合凝炼说：&ldquo;以金为堤防，水入乃优游，金计有十五，水数亦如之。&rdquo;&ldquo;金来归性初，乃得称还丹。&rdquo;&ldquo;金以砂为主，禀和于水银，变化由其真，始终自相因，&rdquo;&ldquo;金入于猛火，色不夺精光。&rdquo;&ldquo;巨胜尚延年，还丹可入口，金性不败朽，故为万物宝。术士伏食之，寿命得长久。&rdquo;因为这个代号不明显，所以外丹说内丹说，两者争论不休。《悟真篇》则大部分用铅代药物，而与汞并提，虽仍是外丹名词，但不致引起误会了。铅是什么?《悟真篇》绝句六：&ldquo;调和铅汞要成丹，大小无伤两国全，若问真铅是何物，蟾光终日照西川。&rdquo;蟾光系元精的代称，西川是丹田的位置，这是针对《参同契》迷离惝恍的艰深术语，加以显解，但碍于教规限制，又不能明言，不过已明确指出《参同契》是讲内炼的，不是烧炼，也不是服食。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　第二、内炼的药物，非金水实物，也非黑铅及水银，那么究竟是什么，从什么地方采取 ?《参同契》未加详细说明，《悟真篇》明指药物是自身所有，绝句七：&ldquo;未炼还丹莫入山，山中内外尽非铅，此般至宝家家有，自是愚人识不全。&rdquo;家家有即是自身所有，这就是药的来源。这是在使用代号上比《参同契》更进一步，更明确一层。药在什么地方呢?《参同契》未提，《悟真篇》则说：&ldquo;要知产药川源处，只在西南是本乡，铅遇芽生须急采，金逢望后不堪尝。&rdquo;铅全井提，明确它们同是药物的代号，这在研究丹法上，就不会再误会为外丹炼法了。还有，《参同契》称先天精气为水，元神为水银。《悟真篇》则将这些名词加以统一，在并列时也明示为同义词。如律诗第六&ldquo;好把真铅着意寻，莫教容易度光阴，但将地魄擒朱汞， 自有天魂制水金。&rdquo;地魄即真羔，制心制意，天魂即元神，制肾制铅，于是金木交井，水火既济，而全丹凝结完成了。这就明确了药物的性质。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　第三，积极奋斗的精神，坚持不拔的信心。是《悟真篇》与《参同契》不同的。《参同契》代表了士族没落阶级失意的情绪，退隐避乱，与世隔绝，恬淡自处，纯任自然。张紫阳则在丹法上信心坚定，不同意魏伯阳的处世态度，虽同为士族，但对人生观各有见地。张伯端反对隐遁的办法，他说： &ldquo;自古人隐居廛市，何必深山学静孤。&rdquo;〔24〕他对丹法成功的信心很足，诗中说：&ldquo;已知寿永齐天地，烦恼无由更上心。&rdquo;他的丹法是充满道教扭转天地规律支配自然法则的积极精神的。他说：&ldquo;大药修之有易难，也知由我也由天&rdquo;。进一步更说：&ldquo;药逢气类方成象，道在希夷合自然，一粒灵丹吞入腹，始知我命不由天。&rdquo;这种精神，是道教积极逆转乾坤精神的体现，这精神是魏伯阳所缺乏的。原因是两人遭遇不同，而魏仅是修炼的方士，张伯端生在他九百年以后，以道士身份来研究丹法，继承了东汉以来宗教中逆修成丹的信仰，扭转天地规律的魄力，一种宗教性的生命哲学已逐渐定型。所以对内丹丹法的态度，当然比魏伯阳方士思想更高一层。而张伯端这种气魄和信心，也就给南宗的丹法思想奠定了初步基础。这也说明道教内丹思想并非逃避现实而是重视现实，想跳出现实而就肉体炼养，最后进入更高的理想境界。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　4．《悟真篇》与陈抟《无极图》、《先天图》 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《悟真篇》第五个师承是陈抟的丹法思想。陈抟，五代末北宋初的道士，字图南，又号扶摇子，毫州真源人，曾在华山修道，宋太宗赐号希夷先生。著有《无极图》刻于华山石崖之上；又著有《先天图》及《指玄篇八十一诗》。 (今佚) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《先天图》传至邵雍 (康节)演化为周易象数体系，著有《皇极经世》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《无极图》传至周敦颐 (濂溪)演化为太极图，著有《太极图说》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　宋朱熹在《周易参同契考异》中说：&ldquo;伯阳参同契，恐希夷之学，有些是源流。&rdquo;又说：&ldquo;邵子发明《先天图》，图传自希夷，希夷又自有所传，盖方士技术，用以修炼，《参同契》所言是也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　清胡渭《易图明辩》说： &ldquo;自种放之后，儒者受此图，皆有所变通恢廓，而非复希夷之旧，唯蜀之隐者，得其本真，私相授受，以为丹家之要诀，蔑叟篱翁之徒是也。故虽朱子之博洽，而必属蔡季通入蜀求之，盖即酷爱《参同契》之意。&rdquo;同书载：&ldquo;或问朱子谓希夷之学源出《参同契》，何以知之乎?曰：&ldquo;即其阴阳盛衰之数以推晦朔弦望之气而知其理有符合符节者矣。&rdquo;&ldquo;盖望夕日东月西，坎离易位，其黑中白点即是阳光；白中黑点即是阴魄，东西正对，交往于中，此二用之所以纳戊己也。举《参同》千言万语之玄妙，而括之于一图，微而著，约而眩，丹家安得不私之以为墨宝，而肯说出示人耶?&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　陈抟生于五代，至 986年羽化，张伯端生于987年，羽化于1082年，从年代来看则张出生第二年，陈抟即已谢世。但以陈抟当时声望，交游吕洞宾等仙人高士；又受周世宗宋太宗的尊礼，张伯端必已私淑，但以生不同时，未及亲灵，不过从《悟真篇》中内丹理论来看却颇受陈抟一派的影响。而陈抟传人如邵康节、周濂溪，又均同一时代，耳目所及，必有所闻。且又如清《华岳志》朱彝尊《太极图授受考》说：陈抟居华山，曾以无极图刻诸石为圜者：四位，五行，其中自下而上，初一曰&ldquo;玄牝之门；&rdquo;次二曰：&ldquo;炼精化炁；炼炁化神，&rdquo;次三曰：&ldquo;五行定位，五气朝元；&rdquo;再次曰：&ldquo;阴阳配合，取坎填离。&rdquo;最上曰&ldquo;炼杰还虛，复归无极。&rdquo;故谓之&ldquo;无极图。&rdquo;依此所记图形，实寓丹法次序，其初一系示炼丹穴位，初二至次图示炼丹进程，最上示炼丹成就。比《参同契》丹法系统较清，步骤较明，《悟真篇》即根据此图丹意将《参同契》丹诀融会贯通于书中。所以张伯端的丹法除师承参同契以外，又受陈抟影响较大。而《授受考》结尾说：&ldquo;相传抟受此图于吕岩，岩受之于钟离权，权得其说于魏伯阳。&rdquo;若按这一说，则陈与钟吕更是直接渊源了。〔25〕 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《悟真篇》绝句第十一： &ldquo;梦谒西华到九天，真人授我《指玄篇》，其中简易无多语，只是教人炼汞铅。&rdquo;这一首虽是游仙诗的体裁，但所指西华似是暗指西岳华山，是陈抟修道的地方，所授《指玄篇》，是陈抟的丹法著作，所以此诗虽托为梦游，实际暗示自己师承，词意是很明显的。清陶素耜认为此诗&ldquo;西华&rdquo;系指西华夫人，朱元育说西华指西蜀，真人指刘海蟾，均属牵强。所以我们认为这一首是他自述与陈抟的继承渊源和精神相通的关系是比较恰当的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　在《参同契》与《悟真篇》九百年之间，《先天图》及《无极图》是继魏伯阳系统推进丹法前进一大步的重要图书，不仅影响宋明理学，而且更给予张伯端丹法思想以极大启发。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　5.张伯端的直接师承 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　张伯端虽属钟吕金丹派，但从与陈抟关系来看，与吕洞宾并无直接渊源，列入钟吕系统，是门弟子等由刘海蟾关系上溯师承而尊奉为师祖的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　在陆彦孚序内谈到张的师传说： &ldquo;先公帅秦，阳平王箴在幕府，因言其兄仲熙先生学道，遇海蟾得金丹之术。冲熙谓举世道人无能达此者，独张平叔知之。&rdquo;后传说张伯端于已酉岁遇仙师，得大道，其师即系刘海蟾，与王箴所谈相符。海蟾为吕洞宾弟子，吕为钟离权弟子，则张伯端应是钟吕金丹派嫡系。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　全真教《甘水仙源录》记载锺吕传授系统是：东华帝君 &mdash;&mdash;钟离权&mdash;&mdash;吕洞宾&mdash;&mdash;刘海蟾&mdash;&mdash;张紫阳、王重阳、董凝阳 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　海蟾三大弟子称为三阳，张伯端与王重阳并列，同为吕祖传人。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　至于以后北宗鼎盛，凌驾南宗而上之，至元陈观吾提出两宗合并主张，以上师承系统又随祀典而变化，变化的祀典次序及过程拟在后章详述。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(二)所传弟子&mdash;&mdash;开来部分 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　张伯端所传弟子，有四个系统。《悟真篇后叙》说： &ldquo;伯端向已酉岁于成都遇师，传授丹法。自后三传于人，三遭祸患。忆师之所戒云：异日有与汝解缰脱锁者，当宜授之。余不许尔。&rdquo;后来伯端遭遇危难，黥窜邠州，得遇石太援助，同诣邠守，一见获免，遂遵昔日师教，传以大法。宋崇宁丙戌，僧人薛道光到郡县听讲佛事，遇石太子缝纫肆中，谈话间知道石太是张伯端的弟子，就拜师受学，传得口诀，改道装，游都市。后将大法传于陈楠，陈传白玉蟾，白传彭耜，是南宗第一系统。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　据陈达灵《紫阳真人悟真篇注疏》记载，张伯端除传石太外，还传授刘永年，刘传翁葆光，别号无名子，这是南宗第二系统。〔 26〕 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　此外有北宗宋德方三传弟子赵缘督，又得石太真传，再传于陈观吾，这是南宗第三系统。 </span></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">在以上三个系统外，还有天台紫阳派。据紫阳派自称，系北宋太宗雍熙年间 (990)由张伯端在台州府天台县流传下来的。道派世系排行留有：&ldquo;陵源觉海静，宝月性天明，随景无华谷，得符瑞黍清&rdquo;等六十个宇。但如果张伯端生于987年确实的话，则此时还是幼儿，没有创立教派的可能。或者是道众为了尊崇教祖故示神异，就将时间前移了。又按《历世真仙体道通鉴》记载，张伯端在四川陕西等地云游的时间较长，并称其得道巴蜀，传道秦陇，羽化广南，并未涉及在天台出家为道士的事情。陆彦孚所记伯端事迹中也没有提过。因此推测可能是弟子辈私淑教祖，成立教派，自行创立的。紫阳派后来并入全真教中，属于全真南宗，但以清修为主。应属于南宗第四系统。</span>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

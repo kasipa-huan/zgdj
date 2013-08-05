@@ -1,0 +1,582 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260100000000000000&targetPage=Fdjxy2">
+						道协会刊(1962—1986)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260102000000000000&targetPage=Fdjxy2">
+						第2期（1963年3月）
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	道教知识类编初集（1）
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<div style="LINE-HEIGHT: 150%" align="center"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">道教知識类編初集</span></div>
+<div style="LINE-HEIGHT: 150%" align="center"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">本会研究室</span></div>
+<div style="LINE-HEIGHT: 150%" align="center"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">編輯大意</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《道教知識类編初集》主要是为本会設立的道教徒进修班編写的一本教材。培养道教徒知識分子，这在道教历史上还是创举。因此有关道教专业课的各种教材都要临时編写，没有現成材料可以利用。本稿是根据道教徒进修班第二学年教学計划编写的，給学員讲解道教基本知識，以便他們在这个基础上循序渐进地学习其他高深的科目。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　本稿的編写，也是为道教徒提供他們应当懂得的道教常識。現有的名山、宮观大都分布在风景秀丽的地区，保存着不少历史文物。因而前去游览和訪問的国內、国外各界人士，他們希望了解道教的一般情况。对于答复来訪者的詢問，本稿也可以給各地道友一些帮助。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　本稿的編写，采用名詞、术語释义的方式，分为道教名人、教理教义、道經遗书、道派、道教神名、仙名、道术、道称、宫观和名山等十大类，叙述道教知識。如果这部稿子想做得完全，估計道教专門名詞、术語当有几千条，字数可能超出一百万，不是目前所能办到的。但是我們抱有这种願望，因此把现在已經写成的稿件作为初集，将来时間允許，二集、三集也許能够继續下去。 </span></div>
+<div style="TEXT-INDENT: 26pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">編写本稿，又是为道教研究积累一些資料。本会研究工作开始不久，对于道教史料和学术方面的許多問题尚待继續研究。这部稿子在资料的搜集上以及观点的說明上都不够完备，倘有缺点和錯誤，希望讀者随时指正。</span></div>
+<div style="TEXT-INDENT: 26pt; LINE-HEIGHT: 150%">&nbsp;</div>
+<div style="TEXT-INDENT: 26pt; LINE-HEIGHT: 150%" align="center"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">名人事略</span></div>
+<div style="TEXT-INDENT: 26pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">［茅盈］西汉，咸阳（陝西省咸阳县）人。高祖茅蒙，字初成，在东周末，拜鬼谷先生为师，隐居华山，修炼成道；曾祖茅偃，仕子泰昭王之世，有功业于当时；祖父茅嘉，仕于秦庄襄王朝，秦始皇即位，嘉屡立战功，歿后，始皇命以相国之礼葬于长安龙首山；父茅祚，志在农亩，不願出仕。(按此时已到西汉前期)。祚有子三人，长子茅盈，字叔申；次子茅固，字季伟；少子茅衷，字思和。茅盈生于汉景帝中元五年(公元前145)，自幼好道，十八岁弃家入恆山(即今山西省渾源县北岳)在山中采药为食，并讀老子道德經及周易传；二十四岁遇师，学服气法；再过二十年，又遇上仙授职妙道；四十九岁离师返家(按此时为汉武帝天汉四年，即公元前97)，父母尚存。 </span></div>
+<div style="LINE-HEIGHT: 150%">&nbsp;</div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　至汉宣帝时，二弟皆官居要职，茅固为 &ldquo;执金吾&rdquo; (官名)， </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　茅衷为西河太守。汉元帝初元五年 (公元前44)四月三日，茅盈在家中宴会宾客六百余人，次日即与亲族告別往句曲山(山在今江苏省句容县境，自茅氏弟兄于此成道后，遂改名茅山)，临行时对人言：&ldquo;真仙貴在隐跡，不宜炫耀，吾所以不默遁者，盖欲以此道劝誘二弟之追慕醒迷也&rdquo;。事后，二弟聞之，各辞官回乡里(按，茅盈于四十九岁出山回家，到此时已經过了五十三年，入茅山时当为102岁。二弟年龄当亦不小)。茅固、茅哀在家学习茅盈之遗书，久而无所得，遂决計入山寻兄，面求密訣。汉元帝永光二年三月六日渡江，見兄于东山。茅盈对二弟言： &ldquo;年老不能学昇霄大术，汝等&rsquo;将来只可作地仙&rdquo;。茅固、茅袁乃住山依法修炼，竞获成就。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　本地居民，慼三茅君之德，有詩歌为証，其詞曰：&ldquo;茅山连金陵　江湖据下流　三神乘白鵲 　各治一山头　甘雨灌早稻　击田留亦聚　妻子咸保室　使我无百忧　白鹤翔青云　何时复来遊&rdquo;。除此而外，茅蒙当日在华山成道时，民簡也有一首歌摇，《史記&middot;秦始皇本紀》： &ldquo;三十一年十二月更名腊曰嘉平&rdquo;，《集解》引《太元真人茅盈內紀》曰：&ldquo;始皇三十一年九月庚于，盈曾祖父蒙(按本传作&lsquo;高祖父蒙&rsquo;，相差一代)乃于华山之中；乘云駕龙，白日升天(这是古代传說的神話， 由来已久，故照录之)。先是其邑謠歌曰：&lsquo;神仙得者茅初成　駕龙上升入泰清　时下玄州戏赤城　继世而往在我盈　帝若学之腊嘉平&rsquo;始皇聞謠歌而問其故，父老具对，&lsquo;此仙人之謠歌，劝帝求长生之术&rsquo;。于是始皇欣然乃有寻仙之志，因改腊曰嘉平&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　按：茅氏弟兄三人与道教茅山派大有关系，他們的历史尚在张道陵以前，不能不詳为叙述。晋葛洪《神仙传》卷九虽有 &ldquo;茅君&rdquo;一篇記載，仅478字，人无名号，事无年代，不足以资考証，今只以《太元真人东岳上卿司命真君传》为根据，此传共有3，260宇左右，文章格調似是晋代人手笔。刘宋人裴駟《史記集解》所引《茅盈內紀》一段，也見于此传中，不知是一是二，孰先孰后，但可决定《內紀》出世必在《集解》以前，至晚也是东晋人的作品。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　［张道陵］(34&mdash;156年)道教的創教者。原名张陵。东汉沛国丰(今江苏省丰县)人。他通达五經，曾入太学，明帝时公元(58&mdash;75年)做过巴郡江州令，后弃官隐于江西龙虎山修道，顺帝(公元126年&mdash;144年)时和弟子前往四川鶴鳴山(一作鶴鳴山)，永和六年(公元141年)作道书二十四篇，自称&ldquo;太清玄元&rdquo;，并用符水咒法为人治病，奉其道者，须出五斗米，因此在当时称为五斗米道。传說他晚年炼丹成功，服了半剂，便昇仙而去，道教徒尊张道陵为&ldquo;天师&rdquo;，其后子孙承袭他的道法，居龙虎山，世称&ldquo;张天师&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充一)道陵字輔汉，为留侯子房(张良)八世孙，于东汉光武帝建武十年(公元34)正月十五日生于吳地天目山。七岁讀道德經二篇，十許遍而达其旨，于天文地理河洛图緯之书皆极其妙，通习坟典(凡是古书都可称为坟典)，所覽无遺。从学者千余人，天目山南三十里、西北八十望皆有讲誦之堂(东天目山在浙省临安县境，西天目山在浙省于潛县境)。后举&ldquo;賢良方正直言极諫科&ldquo;(此是汉朝选举人才的科目之名)，中之(即合格之意，清朝叫作中举)。东汉明帝永平二年(公元59)拜巴郡江州令(江州在今四川省巴县)，时年二十六岁。久之，退隐北邙山(在今河南省洛阳县境)，朝廷征为博士，不起；和帝即位，征为太傅，封冀县侯，三诏不就，时为永元四年(公元92)，遂自河洛入蜀。(以上根据南宋末赵道一所編《历世真仙体道通鑑》卷十八《张天师》，这一篇記載共有7，800宇左右，今只摘录其中与人事有关者一百几十字，神話及与上文重复者皆不录。) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充二)陵与弟子入蜀， 住鵠鳴山，得正一盟威之道，能治病，百姓奉之为师；弟子户至数万，即立祭酒(古代社会上一般年高有德、为众所尊敬者，都叫作祭酒，这不是道教中专用的名詞)，分領其戶，有如官长；并立条制(規条制度)，使諸弟子随事輪出米绢器物紙笔樵薪等；領人修复道路，不修复者，皆使疾病。陵又欲以廉廉洁治人，不喜施刑罰，使有疾病者替疏記生身以来所犯之罪，乃手书投水中，与神明共盟约，不得复犯法，当以身死为约；从此以后，所违犯者皆改为善矣。(以上根据晋葛珙《神仙传》卷四《张道陵》。原传共1，300字左右，神話及与前两段重复者皆不录。) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充三)张道陵精思西山，太上亲降，汉安元年(公元142)五月一日授以&ldquo;三天正法&rdquo;，命为天师，又授&ldquo;正一科术要道法文&rdquo;。其年七月七日又授&ldquo;正一盟威妙經&rdquo;重为三天法师正一真人(見《云笈七签》卷六)。又，太上以汉安二年(公元143)正月七日中时，下二十四治：上八治，中八治，下八治，以付天师张道陵奉行布化(見《云笈七签》卷二十八)。按&ldquo;二十四治&rdquo;就是在各处分設二十四个行道布化的机构，所以后世又叫作二十四化。那些地点都在山中，不在城市，大多数是在蜀汉境內。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　张道陵住世一百二十三岁，于东汉桓帝永寿二年仙去 (公元156)。道法子孙相传，至今已有六十三代。 (按，张天师的年龄，各种遗书及四川省志、徐州府志所記载皆同，大概不会錯誤。惟原本有&ldquo;乘駕龙車，白日昇天&rdquo;之說，荒誕无稽，故改用&ldquo;仙去&rdquo;二字。) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　［魏伯阳］(生卒年不詳)东汉炼丹术家。会稽上虞(今浙江上虞县)人。传說他曾和弟子三人入山炼丹，丹成，为了考驗弟子，自己首先服丹而死，另一弟子服丹也死，其余二人不敢服丹，即便出山。二人去后，他和已死的那个弟子便起而仙去。他著有《参同契》三卷，假借周易爻象以論作丹之意，为后世学道者所崇。 (說見葛洪《神仙传》。) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《神仙传》原文是 &ldquo;伯阳作参同契五行相类凡三卷。&rdquo;今考《参同契》书中只有&ldquo;三相类&rdquo;之說，彭晓注本又有&ldquo;五位相得而各有合&rdquo;一种表解，但皆非魏伯阳所作的书名。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充一)真人魏伯阳不知师授誰氏，得古文龙虎經，尽获妙旨，乃約周易撰参同契三篇，演丹經之玄奥，密示青州徐从事，徐乃隐名而註之。至后汉孝桓帝时，公复传授与同郡淳于叔通，遂行于世。 (說見五代时彭晓所作《周易参同契通真义序》。) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充二)浙省上虞县西南二里有金壘山，上有道观，即魏伯阳故宅，西晋太康年间，得金壘于井(壘音雷，装酒的器具)遂名为金壘观。 《上虞县志》：金壘山高数丈，魏真人选胜修炼，著《参同契》于此；旁有丹井，井竇上九下一。又云：县南十里許，有百樓山，迭嶂重巒，山半平广数十亩，魏公亦會卜居。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　［于吉］后汉琅邪(今山东临沂北)人，一作干吉，或作干室。相传他在曲阳泉水上得神书，衍成一百七十卷，名《太平青领书》 (一称《太平經》)。汉順帝时(公元126&mdash;144年)，他的弟子琅邪人宫崇，曾进献此书于朝廷，不合统治者的心理，遂禁止流通。后来张角获得此书，奉行其道。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　一說，三国时，于吉往来江东吳地，烧香讀道书，用符水为人治病，时人多崇奉他，孙策忌而杀之，事在东汉建安五年 (公元200)。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充一)于吉遭难时的情况，在《三国志&middot;孙策传》裴注所引《江麦传》、《志林》、《搜神記》各书中哉得很詳细，&ldquo;道协会刊&rdquo;第一期71至75頁已經轉載，可供参考，故不重述。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充二)凡与道教有关的各书，如《太平經复文序》、《神仙传》、 《洞仙传》、《犹龙传》、《历世真仙体道通鑑》和別种道书，都把&ldquo;于吉&rdquo;写成&ldquo;干吉&rdquo;，而得《太平經》这件事，則大概相同。《洞仙传》是隋唐以前的作品，也說&ldquo;干吉&rdquo;被孙策所杀，《体道通鑑。千吉传》亦同此說，但以&ldquo;兵解&rdquo;：二字聊为掩饰。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(考証)琅邪这个地名尚有問题。考《前汉书&middot;地理志》，琅邪郡包括五十一个县，其中有一个县也叫琅邪；《后汉书&middot;郡国志》，琅邪国包括十三个城，其中有一个城也叫琅邪。琅邪若是指一县或一城而言，就是今山东省諸城县东南一带近海处，該地因海边有琅邪台而得名；若是指一郡而言，范围就广了，但琅邪郡虽统轄五十一县，其首县各东武，仍在今山东省諸城县境；若是指一国言，其都城名开阳，在令山东省临沂县境。琅邪一作瑯琊。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　［左慈］(生卒年不详)东汉末方士。字元放，庐江(今安徽省潜山县城)人。曹操招致方士，左慈与甘始、卻俭皆至魏国，并为軍吏(事見《三国志&middot;魏志&middot;华陀传注》引文帝《典論》及东阿王《擗道論》)。某日，曹操宴会宾客，想吃吳松江鱸魚，左慈便以銅盘貯水，用竹竿于盘中钓出一鮮鱸魚；操嫌魚少不足以供客食，更釣，又得一条，座客皆大惊异(事見《后汉书&middot;左慈传》)。他常以幻术戏弄曹操，操屡欲杀之，皆不得逞。继而，他又往荆州謁刘表，复到江东見孙策，二人都恶其幻术惑众，但无法加害。最后入霍山炼九轉丹，遂乃仙去。(以上节录葛洪《神仙传》) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　葛洪的从祖葛玄，由左慈处得受&ldquo;太清、九鼎、金液&rdquo;三种丹经(見《抱朴子內篇》卷四)。左慈亦善于辟谷，曹操欲試其术，令断谷食将一月，而颜色不衰(見《抱朴子內篇》卷二所引陈思王《释疑論》)。 (附注：陈思王即曹丕之弟曹植，字子建，为三国时代的大文学家，初封东阿王，后改封陈王，歿后谥曰思，世人又称他为陈思王。) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　［葛玄］字孝先，三国时句容(今江苏省句容县)人。生于东汉桓帝延熹七年(公元164)，幼而好学，十三岁博通古今，十五六岁名振江左(指扬子江下游地方)。性喜老庄之道，不願仕进，遇左元放(左慈)授以九丹金液仙經及炼炁保形之术，入天台山修炼(山在浙东天台县境)。年十八九于仙道已有所得，逢周旋于括苍(群山总名，在浙东仙居、縉云一带)、南岳(即衡山，在湖南省衡山县境)，罗浮(在广东省博罗、增城二县境)諸山，寻求炼丹之地后由玉笥(山在江西省峽山县)至閤皂(山在江西省清江县境)，认为此处最佳，即于此建立灵宝法坛。当时吳主孙权及太子孙登皆仰慕其名，待以客礼，从之问道，故尝往来吳国都会。嘉禾二年(孙权的年号，公元233)正月辞太子出京，往閤皂东峰建臥云庵，筑坛立灶，謝绝人事，专炼九轉金丹，三年丹成。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　他已往数十年，凡住过二十二处名山修炼，皆未見功效，惟于閤皂方得成就，因此感慨而作流珠歌云： &ldquo;流珠流珠，役我形躯，奔驰四海，历览群书，披寻不悟，情思若愚，焚遍金石，烧竭汞珠，钱财荡尽，拊膝长吁。吾年六十，功效躊躇，賴师指授，元气虚无，窈冥中起，恍惚中居，真阴真阳，一吸一呼；先存金鼎，次认玉炉，离火激海，坎水升虚，玉液灌溉，洞房流酥。天机真露，万类难如。真人度人，要大丈夫。天长地久，同看仙都。念茲在茲，语吾记吾&rdquo;吳赤烏七年(公元244)八月十五日午时仙去，世寿八十一岁。道教中尊称为&ldquo;太极左仙公&rdquo;，北宋徽宗崇宁三年(公元1104)封为&ldquo;冲应真人&rdquo;，南宋理宗淳祐六年(公元1246)加封为&ldquo;冲应浮佑真君&rdquo;。弟子中有张泰、孔龙、郑思远、释道微等，晋抱朴子葛洪是其侄孙。(原传共計7，700余字，所有一切神話及道教經懺符箓等事，又五言詩三首，皆一概不录。) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　［許逊］晋代道土。宇敬之，汝南(今河南汝南县)人，家住南昌。他二十岁时学道于吳猛，后举孝廉，拜为旌阳县（今湖北枝江县北）令。后弃宫东归，周游江湖，以道术为民除害。传說东晋宁康二年(公元374年)在南昌西山，举家四十二口拔宅飞升。宋代封为&ldquo;神功妙济真君&rdquo;。世称許真君或許旌阳。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充)生于三国时吳大帝赤烏二年(公元239)。少时从人打猎，射中一母鹿，鹿胎堕地，母鹿犹舐其子，不久而死，許愴然感悟，即折弃弓矢，永不打猎。因立志向学，博通經史，尤嗜道术。聞豫章(南昌)吳猛得丁义神方，乃往师之，尽传其秘。后訪名山栖真之所，得逍遙山金氏宅，遂徙居之(原注：今逍遥福地玉隆万寿宫是也)。曰以修炼为事，不求显达。尝买一铁灯檠（即灯架），发現黑漆剝落处露出真金，次日即送还原售王，乡里昔仰慕其高风。朝廷屡加礼命，不得已于西晋太康元年(公元280)任蜀郡(郡字宜刪去)旌阳县令，时年四十二岁。就职后，去貪鄙，除烦細(即废除烦扰百姓的瑣碎规条)，脫囚累(即开脫无罪受累之囚犯)，吏民悦服，咸願自新。凡听誣必先教以忠孝慈仁勤俭之道，具載文件，言之甚詳。又恐路远者难以家喻户蹺，因择平素有德望之耆老，使其劝化，故爭誣之风日銷，竟至于无讼。邻县流民慕其治績，咸来依附，境內戶口日見增多。后知晋室将乱，乃辞官东归，启程时，送者蔽野(言送行的人太多，郊野都布满了)，有随至其家願为服役而不返者。乃于宅东隙地結茭以居(茭是干草，謂結草为屋以佳人)，状如营垒，多将自己原姓改姓許，故号許家营。其在蜀者感恩怀德，则立生祠画像，奉之如神明，遗爱深入人心如此。及东晋乱离，江左頻遭災祸，惟許所居周围百余里甚平安。至孝武宁康二年(公元374)八月一日上升，世寿一百三十六岁。 (原传共6，300字，今只摘录人間事实，所有神話如鎮蛟斩蛇、行符咒永、拔宅飞升等类，一概不录)。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(考証)《晋书&middot;地理志》蜀郡轄六个县，其中无旌阳县；南郡轄十一个县，旌阳县亦在其內。但晋时南郡屬于荆州，即今湖北省境，不是四川省，《历世真仙体道通鑑&middot;許真君传》为什么称&ldquo;蜀郡旌阳县&rdquo;，而他书又称&ldquo;蜀旌阳县&rdquo;？因为在三国时，南郡划归刘备所管，算是蜀国境界之內，一般文人习惯，喜用旧地名，所以仍旧称&ldquo;蜀旌阳县&rdquo;，轉了几手以后，又加上一个&ldquo;郡&rdquo;字，遂称&ldquo;蜀郡旌阳县&rdquo;。另有一說， &ldquo;旌阳县属汉州，后詔改为德阳县以表真君之德及民也&rdquo;。按《后汉书&middot;郡国志》，广汉郡原有德阳，故《晋书&middot;地理志》广汉郡亦有德阳，可見晋代的德阳县名是沿用汉代的旧名，不是新改的。旌阳改为德阳之說，見于《許真君传》弃官东归&rdquo;句下小注中，不知何据? </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">［葛洪］东晋道教理論家、医学家。字稚川，自号抱朴子。丹阳句容人，葛玄的姪孙。少好神仙导养之法，从葛玄的弟子郑隐受炼丹术，又博覽群书，精通医学。司馬睿为丞相，用为掾，后任谘議、参軍等职。因以往有軍功，賜爵关內侯。咸和初（公元326年），被召为散骑常侍兼大著作的官职，他固辞不就，一心想去炼丹，聞交趾出产丹砂，求为勾漏(今广西北流县)令。携子侄經过广州，为广州刺吏邓岳欵留他住罗浮山，从事著书和炼丹生活，后来就在山尸解。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充)《晉书卷七十二&middot;葛洪传》：&ldquo;洪少好学，家貧，躬自伐薪以貿紙笔(即亲自砍柴卖给人家以换取紙笔等物)，夜輒写布誦习(夜間常常抄书誦讀和温习)，性寡欲，无所爱玩，为人木讷(木是朴实，訥是不会花言巧語)，不好荣利。后师事南海太守鮑玄(即鮑靓，字太玄)，玄以女妻洪(道书上称为鮑姑)。洪博聞深洽(謂葛洪所学极博，又能深入理解)，江左绝伦(江东一带社地方无人能够及他)，著述篇章，富于班馬(他写作的书籍文章比汉朝的班固、司馬迁还要丰富)&rdquo;。据《晉书&middot;葛洪传》及《抱朴子&middot;自序》将他的著述名目和卷数列举如下：抱朴子內篇二十卷，抱朴子外篇五十卷，神仙传、隐逸传、良吏传、集异传各十卷，移檄章表三十卷，碑誅詩賦一百卷，金匱药方一百卷，抄經史百家言三百一十卷，肘后备急方四卷，以上共計六百五十四卷；此外尚有抱朴子养生論，大丹問答，葛洪枕中記，稚川真人較証术，抱朴子神仙金汋經，葛稚川金木万灵論，各篇皆見于道藏中。本传又言，葛洪在罗浮山与广州刺史邓嶽书云， &ldquo;当远行寻师，克期便发&rdquo;，嶽得信，急赶到山中，而洪巳坐化，遂不及見。时年八十一岁。(按：葛洪生歿年月无考，是否八十一岁，也有問题。) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　［寇谦之］(365&mdash;448年)南北朝时代北魏著名道士。字辅真，上谷平昌人。南雍州刺使寇讚胞弟。早年好道，&ldquo;学张魯之术，經年没有見效。后来他从仙人成公兴入嵩山修道七年，到神瑞二年(公元415年)十月，託言太上老君从天下降，授他&ldquo;天师&ldquo;之位，并赐以《云中音誦新科之誡》二十卷，令他依此改革&ldquo;三张&rdquo; 伪法，又传授他导引、服气的口訣。泰常八年(423年)又有老子的玄孙李譜文传授他录图真經和劾召鬼神等法，并囑他輔佐北方的太平真君云云。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　始光元年 (424年)，他献道法于北魏太武帝，得宰相崔浩之助，太武帝詔請他入朝，在魏都平城(今山西省大同县)东，建立天师道场，称为新天师道。魏太武帝到坛前受符錄，自称为&ldquo;太平真君&rdquo;并改元为&ldquo;太平真君元年&rdquo;。从此北魏各朝皇帝即位，照例都要往道坛行受符錄的仪式，而道教在北魏也一直受到崇奉和利用。太平真君九年(公元448)五月，寇謙之羽化，年八十四。(詳見《魏书&middot;释老志》) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(考証)宋賈善翔《寇天师传》和赵道一《历世真仙体道通鑑寇谦之传》皆說謙之是&ldquo;上谷平昌人&rdquo;。今考《前汉书&middot;地理寇谦之传 &middot;志》上谷郡只有昌平县，但无平昌县；《后汉书&middot;郡国志》上谷郡无昌平县；亦无平昌县； 《魏书&middot;地形志》上谷郡亦无平昌县，另有两个平昌郡，九个平昌县，昔与上谷郡无关。以上二传所謂&ldquo;上谷平昌人 &rdquo;，地名恐有錯誤。关于&ldquo;寇謙之&rdquo;記载，最早的要算《魏书&middot;释老志》，仅言他是南雍州刺史寇讚之弟，但未言是何处人。查《魏书卷四十二&middot;寇讚传》，只說寇讚&ldquo;上谷人&rdquo;，再查《北史卷十七&middot;寇讚传》，亦同此說，皆无&ldquo;平昌&rdquo;二字。考西汉上谷郡所轄十五县，其中有&ldquo;昌平、居庸、軍都、涿鹿&rdquo;四县，皆在今北京布的西北部，疑所謂上谷&ldquo;平昌&rdquo;者，即上谷郡 &ldquo;昌平&rdquo;县之誤。若不言县只言郡，西汉上谷郡治在&ldquo;沮阳&rdquo;，就是今日北京市区以外西面的&ldquo;怀来&rdquo;县境界。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　以上郡县古今地名考証，对于寇謙之虽无关重要，但在历史研究工作上我們是应該这样做的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">［修静］（406&mdash;477）年，南朝刘宋著名道士。字元德，吳兴东迁（今浙江省吴兴县东）人。元嘉末（公元453年），在京都卖药，文帝命左僕射徐湛宣詔他，他固辞而去；后南游庐山，在瀑布岩結庐幽棲。泰始三年(公元467年)，宋明帝令江州刺史請他入京問道，并于北郊天印山建造一座崇虚館款待他。此时他广集道经，加以整理甄別，鉴定其中經誡、方药、符錄等一千二百二十八卷。分为三洞，奠定了《道藏》的初步基础。撰《三洞經书目录》，为最古的一部道藏目录。又編著道教斋戒仪范等书一百余卷，道教仪式因此完成。他在京羽化，由弟子奉葬于庐山。刘宋王朝下詔以他的庐山故居为簡寂观，谥簡寂先生。宋徽宗宣和间，封为丹元真人。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(考証) 按《云笈七签》及《历世真仙体道通鑑》昔言陆修靜歿于刘宋元徽五年(公元477)，寿七十二岁。据此推算，应該生于东晋义熙二年(公元406)。但自唐宋以来相传庐山故事，謂释慧运送客，照例不过虎溪，有一日迭陶渊明、陆修靜出来，在路上談得很契合，竟把旧例忘記了，不知不觉的走过这条溪，三人相与大笑。因此后代画家遂有虎溪三笑图，描摹一僧一道一俗忘形之交的风趣。这个故事如果是真，也很有意味，可惜是后人捏造的。今考慧远歿于东晋义熙十二年(公元416)，寿八十三，而陆修靜此时刚十一岁，断不能与老和尚做朋友。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　［陶弘景］ (456&mdash;536年)南朝齐、梁时的道教学者、医学家、药物学家。字通明，自号华阳隐居，又称貞白先生，丹阳秣陵人。生于南北朝时期宋孝建三年（公元456年），歿于梁武帝大同二年(公元536)，享年八十一岁。他的一生，經历了南朝的宋、齐、梁三个朝代。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　他曾从陆修靜的弟子孙遊岳学道家符图經法。二十岁以前，任南齐諸王侍讀。仕齐拜左卫殿中将軍，后来历遊名山，寻訪真逸，于阴阳、五行、风角、星算、山川、方物、医术、本草等无不通晓。后隐居句容句曲山 (即茅山)，从事丹道，并勤于著述。梁武席时，礼聘不出，但朝廷人事多向他諮請，时人称为&ldquo;山中宰相&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　他的思想脱胎于老庄哲学和葛洪的神仙道教，井杂有五行家和佛教观点。对历算、地理、医学等都作过一定的研究。會整理《神农本草經》，增加新药和当时的化学药物，写成《本草經集注》(現存燉煌残本)，后世編纂本草书籍者，都据为蓝本。此外，他造有渾天象，著有《真誥》、《真灵位业图》、《登真隐訣》、《药总訣&gt;等书，共計二百余卷。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(考証) 陶弘景一生經历过三个武帝。从一岁王九岁，是南朝刘宋孝武帝时代，到二十四岁(公元479)宋亡。二十五岁后，仕于南齐；三十七岁时，脫朝服挂于神虎門(一作神武門)，辞官归隐，是南齐武帝永明十年壬申岁(公元492)。他往各处名山洞府寻师訪友，搜集道书，昔三十七岁以前之事。梁武帝即位，是天监元年(公元502)，此时陶弘景已四十七岁，他入山已有十年了；在梁朝又經过三十五年，始终没有做官，于梁武帝大同二年（公元536）三月十二日去世。他去世后十三年，梁武帝才被侯景困死于台城。研究陶弘景历史，若不把这三个武帝分析清楚，恐难兔錯誤。当时所以称为&ldquo;山中宰相&rdquo;者，因他以山林隐士的身分，受朝廷特別知遇，向来少有，使人人羡慕不置，故送他一个清高而又名貴的头街；并非真在山中做梁朝的宰相。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充)弘景一生虽历宋、齐、梁三朝，只在齐朝任过閑散官职，如&ldquo;振武将軍&rdquo;&ldquo;左卫殿中将軍&rdquo;&ldquo;奉朝請&rdquo;等名目，都是虛衔，实际做的是諸王&ldquo;侍讀，即是教王子讀书兼管一切文墨事件，他做得厌倦了，故决意辞官，入山修道。在廿九、三十、三十一岁这三年中早已拜孙遂岳为师，算是陆修静再传弟子，陆的著作虽多，全副精力专用在闡揚道教，而陶則博覽兼通，无所不备，如萧綸所撰碑文說： &ldquo;淮南鴻宝之訣(淮南王刘安有鴻宝苑秘书，言神仙事)，隴西地动之仪(汉张衡发明地动仪器，能測知隴西地震)，太乙遁甲之书(太乙九宮和奇門遁甲)，九章历象之术(天文算术)，幼安銀鉤之敏（晋索靖，字幼安，善书法，笔画如銀鉤），允南风角之妙(风角即候八力之风占吉凶，允南不知何人)，太仓素問之方(汉淳于意，为太仓令，精医术)，中散琴操之法(晋康，为中散大夫，善弹琴)，咸悉搜求，莫不精詣；羿射、苟棋、苏卜、管筮，一見便晓，皆不用心；张华之博物(晋张华撰博物志)，馬鈞之巧思(三国时馬鈞有巧思，曾发明翻車，后世叫作水車)，刘向之知微(知微即知机。刘向預知王氏代汉，弘景亦预知梁武帝太清三年之事)，葛洪之养性(弘景仙学是葛洪一派)，兼此数賢，一人而已&rdquo;。这些話都符合事实，并不夸张。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《梁书卷五十六&middot; 侯景传》：&ldquo;先是丹阳陶弘景隐于华阳山，博学多識，尝为詩曰：&lsquo;夷甫（晋，王衍）任散誕，平叔（魏，何晏)坐談空，不意昭阳殿，化作单于宮。大同(535&mdash;545)末，人士竞談玄理，不习武事，至是侯景果居昭阳殿&rdquo;。《南史卷七十六&middot;陶弘景传》：&ldquo;弘景妙解术数，逆知梁祚复没，預制詩云（詩同上)，秘在箧里，化后(即羽化)，门人方稍出之&rdquo;。《南史》又云：&ldquo;帝使造年历，至己巳岁而加朱点，实太清三年也(梁武帝死于是年)&rdquo;</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《南史》云： &ldquo;父为妾所害，弘景终身不娶。&rdquo;《华阳陶隐居內传》亦云： &ldquo;先生既冠，而不肯婚。盖一生不邇于声色也&rdquo;。关于年齡一事，萧綸所撰碑文言，&ldquo;春秋八十有一&rdquo;是对的； 《南史》、 《梁书》及《历世真仙体道通鑑》昔云，&ldquo;卒时年八十五&rdquo;，这个数字显然錯誤。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《正統道藏》 &ldquo;腾&rdquo;字号有《真灵位业图》，&ldquo;临&rdquo;字号有《养性延命录》，大家都认为是陶弘景所作，但他的侄子陶翔撰《华阳隐居先生本起录》中并无这两种书名，我們不敢相信是弘景自己的手笔。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　［孙思邈］（?一68）年；唐代道教学，医学家。华原（今陝西省耀县东南）人。通老庄百家之說，擅长阴阳推步，尤精于医学。他长期居于终南山和太白山，曾和高僧道宣友善。隋文帝、唐太宗、高宗都爭請他出去做官，他一概固辞不就，而願山居著述，并为群众治病。后人尊称他为药王。宋徽宗崇宁二年(公元1103年)追封他为妙应真人。著作有《千金要方、千金翼方、摄生論、福寿论、保生銘、存神炼气銘、摄养枕中方》等书行世。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　（补充）节录《旧唐书卷一百九十七&middot; 方技&middot;思邈传》：&ldquo;七岁就学，日誦千余言，洛州总管（官名）独孤信(人名)見而叹曰， &lsquo;此圣童也，但恨其器大难为用也&rsquo;。周宣帝时（在位仅一年，公元578），思邈以王室多故，隐居太白山。（在陝西省眉县，最高处4113公尺）隋文帝輔政(隋文帝即楊坚，当时为北周宰相、后篡位称帝)，乃征为国子博士（官名，其职务等于今日大学教授），称疾不起（託辞有病，不就职）。尝謂所亲曰，&lsquo;过五十年当有圣人出（此是預言，暗指唐太宗），吾方助之以济人&rsquo;。及太宗即位（貞观元年公元627）， 召詣京师，嗟其容色甚少，謂曰，&lsquo;故知有道者誠可尊重&rsquo;。将授以爵位，固辞不受。显庆四年（公元659）高宗召見，拜諫議大夫（官名），又固辞不受。上元元年（公元674）辞疾請归（自言有病要回山），特賜良馬及鄱阳公主邑司以居焉（高宗不許他久住山里，故把旧日的公主府第賜给他住）。&hellip;&hellip;思邈自云&lsquo;开皇辛酉岁生&rsquo;，至今年九十三矣（按，隋开皇二十年是年是庚申，即公元600年：次年改仁寿元年，才是辛酉，即公元601年。原文所谓年九十三，不知算到何年为止？尽量的算到他临终那一年永淳元年，即公元682，也不过八十三岁，这显然是錯誤的）。詢之乡里，咸云数百岁人(这也不合实际，未免虚夸)，話周齐間事，历历如眼見，以此参之，不啻百岁人矣(这句話丈觉僦侗)。&hellip;&hellip;太子詹事(官名)卢芥卿，童幼时請問人伦之事(問自己将来的前途如何)，思邈曰，&lsquo;汝后五十年，位登方伯(州长)，吾孙当为屬吏(我的孙子应在你手下做一个小官)，可自保也(你須要自己保重)。后齐卿为徐州刺史，思邈孙溥，果为徐州萧县丞(丞是官名，位在县令之次)。思邈初謂齐卿之时，溥犹未生(思邈当初对齐卿說那番話的时候，溥尚未出世)，而預知其車，凡諸异迹，多此类也。永淳元年（公元682)卒&rdquo;。《新唐书卷一百九十六&middot;隐逸》，也有《孙思邈传》，內容此旧传大致相同，但較为簡略。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(考証)孙思邀卒于唐高宗永淳元年， 《新唐书》和《旧唐书》所记载是一致的，《历世真仙体道通鑑》卷二十九《孙思邈传》言， &ldquo;永徽三年(公元652)二月十五日解化，年百有余岁&rdquo;，比永淳早三十年，与正史記載不合，今只以新、旧唐书为凭。惟思邈生于何年，各书昔未言及，关于他的确实年龄尚有問题。 《旧唐书》虽記載&ldquo;思邈自云，开皇辛酉岁生&rdquo;，柰事实上有矛盾；开皇是隋文帝年号，辛酉是开皇二十年的后一年(公元801)，如果真是这年生的，算到唐太宗即位时（貞观元年，公元627），只有二十七岁，为什么《新唐书》说他&ldquo;年以老而听视聪瞭，帝歎曰，&lsquo;有道者&rsquo;欲官之，不受&rdquo;？《旧唐书》也说，太宗&ldquo;嗟其容色甚少&rdquo;，假使是二十七岁的人，容色甚少，何足为奇。况且他在隋朝以前早已隐居太白山了；隋文帝当初在北周輔政，尚未称帝时，就要請他出来做官了，&ldquo;开皇辛酉岁生&rdquo;这句話如何讲得通呢？ </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　經过种种考証，現在敢断定他說的那句話是半真半假， &ldquo;辛酉&rdquo;是真的，&ldquo;开皇&rdquo;是假的。所謂&ldquo;辛酉&rdquo;是西魏文帝大统七年之辛酉，即公元541年；何以知道?因为独孤信會贊美他是圣童。考独孤信在公元557年被宇文护所逼死，思邈与独孤信相見，必是557年以前之事，从公元541年他出生时算起，到二人相見时，他不过十几岁，所以独孤信称他为童；再从541年算到北周宣帝时（公元578），他已有三十八岁，正是宜于在山中过隐士生活的年龄，若是青少年，未必会隐居山中；隋文帝楊坚在北周輔政时、想靖他出山叫博士，也适合时宜，若年紀太輕，恐不足以名震权贵；他于北周宣帝时对人說， &ldquo;过五十年当有圣人出&rdquo;，从周宣帝（公元578）算到唐太宗即位（公元627），正是五十年；此时他的年龄已有八十七岁（从541至627）所以《旧唐书》云&ldquo;嗟其容色甚少&rdquo;，《新唐书》云&ldquo;年以老而听视聪瞭&rdquo;。以上凡史家所记载的事实都能够讲得通，故可断定他是生于公元541年辛酉岁。从541年算到永淳元年（682）可知孙思邈真年龄为一百四十二岁。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　編者按：孙思邀固然是道教名人，也是古今医学界中杰出之士，他的著作大部分收在《正統道藏》內，《千金方》是唐代医书第一流著作，并且流传到海外，今日研究中医者仍視为要典。关于他的年龄一事，向来就没有弄清楚，九十余岁，百余岁，一百数十岁，数百岁，史书及道书所言极不一致，可謂遗憾；幸而《旧唐书》尚有&ldquo;思邈自云，开皇辛酉岁生&rdquo;这句話，才能算出他的确实年龄。《新唐书》因这句話与他已往事迹不符，就把它刪除了，不知他所說的話是半假半真，这个 &ldquo;辛酉&rdquo;不对，再往上推六十年换一个&ldquo;辛酉&rdquo;就对了。为什么他要說开皇年間生?因为唐高宗不許他回山，定要留他住在都城里，大众若知他年龄甚高，慕名来訪者必多，苦于应接不暇，故少說几十年，以免惊世駭俗；为什么指明&ldquo;辛酉&rdquo;?因为他要使后来人有线索可寻，假使他当日不說&ldquo;辛酉&rdquo;，只說开皇某年生，我們到今天还算不止他究竟是多少岁数。現在可以确定，不是这个&ldquo;辛酉&rdquo;，必是上一个&ldquo;辛酉&rdquo;。王于他歿的年岁，南唐沈汾《續仙传》和宋末元初赵道一《历世真仙体道通鑑》皆說是唐高宗永徽三年(公元654)，又与新、旧《唐书》相矛盾。《旧唐书》上說，&ldquo;显庆四年(公元659)，高宗召見，拜諫议大夫，又固辞不受；上元元年(公元674)辞疾請归，特賜良馬及鄱阳公主邑司以居焉。&rdquo;《新唐书》亦同此說。这都是永徽三年以后的事，如果他已經死了，这些話便无着落，所以我們只承认永淳元年，而不相信永徽三年。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　［司馬承禎］（647&mdash;735年）唐代著名道士。河内温（今河南省温县）人，字子微，号白云子，从嵩山道士潘师正受传符箓和辟谷导引服饵的方术，住居天台山。武后、睿宗、玄宗多次召见他，玄宗并从他亲受法錄，請他居王屋山阳台观。又命他以三种字体书写老子經刊正文句。歿后詮号为&ldquo;貞一先生&rdquo;。所著有《天隐子》、《服气精义論》、 《坐忘論》、《道体論》等，皆見于道藏中。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充) 南唐沈汾《續仙传&middot;司馬承禎传》：&ldquo;卢藏用早隐終南山，后登朝，居要官，見承禎将还天台，藏用指終南山曰，&lsquo;此中大有佳处，何必天台&rsquo;。承禎徐对曰，&lsquo;以僕所观，乃仕途主捷径耳&rsquo;。藏用有慚色&rdquo;。(今查《唐书&middot;司馬承禎传》中无二人对話，惟《卢藏用传》中有之。因此后世文章家遂借 &ldquo;终南捷径&rdquo;这句話以諷刺人們利用机会而取得进身之阶者)。其余事跡散見各家传記中，不能备录。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(考証) 《新唐书》、《旧唐书》、《續仙传》、《历世真仙体道通鑑》这四种书皆言&ldquo;年八十九&rdquo;，但并无生卒年月，惟《衡岳志》和《茅山志》言&ldquo;开元二十三年卒&rdquo;（公元735)。按八十九岁推算，当生于唐太宗貞观二十一年(公元647)。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　［杜光庭］ (850一933)唐代道士。括蒼人，一說縉云人，字宾圣，号东瀛子。他原习經史，工于詞章，唐懿宗設万言科，他投考未中，入天台山为道士，僖宗时，召他充麟德殿文章应制。后随僖宗避难至蜀，遂久留成都不返。王建据蜀时，賜号为广成先生，进户部侍郎。终老青城山。所著有《常清靜經注》、《道德真經广圣义》、《道門科范大全集》、《洞天福地記》、《广成集》等。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(补充)光庭尝謂&ldquo;道法科教，自汉天师及陆修靜撰集以来，岁月绵邈(时間久远)，几将废墜，&rdquo;遂考真伪，条例始末(此二句意謂，辨別真假，定出条例，首尾依次說明)；郑畋荐其文于朝，僖宗召見，賜以紫服象簡，为道門領袖，当时推为扶宗立教，海內一人。中和初(公元881)，从僖宗入蜀(因黃巢攻破长安之故)，遂在青城山白云溪結茅而居。唐昭宗大顺二年(公元891)西川节度使(地方官最有权威者，等于清朝的总督)王建据成都，后十二年(公元903)封蜀王，再后四年(公元907)朱全忠篡位，唐亡梁兴，王建遂在蜀称帝，聘光庭为皇子师，并謂之曰，&ldquo;昔汉有四皓(即商山四皓，是汉高祖时代四个年老的隐士)，不如吾一先生足矣&rdquo;。光庭不乐居宮中，乃荐許寂、徐簡夫自代。 王建治蜀初，用张格为相，大小事每令咨稟(一切政务，王建每令张格請教于杜光庭)，蜀相徐光溥，志学之年(十五岁时)亦會执弟子礼，盖光庭非止善辞藻(辞藻即詩賦文章和道教青詞等类)，实有經济之才。王建死，其子王衍袭位，尊光庭为传真天师兼崇真館大学士。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(考証)光庭生于唐宣宗大中四年(公元850)，二十四岁以前试科举不中，遂入天台山为道士(山在今浙江省天台县境，距离他的家乡不远)，其师应夷节乃陶弘景第七代弟子，光庭算是第八代。他随唐僖宗入蜀时，年已三十二岁；王建霸蜀，是唐昭宗大順二年，他已四十二岁；王建称帝时，他已五十八岁；后唐起兵灭蜀，王衍投降，前蜀告終，孟知祥为西川节度使时(公元925)，他已七十六岁；孟知祥霸蜀时（公元933），他已八十四岁，遂于本年十一月羽化；次年(公元934)孟知祥称帝，是为后蜀，杜光庭已不在世間了。总的說来，他前半生与唐朝有关系，后半生与&ldquo;前蜀&rdquo;关系最深，&ldquo;后蜀&rdquo;可謂与他无緣。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《正統道藏》內有杜光庭的作品十五种：道德真經广圣义五十卷、常清靜經註一卷、 录异記四卷、 神仙感遇記五卷、 道教灵驗記十五卷 、天坛王屋山圣迹記、 洞天福地岳瀆名山記一卷、 塘城集仙录六卷、 广成集十七卷、 道門科范大全集八十七卷、此外关于&ldquo;道仪&rdquo;等类的书尚有五种， 連上十种共計一百九十卷左右。</span></div>
+<div style="LINE-HEIGHT: 150%">&nbsp;</div>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

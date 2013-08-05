@@ -1,0 +1,534 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260400000000000000&targetPage=Fdjxy2">
+						中国道教(2004—2010)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260401000000000000&perPageNum=15&targetPage=Fdjxy3">
+						2004年第1期 
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	论炼度仪（史孝君） 
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p class="style7 unnamed1" align="center"><strong>史孝君 </strong></p>
+<p class="unnamed1" align="left">　　在当今乃至历代道教缤纷多彩的斋醮仪式之中，炼度科仪一直是极具代表性的仪式之一，炼度科仪的历史悠久，传承绵远，流布广泛。道教徒不分宗派和地域，代代演习不衰。究其原因，在于其内涵着丰富的道教教理教义思想，宗教功能齐全，而且场面浩大，音乐优美，能满足一般信徒的信仰需求，因此，深受信徒的喜欢。无论是在普通黄?道场中，还是在罗天大醮等大型斋醮道场中，炼度仪一般总是作为&ldquo;压轴戏&rdquo;，为整个斋仪的结束，划上一个圆满的句号。对于炼度仪的研究，将有助于我们对道教教义思想和道教科仪等多方面的认识。 </p>
+<p class="unnamed1" align="center"><strong>炼度科仪的形成和发展 </strong></p>
+<p class="unnamed1" align="left">　　自古以来，道教中人一般认为炼度科仪始于被称之为&ldquo;祭炼教主、太极左宫仙翁&rdquo;的葛玄。元代至乐道人徐善政在《太极祭炼内法?序》里说：&ldquo;祭鬼炼度内法，自晋太极葛仙翁修此道于会稽上虞山中，功成道备，上升云天。由是以来，灵宝之妙，师师相传。祭炼之法，从兹衍矣。&rdquo;(1)四十三代天师张宇初在为郑所南《太极祭炼内法》作序时也称：&ldquo;炼度魂爽，犹为灵宝之要，而炼度之简捷，犹以祭炼事略而功博。自仙公葛真君藏其教，位证仙品。&rdquo;(2)就是说，作为灵宝道法要点的炼度仪，是由葛玄传之于后的，而且葛玄正是通过修炼祭炼之法而得道成仙的。 <br /><br />　　元代西蜀道士颐轩清虚子侯以正说，太极仙翁得灵宝之道于&ldquo;玄古三师&rdquo;(3)。意谓葛玄并不是炼度仪的首创者。葛玄又如何得之于玄古三师?宋末元初郑所南(１２４１&mdash;&mdash;１３１８)在《太极祭炼内法》中解释说：葛玄于若耶山精思静处，&ldquo;一旦，感天上郁罗翘、真定光、光妙音三真人，从空乘凤辇而下&rdquo;，授以《法轮经》，&ldquo;开阐仙公济度幽真之心&rdquo;。又说：&ldquo;今天台山桐柏观侧有法轮观，正仙公祭炼古迹。&rdquo;郑所南曾经查考了有关葛玄的记载，但他最后无奈地称&ldquo;昔葛稚川著族祖葛玄传，所纪甚多，却不载祭炼感应事。&rdquo;(4)郑所南的考证，基本否定了葛玄是祭炼法的创始人。因此，炼度仪始于葛玄之说，只能看作是道教界前辈的臆测。 <br /><br />　　如果说炼度仪是后世灵宝派道士所编，托古而称是本派祖师葛玄所创，这尚有可能。灵宝派早期经典《度人经》中已有&ldquo;死魂受炼，仙化成人&rdquo;之句(5)。南北朝齐严东解释说是南宫度命君&ldquo;炼度朽骸&rdquo;，唐薛幽栖进一步注称：&ldquo;死魂举度于南宫，则以流火之膏炼其鬼质，从兹改化，使得仙也。&rdquo;(6)可见，此&ldquo;炼度&rdquo;之意与炼度仪之本意并不相同。但是可以肯定，《度人经》的这种思想影响了炼度仪，成为炼度思想的一个来源。另外《度人经》的五方五帝配五色五气思想、存思集神方法都能在炼度仪中找到影子。而灵宝派强调的普度思想，也正是炼度仪的主要特点。因此，炼度仪即使非葛玄所创，也一定是灵宝派的科仪。 <br /><br />　　葛洪的《抱朴子内篇?遐览》中记载了他当时曾经见过的道教经书目录，其中没有与炼度有关的内容。葛洪之后，南北朝陆修静和唐代张万福、唐末五代杜光庭都曾对道教斋醮仪范进行了大量的整理和发展，在他们的科仪文献中，也没有独立的炼度仪。不过，在南北朝《赤松子章历》中，有过关于炼度的章文。《上清言功章》云&ldquo;受炼更生，化为真人。&rdquo;(7)《灭度三涂五苦炼尸受度适意更生章》中则有&ldquo;受生炼尸，还复故形，上补真仙&rdquo;之说(8)。这些章文中的思想和早期灵宝派经典一样，仍然是完全依靠祈求神灵而炼化度鬼的阶段，有别于后世之炼度科仪。 <br /><br />　　北宋末年，神霄派道书《高上神霄玉清真王紫书大法》中，始有炼度法的记载(9)。在南宋时期的几部道教斋仪的大型著作中，我们发现了大量的关于炼度仪的记录和论述。王契真《上清灵宝大法》卷五十五说：&ldquo;广成古科，无炼度之仪，近世此科方盛。&rdquo;(10)金允中所编的另一本《上清灵宝大法》卷十七也说：&ldquo;广成先生编撰科仪，乃唐大顺间，是时未行炼度之仪，近世此科方盛。&rdquo;(11)二人都曾对杜光庭所编撰的科仪进行了考证，一致认为唐末五代时尚未出现炼度仪，炼度仪是&ldquo;近世&rdquo;方盛。也就是说炼度科仪出现于五代以后，至南宋初年已经盛行于世。根据二人对炼度仪的记载，可以推测，炼度仪主要流行在南宋朝廷的管辖区域之内，也就是说盛行于江南。 <br /><br />　　林灵真编集的《灵宝领教济度金书》内收有关于炼度仪轨的记载达二十余处(12)。由此看来，金允中说自己&ldquo;所见祭炼之书，不止数十本&rdquo;，毫不虚假(13)。针对当时炼度仪的混乱，王契真曾提出过批评，说当时道士设坛行科，既无定式，亦碍义理(14)；金允中也说当时的数十种炼度仪&ldquo;虽大体相类，而其祝辞白语多驳杂，其声音不比临事难读。&rdquo;所以，金允中重新撰集了&ldquo;启祝行用之言辞&rdquo;，意在统一和规范当时的炼度仪，使之文字典雅，演习方便(15)。 <br /><br />　　金允中在《上清灵宝大法》中认为，炼度之符可能出自于北宋道士刘混康之手。刘混康是茅山宗的第二十五代宗师，以道法闻名于北宋年间，晚年更是深得宋徽宗的恩宠。金允中推测说：&ldquo;炼度之符莫非法师自炼度之法&rdquo;(16)。对于金允中的推测，今查现存有关刘混康的史料，未见其参与炼度科仪编撰的记载。 <br /><br />　　综上所述，可以认为，刘混康、王契真、金允中、郑所南等人极有可能对炼度仪的形成和发展都产生过一定的影响。但就整个炼度仪而言，由于其内容丰富，行仪要求甚高，思想体系较为完整，因此，它的产生恐非一时一地一人所创。它应该具有相当漫长的创作时间、相当众多的编撰和补充修改人员，也就是说，炼度仪是道教徒集体智慧的一个结晶。 <br /><br />　　炼度仪之所以在五代以后形成，并且在南宋时期得以广泛流传，究其原因有多方面。 <br /><br />　　一、社会环境因素。唐末以后，中国社会一直动荡不安，五代十国战火不断，兵伤殍死，横尸遍野。整个北宋年间，外要抗御辽、夏、金三国的侵略，内要镇压风起云涌的农民起义，统治岌岌可危，民众颠沛流离，妻离子散，家破人亡。仁宗时梅尧臣(１００２&mdash;&mdash;１０６０)的《岸贫》描绘居住在河岸边上的穷苦人民生活状况时说：&ldquo;无能事耕获，亦不有鸡豚。烧蚌晒槎沫，织蓑依树根。野芦编作室，青蔓与为门。稚子将荷叶，还充犊鼻裈。&rdquo;(17)诗文真实地反映了北宋时期豪富兼并土地，导致许多农民陷入无地、无房、无食、无衣赤贫状态的社会现实。正是由于社会带给民众的深重苦难，人们急切需要解除灾难，拯拔亡灵。道教徒本着济世度人的思想，满足了人们对于死后能够受度成仙，永离苦海的追求。 <br /><br />　　二、内修之术因素。炼度科仪作为一种对高功法师有着甚高内修要求的仪式而产生于宋代，与唐末以后内炼方术的盛行，特别是内丹理论思想的成熟，也有极大的关系。晚唐以来，内丹开始盛行，继刘知古、张果、叶法善之后，吕洞宾、施肩吾、崔希范、彭晓等一大批内丹家活跃于社会，传法授徒。宋代陈抟、张伯端更是把内丹术推向成熟。正是因为内丹术的繁荣和影响，道教科仪中对行法之士的内炼要求也进一步提高。炼度科仪之&ldquo;炼&rdquo;，就是要求高功法师以&ldquo;真水&rdquo;和&ldquo;真火&rdquo;交炼亡魂，当然需要行仪者自己有极高的内修炼养功夫，所谓&ldquo;以我身中之阴阳造化，混合天地阴阳之造化，为沦于幽冥者，复其一初之阴阳造化也&rdquo;(18)。高功法师运一己之神炁，合二象之生津，炼度枯骸，行神俱妙，才是炼度科仪的本意。可见炼度就是炼自己造化，以度幽魂。如果未能炼神，则不能度鬼。《太极祭炼内法?卷下》载：祭炼时，辟一静室，&ldquo;外像以香炉为火，以水盂为水，及先焚宝?，外更无他物，不要灯烛，方静打坐，一更许，乃行持作用。纯是以我一团精神，祭炼幽冥，岂独鬼神得济，我之精神亦豁然清爽。&rdquo;(19)倘若行祭炼者，精神不全，德行未备，又不得造化之妙，则一次祭之一次来，十次祭之十次来，只不过施与亡魂饮食，而不能度之超升。炼度科仪对高功法师的如此要求，正是建立在内炼方术高度成熟的基础上。有此基础，道教才会提出以人代神而炼度亡魂的思想，才会产生这种通过高功内炼而度化鬼魂形神的科仪。 <br /><br />　　三、度化思想因素。炼度科仪在思想上，直接继承了古代道教的济度思想。早在东晋末年出现的《度人经》就有&ldquo;死魂受炼，仙化成人&rdquo;之说，说明道教自古就有度脱幽魂于沉沦、使其早升仙界的思想。道教原有黄?斋，专以济度为本。五代杜光庭《道教灵验记》卷十四有《陈武帝黄?斋验》，为道教早期黄?斋之记载。《太上黄?斋仪》说黄?斋&ldquo;拯救幽灵，迁拔飞爽，开度长夜，升济穷泉&rdquo;(20)，《道门科范大全集》中收有&ldquo;上清升化仙度迁神道场仪&rdquo;和&ldquo;东岳济度拜章大醮仪&rdquo;，这两种仪式皆以香火为功，&ldquo;济拔幽途，超升上境&rdquo;(21)，使幽魂&ldquo;洗罪名于黑簿，炼生质于黄华，速出泉关，早登道岸&rdquo;(22)。黄箓斋的超度亡魂思想，为炼度科仪死魂可以受炼升迁的理想提供了宝贵的理论基础。 <br /><br />　　四、科仪发展因素。道教科仪在其本身发展过程中，虽然得到历代高道的补充和润饰，特别是经过科教三师的整理和编定，已堪称成熟和完美。但仍有美中不足，就是缺乏普度性的科仪。这种能够广度各类幽灵的炼度仪，在北宋时期产生，并在南宋取得迅速的发展。 <br /><br />　　炼度仪发展到南宋末年，已呈法出多门之态。郑所南《太极祭炼内法仪略?卷中》说：&ldquo;世之祭炼，一一自称其法为仙公的派，符咒作用，各各不同，江湖汗漫，宗派多门，非可以千百数之&rdquo;。(23)针对混乱状态，郑所南&ldquo;采摭道门诸家祭炼之法，删烦削伪，谆谆训释，聚而成编，以遗学者。&rdquo;(24)郑所南对于炼度仪的规范和统一，至今仍具有较大的影响。直至清代娄近垣增订考核的《太极灵宝祭炼科仪》，大致上仍然保存着宋代的风貌，仍然沿用郑所南所撰集的内炼方法。炼度科仪在南宋定型并流传至今，在黄箓类道场中，作法和作用也一仍其旧。 </p>
+<p class="unnamed1" align="center"><strong>炼度科仪的内容 </strong></p>
+<p class="unnamed1" align="left">　　《道藏》所收的数部斋醮仪范总集中汇集了数十种炼度仪，诸如神霄炼度、经法炼度、灵宝大炼、南昌炼度、三光炼度、混合阴炼、九炼生尸等等。各种炼度仪的程式基本上相同，其所体现的济死度生的教义思想也保持着一致。只是由于各种炼度仪产生的时代和地域不同，仪式中召请的神将亦不相同，对于亡魂再生形质的构想也有所不同，水火交炼的方法、坛场设置要求也各不相同，因而各自具有不同的特点。 <br /><br />　　各炼度仪各有义理，不可混淆。欲行灵宝大炼之法，当知祖于金母木公，请炁上表，他求不可；在方法上，灵宝炼以摄召十二炁而炼化亡魂之五脏六腑、胞胳根元，又奏请九天正炁，令亡灵神布气满，声尚神具，毛发生神。灵宝炼行仪要求非常之高，内容亦较为繁杂。在坛场设置上，灵宝行持存用，则以水火置于寅申之方，存想则以祖炁，金木为宗。 <br /><br />　　欲行持神霄炼者，当知祖于三师日月，请炁上表，舍神霄日月不可也。在方法上，神霄炼重焚符念咒，召请神真。行持存用则以水火置于乾巽之方，想九霄之炁在五脏之间，三焦碧炁为神霄之炁，肺中炁用为玉霄之炁，心中赤炁为丹霄之炁，肝中青炁为青霄之炁，胆中绿炁为碧霄之炁，胃中黄炁为紫霄之炁，大小肠红炁为琅霄之炁，膀胱紫炁为太霄之炁，肾中黑炁为景霄之炁，各有所主。亡魂经过交炼，&ldquo;舍此有情有欲有漏之幻身，达兹无象无却无碍之玄门&rdquo;(25)。在坛场设置上，其火炼法要用桌子、香炉各十八只，水炼法要用金石木砖砌成的九尺(或九寸，皆要九九之数)水池。 <br /><br />　　南昌炼以南辰北极为祖。南昌宫为道教神仙世界中专管炼度亡魂的机构。《朱陵景仙度命?文》有曰：&ldquo;南昌宫所摄二宫，一曰上宫，一曰下宫，上宫主受炼司事，下宫主受度司事。生身在下土，故以下宫主之；死魂升上天，故以上宫主之。总而名之曰朱陵火府，亦曰南昌受炼司。&rdquo;(26)南昌炼在行水火交炼法后，又摄召五帝之炁，以达到使亡魂&ldquo;九孔纳冥，解脱本形&rdquo;(27)。在行仪时，南昌炼置水火于南北，然后想之于心肾。 <br /><br />　　经法炼度是炼度仪中内容较为复杂的一种，其所请的神灵遍及三界十方。在行仪中，对水火交炼亡魂的思想和方法十分重视。仪中还须求请五帝降炁于亡魂五脏，再请三十二天帝宫之炁密炼亡灵，配以七十余道符咒，一切亡故便&ldquo;可进上清之境，升入大罗之都&rdquo;(28)。仪式的最后，还要宣升天左右券、功曹关、功德牒，发天门牌，给付符?等，周密详尽，在所有炼度仪中堪称仅有。 <br /><br />　　王契真《上清灵宝大法》卷五十九说：&ldquo;斋法莫难于炼度，乃超凡入圣、脱胎换质之道。&rdquo;并说，炼度是&ldquo;高功第一事&rdquo;(29)。因此，炼度仪在产生后，得到了历代高道的重视和研究。经过南宋王契真、金允中、郑所南等科教大师的整理，炼度程式基本包括：祝香、启圣；高功就座请将；礼五帝；收召亡魂，水火交炼；焚符九章，使亡魂脏腑生神；说戒；赞道经师三宝；说鬼神十戒，九真妙戒，举奉戒颂；读符告简关牒；高功下座，表白送魂度桥；焚燎，举三清乐，向来回向等(30)。从宋代王契真、金允中的两种《上清灵宝大法》，至明代《灵宝无量度人上经大法》，再到清代《太极灵宝祭炼科仪》，炼度科仪的程式，基本上没有大的变化。 <br /><br />　　关于炼度的要旨，《灵宝玉鉴?炼度更生门》称：&ldquo;灵宝大法，有受炼更生之道，外则置设水火，内则交媾坎离，九炁以生其神，五芽以寓其炁，合三光而明景，周十转以回灵，亦各依其本法而然耳。然必以妙无真阳之炁，以具无质之质，以全真中之真，成此圣胎法身，蜕然神化，超出于二炁五行之外，不生不灭之表者，实由夫即身之妙也。苟达即身之妙，则自然成真矣。&rdquo;(31)炼度仪对行仪法师的内修功夫有较高要求，就是出于这一要旨。行持之士通过交媾坎离而炼自己造化，做到炼形合炁，炼炁合神，炼神合虚，唯道为神，形同太虚，然后寓符法、咒诀于己身，超度幽魂。 <br /><br />　　明代以来，又有一些新的炼度仪形成并流传至今。例如：上海的斗姥炼，江浙的蓬壶炼、太乙炼，京川等地全真道的青玄炼、铁罐炼等。新的炼度仪，教理教义更显完备，语言更显流利生动，水火交炼方法更趋简捷。其坛场设置则与古炼度仪大致相同，但由于师承关系与流传地域的文化氛围不同，所主法的神明不同，经文也就有所区别。其中江苏道教的蓬壶炼别具一格，蓬壶炼的全称是《太上蓬壶炼度法食真科》，其程式是：登坛运座变神；奏请三清五老，礼诰；稽首太乙，变水请光；破狱召请，又普召二十四门苦爽；天医调治；解冤释结；又伸召请，叹骷髅；变炼施食；三饭九戒，送圣回向等(32)。如果将其与上海斗姥炼等炼度仪作比较，就会发现其所召请的亡魂更显得面面俱到，体现了炼度科仪的普度性。 <br /><br />　　水火交炼之法是炼度科仪的精髓。诸家炼度虽各不相同，但皆不出于水火二物。炼度仪要求行持之士运己身纯阳之道炁，而点化纯阴之鬼魂。即以我之阳而炼彼之阴，阴阳交感，幽冥潜通，亡魂滞魄必得超度。在行仪时，高功要&ldquo;以我之真，觉被之妄；以我之阳，炼被之阴；以我之神，生彼之神；以我之炁，返彼之炁；以我之贤，化彼之愚。&rdquo;(33)所以，若行炼度之法，须明采纳，吞服三光正炁、日精月华，吐故纳新，自身集召阳神，炼除阴翳，方能具备炼度亡魂之法力。《太极祭炼内法》在阐释水火炼度之义时说：&ldquo;水炼之曰水者，非水也，吾精之泽也。炼吾之精而生彼之精，故化之为水而炼之焉；火炼之曰火者，非火也，吾神之光也。炼吾之神而生彼之神也，故化之为火而炼之焉。精亡神离，昔虽堕而为鬼，精生神全，今当升而生天。炼则度矣，不炼则不度也。故曰水火炼度&rdquo;(34)。炼度就是要通过真水与真火的交炼，而达到使鬼魂亡离之精神聚合而生全，从而位登仙班。炼度之水火于天，象以日月。&ldquo;真水&rdquo;是阴中之一炁，太阴之真精；&ldquo;真火&rdquo;是阳中之火，能辟除阴滓，冶炼成婴。郑所南说：&ldquo;水属阴，以吾之精而作用乎月，其色则白，本非月也；火属阳，以吾之神而作用乎日，其色则红，本非日也。&rdquo;(35)炼度时，外要请降日精月华，内要先使己身之水火二炁上下相交，升降相结，然后混合于中宫，结成金丹，才能达到济幽冥、超滞魄的目的。 <br /><br />　　水火炼度的顺序，古代有先水而后火者，有先火而后水者。先火而后水者，以《本经》中有玉眸炼质、黄华荡形之说，但岂若天一生水、地二生火之论，乃宇宙造化相生之理。水炼则膏润以生精，火炼则光明以生神，非膏润则无精，非光明则无神炁，非神炁精采不可以生天，非育精生神不能为炼度。水炼与火练功用不同，但相辅相成。水炼用真一之精，阴灵入水，涤荡尘垢，童颜玉光；火炼用真阳之炁，阴魂一入火沼，魂如火枣，融化阴尸，反胎易质，化为婴儿。 <br /><br />　　炼度仪所设有形之水火，是凭藉天之象，地之形，以求日精月华之真炁，并运用符?以神其变化，进而升济沦于幽冥之中的一切茕魂。因此，设立的水池火沼，必须内盛真水、真火。真水须在拂晓时于东井中，取人未汲者；真火是在正午时，面日用杨柴炭和苦竹，以印香引之。凡立水池用壬癸日，以石造成，内方外圆，下中心成坎卦，方圆五尺，内凿符箓，上立牌号&ldquo;流汩沼&rdquo;，安于斋坛东北角上。凡立火沼，用丙丁日，以石刻成，内方外圆，下中心成离卦，方圆阔三尺，池中凿符文，上立牌号&ldquo;冶炼池&rdquo;，安于斋坛东南角上。水池火沼的设置，融合了道教关于五方、八卦以及古代天地之形的思想。 <br /></p>
+<p class="unnamed1" align="center"><strong>炼度科仪所反映的思想 </strong></p>
+<p class="unnamed1" align="left">　　炼度科仪的思想内容非常丰富，它包括了炼度亡魂、施食、解冤释结、召叹孤魂、三皈九成等等，每种内容都与社会大众有着紧密的关系。炼度仪之所以长盛不衰，正是因为它反映了社会各阶层民众的愿望，起到了教化民众、济死利生的巨大作用。 <br /><br />　　施食之法是炼度仪的重要组成部分。施食也称&ldquo;斛食&rdquo;，即咒施法食。至迟在唐代，简单的施食方法已经相当盛行。欧阳询《艺文类聚》卷四记道教于七月十五日中元施食时说：&ldquo;以其日作玄都大献于玉京山，采诸花果，珍奇异物，幢幡宝盖，清膳饮食，献诸圣众。道士于其日夜讲诵是经，十方大圣，齐咏灵篇，囚徒饿鬼俱饱满，免于众苦，得还人中。&rdquo;(36)玄都大献的场面浩大，但方法简单。直至宋代，施食法才形成一个完整的体系，在王契真和金允中分别编集的两种《上清灵宝大法》中，都记有施食的详细内容。在南宋时期，炼度仪和施食仪密切地结合在一起，形成祭炼法而流传至今。各时各地的祭炼法，基本上都有施食的内容，少见有施而不炼或不施而炼的科仪经本。 <br /><br />　　施食的基本意义在于使饥饿之鬼神得以饱满，而温饱问题不仅在人类社会是重要问题，在神鬼世界也是重要问题；其次，施食是要&ldquo;使人常思孝念，日积阴功，广运慈悲&rdquo;(37)。可见，炼度仪中施食的运用，还有教化世人的作用。 <br /><br />　　在炼度仪中，都有相当一部分解冤释结的内容。&ldquo;冤结&rdquo;是指因人际冤对而引起的阴讼牵连、阴鬼遭罪、阳眷受报等情况。炼度仪把人生冤对概括为十种，即&ldquo;十伤&rdquo;：杀伤、缢死、溺水、产死、伏连、冢讼、狱死、邪妖、药死和累世等。其中，累世冤对是人际冤对的延续，而邪妖冤对则是非人际关系的内容，其他八伤都是人际冤仇关系的直接表现，这些人际冤对是社会矛盾的直接反映。解冤释结仪式的出现和流传，表达了强者希望生前冤孽得解，无碍死后升仙的愿望，也反映了弱者对理想生活的幻想。升仙路上本无贵贱，但亡灵要进入神仙世界，必须做到恩冤两忘，不以生前冤结而牵缠于泉下，方能获得超升。 <br /><br />　　炼度的目的是要使亡魂在经过高功法师的祭炼后，得以出离地狱，升入仙界。科仪中，虽然要奉请各路神仙，救治亡魂。但主要是高功法师存想自己代天尊而行道，其中人的力量得到了提高。仪式中高功以自己之魂魄游行三界，沟通于神鬼之间，上以请神召将，下以济度鬼魂，显示了道教为民众追求幸福的努力。如此复杂的幽冥神鬼之事，通过高功的累积修持而释放于一时，就能达到升度亡魂的目的，又体现了道教&ldquo;我命在我不在天&rdquo;的思想。 <br /><br />　　古代大多数炼度科仪中，亡魂在享受法食和水火交炼之后，还需经过法桥，才得超登仙乡。《灵宝领教济度金书》卷一百零六收有&ldquo;明真斋用&rdquo;的炼度仪，其中高功法师在恭行祭炼后下座，召五方童子送亡灵至桥头立；又谨召朱陵火府引魂登桥大神、监桥超度大神、守桥超度升魂五大神，遵依帝敕，火急引领亡故径度升天法桥，上登碧虚，逍遥自在(38)。炼度法坛中&ldquo;升天法桥&rdquo;的位置，处于所设仙曹诸司官将和种民四天牌位之中，意即亡魂经仙曹官将的拯拔，过此法桥，便可升入种民四天。南宋金允中撰集《上清灵宝大法》时，曾经除去其中的偈子，易以白文，对之进行了一定的改革。至迟在清代，江苏、上海等地道教都己从炼度仪中分裂出独立的度桥科仪。当代各地炼度仪中很少再有度桥一节，只有台湾地区道教仍保持着这一传统。度桥一节，使得科仪更趋形象化，并且更多地赋予了普通信徒对炼度仪的参与。亡魂过此仙桥，便远离阳世眷属，升仙而去。因此，送魂度桥一节，是阳世眷属、亲友寄托哀思、表达自己对亡故思念之情的最佳时间。 <br /><br />　　江苏地区的&ldquo;蓬壶炼&rdquo;，在变炼法食之后，又加以叹骷髅一节，显得与众不同。&ldquo;叹骷髅&rdquo;是对亡魂生前不幸的嗟叹，充分显示了道教对人生的同情。《真科》称：昔日庄子去荒郊野外游玩，忽睹大地上朽坏一堆白骨骷髅，因而三叹骷髅。仪中借庄子之口，表达了道教对幽魂的哀叹和同情，并奉劝世人要及早修行，消除灾障，早求出离苦海，永生光明之乡。 <br /><br />　　在当今炼度仪中，皆有召请天医调治亡魂疾病一节。仪中在召请亡魂之后，又要请五灵五帝真君、混元十二气化生大将军、天医十三科诸大典吏、六治仙官、治病功曹、尝药仙吏等天医院官将，&ldquo;飞行变化，布气分真，降中黄一气之丹，疗久病沉疴之疾。&rdquo;达到普令亡魂&ldquo;首断为续，筋断为联，蛊癞为剥，水腹为宽，胎留为下，孕育发全，拳挛伸缩，喑哑能言，手足不具，俱得完全，盲聋视听，癫狂复完，老者反壮，执对和冤，饥寒充实，沉疴顿捐，风痨冻绝，咸得医全。&rdquo;(39)亡魂在经过医治之后，穿上霞衣，方能朝参三宝，领受无边法食和水火交炼。 <br /><br />　　从古到今的炼度仪中，还有一个重要的程序：在亡魂皈依三清之后，尚要受戒，才能升仙。在&ldquo;生神开度斋用&rdquo;的炼度仪中，亡魂要受十二大戒：一、忠孝国君，师资父母；二、仁慈百品众生，昆虫草木；三、敬奉天地，日月星辰；四、钦奉三洞上经，一言一偈；五、尊仰一切仙圣神灵；六、慎损三宝物色；七、和颜悦心，忍辱修行；八、端贞谨洁，清心净体；九、勿生嫉妒阴谋，诈妄天人含生；十、不得啖食辛膻腥臊荤秽；十一、不得大醉，浮狂叫唤；十二、不得评论一切是非高下。(40)而宋代以来的多数炼度仪中，授受的一般是&ldquo;九真妙戒&rdquo;。明代小说《金瓶梅词话》第六十六回描写李瓶儿五七时举行的水火炼度道场中，亡魂所受戒就是&ldquo;九真妙戒&rdquo;。九戒指的是：一戒敬让，孝养父母；二戒克勤，忠于君王；三戒不杀，慈救众生；四戒不淫，正身处物；五戒不盗，推义损己；六戒不嗔，凶怒凌人；七戒不诈，谄贼害善；八戒不骄，傲忽至真；九戒不二，奉成专一。(41)九真妙戒的内容随着时代的发展有所变化，但其始终贯穿了道教疾恶扬善的道德意识，宣传了道教忠君孝祖的伦理观念。这些戒文是对亡魂宣说的，更是对坛场中所有人的一种教育。 </p>
+<p class="unnamed1" align="left">&nbsp;</p>
+<p class="unnamed1" align="center"><strong>现代炼度仪及音乐和坛场设置 </strong></p>
+<p class="unnamed1" align="left">　　炼度仪发展至今，无论是在法师内修要求方面，还是在法事规模、音乐表白及坛场布置等方面都产生了许多变化。这些变化与社会环境的变化是分不开的。在规模上，无论是参加人数，还是坛场占地和演习时间等等都在逐渐缩小和减短，这与当代的工作节奏和生活节奏的加快有密不可分的关系，是一种正常的趋势。 <br /><br />　　道教音乐是斋醮科仪不可缺少的有机组成部分，是道教徒沟通神灵、显示威仪、表达感情和检摄身心的重要手段。道教音乐在斋醮科仪中与科范合为一体，进而达到天人合一、以意化境的功效。在道教的发展过程中，它与中国音乐文化的其它部分，如地方音乐、宫廷音乐以及其他宗教音乐等有着错综复杂的关系。譬如上海道教音乐与昆曲、江南丝竹等音乐有着千丝万缕的关系，一方面，在器乐演奏时，往往表现得软滑流畅、婉转曲折，采用了江南丝竹的演奏手法；另一方面，一些道乐韵曲的唱腔和演唱风格又近似昆曲，铿锵有力，字正腔圆。 <br /><br />　　道教音乐分为声乐和器乐两大部分，在炼度科仪中有较大一部分内容是高功独白或独唱，间隔以钟鼓打击乐，很少配以管弦器乐，还有相当一部分是集体合唱或高功与道众们的轮唱，这部分韵腔配以器乐，形成一个集合体。在上海、苏州等地大型斋醮科仪中，如须施行炼度，常于仪前加用器乐&ldquo;将军令&rdquo;，意在渲染坛场气氛，以通达神真。上海炼度仪中，偶尔于高功佩戴五岳冠之前，加以器乐&ldquo;大开门&rdquo;、&ldquo;小开门&rdquo;或&ldquo;水龙吟&rdquo;，表达对神灵的恭敬，也起到了显示威仪以靖众的作用。１９９３年，北京白云观与香港青松观、台湾指南宫联合举行罗天大醮时，北京、香港、台湾、上海、苏州、武当山等地道教徒先后演示了炼度仪，尽管仪法各有不同，所用韵曲亦不相同，但也存在着一些共同特征：一是音调平稳，相对低沉；二是节奏缓慢，宛如行云流水；三是风格质朴无华，恬静和谐；四是以细乐为主(包括笛、二胡等管弦乐器和钟、鼓、木鱼等法器)，基本不用粗乐(包括哨呐、锣、镲等打击乐器)。这些特征，也是炼度仪有别于其他科仪的共性。 <br /><br />　　炼度仪中的道教音乐既是敬神奉道的形式，也是召请亡魂，表达哀思的手段。参与仪式之人，无论是高功，还是一般道众，都要全身心投入，体上帝好生之德，感幽魂执滞之苦，这样，自己的情感、心性才能在音乐中有所表现，达到超亡的效果。 <br /><br />　　炼度仪中的音乐普遍显得缓慢平淡，这种音乐有助于高功澄清自身，保养元和。高功的行炁、运炁与音乐的律动速度保持着紧密联系。炼度仪的音乐基本采用宫调，从五音五行五脏的关系看，宫乐配中央、土、脾，脾主一切意念，能运化阴阳五行之气，载水火以生成万物。《太极祭炼内法》称：&ldquo;修炼则土为主，火次之，水又次之。关尹子谓：水火土者，即精神意也。果能圆三者而一之，此长生之所以长生。欲妙于祭炼者，亦当圆三者而一之。&rdquo;(42)&ldquo;意&rdquo;是一切缘起，意定，方能升降水火。由此可见，宫调音乐在炼度仪中的重要性。炼度仪中韵腔的吟唱，全部用真音，讲究曲折绵长，高功需调动自己丹田之气，徐徐吐音，使得韵腔传至幽远，充满天地法界，威慑神鬼，情感天人。 <br /><br />　　最后，还要谈谈炼度仪的坛场设置。关于炼度仪的设坛，自古说法各异，因此各地有所不同。王契真《上清灵宝大法》卷五十五说：&ldquo;或别立一处，炼度与道场了不相关，又有于道场中上帝前行事；又有对上帝前行事，廊筵相对，只加设炼度官将，仍设木公金母，九天诸位道场中皆已有了，故不别设。&rdquo;(43)金允中的《上清灵宝大法》卷十七也有关于炼度坛场设置的记载：&ldquo;圣位及堂宇之式，难以立为定制。浙中多别立一堂，排列圣位，设醮后方行炼度，与道场中了不相干；江东有数郡，只于道场内，上帝前奉行；又一式，则于道场内，恭对上帝行事，廊筵相对，只列炼度宫，仍设醮筵，径对上帝行事。&rdquo;(44)可见炼度坛的设置&ldquo;古无定格&rdquo;，只有在举行大型斋醮科仪时，才另外设坛施行炼度，一般行于道场内，对外而设坛祭炼。 <br /><br />　　古代炼度仪中，都要设置水池火沼。水池火沼是高功体内水火交炼的外在象征。随着历史社会的发展，当今道教已不再设置专门的水池火沼，而代之以高功存想和相关的牒文，通过简短的仪式来请降真水与真火。因此水池火沼的弃用，应该只是外形的变化，而非内在质的改变。在当代道教炼度仪中，基本上都设有&ldquo;寒淋所&rdquo;或&ldquo;六道台&rdquo;，此举不见古代道书之中。寒淋所是酆都鬼魂待炼之处，常悬挂酆都大帝或鬼王等神灵画像，并备以斋筵；台前张贴孤魂榜，榜中释生死之理，体幽魂之苦，赞大道之妙，言炼度之功。元虞集有《孤魂榜》称：&ldquo;我是以广太上之好生，推妙严之济众。酌黄华于东井，荡尔形骸，耀丹冶于南宫，陶其灵质。宿业不存于故想，化机更适合于新成。不溺不焦，尔可以见本真之不昧，能流能焰，尔可以验道气之常行。承兹三景之开明，即诣诸天而受度，更无退转，并乐超升。&rdquo;(45)孤魂榜是炼度仪中必不可少的道教文检，透过榜文，我们即可了解大意。 <br /><br />　　综上所述，炼度科仪发展至今，已有近千年的历史，其内容丰富，思想完整，意义深远。由于其在漫长的发生发展过程中，充分地融合了道教宇宙生成理论、神仙信仰、伦理观念、内修炼养等多方面内容，因而产生了对我国民族风俗、社会意识、哲学思想、养生延年等领域的重大影响。随着人类社会的发展，炼度仪的内容及表现形式等也可能会产生变化，但因其包含着悯念群生、拯济幽灵、修真养性等思想，所以炼度仪必将长期流传下去。 <br /><br /><span class="unnamed1"><strong>注： </strong><br /><br />(1) 《道藏》，第十册，４４０页，文物出版社、上海书店、天津古籍出版社联合出版，１９８８年。以下同。 <br /><br />(2) 《道藏》，第十册，４３９页。 <br /><br />(3) 《道藏》，第十册，４４０页。 <br /><br />(4) 《道藏》，第十册，４７１页。 <br /><br />(5) 《道藏》，第一册，３页。 <br /><br />(6) 《道藏》，第二册，２１２页。 <br /><br />(7) 《道藏》，第十一册，２０９页。 <br /><br />(8) 《道藏》，第十一册，２２７页。 <br /><br />(9) 此据卿希泰主编《中国道教史》考证，第三册，７９４页，１９９６年修订版，四川人民出版社。 <br /><br />(10)(14)(43) 《道藏》，第三十一册，２１７页。 <br /><br />(11) 《道藏》，第三十一册，４４１页。 <br /><br />(12) 《道藏》，第七册，１页。 <br /><br />(13) 《道藏》，第三十一册，４１２页。 <br /><br />(15) 《道藏》，第三十一册，４１２页。 <br /><br />(16) 《道藏》，第三十一册，５８２页。 <br /><br />(17) 《宛陵集》卷三十三，四库全书本。 <br /><br />(18) 《道藏》，第十册，１４５页。 <br /><br />(19) 《道藏》，第十册，４６２页。 <br /><br />(20) 《道藏》，第九册，３７１页。 <br /><br />(21) 《道藏》，第三十一册，９３６页。 <br /><br />(22) 《道藏》，第三十一册，９５０页。 <br /><br />(23) 《道藏》，第十册，４４８页。 <br /><br />(24) 《道藏》，第十册，４４０页。 <br /><br />(25) 《道藏》，第二十八册，６５５页。 <br /><br />(26) 《道藏》，第十册，４６０页。 <br /><br />(27) 《道藏》，第三册，９５５页。 <br /><br />(28) 《道藏》，第七册，６０８页。 <br /><br />(29) 《道藏》，第三十一册，２５０页。 <br /><br />(30) 《道藏》，第三十一册，６４７页。 <br /><br />(31) 《道藏》，第十册，３９８页。 <br /><br />(32) 江苏道教科本《太上蓬壶炼度法食真科》。 <br /><br />(33) 《道藏》，第二十八册，６７５页。 <br /><br />(34) 《道藏》，第十册，４５５页。 <br /><br />(35) 《道藏》，第十册，４５６页。 <br /><br />(36) 《艺文类聚》，第一册８０页。上海古籍出版社，１９６５年。 <br /><br />(37) 《道藏》，第三十册，３０６页。 <br /><br />(38) 《道藏》，第七册，５０８页。 <br /><br />(39)(40) 《藏外道书》，第三十册，３６７页。 <br /><br />(41) 《金瓶梅词话》，９１１页，人民文学出版社，１９８９年。 <br /><br />(42) 《道藏》，第十册，４５９页。 <br /><br />(44) 《道藏》，第三十一册，４４１页。 <br /><br />(45) 《道园学古录》卷二十六，第２４０页，上海商务印书馆缩印明刊版。 <br /></span></p>
+<p align="right"><span class="unnamed1"><br /><strong>(作者单位：上海市道协)</strong></span></p>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

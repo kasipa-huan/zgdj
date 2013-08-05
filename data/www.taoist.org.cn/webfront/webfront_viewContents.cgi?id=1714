@@ -1,0 +1,534 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260400000000000000&targetPage=Fdjxy2">
+						中国道教(2004—2010)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260401000000000000&perPageNum=15&targetPage=Fdjxy3">
+						2004年第1期 
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	泰山神信仰探微（范恩君） 
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p class="unnamed1" align="center"><strong>范恩君 </strong></p>
+<p class="unnamed1" align="left">　　泰山是五岳独尊的东岳，其神以&ldquo;大帝&rdquo;称之，地位显赫。历代帝王或巡狩、或封禅、或神祭、或褒封，奠定了泰山神&mdash;&mdash;东岳大帝在道教诸神中的崇高地位，&ldquo;被供奉为神灵界的王者&rdquo;(1)。正史中有许多关于东岳大帝的记载，东岳庙也遍及全国大多数地方。 <br /><br />　　本文将从泰山神&mdash;&mdash;东岳大帝信仰的起源、东岳大帝的身世和职司、对泰山神的祭祀和褒封以及东岳大帝信仰的影响等问题入手，从东岳大帝信仰具体而微地反观道教神仙信仰所蕴含的敬畏自然、师法自然的人文精神、以及这种信仰对于人类社会进步所产生的积极意义。 <br /></p>
+<p class="unnamed1" align="center"><strong>一、泰山神信仰源于对泰山的自然崇拜 </strong></p>
+<p class="unnamed1" align="left">　　泰山神属道教的自然神，源于中国原始宗教的自然崇拜。在远古先民的眼里，自然界是一个充满神灵的世界，崇拜自然神灵是他们与自然沟通的途径，这构成了先民社会生产和生活不可分割的组成部分。在众多的自然崇拜中，影响最大、流传最广的莫过于大山崇拜。 <br /><br />　　泰山就是&ldquo;大山&rdquo;。古时&ldquo;泰&rdquo;与&ldquo;太&rdquo;、&ldquo;大&rdquo;相通，泰山也写作&ldquo;太山&rdquo;，按《说文解字注》的解释：&ldquo;凡言大而以为形容未尽则作太。&rdquo;泰山又称为&ldquo;东岳&rdquo;，《岱史?形胜考》引《诗》注云：&ldquo;岳言山之尊也。东方主天地生气，以方位别五岳，是为天之东柱。&rdquo;泰山还称为&ldquo;岱山&rdquo;、&ldquo;岱宗&rdquo;，&ldquo;固谓夫出震配乾万物始代，储坤?亘五岳惟宗。&rdquo;(2)在古人心目中，泰山是万物交代的群岳之长。 <br /><br />　　古人对泰山的崇拜，最早大概是取决于人类生产、生活对它的依存关系。这种依存关系，正如《尚书大传》中引孔子所说：&ldquo;夫山者，嵬嵬然草木生焉，鸟兽蕃焉，财用殖焉，四方皆无私与焉。出云雨以通乎天地之间，阴阳和合，雨露之泽，万物以成，百姓以飨。此仁者之乐于山也。&rdquo;即主要表现在两个方面，一是有&ldquo;山林之饶，水泉之利&rdquo;(3)，&ldquo;山林川谷丘陵，民所取财用也&rdquo;(4)；另一方面，泰山又能&ldquo;触石而出，肤寸而合，不崇朝而遍雨天下&rdquo;(5)。按照万物有灵的观点，泰山神之&ldquo;神&rdquo;的涵义为&ldquo;山林川谷丘陵能出云为风雨，见怪物，皆曰神。&rdquo;(6)故而理所当然地受到先民的崇拜和祭祀。 <br /><br />　　泰山崇拜还与天地崇拜紧密相连，这也是泰山神信仰的重要内容。大约原始社会向阶级社会过渡时期，自然崇拜的某些对象逐渐被赋予某些社会属性，自然之神开始逐渐人格化。据《尚书》记载，舜&ldquo;肆类于上帝，因?于六宗，望于山川，遍于群神。&rdquo;&ldquo;上帝&rdquo;即最高天神，&ldquo;泰山&rdquo;则为&ldquo;六宗&rdquo;之一。在古人心目中，泰山峻极，离天最近。按照&ldquo;山岳则配天&rdquo;(7)的观念，作为&ldquo;东天一柱&rdquo;的泰山，正是阴阳始代、天地交泰之地。故而早在三代以前就在泰山极顶&ldquo;古登封台&rdquo;&ldquo;燔柴以祀天&rdquo;(8)。进而又演化出泰山神乃&ldquo;天帝之孙&rdquo;的信仰，泰山崇拜与天地崇拜的结合便愈加密切。 <br /><br />　　泰山崇拜与方位崇拜也息息相关。泰山在五岳中位于东方，《岱史?形胜考》引《诗》注云：&ldquo;东方主天地生气，以方位别于五岳，是为天之东柱&rdquo;。《文献通考》也指出：&ldquo;岱庙东岳，以其处东，北居寅丑之间，万物终始之地，阴阳交泰之所，为众山之所宗主也。&rdquo;东方是太阳初升的地方，&ldquo;東&rdquo;字从&ldquo;木&rdquo;，&ldquo;日&rdquo;在其中，甲骨文中&ldquo;木&rdquo;与&ldquo;桑&rdquo;通，古时有日出扶桑之说。东方，按五行属木，四时为春，五常为仁，八卦属震，二十八宿为苍龙。&ldquo;春之为言蠢也，产万物者也&rdquo;(9)；&ldquo;仁&rdquo;乃天地大德；&ldquo;震&rdquo;与&ldquo;苍龙&rdquo;则是帝王出生腾飞之地。于是东方主生的思想具体到泰山，泰山还成了&ldquo;天地大德&rdquo;、&ldquo;帝王出生腾飞之地&rdquo;。 <br /><br />　　因此，泰山崇拜可以说是多种原始自然崇拜的混合和集中表现。发展到夏商周三代中国古代宗法性宗教时期，泰山神逐渐人格化，此时的&ldquo;神&rdquo;的涵义正如孔子所言：&ldquo;山川之灵，足以纪纲天下者，其守为神。&rdquo;(10) </p>
+<p class="unnamed1" align="center"><strong>二、泰山神东岳大帝的来历和职司 </strong></p>
+<p class="unnamed1" align="left"><br />　　关于泰山神东岳大帝的来历，众说纷纭，概括起来，主要有以下几种说法： <br /><br />　　一是太昊说。道经《洞渊集》云：&ldquo;太昊为青帝，治东岱，主万物发生。&rdquo;《枕中记》亦云：&ldquo;太昊氏为青帝，治岱宗山；颛顼氏为黑帝，治太恒山；祝融氏为赤帝，治衡霍山；轩辕氏为黄帝，治嵩高山；金天氏为白帝，治华阴山。&rdquo; <br /><br />　　二是金虹氏说。《神异经》称：&ldquo;昔盘古氏五世之苗裔曰赫天氏，赫天氏子曰胥勃氏，胥勃氏子曰玄英氏，玄英氏子曰金轮王。金轮王弟曰少海氏，少海氏妻曰弥轮仙女也。弥轮仙女夜梦吞二日，觉而有娠，生二子，长曰金蝉氏，次曰金虹氏。金虹氏者，即东岳帝也。&rdquo;《东岳大帝本纪》、《历代神仙通鉴》亦持此说。 <br /><br />　　三是盘古化身说。《述异记》言：&ldquo;昔盘古氏之死也，头为四岳，目为日月，&hellip;&hellip;秦汉间俗说：盘古头为东岳，腹为中岳，左臂为南岳，右臂为北岳，足为西岳。&rdquo;《五运历年记》也称：&ldquo;首生盘古，垂死化身&hellip;&hellip;四肢五体为四极五岳&hellip;&hellip;&rdquo; <br /><br />　　四是上清真人说。《文献通考?郊社》中说：&ldquo;五岳皆有洞府，上清真人降任其职。&rdquo; <br /><br />　　五是山图公子说。唐代道士司马承祯撰《天地宫府图》列十大洞天、三十六小洞天、七十二福地。其三十六小洞天，第二东岳泰山洞。周围一千里，名&ldquo;蓬玄洞天&rdquo;，由山图公子治理。 <br /><br />　　六是天帝之孙说。《孝经援神契》谓：&ldquo;泰山，一曰天孙，言天帝之孙也。&rdquo;《三教源流搜神大全》也说，泰山&ldquo;乃群山之祖，五岳之宗，天帝之孙，神灵之府也。&rdquo; <br /><br />　　此外，泰山神还有黄飞虎说(出自《封神演义》)、圆常龙说(见《重修纬书集成》卷六《龙鱼河图》)及泰山地区部族首领少昊说(吕继祥《泰山民俗》)等。 <br /><br />　　以上诸说中，太昊说、金虹氏说、少昊氏说，若明若暗地显示了泰山信仰源起的轨迹&mdash;&mdash;泰山自然崇拜与祖先崇拜的结合，由单纯的自然神向人格神的过渡，人格化的泰山神与人同形同性。而盘古化身说，把泰山与神话里开天辟地的创世主盘古联系在一起，意在表明泰山信仰源远流长及声名的显赫，似亦无更探的层次结构。天孙说，正是古人认为泰山为&ldquo;峻极之地&rdquo;，是人与天相通的神地所在，泰山神为天帝之孙，正是&ldquo;泰山&rdquo;与&ldquo;天&rdquo;关系的形象化。而上清真人及山图公子说，则似乎完全是后世道教希图将泰山这一山林之神改造成道教仙真的努力。至于黄飞虎一说，虽为小说虚构，但在民间流传很广，其内涵不必深究。 <br /><br />　　关于东岳大帝泰山神的职司，大致可以概括为：兴云致雨，发生万物；通达天庭，固国安民；统领鬼魂，决人贵贱；延年益寿，长生成仙。 <br /><br />　　(一)泰山神能兴云致雨，主阴阳交代万物发生。《春秋公羊传》有记载：&ldquo;山川能有润千里者，天子秩而祭之。触石而出，肤寸而合，不崇朝而遍雨天下者，惟泰山尔!&rdquo;所以后代的祈雨活动，除了祭天外，在诸山之中，最重视的就是泰山。兴云致雨和万物生长相关，故而泰山神又主管着万物的生长。更重要的是，泰山位于&ldquo;万物始终&rdquo;、&ldquo;阴阳交泰&rdquo;的东方，所以&ldquo;主万物发生&rdquo;，是万物生长的源泉。 <br /><br />　　(二)泰山神乃天帝之孙，主更替王朝、稳固江山。几千年来，&ldquo;泰山安则四海皆安&rdquo;的观念深入人心，这一点突出表现在历代帝王的封禅和祭祀活动中。凡改朝换代王者易姓、天降祥瑞国家升平，或者天灾人祸动荡不安等情况，帝王必定或巡狩、或封禅、或祭祀，以期沟通神意，上承天命，固国安民。 <br /><br />　　(三)泰山治鬼，主人生死贵贱。泰山治鬼说大约始于汉代。《后汉书?乌桓鲜卑列传》说：&ldquo;中国人死者，魂归于岱(泰)山地也。&rdquo;泰山地府在蒿里山，汉《乐府歌辞?蒿里曲》就有&ldquo;蒿里谁家地，聚敛魂魄无贤愚&rdquo;的诗句。记述泰山神东岳大帝管理阴曹地府的文献资料不胜枚举，如《云笈七签》中称：&ldquo;泰山君领群神五千九百人，主治死生，百鬼之主帅也，血祀庙食所宗者也。&rdquo;《五岳真形图》载其职责，&ldquo;定生死之期，兼注贵贱之分，长短之事。&rdquo; <br /><br />　　(四)登泰山封禅，延年益寿，长生成仙。战国秦汉时期，信奉方仙道的方士们纷纷到泰山修炼求仙。&ldquo;仙&rdquo;与&ldquo;山&rdquo;有密切的联系，《说文》：&ldquo;屳(即仙)，人在山上貌，从人从山。&rdquo;《释名》说：&ldquo;老而不死曰仙。仙，迁也，迁入山也，故治字人傍山也。&rdquo;其次，帝王封禅求仙。汉武帝时，&ldquo;少君言上曰：&lsquo;祠灶则致物，致物而丹砂可化为黄金，黄金成以为饮食器则益寿，益寿而蓬莱仙者乃可见，见之以封禅则不死，黄帝是也。&rsquo;&rdquo;(11)汉武帝深以为然，曾先后七次到泰山行封祭天以求国泰、以求长生。武帝太始四年(前９３年)所铸一鼎的鼎铭即曰：&ldquo;登于泰山，万寿无疆。四海宁谧，神鼎传芳。&rdquo;第三，对普通百姓来说，上泰山，见神人便可长寿万年。据罗振玉《辽居杂著》所记西汉的《太山镜铭》曰：&ldquo;上泰山，见神人，食玉英，见沣泉，驾蛟龙乘浮云，白虎引兮直上天。受长命，寿万年。&rdquo;可见，在上至帝王，下至百姓心目中，都形成了较为系统的泰山主长生的信仰观念。 <br /><br />　　由自然崇拜过渡到一种精神上的信仰和依托形式，泰山神信仰不仅与政治权力相联系，而且与灵魂不灭及来世观念相结合，进入了道教阶段，人们对它的信仰具有了丰富的伦理意义和人文色彩。 </p>
+<p class="unnamed1" align="center"><strong>三、泰山的祭祀和历代褒封 </strong></p>
+<p class="unnamed1" align="left">　　泰山神信仰不仅在道教神仙信仰中拥有崇高地位，还随着社会发展广泛地与王权政治发生了联系。从单纯的自然崇拜，递延出代表国泰民安重大义理的绝对权威和象征。这一权威和象征突出体现在对泰山及泰山神的祭祀仪典和历代褒封上。 <br /><br />　　泰山祭祀起源很早，《山海经》中，已有许多祭岳的记述，但尚没有形成一种仪式化的典礼。作为较为定型的仪式化的祭山典礼，首见于三代帝王的&ldquo;巡狩&rdquo;。其后，不断地发展成为系统的祭祀礼制，成为国家典制的重要内容。 <br /><br />　　(一)巡狩。巡狩(巡守)最早的记载见于《虞书?舜典》，文曰：&ldquo;肆类于上帝， 于六宗，望于山川，遍于群神&rdquo;，&ldquo;岁二月，东巡狩，至于岱宗。柴，望秩于山川，肆觐东后。协时月；正日；同度量衡；修五礼，五玉、三帛、二生、一死，挚，如五器。卒，乃复。&rdquo;《越绝书》也说：&ldquo;禹巡狩大越，见耆老，纳诗书，审铨衡，平斗斛。&rdquo;可见巡狩是帝王加强统治的一种政治仪典，带有政治视察性质。其间，要接见诸侯，考核赏罚，统一制度，拜访老人，观察民俗，宣扬教化等。 <br /><br />　　巡狩一般在天下太平的时候进行。《白虎通》说：&ldquo;道德太平，恐远近不同化，幽隐有不得所&rdquo;，才巡狩&ldquo;考礼义、正法度，同律历，稽时月&rdquo;，以加强统一。 <br /><br />　　虞夏时期五年一巡狩，到周时十二年一巡狩。巡狩时二月至东岳，五月至南岳，八月至西岳，十一月至北岳，表现出时令与方位的对应，这或许是&ldquo;五行&rdquo;说的先声。 <br /><br />　　帝王之所以祭四岳，《礼记?逸礼》指出：&ldquo;所以至四岳者，盛德之山，四方之中，能兴云致雨也。&rdquo;帝王山祭的形式，主要有&ldquo;柴&rdquo;和&ldquo;望&rdquo;两种。&ldquo;柴&rdquo;就是&ldquo;燔柴以祀天&rdquo;(12)，即在山项上举火祭天。&ldquo;望&rdquo;，就是&ldquo;望秩以祀山川&rdquo;(13)。&ldquo;望&rdquo;指不亲至，远望祭祀；&ldquo;秩&rdquo;，指祭祀的等级标准，如&ldquo;五岳视三公，四渎视诸侯&rdquo;(14)。 <br /><br />　　巡狩大典标志着人与山关系的功利化、程序化。巡狩将政治教化与泰山神崇拜相结合的基本形式，为帝王封禅奠定了基础。 <br /><br />　　(二)封禅。封禅是在自然崇拜的基础上形成的一种宗教典礼，而作为一种政治制度，却是由巡狩发展而来的。在封建社会，它是国家最为隆重的神学和政治大典。所谓&ldquo;封&rdquo;，即是在泰山顶上筑一圆丘，密封玉牒祝文，以祭天；所谓&ldquo;禅&rdquo;，即是在山下筑一方坛，以祭地。《白虎通》解释说：&ldquo;天以高为尊，地以厚为德&rdquo;，封即是&ldquo;增高&rdquo;，禅即是&ldquo;广厚&rdquo;，增高以报天，广厚以报地，&ldquo;明天地之所命，功成事遂，有益于天地，若高者加高，厚者加厚矣。&rdquo;封禅大典的实质，即沟通天意，上承天命。 <br /><br />　　封禅之说，最早见于《管子?封禅篇》，管仲说：&ldquo;古者封泰山禅梁父者七十二家，而夷吾所记者十有二焉&hellip;&hellip;皆受命然后得封禅。&rdquo;自上古伏羲氏到周朝七十二家封禅泰山的帝王中，较为著名的有炎帝、黄帝、颛顼、尧、舜、禹、汤、周成王等。有确切记载的第一个到泰山封禅的帝王是秦始皇，之后汉武帝、汉光武帝、唐高宗、唐玄宗、宋真宗等先后封禅泰山。虽然封禅是祭天，不是祭泰山神，但封禅可以说是泰山信仰的特殊形态。 <br /><br />　　帝王封禅是有条件的。据《史记?封禅书》载：一是受命于天，易姓称王者。二是天下太平，有祥瑞出现。如《吕氏春秋?应同篇》所言：&ldquo;凡帝王者之将兴也，天必先降祥于下民。&rdquo;三是帝王应为功高德厚者。封禅作为&ldquo;统和天人&rdquo;的盛典，表明统治者更为自觉地利用泰山，借泰山神道设教。在这一过程中，泰山神由一般的自然神人格化为有帝王之尊的神灵，泰山的政治色彩越来越浓了。 <br /><br />　　(三)神祭。从宋真宗之后，就再无封禅，但金、元、明、清对泰山的祭祀仍在继续。《金史?礼志七》载：&ldquo;大定四年(１１６４)礼官言：&lsquo;岳镇海渎，当以五郊迎气日祭之。&rsquo;诏以典礼&hellip;&hellip;立春，祭东岳于泰安州&hellip;&hellip;&rdquo;《元史?祭祀志五?岳镇海渎常祀》曰：&ldquo;至元三年(１２６６)夏四月，定岁祀岳镇海渎之制，正月东岳&hellip;&hellip;三月南岳&hellip;&hellip;六月中岳&hellip;&hellip;七月西岳&hellip;&hellip;十月北岳&hellip;&hellip;&rdquo;从这些记载中不难看出，在五岳之中，东岳泰山已失去往日突出的地位，祭祀泰山，已与其它山岳并无本质差别。明代祭山川海渎，帝王并不亲至。明太祖、成祖、宣宗、英宗、代宗、宪宗、孝宗、武宗、世宗、穆宗、神宗均曾遣官致祭泰山。另外，在京都还设有山川坛，专祀山川。清代沿袭明制，仍在地祇坛兼祭山川海渎，同时也遣官致祭五岳。此外，帝王在外出巡幸时，也往往附祀山岳神。康熙帝&ldquo;南巡江浙，五至泰安，躬祀岱岳。&rdquo;(15)乾隆帝十一次到泰山，祀岳神。其《谒岱庙作》诗描述其祭神动机：&ldquo;肃拜无私祷，抒诚心始安。&rdquo;一是为民祝福，一是求得心理安定。明清两代，在对名山大川的关系上，泰山神的政治色彩明显淡化，不再以帝号相称，而恢复其自然神的面目。 <br /><br />　　关于泰山神敕封&ldquo;东岳大帝&rdquo;及历代褒封问题，史志碑铭中有许多详细的记载。封禅的兴起，又促使泰山信仰与天地信仰相联系，泰山神又成为&ldquo;天帝之孙&rdquo;，且地位越来越高。汉明帝永平年间被封为&ldquo;太山元帅&rdquo;，魏晋时期称&ldquo;泰山府君&rdquo;。特别是唐代以后，伴随着帝王们到泰山封禅告祭，泰山神不断被加封。据《唐会要》记载，武则天垂拱二年(６８６)七月初一日，封泰山神为&ldquo;天中王&rdquo;；武则天万岁通天元年(６９６)四月初一日，尊为&ldquo;天齐君&rdquo;。唐玄宗开元十三年(７２５)封禅泰山时，封泰山神为&ldquo;天齐王&rdquo;。最后一位封禅泰山的皇帝&mdash;&mdash;宋真宗，大中祥符年间(１００８－１０１６)先是诏封泰山神为&ldquo;仁圣天齐王&rdquo;，其后又加封为&ldquo;天齐仁圣帝&rdquo;。元至元二十八年(１２９１)春二月，元世祖再加封泰山神为&ldquo;天齐大生仁圣帝&rdquo;。至明代，这种情况才发生转变，明太祖去泰山神历代封号。明清两代虽多有祭祀泰山，但从未再加封神号，泰山政治色彩逐渐淡化，而神学气息越来越浓。这是人格化的&ldquo;东岳大帝&rdquo;向自然神&ldquo;东岳泰山之神&rdquo;的最终复归。 </p>
+<p class="unnamed1" align="center"><strong>四、泰山神信仰的影响 </strong></p>
+<p class="unnamed1" align="left">　　泰山神东岳大帝信仰对泰山地区的政治、经济、文化乃至中华民族的凝聚力都产生了一定的影响。 <br /><br />　　首先，由于&ldquo;泰山安则四海皆安&rdquo;的观念深入人心，历代帝王祭祀封禅泰山对于稳定社会秩序有深远的影响。泰山神不断加封与历代帝王到泰山封禅告祭有着密切联系。帝王们之所以一再加封泰山神，一是表明他们是&ldquo;受命于天&rdquo;的帝王，即所谓&ldquo;君权神授&rdquo;。以康熙帝为例，满清以少数民族入主中原，为了巩固他们在以汉族人主体的中原的统治，康熙帝派人航海探测泰山的发源，并亲著《泰山龙脉论》，称泰山发源于长白山，为&ldquo;受命于天&rdquo;入主中原寻找神学依据。二是&ldquo;夸示内外&rdquo;。这在宋真宗身上表现的尤为突出。&ldquo;澶渊之盟&rdquo;后的宋真宗为了摆脱国内外的压力，造作祥瑞，封禅泰山，又借封禅成功加封泰山神，其目的就是&ldquo;因封禅以镇服四海，夸示夷狄&rdquo;，巩固政权。三是借东岳大帝主生亦主死，执掌人间地府，主人贵贱高下、寿禄厚薄、善善恶恶、生死短长，而神道设教，来引导百姓&ldquo;弃恶扬善&rdquo;、&ldquo;多积阴德&rdquo;，进而稳定社会，巩固江山。 <br /><br />　　其次，泰山神是中华民族精神的象征，东岳大帝信仰有促进民族凝聚力的作用。再者，古人认为，&ldquo;中国人死者魂神归岱山也&rdquo;(16)，魂神归泰山就是归泰山神管辖。这是一种&ldquo;落叶归根&rdquo;思想。泰山之所以能成为中华民族包括海外华人心目中的神山，成为中华民族的共同象征，落叶归根的传统文化、心理积淀应该说是一个重要因素。 <br /><br />　　第三，泰山神信仰促进了泰安城市的发展和经济的繁荣。泰安城的兴起，与历代帝王祭祀封禅泰山息息相关。唐代以前，泰山脚下仅是一个镇级治所，称岱岳镇。据《金大定重修宣圣庙记碑》载：&ldquo;宋开宝五年(９７２)徙乾封县于此，大中祥符元年(１００８)改曰奉符，废齐阜昌之初(１１３０)改为军，曰泰安，本朝开国六十有八年(１１８２)升之为州。&rdquo;泰安城内&ldquo;棂星门至端礼门，阔数百亩，货郎扇客，杂错其间，交易者多女人稚子。&rdquo;此外，神诞庙会，作为集宗教信仰和商业贸易为一体的特殊的经济现象，也为经济和民俗文化的丰富起到极大的促进作用。追根溯源，宋大中祥符年间开始的庆贺东岳大帝圣诞的活动，为东岳泰山庙会的正式定制奠定了基础。宋、元、明、清延至民国，东岳庙会千年兴盛。从以宋代为背景的《水浒传》中的有关描写中可窥庙会兴盛之一斑：&ldquo;原来庙上好生热闹，不算一百二十行经商买卖，只客店也有一千四五百家，延接天下香官。到菩萨圣节之时，也没安著人处，许多客店，都歇满了。&rdquo;明代东岳庙会依然影响甚大，明人陆容的《菽园杂记》卷七引许彬《重修蒿里山祠记》载：&ldquo;每年三月二十八日，属东岳帝君诞辰，天下之人不远数千里，各有香帛牲牢来献。&rdquo;至于清代的泰山庙会，清人唐仲冕在《岱览?岱庙》中有记载：&ldquo;庙城宏敞，每年祈赛云集，布幕连肆，百剧杂陈，肩摩趾错者数月。旧传三月廿八日为岳帝诞辰，是日尤胜。&rdquo; <br /><br />　　东岳大帝信仰对文化艺术的发展也产生了广泛的影响。正如郭沫若先生指出：&ldquo;泰山是中华文化的局部缩影&rdquo;。在这个&ldquo;缩影&rdquo;中，泰山神东岳大帝的形象是重要的组成都分。其主要表现有两点：一是正史中有许多关于泰山神东岳大帝的记载和遍及全国各地的东岳庙。一是历代文学艺术作品也往往涉及东岳大帝。如《搜神记》、《冥报录》、《集异记》、《续夷坚志》、《剪灯余话》、《水浒传》、《封神演义》、《耳食录》、《金屋梦》等等都有泰山神东岳大帝的描述；诗词歌赋、戏曲以及游记散文、民间传说涉及到泰山神的更是不胜枚举。泰山岱庙天贶殿内的《东岳大帝启跸回銮图》场面恢宏、构图精巧。至于民俗文化，泰山神东岳大帝信仰的影响和贡献就更大了。泰山地区的民俗以泰山信仰为主导，以对泰山神和碧霞元君的信仰民俗为主线，社会民俗、经济民俗和旅游竞技民俗交织融汇。尤其是对地府、人间、天庭三重空间的信仰格局，使该地区历代都保持了颇具规模的香社组织、祈福还愿的香客队伍。因此，泰山民俗具有了独特的特点，历来为民俗研究者所重视。 <br /><br />　　泰山神东岳大帝由于泰山的特殊地位，经历了由自然神而人格神又自然神的演变过程，这在道教神仙谱系中是比较有代表性的。这个历程典型地、具体而微地反映了在原始自然崇拜基础上道教自然之神的形成过程。进行泰山神信仰的研究，对于体认道教神仙所蕴含的敬畏自然、统和天人的精神，具有形象的解说意义。 </p>
+<p class="unnamed1" align="left"><strong>注： </strong><br /><br />(1) 福井康顺等监修之《道教》第一卷 <br /><br />(2) 《岱史》 <br /><br />(3) 《白虎通》 <br /><br />(4) 《礼记?祭法》 <br /><br />(5) 《春秋公羊传》 <br /><br />(6) 《礼记?祭法》 <br /><br />(7) 《左传?庄公二十二年》 <br /><br />(8) 《虞书?舜典》 <br /><br />(9) 《礼记?乡饮酒义》 <br /><br />(10) 《国语?鲁语下》 <br /><br />(11) 《史记?封禅书》 <br /><br />(12) 《虞书?舜典》 <br /><br />(13) 同上 <br /><br />(14) 同上 <br /><br />(15) 《清史稿?礼志八》 <br /><br />(16) 《后汉书?乌桓传》 <br /></p>
+<p class="unnamed1" align="right"><br /><strong>(作者单位：山东省道教协会) </strong><br /><br /></p>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,565 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260200000000000000&targetPage=Fdjxy2">
+						中国道教(1987—1997)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260220000000000000&perPageNum=15&targetPage=Fdjxy3">
+						1991年第4期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	张伯瑞生平考辨
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">樊光春</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;张伯端是北宋时道教著名学者，内丹术之集大成者，全真教南宗始祖。由于他本人在生前没有建立系统的宗教团体，所以留给后人的生平材料十分零碎。在近世有关他生平事迹的论著中，相互抵牾和可疑之处比比皆是。为求对此有一个比较清晰和近于准确的线条，特作如下考辨。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">一</font><font face="Times New Roman">)</font><font face="宋体">天台人还是临海人</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;关于张伯端的籍贯，历代有&ldquo;天台人&rdquo;<font face="Times New Roman">(</font><font face="宋体">《仙术秘库》</font><font face="Times New Roman">;</font><font face="宋体">《历世真仙体道通鉴》，以下简称《体道通鉴》</font><font face="Times New Roman">)</font><font face="宋体">、&ldquo;天台缨络街人&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《悟真篇集注例言》，《粤西金石略》，《历代神仙通鉴》，以下简称《神仙通鉴》</font><font face="Times New Roman">)</font><font face="宋体">、&ldquo;台州人&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《续文献通考》</font><font face="Times New Roman">)</font><font face="宋体">、&ldquo;临海人&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">康熙《浙江通志》</font><font face="Times New Roman">)</font><font face="宋体">、</font><font face="Times New Roman">(</font><font face="宋体">临海</font><font face="Times New Roman">)</font><font face="宋体">&ldquo;郡人&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">民国《台州府志》</font><font face="Times New Roman">)</font><font face="宋体">等</font><font face="Times New Roman">5</font><font face="宋体">种说法。在今人的论著中，大多持&ldquo;天台人&rdquo;一说。考诸有关史籍及方志，笔者以为</font><font face="Times New Roman">:</font><font face="宋体">《续文献通考》、《浙江通志》和《台州府志》记载较准，张伯端本为临海人。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;其一，从有关县志查寻人物传，张伯端见于临海，而不见于天台，可见张伯端实为临海人无疑。天台、临海二县毗邻，如张确系天台人，修志者决不会坐视他县滥记。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;其二，从现存方志中，天台、临海二县均未见&ldquo;缨络街&rdquo;地名词条。唯民国《临海县志》记&ldquo;紫阳道观&rdquo;时提及&ldquo;郡城璎珞街&rdquo;。此处之郡城，当然是指临海。该志在记载城坊时有&ldquo;悟真坊&rdquo;一地名，说是南宋庆元三年<font face="Times New Roman">(1197)</font><font face="宋体">因张伯端故居而命名。作者没有说此前何名，与前文对照，可以认为即是缨络街。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;其三，临海历为州郡治所在。北宋时政区名台州临海郡，又称台州，因此临海或称州治，或称郡城。后人说张伯端为台州人或临海郡人都不无道理。而&ldquo;天台人&rdquo;一说，很可能是将台州误为天台<font face="Times New Roman">;</font><font face="宋体">加之天台境内之崇道观为道教著名宫观，清初重建时又与清世宗救封张伯端的传说有关。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">二</font><font face="Times New Roman">)</font><font face="宋体">是否&ldquo;少业进士&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《悟真篇集注&middot;陆彦孚记》说张伯端为&ldquo;少业进士&rdquo;，《宗教词典》和《中国道教史》都采用此说。此语颇费解，似乎是说少时走的是科举之道，易使人理解为&ldquo;进士及第&rdquo;。张伯端的《悟真篇自序》中说自己&ldquo;幼亲善道，涉猎三教经书&rdquo;，但未提到科举之途。《浙江通志》和《台州府志》亦未提此事。《神仙通鉴》则说他&ldquo;曾肆力於儒，肄业国学，久不第&rdquo;<font face="Times New Roman">;</font><font face="宋体">所以，《中国道教&middot;道教辞典》说他&ldquo;少为太学生，举进士不第&rdquo;。而严振非发表在《中国道教》</font><font face="Times New Roman">1988</font><font face="宋体">年第</font><font face="Times New Roman">4</font><font face="宋体">期上的文章又说，张伯端&ldquo;青年时中举&rdquo;，不知其根据何在。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《台州府志》录有府属各县唐以后历代进士、举人<font face="Times New Roman">(</font><font face="宋体">明以后</font><font face="Times New Roman">)</font><font face="宋体">名单，均未见张伯端之名。张为台州著名的文化人，如真是进士，则绝不会遗漏。此外，从张伯端&ldquo;为吏，在府办事&rdquo;的身份看，也与进士或举人应当得到的地位不合。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">三</font><font face="Times New Roman">)</font><font face="宋体">天台观为南宗祖庭质疑</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;近见一些论著，以天台桐柏山崇道观为道教南宗祖庭，认为张伯端著《悟真篇》于此。如严振非文《杜光庭和张伯端》<font face="Times New Roman">:</font><font face="宋体">&ldquo;宋大中祥符五年</font><font face="Times New Roman">(1012)</font><font face="宋体">返回天台，住持桐柏山崇道观，将毕生所学著成《悟真篇》。&rdquo;雷闻文《道教南宗祖庭天台桐柏宫兴衰记》</font><font face="Times New Roman">(</font><font face="宋体">《中国道教》</font><font face="Times New Roman">1989</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&middot;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">4)<font face="宋体">&ldquo;宋仁宗时</font><font face="Times New Roman">(1022-1063)</font><font face="宋体">有天台本地学者张紫阳，得海蟾翁真传，悟《周易参同契》，居桐柏修证，著有《悟真篇》等书。&rdquo;此外，还有关于张伯端于雍熙年间</font><font face="Times New Roman">(984-987)</font><font face="宋体">在崇道观传道的说法。这些说法不仅根据不足，而且与多数史籍所述张伯端之生平明显不合。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;据《浙江通志》，张伯端初为府吏，因焚烧所署案卷，按火烧文书律遣戍。又有&ldquo;浪迹云水&rdquo;<font face="Times New Roman">(</font><font face="宋体">《体道通鉴》、《神仙通鉴》</font><font face="Times New Roman">)</font><font face="宋体">，&ldquo;谪岭南兵籍&rdquo;，治平中</font><font face="Times New Roman">(1064-1067)</font><font face="宋体">随陆诜自桂林转成都</font><font face="Times New Roman">(</font><font face="宋体">见《悟真篇集注&middot;陆彦孚记》</font><font face="Times New Roman">)</font><font face="宋体">两说。云水在今广东，岭南亦为今两广之地。看来此二说很相近。张伯端《悟真篇自序》也说，熙宁己酉岁</font><font face="Times New Roman">(1069),</font><font face="宋体">&ldquo;因随龙图陆公入成都&hellip;&hellip;遂感真人授金丹药物火候之诀。&rdquo;这些都说明，张伯端成都之行以前，绝无在崇道观修道的经历。而崇道观地近临海，身为府吏的张伯端于闲暇之时曾去游览则是可能的。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;崇道观原名桐柏宫，为唐代著名道士司马承祯所建，宋大中祥符年间<font face="Times New Roman">(1008-1015)</font><font face="宋体">改为今名。但南宋乾道二年</font><font face="Times New Roman">(1166)</font><font face="宋体">刻立《桐柏崇道观帖碑》和乾道四年</font><font face="Times New Roman">(1168)</font><font face="宋体">刻立《重修桐柏记》，都只字未提张伯端事，而此时距张伯端坐化仅</font><font face="Times New Roman">80</font><font face="宋体">余年。有关张伯端修道崇道观的传说，似乎起于清初。《台州府志》引《紫阳宫碑记》和《两浙名贤外录》</font><font face="Times New Roman">:</font><font face="宋体">清世宗因读《悟真篇》有深契，于雍正十一年</font><font face="Times New Roman">(1733)</font><font face="宋体">敕封张伯端为大慈圆通禅仙紫阳真人，十三年</font><font face="Times New Roman">(1735)</font><font face="宋体">发帑于台州张伯端故居建楼，并御制碑文。而《临海县志》则记录了一则传说</font><font face="Times New Roman">:</font><font face="宋体">清世宗梦一天台山道士乞住地下，派员查访天台，桐柏山崇道观正被豪族占据。因此派员重建崇道观，并在张伯端故居缨络街</font><font face="Times New Roman">(</font><font face="宋体">即前述悟真坊</font><font face="Times New Roman">)</font><font face="宋体">和坐化处百步岭各建紫阳道观</font><font face="Times New Roman">(</font><font face="宋体">即紫阳宫</font><font face="Times New Roman">)</font><font face="宋体">一处。这些记述，都未提到张伯端是否在崇道观修道，看来天台县崇道观之重建亦仅仅受惠于临海境内两处紫阳道观之兴建而已。真正的道教南宗祖庭，应是临海紫阳宫，而非天台崇道观。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">四</font><font face="Times New Roman">)</font><font face="宋体">炼成内丹在何处</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;张伯端从事内丹修炼的实践，始于成都。此后活动于荆南、秦陇、河东一带。主要著述是《悟真篇》、《金丹四百字》和《青华秘文》。活动路线是<font face="Times New Roman">:</font><font face="宋体">成都&mdash;&mdash;荆南&mdash;&mdash;金州&mdash;&mdash;河东&mdash;&mdash;阶州、凤州&mdash;&mdash;邠州&mdash;&mdash;成都。由成都始，复以成都终。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;熙宁二年<font face="Times New Roman">(1069)</font><font face="宋体">，在成都天回寺&ldquo;遇青城丈人刘师传金丹药物火候之秘，&hellip;&hellip;乃改名用成，号紫阳。&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《神仙通鉴》</font><font face="Times New Roman">)</font><font face="宋体">&ldquo;当年主公倾背。&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">张伯端《悟真篇后序》</font><font face="Times New Roman">)</font><font face="宋体">&ldquo;主公&rdquo;指陆诜，《宋史&middot;陆就传》所载其卒年为熙宁三年</font><font face="Times New Roman">(1070)</font><font face="宋体">，与张说略异。张伯端失去依附，离蜀，&ldquo;往荆南访都运马处厚，得其资财，择兴安之汉阴山中</font><font face="Times New Roman">(</font><font face="宋体">今之汉中紫阳县紫阳洞</font><font face="Times New Roman">)</font><font face="宋体">修炼。&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《神仙通鉴》</font><font face="Times New Roman">)</font><font face="宋体">按</font><font face="Times New Roman">:</font><font face="宋体">荆南在今湖北省西部，宋时为荆南道，治在今江陵。据《宋史&middot;马默传》，马处厚名默，单州成武人</font><font face="Times New Roman">(</font><font face="宋体">有些史籍说马默为扶风人，误，可能与后述石泰事相混</font><font face="Times New Roman">)</font><font face="宋体">，曾任广西、河东转运使，河北都转运使等职。引文所称&ldquo;都运&rdquo;，亦即转运使。按《悟真篇集注&middot;陆彦孚记》，陆就之婿张坦夫对马默说&ldquo;吾龙图公之子婿&rdquo;一语，则马与陆生前似曾相识。因此，张伯端投靠马默并向其索求资财，很可能出自陆就临终前的安排，而且由蜀至鄂路甚近便。这是张伯端第一次投靠马默。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;张伯端从马默那里获得资助后，就近溯汉水而上，见金州以西汉水南岸瓮儿山山水清奇，古洞幽深，遂止於此，&ldquo;焚修面壁，於是故老传其冲举，后有《悟真篇》已行於世云。&rdquo;<font face="Times New Roman">(</font><font face="宋体">道光《紫阳县志&middot;艺文志》</font><font face="Times New Roman">)</font><font face="宋体">元丰年间，即有好事者在其修炼之洞外石壁上凿刻了&ldquo;有仙则名&rdquo;等字</font><font face="Times New Roman">(</font><font face="宋体">笔者曾亲见，可惜毁粉前数年</font><font face="Times New Roman">)</font><font face="宋体">。《紫阳县志》还收录有元人杨奂《紫阳阁》一诗，似在元代已为之建阁。明正德五年</font><font face="Times New Roman">(1510)</font><font face="宋体">设紫阳堡，七年</font><font face="Times New Roman">(1512)</font><font face="宋体">升县，《郡县释名》</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;县南紫阳滩旁有三洞，乃紫阳真人所居，县名本此。&rdquo;除县名外，&ldquo;县治之江滩、沟渠、茗茶、竹、石，均以紫阳得名。&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">道光《紫阳县志&middot;艺文志》</font><font face="Times New Roman">)</font><font face="宋体">这些记述大致可以证实张伯端&ldquo;修炼于汉阴山中&rdquo;的史实。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;熙宁八年<font face="Times New Roman">(1075)</font><font face="宋体">，张伯端著成《悟真篇》。为寻找传人，&ldquo;携游河东，值马处厚在，悉以丹诀授之。&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《神仙通鉴》</font><font face="Times New Roman">)</font><font face="宋体">这是张伯端第二次投靠马默。此时马默任河东转运使，衙署当在并州</font><font face="Times New Roman">(</font><font face="宋体">今山西阳曲</font><font face="Times New Roman">)</font><font face="宋体">。翁葆光《张紫阳事迹本末》说，张伯端&ldquo;后依荆湖马处厚，其道乃成。值处厚之河东，出《悟真篇》，札使流传。&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">仇兆鳌《悟真篇集注》</font><font face="Times New Roman">)</font><font face="宋体">这是把张两次依马误记在一起，而漏掉了&ldquo;汉阴山中&rdquo;一段。看来张伯端二次投马时间也不长。据《马默传》，元丰初，马默已移任充州转运使、徐州知府、河北都转运使等职。二人分别于河东，约在熙宁十年</font><font face="Times New Roman">(1077)</font><font face="宋体">。别离时，张将先前所作《金丹四百字》相赠，</font><font face="Times New Roman">(</font><font face="宋体">见《金丹四百字序》</font><font face="Times New Roman">)</font><font face="宋体">而后再入秦陇寻找传人。但&ldquo;三传非人，三遭祸患，皆不逾两旬。&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《悟真篇后序》</font><font face="Times New Roman">)</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;此时，他主要活动于秦岭西段，汉水、嘉陵江上游的凤州、阶州一带。《悟真篇集注例言》说<font face="Times New Roman">:</font><font face="宋体">&ldquo;闻陕西阶州</font><font face="Times New Roman">(</font><font face="宋体">笔者按</font><font face="Times New Roman">:</font><font face="宋体">阶州在甘肃，今武都</font><font face="Times New Roman">)</font><font face="宋体">士女多崇尚道教，相传真人曾流寓於此，故百世而下犹闻风兴起。&rdquo;在凤州</font><font face="Times New Roman">(</font><font face="宋体">今陕西凤县</font><font face="Times New Roman">)</font><font face="宋体">，他的传道活动受到了非难，各史籍均未说明原因。笔者揣测，可能是他身为儒者而四处传道，且所传&ldquo;非人&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">似为行不法之事者</font><font face="Times New Roman">)</font><font face="宋体">，因此惹恼了凤州太守。他被处流放，押送出境，其流放地似在陕北。途径；邠州</font><font face="Times New Roman">(</font><font face="宋体">今陕西郴县</font><font face="Times New Roman">)</font><font face="宋体">，因大雪，在酒肆遇石泰。石与邠州太守有旧交，经说情得获释。张伯端为报此恩，乃将内丹之术尽授与石。</font><font face="Times New Roman">(</font><font face="宋体">见《体道通鉴》</font><font face="Times New Roman">)</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;此后，张伯端二次入蜀。&ldquo;再遇青华真人授以玉清金筒长生金宝内丹之诀。&rdquo;<font face="Times New Roman">(</font><font face="宋体">《神仙通鉴》</font><font face="Times New Roman">)</font><font face="宋体">此即《青华秘文》的来由。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">五</font><font face="Times New Roman">)</font><font face="宋体">何年&ldquo;丹成返台州&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;张伯端返台州的时间，未见任何史籍有明文记载。或言于汉阴山中修炼，&ldquo;丹成遂返台州&rdquo;<font face="Times New Roman">(</font><font face="宋体">《神仙通鉴》</font><font face="Times New Roman">);</font><font face="宋体">或言&ldquo;尝入成都遇真人得金丹术以归&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">民国《台州府志&middot;方外记》</font><font face="Times New Roman">)</font><font face="宋体">。都未指出具体的年份。今据张伯端《青华秘文&middot;心为君论》推算，约在元丰二年</font><font face="Times New Roman">(1079)</font><font face="宋体">或三年</font><font face="Times New Roman">(1080)</font><font face="宋体">。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;张伯端自称<font face="Times New Roman">:</font><font face="宋体">&ldquo;张子野人，身披百衲。自成都归于故山，筑宝于山青水绿之中。万物罄然，而怡然若有所得。客传于市曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;遭贬张平叔，归于山矣。&rsquo;从游之士，丛然而至。立于庭，且泣且拜曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;先生固无恙乎</font><font face="Times New Roman">?</font><font face="宋体">且夫奔涉山川，逾越险阻者，于兹十年。&hellip;&hellip;，&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;这段文字表明<font face="Times New Roman">:</font><font face="宋体">其一，张伯端自从遣戍之后，中途从未曾返回故里。这次返归是自成都</font><font face="Times New Roman">;</font><font face="宋体">其二，张伯端遣戍于治平初</font><font face="Times New Roman">(1064)</font><font face="宋体">以前，距著成《悟真篇》已是</font><font face="Times New Roman">11</font><font face="宋体">年，加上他云游河东、秦陇寻找传人，更超过此数。而文中所说&ldquo;奔涉山川，逾越险阻，于兹十年&rdquo;，当指陆诜死后张伯端只身云游的经历。从熙宁二年</font><font face="Times New Roman">(1069)</font><font face="宋体">或三年</font><font face="Times New Roman">(1070)</font><font face="宋体">陆诜死，到元丰年间&ldquo;与刘奉真之徒广宣佛法&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《张紫阳事迹本末》</font><font face="Times New Roman">)</font><font face="宋体">，恰在</font><font face="Times New Roman">10</font><font face="宋体">年左右。而到元丰五年</font><font face="Times New Roman">(1082)</font><font face="宋体">张伯端已坐化。所以，将其返归台州的时间定在元丰二年</font><font face="Times New Roman">(1079)</font><font face="宋体">或三年</font><font face="Times New Roman">(1080)</font><font face="宋体">是同有关史籍的记述相吻合的。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">六</font><font face="Times New Roman">)</font><font face="宋体">丹道传授哪几人</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;今人论著中，大多注意了《悟真篇》的传道世系，而对张伯端其他丹道著述的传授有所忽略。据笔者考究，张伯端的传道世系共有<font face="Times New Roman">7</font><font face="宋体">个</font><font face="Times New Roman">:</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;1.<font face="宋体">传《悟真篇》给马默于河东，时在熙宁八年至十年</font><font face="Times New Roman">(1075-1077)</font><font face="宋体">之间。其后由马默传给张坦夫，再传至陆师闵，三传至陆彦孚。</font><font face="Times New Roman">(</font><font face="宋体">见《陆彦孚记》</font><font face="Times New Roman">)</font><font face="宋体">这一世系诸人均为教外人士，且多达官显贵。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;2.<font face="宋体">传《悟真篇》给石泰于邠州，其时约在熙宁十年</font><font face="Times New Roman">(1077)</font><font face="宋体">至元丰二年</font><font face="Times New Roman">(1079)</font><font face="宋体">之间。石泰，字得之，常州人</font><font face="Times New Roman">(</font><font face="宋体">《历世真仙通鉴》</font><font face="Times New Roman">)</font><font face="宋体">。居陕西扶风，&ldquo;以医药济人不受谢，令植杏一株，久遂成林，人因号杏林&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">顺治《扶风县志》</font><font face="Times New Roman">)</font><font face="宋体">，其地亦名杏林</font><font face="Times New Roman">(</font><font face="宋体">《神仙通鉴》</font><font face="Times New Roman">)</font><font face="宋体">。石泰得《悟真篇》后，成为一名道士，崇宁五年</font><font face="Times New Roman">(1106)</font><font face="宋体">传给薛道光。薛道光，一名式，一名道源，陕府</font><font face="Times New Roman">(</font><font face="宋体">今河南陕县</font><font face="Times New Roman">;</font><font face="宋体">《张真人传道源流》记为陕西，误</font><font face="Times New Roman">)</font><font face="宋体">鸡足山人，一说阆州</font><font face="Times New Roman">(</font><font face="宋体">今四川阆中</font><font face="Times New Roman">)</font><font face="宋体">人。原为僧，法号紫贤。祟宁中游长安，五年冬&ldquo;寓郿县之青镇，听讲佛寺。适遇凤翔府扶风县杳林骚道人石泰，&hellip;&hellip;备言紫阳传道之由，紫贤乃稽首皈依，请因受业，卒学还丹，传授口诀真要。且戒令往通邑大都依有力者，即可图之。&rdquo;此后，薛道光即由陕南下，南宋初至临安</font><font face="Times New Roman">(</font><font face="宋体">今杭州</font><font face="Times New Roman">)</font><font face="宋体">，注《悟真篇》</font><font face="Times New Roman">(</font><font face="宋体">《历世真仙通鉴》</font><font face="Times New Roman">)</font><font face="宋体">。薛道光之后，再传陈楠</font><font face="Times New Roman">(</font><font face="宋体">惠州人</font><font face="Times New Roman">)</font><font face="宋体">，三传白玉蟾</font><font face="Times New Roman">(</font><font face="宋体">福建侯官人</font><font face="Times New Roman">)</font><font face="宋体">，至此形成道教南宗的完整世系。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;3.<font face="宋体">传《悟真篇》给&ldquo;悟真子&rdquo;，再传刘广益，年代不详。刘再传翁葆光，有《悟真篇注》传世。甄淑《赠白龙洞刘道人翼注》</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;相传刘道人名永年，号顺理子，乃紫阳弟子。元吴兴林净云</font><font face="Times New Roman">:</font><font face="宋体">刘广益，别号顺理子，即白龙洞道人也，系紫阳入室之徒。&rdquo;此处称刘广益即白龙洞刘道人，明显与其他史籍不合。据龙眉子《金液还丹印证图后识》</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;余师若一子尝曰</font><font face="Times New Roman">:</font><font face="宋体">曾闻我师无名子翁先生云，吾师乃广益顺理子刘真人，於绍兴戊午，刘遇悟真得其道。&rdquo;说明刘广益最早也是南宋绍兴年间</font><font face="Times New Roman">(1131-1162)</font><font face="宋体">之人。《悟真篇集注例言》也说</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;真人别传刘永年，号广益子。刘传翁葆光，光号无名子，乃宋孝宗时人。&rdquo;据此可知。刘广益传翁葆光在孝宗之际</font><font face="Times New Roman">(1162-1189);</font><font face="宋体">其时白龙洞刘道人已尸解百年左右。所以，刘广益与白龙洞刘道人当为二人，详见后叙。至于刘广益之师&ldquo;悟真子&rdquo;究系何人，尚不得而知。诸家所称系张伯端本人，似不可信，只能认为是某道士托名。此处所述刘广益生平说明，他不可能与张伯端同时，当然不会成为入室弟子。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;4.<font face="宋体">传《金丹四百字》给马自然，马传白玉蟾。据《金丹四百字按》</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;《金丹四百字》，张公传之马自然，马又传之白紫清。白公上紫阳真人书云</font><font face="Times New Roman">:</font><font face="宋体">昨到武夷，马自然口授谆谕。&rdquo;此处所言马自然，生平不详。有人以为即是马默，似不妥。白玉蟾</font><font face="Times New Roman">(</font><font face="宋体">紫清真人</font><font face="Times New Roman">)</font><font face="宋体">为南宋嘉定</font><font face="Times New Roman">(1208-1224)</font><font face="宋体">前人，与马默</font><font face="Times New Roman">(1018-1098)</font><font face="宋体">不可能同时。但张伯端最先将《金丹四百字》传给马默却是事实，则马自然或许与马默有某种关系，由彼处得到《金丹四百字》亦有可能。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;5.<font face="宋体">传《青华秘文》给王邦叔。按《神仙通鉴》，是书著于二次赴成都时，约在元丰二年</font><font face="Times New Roman">(1079)</font><font face="宋体">前后。王邦叔得之，当在此后。据刘元一《青华秘文序》</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;远师真人王邦叔，不知何许人也。时年十九，侍紫阳真人为弟子。凡九年，&middot;&middot;&middot;&middot;&middot;一日侍师至罗浮观，&hellip;&hellip;先生遂出金丹图与邦叔，遂止罗浮，后十三年坐化。&rdquo;引文所说罗浮观，不详何处，&ldquo;止罗浮，后十三年坐化&rdquo;亦很可疑。张伯端自序说得很明白</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;自成都归于故山&rdquo;，并未言及其他地方</font><font face="Times New Roman">;</font><font face="宋体">故山当然是故乡。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;6.<font face="宋体">传内丹之术给刘仲远，即白龙洞刘道人。据北宋宣和四年</font><font face="Times New Roman">(1122)</font><font face="宋体">石刻《养气汤方记》</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;皇祐、至和间，刘君锡以事窜岭南，至桂州，遇刘仲远先生，&hellip;&hellip;仲远是时已百余岁&rdquo;。南宋绍兴十八年</font><font face="Times New Roman">(1148)</font><font face="宋体">桂林刘仙岩石刻《张平叔真人歌跋》：&ldquo;刘君讳景，字仲远，桂林人也，嘉祐末得是歌，解化于此岩。&rdquo;绍兴十九年</font><font face="Times New Roman">(1149)</font><font face="宋体">石刻《刘仙岩题诗记》</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;大宋嘉祐中，刘仲远先生隐居，自号太空子，得神仙诀，寿一百一十八岁，尸解而终。&rdquo;淳熙元年</font><font face="Times New Roman">(1174)</font><font face="宋体">石刻《桂林刘真人传迹》</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;仙翁姓刘，名景，字仲远，桂林人也。幼尚气节，次为屠，次为商&rdquo;，遇方士点化悟道，遍历名山。&ldquo;皇祐间还乡，容色不衰，父老异之，知其得道者也。乃栖于所居南溪山之阳石室中。&hellip;&hellip;公自号大空子，人问点化之术，即笑而不答。天台张平叔真人赠以长歌，叙以神仙造化之妙。公警悟，即与平叔、施肩吾从游，人莫知其契也。元丰八年九月&middot;&middot;&middot;&middot;&middot;一夕无恙而逝，&hellip;&hellip;寿年一百一十八岁。&rdquo;这几段文字所述刘道人之行状，基本吻合，显然与前述刘广益非同一人。又，石刻称刘道人得张伯端所赠长歌是在嘉拍</font><font face="Times New Roman">(1056-1063)</font><font face="宋体">末，说明张伯端在赴成都遇异人之前，即已对内丹术有较深造诣，同其自述&ldquo;幼亲善道，&hellip;&hellip;金丹之法，阅经群经&rdquo;亦相合。同时也说明，张伯端集内丹学之大成，绝非偶然。张赠刘歌之时，当系流放岭南之际，同刘仲远的交往，可能在遇陆诜之前。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;7.<font face="宋体">传道刘奉真之徒。据《历世真仙体道通鉴》</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;其弟子白龙洞刘道人名奉真，白日飞升，即建康府刘斗子也。&rdquo;这里又出现一个白龙洞刘道人，看来也与真正的白龙洞刘道人事迹不同。刘仲远为桂林人，而刘奉真却是建康</font><font face="Times New Roman">(</font><font face="宋体">今南京</font><font face="Times New Roman">)</font><font face="宋体">人。翁葆光《张紫阳事迹本末》</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;元丰年，与刘奉真之徒广宣佛法。&rdquo;从张伯端一贯主张&ldquo;道禅合流&rdquo;的思想倾向看，他在晚年与禅僧交往、坐化后行佛教焚化之法，都在情理之中，但在弘法的同时，必定也贯穿了内丹术的传布，而这正是他毕生奋斗的主要内容。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;除上述<font face="Times New Roman">7</font><font face="宋体">条主要线索外，还有《神仙通鉴》所列&ldquo;台州处士徐中行&rdquo;，但缺乏其他史料说明。至于张伯端自序中提到的&ldquo;三传非人&rdquo;，则更无从追溯了。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">七</font><font face="Times New Roman">)</font><font face="宋体">住世九十几</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;关于张伯端住世的年龄，史籍上有两种说法<font face="Times New Roman">:</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;一是翁葆光《张紫阳事迹本末》所记<font face="Times New Roman">:</font><font face="宋体">&ldquo;真人享年九十六。自太宗丁亥，至神宗壬戌岁。&rdquo;按</font><font face="Times New Roman">:</font><font face="宋体">太宗丁亥即雍熙四年</font><font face="Times New Roman">(987)</font><font face="宋体">，神宗壬戌即元丰五年</font><font face="Times New Roman">(1082)</font><font face="宋体">，实为</font><font face="Times New Roman">95</font><font face="宋体">周岁。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;二是《历世真仙体道通鉴》所记<font face="Times New Roman">:</font><font face="宋体">&ldquo;元丰五年三月十五日跌坐而化，住世九十九岁。有尸解颂云</font><font face="Times New Roman">:</font><font face="宋体">四十欲散，浮云已空，一灵妙有，法界圆通，一好禅弟子用火烧化得舍利千百，大者如芡实焉，色皆绀礕。&rdquo;《神仙通鉴》、《台州府志》亦持&ldquo;住世九十九&rdquo;之说。按此说，其生年当为太平兴国八年</font><font face="Times New Roman">(983)</font><font face="宋体">。或按世俗记法，则为雍熙元年</font><font face="Times New Roman">(984)</font><font face="宋体">《中国道教&middot;道教辞典》</font><font face="Times New Roman">1990</font><font face="宋体">年第</font><font face="Times New Roman">4</font><font face="宋体">期即采此法。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;这两种不同的说法，对于卒年并无分歧，问题在于生年。前一种说法如确为翁葆光所记，则根据&ldquo;时近则迹真&rdquo;的原理，当为言之凿凿，可为信史。但后一种说法却似乎别有所宗。《神仙通鉴》载，张伯端于治平中在洛阳遇邵雍，&ldquo;雍叩其年，云八十二。&rdquo;治平年号共四年，如按治平二、三年<font face="Times New Roman">(1065-1066)</font><font face="宋体">推算，生年则为雍熙元年</font><font face="Times New Roman">(984)</font><font face="宋体">左右，与&ldquo;住世九十九&rdquo;相吻合。但此说似乎根据不足。按其他史料，治平中张伯端先在桂林，后随陆就转成都，似不可能另去一趟洛阳。因此，对此说尚要继续发掘史料以取得进一步的证明。目前仍宜采用第一种说法。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;综上所考，笔者冒昧将张伯端之生平作一综合概述，就教于学界同仁<font face="Times New Roman">:</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;张伯端<font face="Times New Roman">(987-1082)</font><font face="宋体">，北宋台州临海郡</font><font face="Times New Roman">(</font><font face="宋体">今浙江临海市</font><font face="Times New Roman">)</font><font face="宋体">人，幼年慕道，通三教经典，及刑法、书算、医卜、战阵、地理、吉凶生死之术。年长为府吏，因焚毁所署案卷，遣戍岭南，浪迹云水一带。嘉祐</font><font face="Times New Roman">(1056-1063)</font><font face="宋体">末在桂林，与白龙洞道人刘仲远交，赠以长歌略述内丹之法。治平中</font><font face="Times New Roman">(1064-1067)</font><font face="宋体">，桂林知府陆诜将其引置帐下，典机要，后随转成都。熙宁二年</font><font face="Times New Roman">(1069)</font><font face="宋体">在成都天回寺遇异人，被授以金丹药物火候之秘，乃改名用成，号紫阳。是年，陆诜病逝。张伯端离蜀至荆南</font><font face="Times New Roman">(</font><font face="宋体">今湖北江陵</font><font face="Times New Roman">)</font><font face="宋体">，依于转运使马默，得其资助。溯汉水而上，在金州瓮儿山石洞</font><font face="Times New Roman">(</font><font face="宋体">今陕西紫阳县仙人洞</font><font face="Times New Roman">)</font><font face="宋体">修习内丹数年。熙宁八年</font><font face="Times New Roman">(1075)</font><font face="宋体">著成《悟真篇》，携游河东</font><font face="Times New Roman">(</font><font face="宋体">今山西阳曲</font><font face="Times New Roman">)</font><font face="宋体">，再依马默，并传《悟真篇》和《金丹四百字》与马。熙宁末，马默离任，张伯端再转秦陇寻找传人，先后活动于阶州</font><font face="Times New Roman">(</font><font face="宋体">今甘肃武都</font><font face="Times New Roman">)</font><font face="宋体">、凤州</font><font face="Times New Roman">(</font><font face="宋体">今陕西凤县</font><font face="Times New Roman">)</font><font face="宋体">一带。因三传非人而催祸，被凤州太守流放。途经那州</font><font face="Times New Roman">(</font><font face="宋体">今陕西郴县</font><font face="Times New Roman">)</font><font face="宋体">，遇石泰获释，再传《悟真篇》与石。再入蜀，在成都复遇异人，著《青华秘文》。元丰二、三年</font><font face="Times New Roman">(1079-1080)</font><font face="宋体">返台州，传《青华秘文》与王邦叔。又与禅僧交好，并向道士刘奉真之徒讲授佛法和内丹之术。元丰五年</font><font face="Times New Roman">(1082)</font><font face="宋体">，在临海百步岭溪中坐化，住世九十五。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

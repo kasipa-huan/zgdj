@@ -1,0 +1,586 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260200000000000000&targetPage=Fdjxy2">
+						中国道教(1987—1997)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260235000000000000&perPageNum=15&targetPage=Fdjxy3">
+						1995年第3期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	甘道士智打鬼子兵
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	胡　汉　林 
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p class="unnamed1">　　南京栖霞区尧化镇甘家边村，有一座甘道士墓，那是乡亲们为正义爱国的甘道士建造的一处衣冠冢。 </p>
+<p class="unnamed1">　　甘道士生于 1890 年，年青时在南京城里延龄巷二郎庙出家，俗名甘盛荣。如果今天他还活着的话，已有 105 岁了。甘道士故乡的人们经常怀念着他，每当讲述他的往事时，总是那么满含敬仰钦佩的心情，有人说 : 他当年只身打死了不少鬼子兵 ; 有人讲 : 他在一次与鬼子兵拼杀时寡不敌众，被抓走杀害了 ; 还有的说 : 甘道长带着那只心爱的猴子去云游四方啦 ! 他的生死至今仍是一个迷&hellip;&hellip; </p>
+<p class="unnamed1" align="center"><strong>文武双全的出家人 </strong></p>
+<p class="unnamed1">　　甘道士身高体壮，他在二郎庙修道时，除用心学习经文和戒律外，还学会了采制中草药，切脉、针灸、按摩、推拿及武术。尤其擅长长短棍术，他平时外出，手中喜欢拿一根铁手杖，遇有对手对打起来，即便十来个人也休想贴近其身。 </p>
+<p class="unnamed1">　　日本军国主义发动侵华战争不久，便调动十多万日军攻打南京城。日军指挥官松井石根竟然向参战部队发出了&ldquo;打进南京解除军纪三天&rdquo;的手令。 1937 年 12 月 13 日，日本法西斯部队占领南京后，肆意烧杀、奸淫，无恶不作，疯狂屠杀了中国士兵和老百姓三十多万，给南京造成了一场历史罕见的大灾难。就连南京道教圣地二郎庙也未能幸免，庙中几位年轻道士也被日军杀害了。甘道士见日本鬼子这样野蛮凶残，胡作非为，气愤地说 : &ldquo;中国道教虽倡导多行善事，但绝不容忍坏人作乱，这些狗强盗，杀我同胞，天理难容，有朝一日，看我如何收拾他们。&rdquo; </p>
+<p class="unnamed1" align="center"><strong>初次交锋一胜二 </strong></p>
+<p class="unnamed1">　　日军占领南京，接连几天乱杀人，干坏事，还经常跑来二郎庙捣乱。甘道士只好离开二郎庙，回到甘家边家里暂住，继续用心练拳术，等待时机，好为中国人报仇雪恨。他为了多练几手硬功夫，还从一位朋友家牵来一只猴子，看着猴子的动作练习猴拳。有位知己好友，为躲避战乱从上海来，住在他家里。这位朋友，也是位武林好手，擅长使用单刀和双刀。他们两个人，就经常在一起切磋武功，相互学习 ; 他向好友学刀术，其好友学他的棍术。 </p>
+<p class="unnamed1">　　甘道士经常半夜起来，到附近的山林里去练功。有一天半夜天气较冷，天空挂满星星，还刮着北风。他牵着猴子，又来到村南山林里，先练拳，后练棍刀，一直练了两个多小时。太阳刚从东边露出来，甘道士听到北边山头上，传来几声枪响。他立即停住了脚步，愤愤地说 : &ldquo;这准又是日本鬼子来作孽啦 ! &rdquo;甘道士停止了练武，穿上道装想回村里看看。他牵着猴子，沿着弯曲的山路往下走，刚走到一个转弯处，就看到迎面走来两个日本兵。他暗自想道 : &ldquo;真是冤家路窄呀 ! 头次打交道，就来个一对二。这也好。今天，我要打个痛快，给中国人出出气 ! &rdquo;他将拴猴子的绳子松开，便于对付敌人。 </p>
+<p class="unnamed1">　　迎面来的两个日本兵，一个年轻一些，大约二十多岁，另一个年龄大一些，脸上还有络腮胡子。这两个家伙，头戴钢盔，双手端着上了刺刀的三八大盖枪，样子像凶神，一边往前走，一边向他叽哩哇啦地乱喊叫。甘道士装作没听见，仍然沿着山路往前走。年轻的日本兵，抢先跑到甘道士面前，把枪一横，抡起右掌朝甘道士睑上打来。甘道士心想 : &ldquo;这个狗东西，倒先动手了。常言道 : &lsquo;死人嘴里难查证，留着活口有后患！ '今天，我要让你们见识见识，中国人不是好欺的 ! &rdquo;他迅速将上身一缩，把头一闪，来了个顺手牵羊，像老鹰抓小鸡一样，用左手抓住日本兵的右手腕，用力向上一带，又往后一拧 ; 接着用右拳，朝日本兵胸部猛力砸去，只听到&ldquo;砰&rdquo;地一声，把日本兵的几根肋骨给打断了，把肝也给打烂了。这个日本兵怪叫一声将枪丢开，倒在地上，捂着胸部在地上打起滚来 ; 紧接着嘴里、鼻孔里喷出血水来，很快就没气了。 </p>
+<p class="unnamed1">　　另一个日本兵一见大叫一声 : &ldquo;八个亚鲁&rdquo;端着步枪，朝甘道士身上猛刺过来，甘道士又是飞快向左一闪，双手顺势抓住枪管 ; 接着用力一脚，正踢在这个鬼子兵的下身处，只听到&ldquo;哎呀&rdquo;一声。这个狗杂种，双手将枪松开，像头猪似地摔在地上，用手捂着裤档，痛得在地上乱打滚。甘道士乘势用抢托朝这个日本兵头上连砸了几下，就没动静了。 </p>
+<p class="unnamed1">　　甘道士将两个日本兵的尸体和枪支，拖进一个山洞里，而后又牵着猴子，泰然自得地沿着山路，朝甘家边走去。 </p>
+<p class="unnamed1" align="center"><strong>严惩日寇贪色狼 </strong></p>
+<p class="unnamed1">　　甘道士徒手打死两个日本兵以后，为了躲避是非，又回到二郎庙住了两天。他家里亲人捎来口信说，家乡有人患重病，叫他回去给治治。</p>
+<p class="unnamed1">　　这天，甘道士换上一身新道装，牵着心爱的猴子，出了中山门，往甘家边赶路。他绕过日本部队营地，沿着山路走过一个转弯处，看到一个日本军官，正在追赶一年轻姑娘。那日本军官一边追赶，一边用半通不通的中国话喊叫 : &ldquo;花姑娘的，你的不要怕，日本皇军好，大大的好。我对你的，大大的喜欢。&rdquo; </p>
+<p class="unnamed1">　　甘道士看到那姑娘，跑得上气不接下气，脸色都吓白了。姑娘跑近甘道士面前说 : &ldquo;道长，快行行好吧。日本人要欺侮我，你快救救我呀 ! &rdquo; </p>
+<p class="unnamed1">　　甘道士笑着对姑娘说 : &ldquo;闺女，莫怕 ! 你先躲在我身后边，等那畜牲来了，我来对付他 ! &rdquo;闺女刚转到甘道士身后，那日本军官也赶到了。甘道士看到这个日本军官，戴着副近视眼镜，挎着洋刀，腰带上还有只手枪呢。日本军官停住了脚步说 : &ldquo;你的，道士干活。你的快快的闪开，花姑娘的，我的大大的喜欢。&rdquo; </p>
+<p class="unnamed1">　　甘道士听完日本军官的话，强忍着怒火，也学着日本人的腔调说 : &ldquo;太君，你的对花姑娘的喜欢，这花姑娘的，对你的大大的不喜欢。还是让她开路开路的好 ! &rdquo; </p>
+<p class="unnamed1">　　那日本鬼子一听，脸带怒气地说 : &ldquo;八个亚鲁，你的快快的闪开，不闪开，要死了死了的。&rdquo; </p>
+<p class="unnamed1">　　甘道士见这狗东西要发疯了，他迅速朝四周看了看，小路两侧都是山林。他立即心生一计 : 自己一边和日本军官对话，一边解开猴脖子上的环扣，同时用手朝猴子比划了几下。猴子很听主人使唤，接受暗示后，像飞一样，窜向日本军官的上身，先把眼镜打掉，接着用前爪，将日本军官的眼睛，抓瞎了一只，抓伤了一只 ; 而后身子一纵，爬到树上去了。 </p>
+<p class="unnamed1">　　这个日本军官，痛得乱喊叫，一只手捂着双眼，一只手乱挥动。 </p>
+<p class="unnamed1">　　甘道士见日本军官的狼狈相，正在高兴的时候，发现日本军官想用手掏枪 ; 他心想 : &ldquo;不好，这家伙一打枪，附近日本营地的日军，一定来救援，那就难办了。于是飞起一脚，将手抢踢出一丈多远。接着，甘道士又抢先将日本军官的洋刀也抽了出来。 </p>
+<p class="unnamed1">　　这个日本军官，虽然受了重伤，仍然不老实 ; 他把武装带解了下来，一手解着腰带，一手拿着刀鞘，乱抡乱打，嘴里还叽哩哇啦乱叫。 </p>
+<p class="unnamed1">　　甘道士想到被日本强盗杀死的几十万中国人，又看到眼前将要受害的姑娘，胸中怒气忍可忍，狠狠地用洋刀，冲着日本军官胸部刺了进去，就叫他命归西天了。 </p>
+<p class="unnamed1">　　甘道士对着一棵大树招招手，将心爱的猴子呼唤下来，回转身问清年轻姑娘的住处，就送她回家了。 </p>
+<p class="unnamed1" align="center"><strong>大胆机警救乡亲 </strong></p>
+<p class="unnamed1">　　甘道士接连打死几个日本鬼子兵以后，感到算是给中国人出了点气，给死难同胞报了点仇，解了点恨。他也预料到，日本部队丢了几个人，绝不会甘休的。几天来，甘道士每天上午都到尧化门茶水馆里喝茶，趁机和乡亲们聊聊天，听听外边的动静。 </p>
+<p class="unnamed1">　　一天，甘道士正在尧化门茶馆里喝茶时，急促促跑来两个人讲 : &ldquo;甘道长，不得了啦！咱村里来了好多日本兵，在村里抓了五个青年人，都绑在大树上。说他们是中国兵，要他们讲出在哪里打死日本兵的 ; 如果不讲实话，就把他们统统的打死 ! 你赶快回去，想办法救人哪 ! &hellip;&hellip;&rdquo; </p>
+<p class="unnamed1">　　甘道士回村一看果然如此。他立即约集几位乡亲合计了一下，想出了个办法 : 让几户人家用红白纸，做成一些日本国旗，让一些人举着表示欢迎日本皇军的样子。他自己穿上了色彩鲜艳的新道装，手中敲着木鱼，走到捆人大树林，口中念念有词，绕着捆人的大树转来转去 ; 而后，他满面笑容地走到日本军官面前说 : &ldquo;太君，日本皇军的大大的好。太君，这些被捆的人，都是好良民的，他们的家都住在这个村里 ; 太君，这里有他们的父母、亲人。&rdquo;甘道士讲完，又从人群中，领来被捆人的亲属作了证。 </p>
+<p class="unnamed1">　　他想的这办法还真灵呢！日本军官看他是个出家人，又有人作证，就信以为真，把人给放了。 </p>
+<p class="unnamed1">　　全村的人为此事，都高兴极了。甘道士也回到家里，刚想把新道装脱下来，一些乡亲又跑来着急地说 : &ldquo;甘道长，不好啦。日本兵在村里抢了几头牛，还有猪羊、鸡鸭 ; 并抓来一些人，说是让人给他们送这些东西去。&rdquo;乡亲还说 : &ldquo;听说，前两天，北边村里也是这样，日本人抓了些人，给他们去送东西，结果一个也没回来，有的给杀害啦，有的给活埋啦 ! &rdquo; </p>
+<p class="unnamed1">　　甘道士听后，又动起脑筋来。他想了想说 :&ldquo;我看，这事这样办吧，大伙先去送 ; 不去，日木人是不会饶的。这次，我也跟着去送，在路上再想办法，对付他们 ! &rdquo;他讲的这办法，大家都赞成。甘道士又将新道装穿好，又找到日本军官说 : &ldquo;太君，我的良民，心的大大的好，今天，我的也帮皇军去送东西的干活！&quot; 。日本军官听后，高兴地应声说 : &ldquo;你的良民，心的大大的好。&rdquo; </p>
+<p class="unnamed1">　　这天下午，甘道士换了一身平时穿的道服，手中拿着根铁手杖，跟着给日本部队送东西的乡亲，一同 上路了。 </p>
+<p class="unnamed1">　　开始，村里送东西的人，和日本部队混在一起走。日本军官看到甘道士，他走在哪里，那送东西的人，就走得有秩序，速度也快。后来，日本军官就领着部队走在头里去了，只派出三个日本兵，端着步枪监视着走。人们走过尧化门，已下午三点多了。人群继续沿一条小路，往西北方向走。几个看押的日本兵，看到甘道士跑前跑后，帮着催促送东西的人快走，对他也就不在意了。 </p>
+<p class="unnamed1">　　人们又走了一段路程，甘道士故意放慢了脚步，走在最后头，日本军官已经领着队伍走到前边去了，和后边的人，拉开了一段路。 </p>
+<p class="unnamed1">　　当队伍走进一片大树林里，天色也要黑下来了。甘道士感到，时机已经到了。他悄悄走近队尾日本兵的身后，用铁手杖将其干掉 ; 接着快步赶到中间的日本兵身后，将其砸死，然后又飞快地追到队伍前而，施用了一手锁喉拳，将最前边的日本兵也卡死。 </p>
+<p class="unnamed1">　　甘道士接着发出了信号，乡亲们互相传告，人们赶着牲畜，挑着鸡鸭，各自钻入树林逃走了。甘道士看到乡亲都安全远去了，他又迅速找到三个日本兵的尸体，将三条步枪背在身上，接着自己朝四处乱放了几枪 ; 他这样做的目的，不使日本人到甘家边去报复。他做完这些事之后，将枪扔进一个深水塘里，也离开那是非之地。 </p>
+<p class="unnamed1" align="center"><strong>勇敢机警救同胞 </strong></p>
+<p class="unnamed1">　　甘道士多次打死日本鬼子，为防不测，又回到二郎庙。他向庙中住持道长，讲述了自己的心愿和实情后，说 : &ldquo;日本人侵入中国，又打进了南京。中国人遭受了一场大劫难，咱们二郎庙也受了害。咱们中国人，绝不能让他们任意欺侮！我想，近些日子，到城里城外去转转，为庙中化缘些钱粮来 ; 有机会，我还要为中国人报仇雪恨，出出气！&rdquo;临行前，道长嘱咐他说 : &ldquo;你在外面，要小心行事，不可莽撞、妄为！ &rdquo; </p>
+<p class="unnamed1">　　道士离开二郎庙，在南京城里和城外转了几天，化缘到一些钱粮。他用钱粮，换买了些点心、纸张、香烛 ; 他用这些东西，到儿处日本鬼子屠杀中国人的地方，进行祭典，为死者超度冤魂。 </p>
+<p class="unnamed1">　　一个天气晴朗的上午，甘道士骑着从亲友家借来的毛驴，到了水西门外，日本人杀害中国人的地方。他看到大片农田里，遍地躺卧着被杀害的中国军人和老百姓的尸体，有男的。也有女的，有大人，也有小孩。 </p>
+<p class="unnamed1">　　那一年。甘道士已经四十多岁了。他看到如此悲惨情景，热泪不住地涌了出来，一股怒气聚上心头。他用手抹去睑上的泪水，按下胸中愤恨，从搭包中掏出点心、纸张和香烛，摆在地上，将香点燃，跪在地上，双手抱拳，朝天空和四周拜了拜说 ; &ldquo;乡亲们，同胞们，你们死得惨哪，死得冤哪 ! 狗杂种日本人，他们远隔海洋。为什么跑到中国来 ?! 为何这样为非作歹 ?! 他们杀了这么多中国人 ?! 是天理难容，罪责难逃 ! 我们中国道教，教人要行善爱国，要扶危救难。本道人虽然不才，但愿意为你们去报仇雪恨 ! &rdquo;他讲到这，双手又朝天空拜了拜说 : &ldquo;吾望苍天在上，请诸神显灵，保佑弟子斩除强盗，行事安顺 ! &rdquo; </p>
+<p class="unnamed1">　　甘道士讲述了悼言和誓愿，又向天空拜了拜，又向死难者拜了拜，眼含着泪水，骑上毛驴，离开了那个地方。 </p>
+<p class="unnamed1">　　甘道士骑着毛驴，正沿着一条路向前走着，迎面来了一些人。他们一边走着，一边还在讲 :南边集市上，来了一些日本鬼子，正在那里抓人，可别往那去啦 ! 一些正想赶集的人，听到这些话，都调头往回走了。 </p>
+<p class="unnamed1">　　甘道士听后，暗自想了想说 : &ldquo;好，这正是得手报仇的机会。&rdquo;他用缀绳打了一下驴屁股，飞快地朝着有集市的村庄奔去。 </p>
+<p class="unnamed1">　　甘道士在集市上走着，一边走一边看。他看到日本鬼子，抓了不少青壮年男人，都用绳子拴牢 ; 还听人讲 : 日本鬼子抓人，要运到日本国去做劳工。他弄清实情，急忙找个地方，将毛驴拴好，而后装作化缘的样子，身背着搭包，手提着铁手杖，在寻找机会行事。此时他见一个日本兵，正追赶一个年轻人。那年轻人，飞快地逃进一条巷子里去，接着那个日本兵也追了上去。 </p>
+<p class="unnamed1">　　甘道士随后，也快步跟了上去。这是一条死巷子，那青年被吓呆了。日本兵追上去，将青年抓住了。日本兵从腰中抽出条绳子，正在捆人时，甘道士赶到了。他悄悄地走近日本兵背后，抡起铁手杖，对准日本兵的头，狠狠地砸了下去。那日本兵&ldquo;哇呀&rdquo;一声，摔倒在地，甘道士又在头上敲了几下，就鸣呼完蛋啦。 </p>
+<p class="unnamed1">　　甘道士拉着青年，走到墙根说 : &ldquo;你赶快踏着我的膝盖，越墙逃走吧 ! &rdquo;那青年说了声&ldquo;谢谢道长救命之恩 ! &rdquo;翻过高墙逃走了。</p>
+<p class="unnamed1">　　甘道长从搭包中，掏出一张有字的白纸，放在日本兵尸体上，又拿块砖头压牢。白纸上写有四句话 : &ldquo;多行不义必自毙，善恶到头终有报，莫视中国为软弱，爱国志士实不少 ! &rdquo;甘道士在离开之前，还用铁手杖在高墙上划了儿条印子，又将墙头上的砖，捅下几块来，自己也越墙而去。甘道士走后不久，又跑来一个日本兵，这个日本兵进了巷子一看。大惊失色，迅速地跑了回去。 </p>
+<p class="unnamed1">　　甘道士从高墙跳下来，由村东又很快转到集市上 ; 他看到被日本兵抓到的青壮年，都赶到一个大院落里，都用绳子拴在一起 ; 大院门外有个日本兵看守着。他走到拴毛驴的地方，看到有个日本兵，从街北头跑来，向日本军官讲了一阵子 ; 那日本军官怒气冲冲地发出了口令，将部队集合在一起，讲了一些话 . 而后又走近大院门外向哨兵讲了讲，就带着队伍朝街北头跑去。 </p>
+<p class="unnamed1">　　甘道士看过这一切，心里完全明白了 。他牵着毛驴，在烟杂店里又买了点东西，自由自在地朝大院门外哨兵走去。他笑盈盈地对日本哨兵说 : &ldquo;太君，这大八勾的大大的好。给你的信交！&rdquo;这个日本兵一看，给香烟的是个出家人，给的香烟又是上等的，笑了笑说 : &ldquo;你的良民的好&rdquo;。 </p>
+<p class="unnamed1">　　甘道士还作殷勤地给日本哨兵点燃着香烟 ; 那日本兵吸了一口，正在品尝香烟味道时，甘道士突然又用了一手锁喉拳，一用劲将日本兵的喉咙管拧了个稀巴烂。这个日本兵，猛然从口中吐出一股血水来，身体晃了晃就倒在地上，不能动了。 </p>
+<p class="unnamed1">　　甘道士转身走进大院里，对着被抓的青壮年们说 : &ldquo;各位乡亲，你们受惊啦 ! 大家相互解绳子，听我讲几句话 ; 这些日本鬼子太可恨啦，他们杀好多中国人，今天又到这地方来抓人啦 ! 咱们中国人比日本人多好多，咱们中国人也不是好欺的。大伙都要用智谋和他们斗，把这些狗娘养的赶出中国去。刚才，那些日本兵，都跑到街北头去啦，门外那个哨兵我也让他上西天啦，你们都赶快逃走吧 ! &rdquo; </p>
+<p class="unnamed1">　　甘道士讲完话，走出大院，骑上毛驴朝街南头跑去，十多名青壮年也逃走了。 </p>
+<p class="unnamed1" align="center"><strong>施展绝招脱险境 </strong></p>
+<p class="unnamed1">　　日本部队占领南京后，对屡屡有士兵失踪、被杀，感到震惊。他们逐渐对甘道士这个人，产生了怀疑。并对担负放哨、巡逻的部队下达了命令，城里增加了巡逻队，通往城外的出入口，也增加了岗哨，对出入道口的行人，检查也更严了。他们还指令，发现甘道士这个人。要抓活的，要从他身上查证真相。 </p>
+<p class="unnamed1">　　甘道士也有了警觉和防范。他平时的穿戴，也有了变更。有一天甘道士应一位知友之约，要到城东，给一位重病人去治病。 </p>
+<p class="unnamed1">　　他穿一身中式棉衣，外罩一件大褂，头戴一顶老头帽，手中仍然拿着那根铁手杖，骑着毛驴朝中山门走。 </p>
+<p class="unnamed1">　　甘道士为安全走过中山门，先在靠近中山门一家茶馆里坐了一会儿，观察一下动静。他看到，城门口有两个鬼子站岗，对出进的人都认真盘查，每个过往的中国人，都要走到日本兵跟前，先喊声太君，再鞠个躬 ; 另一个日本兵，查看一遍才放行。他看过暗想 : &ldquo;今天过这个门要有些麻烦啦 ! &rdquo;他想了想，还是从此处出城！</p>
+<p class="unnamed1">　　他骑着毛驴走到城门口主动下来，牵着毛驴，先对日本兵喊了声&ldquo;太君&rdquo;也哈腰鞠了个躬，刚转身要走时，另一个日本兵走过来，端着上有刺刀的步枪，历声地问道 : &ldquo;你的，什么的干活 ? &rdquo; </p>
+<p class="unnamed1">　　甘道士温和地回答说 : &ldquo;我的看病医生的干活。&rdquo;甘道士讲完 . 从袋里掏出一个小布包，又讲 : &ldquo;太君，我的治病的针包的有。&rdquo;日本兵看过针包后，眼睛盯着他的上身观察 ; 日本兵好像发现了什么，大声喊叫 : &ldquo;你的帽子的拿掉 ! &rdquo; </p>
+<p class="unnamed1">　　甘道士一听，看来，今天是要再较量一下了。他不慌不忙地将帽子拿下来，头上的发髻全露了出来。 </p>
+<p class="unnamed1">　　日本兵看到发髻，倒退了一步，大叫道 : &ldquo;八个亚鲁，你的良民的不是。&rdquo;并将刺刀对准甘道士的胸口。这时，另一个日本兵也跑了过来，也将刺刀对准甘道士的胸口，甘道士纹丝不动地站立着，仍然面不改色，细心地在观察，想寻找机会摆脱困境。他看到后来的这个日本兵，摆了摆头，像是让日本兵去干什么。甘道士的判断果然不错，那个日本兵，转身将枪依在城墙上，背着身在拿绳子。 </p>
+<p class="unnamed1">　　甘道士一看好时机已到，暗自运足了气，猛地用手杖拨开日本哨兵的步枪，接着用手杖对准日本兵的头砸去，&ldquo;喀嚓&rdquo;一声，给砸了个头骨碎裂 ; 甘道士猛一转身，扑向另一个想用绳子来捆自己的日本兵，又用手杖砸了上去，又听到&ldquo;咔&rdquo;的一声，也砸了个脑浆四溅。他看到两个日本兵都丧了命，迅速骑上毛驴，冲出城门口，飞快地钻入树林，安全地脱离了险境 ! </p>
+<p class="unnamed1 style7" align="center">&nbsp;</p>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

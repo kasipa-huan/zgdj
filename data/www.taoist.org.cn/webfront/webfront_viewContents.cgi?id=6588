@@ -1,0 +1,576 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260200000000000000&targetPage=Fdjxy2">
+						中国道教(1987—1997)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260220000000000000&perPageNum=15&targetPage=Fdjxy3">
+						1991年第4期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	《老子》哲学观与道教养生观关系初探
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">刘玉贤</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;体系庞大、包罗万象的道教养生学，是中国传统养生学的重要组成部分和集大成者。《老子》中所包括的独辟蹊径的哲学思想和修身御神的养生理论，为道教养生学的养生之道和养生之术提供了坚实的理论基础。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;一、天人合一的哲学观与顺应自然的养生观</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;天人合一或曰天人相应观念，包括天人相通和天人相类两部分。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《老子》对天人关系的探索是通过对&ldquo;道&rdquo;的认识开始的。老子认为，世界上一切有生无生的各种事物和现象的本体都是&ldquo;道&rdquo;，都是&ldquo;道&rdquo;的普遍规律在各种具体物象中的体现和反映。因此，各种事物和现象都有其相通的特征和规律。人是自然界中的人，自然界是人类生命的源泉，人是在有天地的前提下才能生存、生活和繁衍的。人类作为自然界的产物及其组成部分，必然地会受到自然法则的支配和制约。自然界有什么样的规律，人类就有什么样的生命、社会现象和规律与之适应。因此，人应该顺应自然，努力使自身和自然合为一体，统一于&ldquo;道&rdquo;中。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道教养生学把顺应自然作为养生的重要原则。顺应自然包括如下三个方面<font face="Times New Roman">:</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">一</font><font face="Times New Roman">)</font><font face="宋体">天人本来合一。道教养生学主张吸收宇宙中本来就与相体相通的自然之气为我身所用，锻炼自身的元气，&ldquo;续命添油&rdquo;，延年益寿。《素问&middot;上古通天论》曰</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;自古通天者，生之本，本于阴阳。天地之间，六合之内，其气九州、九窍、五脏、十二节，皆通乎天气&rdquo;。服食</font><font face="Times New Roman">(</font><font face="宋体">包括外丹术</font><font face="Times New Roman">)</font><font face="宋体">通过服用天地间具有生发之气的天然药物</font><font face="Times New Roman">(</font><font face="宋体">多为植物类和金石矿物类</font><font face="Times New Roman">)</font><font face="宋体">制成的各种剂型而&ldquo;成仙&rdquo;或&ldquo;长生不死&rdquo;。内丹术中有不少采天地四时之气、日月星辰山川精华之气的养生术，如呼吸修炼中的服六戊气法、服三五七九气法等。故凡修炼养生者，皆应回归自然，与天地之气相通。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">二</font><font face="Times New Roman">)</font><font face="宋体">天人应归合一。道教根据人体固有的、内在的生命信息和以天验人的思维方法，说明生命历程的基本规律，并用于指导机体的生命运动和养生实践。它要求养生者，必须按自然界的规律来调节机体的生命活动，首先使机体的生命活动在形式上与自然界的变化规律归于统一，然后方能使自然之本体与生命之本体自然契合，&ldquo;合同于道&rdquo;而&ldquo;寿敝天地&rdquo;。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道教养生学借助于天文、地理、历法、物候知识来说明自然的规律并以天验人。《周易参同契》中就用悬象著明人所共知的日月运动以及随之而来的一年的气候周期性变化，来说明人的一生中每一个相对独立的整体时间段内的元气的运动变化情况。自然界中存在着生生不息循环往复的花甲规律<font face="Times New Roman">(</font><font face="宋体">太阳系运动情况</font><font face="Times New Roman">)</font><font face="宋体">、年周规律</font><font face="Times New Roman">(</font><font face="宋体">日地运动关系</font><font face="Times New Roman">)</font><font face="宋体">、月周规律</font><font face="Times New Roman">(</font><font face="宋体">月地运动关系</font><font face="Times New Roman">)</font><font face="宋体">、日周规律</font><font face="Times New Roman">(</font><font face="宋体">地球自转运动</font><font face="Times New Roman">)</font><font face="宋体">等。作为&ldquo;一小天地&rdquo;的人就应因此而调节衣食住行的日常生活及辩证选用相应的养生方法。如以与人的生命活动联系最密切的四时规律</font><font face="Times New Roman">(</font><font face="宋体">年周规律</font><font face="Times New Roman">)</font><font face="宋体">例言。现存最早的医学典籍、被尊为道教经典的《黄帝内经》就有如下详细的论述</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;夫四时阴阳者，万物之根本也。所以圣人春夏养阳、秋冬养阴，以从其根&rdquo;，&ldquo;阴阳四时者，万物之终始也，死生之本也，逆之则灾害生，从之则苛疾不起，是谓得道&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《素问</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&middot;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">四气调神大论》<font face="Times New Roman">)</font><font face="宋体">。&ldquo;以从其根&rdquo;之根就是&ldquo;道&rdquo;，就是宇宙内的最根本最原始的普遍规律，&ldquo;从&rdquo;四时阴阳的变化规律就可以&ldquo;得道&rdquo;。春夏在起居上宜夜卧早起，在情志上舒缓明快，励精图治，使肝气升发，心气宣泄，以顺春夏阳气生发之道，&ldquo;秋季宜早起早卧，宁志敛神，使肺气肃降，以顺应秋季阳气收敛下降的趋势。冬季宜早卧晚起，潜伏志意，固密阳气，使阳气闭藏，以应冬日阳气沉潜的趋势。内丹之术中以此据候抽添，《周易参同契》曰</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;元精眇难睹，推度效符征，居则观其象，准拟其形容。立表以为范，占候定吉凶，发号顺时令，勿失动爻时。上察河图文，下序地形流，中稽于人心，参全考三才。动则依卦变，静则循象辞，乾坤用施行，天地然后制。&rdquo;在炼丹过程中，根据自己身体的健康情况和入静的程度，参合天上日月星的变化及地上物候变化的时空关系，根据火候而进阳火、退明符，使精、气、神与先天之气相合成丹胎。当炼至采大药服食过大关大周天时，就会出现自身处于清幽静妙的自然界中的天人合一、物我两忘的感觉。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;存思之道则是存思分司天、地、山、川、日、月等不同功能的天神与仙真下降到身中，与分司机体相应部分的身体中之神相合为一。其中尤以存思宇宙初始阶段的景象为重要，此亦即《老子》所谓&ldquo;复守其母&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">三</font><font face="Times New Roman">)</font><font face="宋体">天道承负，因果报应。《老子》</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;天道无亲，常与善人&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《七十九章》</font><font face="Times New Roman">)</font><font face="宋体">。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">就是说，禾道对人是无所偏爱的，但它永远帮助善人而惩罚坏人。道教因此而有&ldquo;天道承负，因果报应&rdquo;观。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道教认为，个人的吉凶福祸是个人行为善恶的必然报应。人不仅是自然人<font face="Times New Roman">(</font><font face="宋体">生物人</font><font face="Times New Roman">)</font><font face="宋体">，也是社会人。作为社会中的一员，必然遵守社会的仁义公德。人的行为，不仅有社会的监督，而且有日月的&ldquo;照察&rdquo;、有诸神登记。人的一举一动，上天皆知。到了一定的时候，上天便观其善恶，予以赏罚，对善者赐福增寿，对恶者降祸减寿。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道教还认为，个人的福祸寿夭除与自己的行为善恶有关外，还与前人的行为及天道轮回有密切的关系。因此，单纯的医学养生方法不可能满足养生长寿的需要，必须在修养的同时修正、修善、积德、养性。这样，不仅可以免除自己的承负抱应，而且可以为自己的子孙后代的长寿造福。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;总之，天人合一既是道教养生学的追求自的和说理工具，而且是养生得道的一种高层次的自我体验。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;二、物壮则老的哲学观与未老先养的养生观。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《老子》认为变易是宇宙中的一个根本事实，世上的一切事物莫不在永恒的变易之中，宇宙便是一个生生不息变易不已的大流。老子不仅提出了恒动观和气化观的道家哲学的基本观点。而且认识到变易具有一定的阶段性和周期性，是有一定的限度的。事物自一方上演变化，发展到一定的&ldquo;度&rdquo;，就会向自己的反而转化。这就是传统哲学上的&ldquo;反复&rdquo;观念。老子是最先讲&ldquo;反复&rdquo;定哲学家，指出了事物发展的指向是它的反面。《老子》从道谈起曰<font face="Times New Roman">:</font><font face="宋体">&ldquo;大曰逝，逝曰远，远曰反&rdquo;，&ldquo;反者道之动&rdquo;、&ldquo;正复为奇，善复为妖。&rdquo;&ldquo;祸兮，福之所倚，福兮，祸之所伏&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《五十八章》</font><font face="Times New Roman">)</font><font face="宋体">，提出了&ldquo;物壮则老&rdquo;的哲学思想</font><font face="Times New Roman">(</font><font face="宋体">《三十章》</font><font face="Times New Roman">)</font><font face="宋体">。物壮则老是必然的，但又不是骤然的，物壮必然经过相当长的时间，故《老子》又说</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;图难于其易，为大于其细。天下难事，必作其易，天下大事，必作其细，是以圣人终不为大，故能成其大&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《六十三章》</font><font face="Times New Roman">)</font><font face="宋体">，&ldquo;孰能浊以澄，静之而徐清</font><font face="Times New Roman">;</font><font face="宋体">孰能安而久，动之而徐生&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《十五章》</font><font face="Times New Roman">)</font><font face="宋体">。既然物壮则老，有必然性和一定的过程，那么，也就可以发挥人的主观能动性，根据事物发展的规律，努力使事物摆脱走向死亡的命运。向生存和积极方面发展，老子在系统地考察了自然现象、社会现象和生命现象的变化规律后，提出避免走向死亡结局的较好的办法，就是要保持&ldquo;中和&rdquo;的地位，不转化为刚强，从而消除能引起死亡的必然的及必要的条件。《老子》曰</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;万物负阴而抱阳，中气以为和&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《四十立章》</font><font face="Times New Roman">)</font><font face="宋体">。按&ldquo;中气&rdquo;乃冲虚之气，是休内阴阳二气的矛盾统一的气的总和，是构成机体的最基本的物质基础。中气宜中和而不能偏盛偏衰，若知中和则就把握住养生之道。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;在《老子》&ldquo;物壮则老&rdquo;的哲学观点的指导下，道教根据人体生理性衰弱起于盛极之时&mdash;&mdash;壮的特点，提出了将老先养、未病先防的养生原则。强调养生必须从青少年时期开始，特别是机体生长发育到最旺盛、由盛转衰的&ldquo;壮&rdquo;期，尤应注意养生，且须循序渐进，持之以恒，故老子曰<font face="Times New Roman">:</font><font face="宋体">&ldquo;慎终若始，则无败事。&rdquo;如果身体已经开始衰退时方才养生，则必须用基础功法将身体恢复过来，伤神者养神，精衰者养精，气损者补气，形坏者练形，培补先天精、气、神生命三宝，如此才可用其它方法继续修炼。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;内丹之道，无论持渐法的全真北宗，还是持顿法的全真南宗，均强调修炼应从青少年开始。凡成年人，无论身体强弱，一旦过了十六岁<font face="Times New Roman">(</font><font face="宋体">男子</font><font face="Times New Roman">)</font><font face="宋体">身俱六阳的年龄之后，就必须先采用补法养生，亏损多者多补，亏损少者少补，以补而破圈、缺而补元为度。当百日筑基小还虚，即小周天炼精化气而达到精尽化气后，方可用大周天炼气化神十月养胎。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;正因为青少年和成年人、老年人养生的入手、步骤及效果均有显著的差异，故道教养生学力主未老先养，趁盛而未衰之际采用积极的方法锻炼机体的精、气、神三宝，以期延年益寿。正如《素问&middot;四气调神大论》所谓&ldquo;圣人不治已病而治未病，不治已乱治未乱&hellip;&hellip;夫病已成而后药之，乱已成而后治之，譬如渴而穿井，斗而铸锥，不亦晚乎<font face="Times New Roman">!</font><font face="宋体">&rdquo;而道教养生家孙思邀的&ldquo;安者非安，能安者在于虑亡，乐而非乐，能乐者在于虑殃&rdquo;的总结，则已超越了养生长寿的界定，具有了更深刻、更广泛的意义。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;三、归根复命的哲学观和返朴归根的养生观</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;要想长生久视，老子认为单纯保持盛而不衰的状态还不够，还必须从根本上采取措施，&ldquo;治之于未乱&rdquo;<font face="Times New Roman">(</font><font face="宋体">《六十四章》</font><font face="Times New Roman">)</font><font face="宋体">，&ldquo;复守其母&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《五十二章》</font><font face="Times New Roman">)</font><font face="宋体">，&ldquo;复归其根&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《十六章》</font><font face="Times New Roman">)</font><font face="宋体">。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《老子》曰<font face="Times New Roman">:</font><font face="宋体">&ldquo;夫物芸芸，各复归其根&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《十六章》</font><font face="Times New Roman">)</font><font face="宋体">。&ldquo;知其雄，守其雌，为天下谿。为天下谿，常德不离，各复归于婴儿&rdquo;，&ldquo;知其白，守其黑，为天下式。为天下式，常德不武，复归于无极。&rdquo;&ldquo;知其荣，守其辱，为天下谷。为天下谷，常德乃足，复归于朴&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《二十八章》</font><font face="Times New Roman">)</font><font face="宋体">。物壮则老是必然的，事物发展变化经过灭亡阶段后，最终要恢复到原先的状态，事物发展的出发点也就是其归宿。因此，人就应该发挥自己的主观能动性，采取无为而不为的方法，努力使事物保持或复归到原先柔弱的混沌不分的&ldquo;道&rdquo;的状态，不发展为刚强或强大的&ldquo;壮&rdquo;，则就无所谓灭亡。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道教养生的根本原理就是归根复命的返还之道。元代陈致虚将造化生成之道解释为<font face="Times New Roman">:</font><font face="宋体">&ldquo;一生二，二生三，三生万物。故虚化神，神化气，气化精，精化形，形乃成人。&rdquo;而养生之道则逆造化生成之道，&ldquo;万物含三，三归二，二归一&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《周易参同契分章注》</font><font face="Times New Roman">)</font><font face="宋体">，万物合则可归结为三</font><font face="Times New Roman">(</font><font face="宋体">精、气、神</font><font face="Times New Roman">)</font><font face="宋体">，三归为二</font><font face="Times New Roman">(</font><font face="宋体">气、神</font><font face="Times New Roman">)</font><font face="宋体">，二合为一</font><font face="Times New Roman">(</font><font face="宋体">神</font><font face="Times New Roman">)</font><font face="宋体">，一归为道。通过内炼，&ldquo;知此道者，怡神养形，养形炼精，积精化气，炼气合神，炼神还虚，金丹乃成&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《金丹大要》</font><font face="Times New Roman">)</font><font face="宋体">。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;返还之道要求由三归一，打通回到原先信息的道路。此即老子所谓&ldquo;圣人抱一为天下式&rdquo;<font face="Times New Roman">(</font><font face="宋体">《二十二章》</font><font face="Times New Roman">)</font><font face="宋体">，&ldquo;昔之得一者</font><font face="Times New Roman">:</font><font face="宋体">天得一以清</font><font face="Times New Roman">;</font><font face="宋体">地得一以宁</font><font face="Times New Roman">;</font><font face="宋体">神得一以灵</font><font face="Times New Roman">;</font><font face="宋体">谷得一以盈，万物得一以生，侯王得一为天下贞。其致之&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《三十九章》</font><font face="Times New Roman">)</font><font face="宋体">之理。《周易参同契》则称为&ldquo;三五为一&rdquo;、&ldquo;都集归一所&rdquo;、&ldquo;三性既会合，本性共宗祖&rdquo;，&ldquo;四者混沌，径虚入无&rdquo;、&ldquo;七返九还&rdquo;等。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;原始信息就是先天先人的那个信息。《周易参同契》曰：&ldquo;审思后来，当虑其先&rdquo;，&ldquo;禀乎胞胎，受气之初&rdquo;，&ldquo;本在交媾，定制始先&rdquo;。要审察思谋人的后天的生化过程，就必须考虑人的先天的生化起点。机体生命的先天，是指父母媾精到出生后脐带剪断这一过程。一个人的先天信息是在父精母卵阴阳二气交合时决定的，它包括父母双方身体健康状态和智慧水平的信息和人类进化宇宙生成的历程的信息，它决定着一个人生老病死的生命历程和寿命的极限。先天信息称为&ldquo;先天祖气&rdquo;，贮藏于大脑中心&mdash;&mdash;元神室，道教称之为&ldquo;脑气胞&rdquo;。先天信息又以生殖细胞为载体。在生殖细胞的分裂过程中先天信息被多次转录，从而使子代具备与母代相似的特征，此谓之&ldquo;遗传&rdquo;。但转录中也存在失真的情况，从而使子代可能与母代有较大的差别，此谓之&ldquo;变异&rdquo;。养生的一个目的，就是要使那些失真的信息朝有利于身体健康的方面进行最大程度的恢复，恢复到机体生命的先天&mdash;&mdash;&ldquo;婴儿&rdquo;，在此基础上使历代人类繁殖过程中失真的生命信息也得以恢复，恢复到人类进化、宇宙生成的原始状态&mdash;&mdash;&ldquo;无极&rdquo;、&ldquo;朴&rdquo;、&ldquo;道&rdquo;。回复通往生命原始信息的道路，延缓人体生命的进程，推迟衰老和死亡到来的日期，开发人体的潜在能力，使机体的生命力得到最大程度的发挥。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;在具体的养生方法上，亦要逆天而行，倒转乾坤。仍以内丹之道为例。眼睛是向外看的，养生时要求二目垂帘，日月合并，回光返照，返观内视，耳是摄取外界声音的，炼功时则要求凝耳韵，敛神内听，鼻是嗅外界五味的，又是呼吸器官，炼丹是要调息理气，行深呼吸和逆呼吸，以至胎息，口舌是摄食和说话的，修炼时要闭口藏舌，舌顶上胯，接通任督，有话藏在腹里，有甘露吞入胃中<font face="Times New Roman">;</font><font face="宋体">心</font><font face="Times New Roman">(</font><font face="宋体">指思维活动的灵心</font><font face="Times New Roman">)</font><font face="宋体">是接受外界信息的刺激并作出判断的，踪似猿猴，总无闲时，修持时首先要收心求静，心定念止，神不外驰，精气是宜于宣泄的，当静极而功</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">一阳现的活子时之际，急用转轮法收气降龙等。总之，道教养生之术，就是<font face="Times New Roman">:</font><font face="宋体">心动收心，气发收气，精动收精，神驰敛神，形动收形，调心、调息、调神，把顺自然规律而去的生命三宝，用逆行功法统统收回。后天精气神返还先天精气神，后天呼吸返还先天呼吸</font><font face="Times New Roman">;</font><font face="宋体">后天八卦返还先天八卦，后天之形返回婴儿等。道教养生之道就是返还之道。归根返朴思想是道教养生学的核心和灵魂。&ldquo;复归于无极&rdquo;、&ldquo;复归于婴儿&rdquo;是返还的不同层次。&ldquo;复守其母&rdquo;是达到复归目的的养生原则。&ldquo;顺则生人生物，逆则成仙成道&rdquo;，&ldquo;顺则成人，逆则生仙&rdquo;，&ldquo;顺为人，逆为仙，只在其中颠倒颠&rdquo;等，都是对复命思想的形象表达。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;四、阴阳统一的哲学观和协调阴阳的养生观</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;两一&rdquo;是中国传统哲学的重要范畴。&ldquo;两&rdquo;即&ldquo;阴阳对立&rdquo;或&ldquo;阴阳对待&rdquo;，</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&ldquo;一&rdquo;即阴阳统一。&ldquo;两一&rdquo;是研究阴阳学说的理论，多指阴阳的对立统一。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;阴阳虽在《易经》中就有萌芽，但实发于《老子》。《老子》的&ldquo;道生一，一生二，二生三，三生万物，万物负阴而抱阳，冲气以为和&rdquo;<font face="Times New Roman">(</font><font face="宋体">《四十二章》</font><font face="Times New Roman">)</font><font face="宋体">之论，不仅最早提出&ldquo;阴&rdquo;、&ldquo;阳&rdquo;之名，而且将&ldquo;阴阳&rdquo;归结在&ldquo;道&rdquo;之中，认为阴、阳是根于&ldquo;道&rdquo;的，是&ldquo;道&rdquo;的本体之下的密切相关的两种事物和现象或同一事物和现象不同方面和属性。&ldquo;两一&rdquo;观念在《老子》中阐述最详。《老子》中随处可见阴阳对立的概念。认为宇宙间的万事万物，都包含有阴和阳这两个相互对立的方面，阴阳之间不息的斗争和相互转化，构成了世上的一切事物，同时又推动了事物的不息的发展变化。阴阳相互对立、依存、转化、辩证统一，统一于&ldquo;道&rdquo;中</font><font face="Times New Roman">;</font><font face="宋体">阴阳相互转换、交错、变化、冲撞，终至媾和，变化有序。阴阳的辩证统一的现象，构成了自然界的空间、时间运动的方式和次序，社会中个人在家庭、社会及自然界中的次序、地位和作用及相互之间的关系。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道教养生学将阴阳学说引入生命科学中来探讨，分析、归纳人体的组织结构、生理活动、病理变化、养生法则和辩证选功等，认为机体是由许多阴阳对立的双方构成的一个恒动的、开放的、复杂的系统，阴阳变化是有序的、规律的、周期性的，只有保持阴阳发展变化的有序性和统一性，才能保持机体的健康无恙，如果偏离了它们之间的有序性变化，就会出现病理性变化<font face="Times New Roman">;</font><font face="宋体">如果完全背离了它们之间的协调统一关系，就会因&ldquo;阴阳离决，精气乃绝&rdquo;而死亡。道教养生的目的之一，就在于用各种手段恢复机体内阴阳变化的有序性，所谓&ldquo;阴平阳密，精神乃治&rdquo;</font><font face="Times New Roman">;</font><font face="宋体">养生的境界就是使机体的阴阳变化同步于自然界的阴阳变化，所谓&ldquo;真人者，提掣天地，把握阴阳，呼吸精气，独立守神，肌肉若一，故寿敝天地，无有终时&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《素问&middot;上古天真论》</font><font face="Times New Roman">)</font><font face="宋体">。因此，道教养生学以&ldquo;协调阴阳&rdquo;作为其重要的养生观。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;协调阴阳的养生原则在实际中的应用是十分明显的。服饵用阴阳偏性的药物来纠正机体的偏性，以中性的药物来培补机体的中气，使机体内阴阳平衡有序，存思之道将人体元气分为阴阳二神，存思阴阳二神以祛邪护体，呼吸之道以呼为阳，吸为阴，根据身体的健康情况，选择&ldquo;六字诀&rdquo;，以吐故纳新。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;内丹之道中，大、小周天功法就是根据阴阳消长变化的规律性而制定的，以呼吸而言，则呼为阳，吸为阴，呼以祛邪，吸以培补。以季节而论，春夏为阳，秋冬为阴。春夏阳气升发成长，秋冬阳气肃降闭藏。元代丘处机据《素问&middot;四气调神大论》所谓&ldquo;春夏养阳，秋冬养阴&rdquo;的原则而撰写了《摄生消息论》一书，具体探讨一年四季养生之术的选择。此&ldquo;消息&rdquo;乃从阴阳而出。以时辰论语，子、丑、寅、卯、辰、巳为六阳时，午、未、申、酉、戌、亥为六阴时。古人强调练功应安排在六阳时，反对六阴时练功，因为六阳时外界为生气，六阴时外界是死气。又因子时一阳生，为阳气生发之时，此时练功最能取效，故古人特设&ldquo;活子时&rdquo;一专用名词，以强调对子时在养生中的作用的重视。以姿势立说，则脚分阴阳，手掐子午，耸肩收腹，均取负阴抱阳之势。以产药产丹而论，则必须阴阳交感和合，即坎离、水火、心肾的交感和合，才能产药、产丹、成胎。以火候而言，《周易参同契》以阴阳消息详尽地阐明炼丹火候。如&ldquo;复冒阴阳大道&hellip;&hellip;处中以制外，数在律历纪&rdquo;，&ldquo;发号施令，顺阴阳节，藏器待时，勿违时日&rdquo;，&ldquo;按历发令，至诚专密，谨候日辰，审察消息&rdquo;，&ldquo;借据漩巩，升降上下&rdquo;，&ldquo;消息应钟律，升降据斗枢&rdquo;，&ldquo;四时顺宜，与气相宜&rdquo;等。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;阴阳学说，是道教养生理论的思想律和说理工具，协调阴阳，是道教养生学的重要观念，阴阳和合，是道教养生学的一种境界，阴阳规律，是道教养生学遵循的重要法则。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;五、营魄抱一的哲学观与形神合一的养生观</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;形神关系，是中国传统哲学争论的焦点之一。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;首先谈形神关系的哲学家也是老子。《老子&middot;十章》曰<font face="Times New Roman">:</font><font face="宋体">&ldquo;载营魄抱一，能无离乎</font><font face="Times New Roman">!</font><font face="宋体">&rdquo;这就说明形体和精神是辩证统一的，并将形神合一关系应用于&ldquo;摄生&rdquo;中，曰</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;善摄生者，陆行不遇兕虎，入军不被甲兵。兕无所投其角，虎无所用其爪，兵无所容其刃。夫何故</font><font face="Times New Roman">?</font><font face="宋体">以其无死地&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《老子&middot;五十章》</font><font face="Times New Roman">)</font><font face="宋体">。前者说养其神</font><font face="Times New Roman">(</font><font face="宋体">内</font><font face="Times New Roman">)</font><font face="宋体">，后者说养其形</font><font face="Times New Roman">(</font><font face="宋体">外</font><font face="Times New Roman">)</font><font face="宋体">，内外合一则得养生主，故《韩非子&middot;解老篇》曰</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;动无死地，而谓之&lsquo;善摄生&rsquo;矣。&rdquo;深得老子之学的庄子对此研究的更为深刻。《庄子&middot;达生篇》曰</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;养形足以存生。&rdquo;此说养形。&ldquo;静然可以补病&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《外物篇》</font><font face="Times New Roman">)</font><font face="宋体">，是说养神。而&ldquo;无劳汝形，无摇汝精，乃可以长生&rdquo;，则既说养神，又说养形，乃形神共养、身心兼顾之谓。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道教将老子&ldquo;营魄抱一&rdquo;的哲学观念和摄生观直接拿来提出了形神共养、身心兼顾的养生观。道教养生学极力强调善养生者，不仅要加强形体锻炼和保养，更要注意摄养精神，保持心理上的安静平和、乐观开朗、淡泊达观。如是形神关系，才能与道合同，提高身体素质，促进气血流通，保持真气流通，协调脏腑功能，提高机体的防病能力，达到养生目的。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;服气、存思、内丹之道，虽重在锻炼呼吸、调摄精神、运行内气，但亦有一定的养形效果。如修炼时要求有一定的姿势，要求全身松定，内部舒坦，塞兑垂帘，沉肩垂肘，松颈含胸，&ldquo;坐如钟，立如松，卧如弓&rdquo;，所谓&ldquo;虚其心，实其腹，弱其志，强其骨&rdquo;<font face="Times New Roman">(</font><font face="宋体">《老子&middot;三章》</font><font face="Times New Roman">)</font><font face="宋体">&ldquo;挫其锐，解其纷，和其光，间其尘&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《老子&middot;四章》</font><font face="Times New Roman">)</font><font face="宋体">是也。张紫阳《金丹四百字序》教人&ldquo;含眼光，凝耳韵，调鼻息，缄舌气，是谓和合四象&rdquo;，再加上轻含齿，则五官势定。而五官之气与身体中心的五脏相连，肺气通于鼻，肾气通于耳，心气通于舌，肝气通于目，脾气通于口，五脏之气谓之&ldquo;五牙&rdquo;，五脏与精神意识和思维活动密切相关，&ldquo;心藏神，肺藏魄，肝藏魂，脾藏意，肾藏志&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《素问&middot;宣明五气论》</font><font face="Times New Roman">)</font><font face="宋体">，所以&ldquo;眼不视而魂在肝，耳不闻而精在肾，舌不声而神在心，鼻不香而魂在肺，四肢不动而意在脾，名曰五气朝元&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《金丹四百字序》</font><font face="Times New Roman">)</font><font face="宋体">，这样&ldquo;魂在肝而不从眼漏，魄在肺而不从鼻漏，神在心而不从口漏，精在肾而不从耳漏，意在脾而不从四肢孔窍漏，故曰无漏&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">同上</font><font face="Times New Roman">)</font><font face="宋体">。神、魂、魄、意、志各安其位，筋骨皮形各得其所，形神共养。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;导引、按摩等动功锻炼是采用意气相结合的各种肢体运动及自我按摩、拍击等法，以锻炼内脏、筋骨、肌肤，是形体运动、呼吸运动、意念锻炼三者综合锻炼的方法。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;存想、守一、内丹之道锻炼过程中，心定念止神静之后，就在形体上出现各种自我感觉。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;形神共养、身心兼顾，是道教养生之术的动作要领<font face="Times New Roman">;</font><font face="宋体">形神合一，是养生过程中的一种自然境界。只有形神合一之后，才能达到天人合一，甚至与道合同的境界。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;六、道法自然的哲学观与自然无为的养生观</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《老子》曰<font face="Times New Roman">:</font><font face="宋体">&ldquo;人法地，地法天，天法道，道法自然。&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《二十五章》</font><font face="Times New Roman">)</font><font face="宋体">&ldquo;以辅万物之自然，而不敢为&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《六十四章》</font><font face="Times New Roman">)</font><font face="宋体">。故道教养生学要求养生要&ldquo;任其自然&rdquo;。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;任其自然&rdquo;可从如下两个方面理解。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;其一是说世上的有生之物，由于种类的不同和禀赋的差异，都客观存在着不同的寿限和特异的表现。如夏天草木都在生长，冬季草木凋零，而松柏长青、腊梅盛放。这是由于各种生物本身的特有的规律决定的。人也有其&ldquo;天命&rdquo;、&ldquo;百岁&rdquo;、&ldquo;天数&rdquo;的自然寿限。因此，人不仅可以和其它生物那样按自己的&ldquo;天命&rdquo;而历尽人生的有生历程，而且还可以发挥精神对形体以及外界事物的反作用力，逆生成造化之机而养生。&ldquo;以药物养身，以术数延命，使内疾不生，外患不入，虽久视不死，而旧身不改，苟有其道，无以为难也&rdquo;<font face="Times New Roman">(</font><font face="宋体">葛洪《抱朴子&middot;论仙》</font><font face="Times New Roman">)</font><font face="宋体">，但不可以过分地追求长寿。若过分地追求长寿，超过正常的心理所能承受的压力，那不仅不利于长寿，反而会引起心理障碍精神崩溃影响身体健康。正如《老子》所谓&ldquo;出生入死。生之徒十有三，死之徒，十有三，人之生，动之于死地，亦十有三。夫何故</font><font face="Times New Roman">?</font><font face="宋体">以其生生之厚&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《五十章》</font><font face="Times New Roman">)</font><font face="宋体">。既然&ldquo;生生之厚&rdquo;、&ldquo;求生之厚&rdquo;、&ldquo;贵生&rdquo;反而是导致&ldquo;死&rdquo;的重要原因，故《老子》教人&ldquo;生而弗有，为而弗恃，功成而弗居&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《二章》</font><font face="Times New Roman">)</font><font face="宋体">，&ldquo;无以生为&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《七十五章》</font><font face="Times New Roman">)</font><font face="宋体">。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;其二，具体修炼时，应该顺应自然规律和客观情况。按照养生方法要求办事，既不能有过分的欲的追求，又不可懈怠而贻误&ldquo;火候&rdquo;。养生功亦如&ldquo;行云流水&rdquo;，行所行之所当行，止所止之所当止，既不能过分地企盼不切合实际的成功，生搬硬套具体功法，又要在把握住养生之道的前提下，根据天时、地利、时空的具体变化和自身的具体条件，选择正确的、适合自己具体情况的方法，把握住进阳火退阴符的火候，恰到好处地发挥养生的最佳效果，此即《老子》所谓&ldquo;居善地，心善渊，舆善仁，言善信，正善治，事善能，动善时&rdquo;<font face="Times New Roman">(</font><font face="宋体">《八章》</font><font face="Times New Roman">)</font><font face="宋体">之论所强调的中心问题。调形要结合病情、体质、意念集中部位、气候环境、生活习惯、练功阶段的需要，不可呆板地按功法上要求的固定姿势</font><font face="Times New Roman">;</font><font face="宋体">调息须心定神安，心平方能气和，须从自然柔和入手，不能一开始就追求某种呼吸方式。胎息气沉丹田是练功过程中的一种自我体会和当然结果</font><font face="Times New Roman">;</font><font face="宋体">如果一开始就要求丹田有气感，那样既达不到练功的要求，又会心情烦躁，呼吸粗乱，甚至会出现副作用</font><font face="Times New Roman">;</font><font face="宋体">调心先须&ldquo;定心&rdquo;，然后才能&ldquo;虚心&rdquo;、&ldquo;无心&rdquo;、&lsquo;生慧&rdquo;，使浮、沉、宽、急得所，而不能心情烦躁，任心猿上窜下跳，飞出十万八千里。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;在道教养生学中，&ldquo;无为&rdquo;并非什么都不干，而是柔弱不争，不强求，练功者&ldquo;见素抱朴，少私寡欲&rdquo;，对社会生活要乐天知命，随遇而安，对人生磨难要淡泊豁达，知足常乐，不可奢望苛求，见功好利，不做七情六欲的臣子。存无为之心，行有为之法，无为而无不为，有为则有以为。既不为外界所惑，又不分心于外界。《老子》曰<font face="Times New Roman">:</font><font face="宋体">&ldquo;五色令人目盲，五音令人耳聋，五味令人口爽，驰骋畋猎令人心发狂，难得之货令人行妨，是以圣人为腹而不为目，故去彼取此&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">《十二章》</font><font face="Times New Roman">)</font><font face="宋体">。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;练功收心求静时，须含眼光、凝耳韵、调鼻息。内观其心，心无其心，外观其形，形无其形，远观其物，物外无物。无者既悟，唯见于空，观空不空，是谓真空，观空已空，是谓顽空。眼观鼻而心不在鼻，由观而达到忘观。故《老子》曰<font face="Times New Roman">:</font><font face="宋体">&ldquo;夫唯不争，故无尤。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;由此可见，自然无为不仅是整个养生过程中对自己的精神意识状态的要求，而且也是养生成就的自我感受。如果确实能达到虚无无为的要求，就会处物而心不染，处动而神不散，本心不起，物我两忘，恍恍惚惚，杳杳冥冥，体会出道的本体的客观存在。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;总之，从以上六个方面说明，《老子》的确不负道教养生学祖经的称奉。道教养生学正是在撷取老子哲学思想之精微的基础上，才创建起如此庞大、深奥的理论体系的。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

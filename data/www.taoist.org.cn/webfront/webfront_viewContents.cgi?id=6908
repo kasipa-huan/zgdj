@@ -1,0 +1,582 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260800000000000000&targetPage=Fdjxy2">
+						中国道教2011—
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260803000000000000&perPageNum=15&targetPage=Fdjxy3">
+						2011年第3期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	从《穹窿山执事规范》看清初全真道与正一道的融合
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">李</span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;</span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">良</span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《穹窿山志》全书共六卷，前四卷为杂录、序记、疏引等作，后二卷为纪游览题赠之诗，从内容上讲是道教宫观方志书，另有大量山水、人物版书，是道教宫观志书中极少见的。《穹窿山志》于康熙初年付梓刻印，流传于世，为研究上真观的由来与发展留下了宝贵的资料。《穹窿山志》卷三所载的《穹窿山执事规范》为我们研究当时上真观的规范制度提供了素材，也为研究清初江南全真道与正一道的融合提供了很好的例证。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">一、《穹窿山执事规范》与全真道、正一道执事规范的异同</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《穹窿山志》卷三所载《穹窿山执事规范》总共列了三十三条，分别为：领众、住持、兼住、都管、悦众、知库、知宾、主翰、书记、都缘、都工、营办、值事、巡照、司威仪、司钟、知藏、知印、值殿、值库、典座、知随、督厨、司饭、司庖、行堂、贴厨、司水、司火、司茶、司浴、担力、司圃。这里面与丛林规范名称职务都一样的有：都管、主翰、书记、巡照、知藏、知随、督厨、行堂。名称不一样而实际职务一样的有：</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">从上面的材料可以看出，《穹窿山执事规范》有二十五条与全真丛林规范是一样的，剩下八条，即领众、兼住、悦众、值事、司威仪、知印、典座、担力与全真丛林规范不同。《穹窿山执事规范》对这七条的解释如下：&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">领众：领众者何？盖率领山中之道众，而同修无上之因果也。体方丈济世之心，弘道度人之量，必择道行无亏、修持有素者可任之。使大众磨砺切磋，陶镕于大范之内。太上曰：高者抑之，下者举之，领众之职也。孔子曰：道之以德者，齐之以礼，其领众之所以无旷厥职者乎。凡斋醮及一应公务，皆属总持焉，故列之于执事之首。<font face="Times New Roman">①</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">兼住：常住之有兼住，犹有司之有佐贰也。本山人众事烦，住持一人不能独胜其任，是以有兼住之设。兼住者，盖兼理长住者也。每遇公务，与住持都管互相商榷，然后举行。凡本山钱粮出入，及交盘结算各项账目，以至开柜发衬、工作采办等项，公同管理焉。此兼住之职也。<font face="Times New Roman">②</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">悦众：以礼诵为进道之阶，以威仪为行道之本，朝暮课诵，所以为丛林第一模范也。且课诵之功德，上以报天地君王，下以资十方万类。而大众即以此检束身心，循文解义焉。悦众者何？盖率大众而主修课诵之人也。《道德经》云：音声相和，前后相随。于礼诵之时，使大众心开意悟，而各得其欢欣爱悦焉，悦众之职也。《太微仙君功德格》云：漏一字为一过，漏一句为五过，遇斋辰令节，故不朝真为二过，因私务不及为一过。尤当与大众共晓之。<font face="Times New Roman">③</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">值事：凡宾客到山，一应铺陈行李检点明白，交付库房，至晚送至客寮，贵检点周到。如宾客无铺陈者，库房取出应用，客去收在库房，不致遗失。<font face="Times New Roman">④</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">司威仪：霓旌所以表德，宝幢所以命魔，道家威仪之制，所从来久矣。本山屡建黄箓大斋，遐迩皈依，士民瞻仰。倘威仪未备，非所以表法席之庄严也。司之者必按式制备，敝则新之，缺则补之，亦坛中要紧执事也。<font face="Times New Roman">⑤</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">知印：道家印章之制，何其重也。颁之王府，载之道藏，传之汉天师，守之天神将帅，非寻常法器，可以自造，可以常用也。本山旧传印章几颗，特设知印之人。非侈美名，用尊法宝。凡国家启建大斋则用之，祈晴祷雨则用之，为万民祈福禳灾则用之。非是不得擅用，亦不得妄用。如祈祷则用雷霆印，济度则用灵宝印之类。伏望知印者，宝之秘之，不敢怠忽，子孙世世守之，与香火俱长。所以特严知印执事。<font face="Times New Roman">⑥</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">典座：凡大众斋食时，先检点数目，知会行堂人安排位次。如宾客到山，先报数于库房以便备茶，次报数于厨房以便备斋，宾客几位。&nbsp;人之或尊或卑，或远或近，或住或去，皆其专司也。<font face="Times New Roman">⑦</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">担力：山路崎岖，负戴者难移寸步，工程浩大，担荷者接踵登临，担力者何其劳也。大众功行者学道之基，勤劳者积功之本。是役也，不可孤定，而随人发心者也。<font face="Times New Roman">⑧</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">在这八条里面最具有价值和特色的就是领众、兼住二职，但笔者遍查其他典籍也没有找到有关这两条职务的记载。领众一职不管是全真道的宫观还是正一道的宫观都没有这么一个职位，从领众这个职务的表述来看跟方丈一职特别相近，一种观点认为上真观属于正一派，故没有方丈一职，只不过变换了一种说法而已。我们先看住持跟兼住的关系：住持：<font face="Times New Roman">&ldquo;</font><font face="宋体">住持之职，其重矣哉，盖总持一切公务者也</font><font face="Times New Roman">&hellip;&hellip;&rdquo;⑨</font><font face="宋体">，兼住：</font><font face="Times New Roman">&ldquo;</font><font face="宋体">常住之有兼住，犹有司之有佐贰也，本山人众事烦，住持一人不能独胜其任，是以有兼住之设。</font><font face="Times New Roman">&hellip;&hellip;&rdquo;⑩</font><font face="宋体">从住持和兼住的表述来看，很容易得出，兼住为住持的副手，协助住持管理道观的日常公务。另在碑记《重建茅君殿记》里有这样的记载：</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">方丈张神西等吁募重建，平度牧钱君鸣萃，慨然引以为己任，谋于同志，敛财鸠工，于丙午正月经始，九月落成。广殿修廊，旙花香火之供，修举增饰，视昔有加，盛无衰减焉。今方丈朱神驭等，请余文以纪其事。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">乾隆五十四年十一月朔，本山方丈朱神驭，首座张神熙、罗神志、金神龙，住持周全仁，副住赵全涌，监住徐全羽等立石。</span><span>11</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">由上可以看出，穹窿山上真观的确有方丈一职，在彭定求的《穹窿亮生施尊师墓表》中也提到：</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">康熙十七年七月二十八日，亮生施法师卒于圆妙观方丈，其徒众奉柩还穹窿，厝于上真观左偏，待更卜吉地乃葬。</span><span>12</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">所以当时的上真观应该是有方丈一职的，再据清<font face="Times New Roman">&middot;</font><font face="宋体">彭定求《穹窿亮生施尊师墓表》：</font><font face="Times New Roman">&ldquo;</font><font face="宋体">岁丙辰，师至京师，一时公卿，多踵门纳履，师虑名迹喧闹，悄然远引。明年强之再至，至即遄归，仍往来于穹窿圆妙两方丈间。忽感微疾，辞众端坐而逝，年六十有二。远近士民哀恸奔赴，络绎道路，如丧其私亲。</font><font face="Times New Roman">&rdquo;</font></span><span>13</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">所以当时极有可能就是穹窿上真观方丈一职是由施道渊本人兼任的，因施道渊真人经常被四方征请，又经常往来于穹窿山和玄妙观，当时穹窿山上真观也已经名声大噪极其兴盛了，斋醮活动应该与日常事务一样地繁忙和众多，而当时的住持是不能领导斋醮活动的，所以就专设了一个方丈的副手职位即领众，方丈不在时，领众就行使方丈的权利和义务。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">历史上道教正一派道观执事名称，根据明代朱权《天皇至道太清玉册》上卷的<font face="Times New Roman">&ldquo;</font><font face="宋体">古制宫观道士之职</font><font face="Times New Roman">&rdquo;</font><font face="宋体">。其中列举有三十种职称，即：</font><font face="Times New Roman">&ldquo;</font><font face="宋体">真人、祭酒、道录、道纪、道统、道正、道会、观主、提点、提举、副宫、副观、讲师、都监、玄义、知事、书记、谏议、监临、戒师、上座、掌籍、都表、监斋、法师、副表、直岁、表白、知库、司钥</font><font face="Times New Roman">&rdquo;</font><font face="宋体">等。另外有</font><font face="Times New Roman">&ldquo;</font><font face="宋体">南极长生宫新增十五职</font><font face="Times New Roman">&rdquo;</font><font face="宋体">，即：</font><font face="Times New Roman">&ldquo;</font><font face="宋体">藏史、知院、佥院、主翰、训师、司籍、直殿、直堂、知宾、司禀、司户、司工、司圃、司牲、社主</font><font face="Times New Roman">&rdquo;</font><font face="宋体">等等。</font></span><span>14</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">另据《龙虎山志》中府僚附记载：旧志部授知印、都目、司务各一员；掌事四员；监纪二员；赞教二员，宣德间加二员；知事四员，掌书一员。</span><span>15</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">又载：知印掌大真人印信之封斗。</span><span>16</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">所以《穹窿山执事规范》与正一派道观执事相同的名称仅仅有住持、书记、知印、知库、值殿、主翰、知宾、司圃七种。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">通过对《穹窿山执事规范》与全真道和正一道执事规范的比较，可以看出《穹窿山执事规范》明显受到了全真道执事规范的影响，可以说是极力地向全真道执事规范靠拢，不过里面也有典型的正一道执事规范特征，如住持、知印等。《穹窿山执事规范》也表现出了自己的特色，设立了诸如领众、兼住、悦众、值事、司威仪、典座、担力等全新的执事。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">二、从《穹窿山执事规范》看全真道对穹窿山上真观的影响</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">在《穹窿山执事规范》里还多次提到跟全真道相关的人和事，如卷首即有：<font face="Times New Roman">&ldquo;</font><font face="宋体">盖闻传经问道，圣王崇方外之宾师，扫地焚香，宰相乞山中之提举，执事之由来尚矣。穹窿选仙胜地，阐教名山，司泉石而品烟霞，自有丛林制度。运风霆而施雨泽，不无草野经纶，是揖仙品于瑶坛，论道谈玄，我谓空山多高士，聆步虚于洞口，樵薪汲水，人言尘外有良才，分职分司，由下品而跻上品，同心同德，从有为而悟无为，作执事志。</font><font face="Times New Roman">&rdquo;</font></span><span>17</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">这个材料里面明确提到穹窿山上真观有丛林制度。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《穹窿山执事规范》卷首又载，铁竹道人曰：<font face="Times New Roman">&ldquo;</font><font face="宋体">夫住山者，清虚恬淡，潇洒寂寥，慈悲为本，方便为门，去除人我，断却是非，于十二时中，刻刻常照此心。居尘出尘，无为而为，晨昏课诵之外，凝神涤虑，守朴养真，余工汲水担薪，搬砖运石，勿起贪嗔，勿起高慢，勿起嫉妬，勿起懈怠，功夫到此，渐跻道域。且本山初创玄基，不可不严规范。以勤劳作务为本，筋骨虽劳而神自定。上古真师，无不由勤苦而得证仙阶。今我等后学，敢不加倍精进？所有常住执事，开列于后。</font><font face="Times New Roman">&rdquo;</font></span><span>18</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">另据闵智亭道长《道教仪范》之《长春真人规榜》载：<font face="Times New Roman">&ldquo;</font><font face="宋体">夫住山者，清虚恬淡，潇洒寂寥，见性为体，养命为用，柔弱为常，谦和为德，慈悲为本，方便为门，在众者常存低下，处静者勿起尘情，所有尘劳，量力运用，不可过度，</font><font face="Times New Roman">&hellip;&hellip;</font><font face="宋体">常要明真，扫除尘垢，刷釜汲水，担薪饮膳，除己私意，勿起嗔心。</font><font face="Times New Roman">&rdquo;</font></span><span>19</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">从这两条材料可以看出，铁竹道人的这段话和《长春真人规榜》所载的内容是一致的，有些语句完全一样，有些语句仅仅有细微的差别。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">另卷末提到：<font face="Times New Roman">&ldquo;</font><font face="宋体">丹阳真人曰：或于教门用力大起尘劳，或于心地下工全抛世事。</font><font face="Times New Roman">&rdquo;</font></span><span>20</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">这句话其实是出自《邱祖寄西州道友书》，</span><span>21</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">这里说是<font face="Times New Roman">&ldquo;</font><font face="宋体">丹阳真人</font><font face="Times New Roman">&rdquo;</font><font face="宋体">应是笔误。在《穹窿规范》里称：</font><font face="Times New Roman">&ldquo;</font><font face="宋体">今上康熙乙酉春王四月，请师上座，白大众云：丛林规范必要遵，晨昏课诵必要到，礼诵延修行之要路，既已出家，务必有益，不负师尊之汲引。</font><font face="Times New Roman">&rdquo;</font><font face="宋体">从这几条材料我们可以明显地看出，穹窿山执事规范受全真道规范的影响是极其深远的。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">综上所述，我们可以看出当时的穹窿山上真观虽然平常行的是斋醮符箓，但庙里的规范制度却是极力向全真道靠拢。据《金盖心灯<font face="Times New Roman">&middot;</font><font face="宋体">道谱源流图》记载：</font><font face="Times New Roman">&ldquo;</font><font face="宋体">施亮生，号铁竹道人，尝受初真戒、中极戒于王昆阳（王常月）。后精于法，改皈正一真人府，派名姑苏穹窿山一派。</font><font face="Times New Roman">&rdquo;</font></span><span>22</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">虽然整本《穹窿山志》都没有明确地记载有关施道渊在王常月处受戒一事，而《金盖心灯》的出现要比《穹窿山志》晚得多，但是从《穹窿山执事规范》所表现出来的明显受全真道规范影响的痕迹可以看出，如果施道渊没有受过戒是很难制定出这样的执事规范的，所以笔者认为《穹窿山执事规范》可以给施道渊受戒一事提供一个很好的旁证。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">三、从《穹窿山执事规范》看清初江南全真道与正一道的融合</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">从以上的分析我们可以看出《穹窿山执事规范》受到了全真道极深的影响，全文多次提到跟全真道相关的人和事，也多次提到诸如出家、丛林制度等具有全真道特色的字眼。从整篇《穹窿山执事规范》来看，《穹窿山执事规范》极力地向全真道执事规范靠拢，全文跟正一道执事规范相关联的却极为稀少。据《穹窿山执事规范》卷末记载：<font face="Times New Roman">&ldquo;</font><font face="宋体">已上三十余则，皆本山要紧执事，不可或缺，亦不可不选择其人。凡领众、住持、兼持等，皆授职真人府者任之。</font><font face="Times New Roman">&rdquo;</font></span><span>23</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">可以看出穹窿山上真观的领众、住持、兼持等职，必须是在真人府受过箓的才可以担任，从这一条材料可以明确肯定穹窿山上真观为正一派的道观。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">从《穹窿山执事规范》里面我们可以看到典型的全真道与正一道的融合，这与明末清初江南道教的大融合有着非常密切的关系。江南道教全真道与正一道的融合始于元代，如陈兵在《元代江南道教》一文指出：<font face="Times New Roman">&ldquo;</font><font face="宋体">元代江南道教教义表现出两个显著的特征：一是元代江南道教诸派皆提倡三教同源一致，以融合三教尤融摄和会理学为教义的共同特色，明显表现出向理学靠拢的倾向；二是诸派之学交参，尤内丹学与符箓结合，并皆以真性为行法炼丹之本。</font><font face="Times New Roman">&rdquo;</font></span><span>24</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">所以元代江南道教就已经表现出教派融合的倾向。到了明代，朱迪思<font face="Times New Roman">&middot;</font><font face="宋体">柏林在《剑桥中国明代史》之《明代文化中的道教》一文中指出：明代不是一个以出现新道派和产生杰出思想家而著称的时代，而是一个以各道派的稳固和合流为特征的时代。</font></span><span>25</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">到了清代，道教教派之间的融合就更加明显了，正如莫妮卡在《道教手册》之《清代道教》一章开篇即指出：<font face="Times New Roman">&ldquo;</font><font face="宋体">清代道教发展的显著特征之一是道教教派的日趋合一和规范。</font><font face="Times New Roman">&rdquo;</font></span><span>26</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">作为清初江南最重要道观之一的穹窿山上真观，不可能不受道派融合这种大趋势的影响。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">学界对于研究江南道教教派之间的融合这方面起步较早，著述也颇丰，如陈兵的《清代全真道龙门派的中兴》一文指出<font face="Times New Roman">:&ldquo;</font><font face="宋体">清代龙门派盛传于南方，不能不与南方本位道教正一派互相影响、交参融合。</font><font face="Times New Roman">&rdquo;</font></span><span>27</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">他在任继愈先生主编的《中国道教史》中亦明确提出：<font face="Times New Roman">&ldquo;</font><font face="宋体">至清末，各地全真龙门派道士，亦多兼行斋醮祈禳，以香火收入为谋生之一途，全真与正一行持方面渐无多区别。</font><font face="Times New Roman">&rdquo;</font></span><span>28</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">王志忠《明清全真教论稿》一书，总结了明清之际全真道思想的发展与特征，大概指出：<font face="Times New Roman">&ldquo;</font><font face="宋体">一是教派的融合，不仅学兼儒释、归根忠孝，而且法兼正一，相互融摄；二是性命双修，见性立命；三是戒行精严，由戒入门。</font><font face="Times New Roman">&rdquo;</font></span><span>29</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">另陈耀庭《全真教派的发展和演变》一文，分析了全真道发展和演变的一些历史特征，指出：<font face="Times New Roman">&ldquo;</font><font face="宋体">全真道派并不是一个保守的宗派，而是一个开放的宗教，是一个能够吸取各家之所长为我所用的宗派。</font><font face="Times New Roman">&rdquo;</font></span><span>30</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">由上我们可以看出，学界内外对于研究江南道教融合，特别是研究明清道教融合的问题，多侧重于全真道融摄三教的思想，或者全真道融合正一道的斋醮符箓等等。也就是说，学界内外研究的最终落脚点还是在融摄三教思想和融摄了正一道斋醮符箓的<font face="Times New Roman">&ldquo;</font><font face="宋体">新</font><font face="Times New Roman">&rdquo;</font><font face="宋体">全真道上。不管什么样的融合都是相互的，既然全真道能够融摄三教思想、融摄正一道的斋醮符箓，那么正一道应该也有这样一个过程和案例。然而对于融摄了三教思想和融摄了全真道教义和规范之后的</font><font face="Times New Roman">&ldquo;</font><font face="宋体">新</font><font face="Times New Roman">&rdquo;</font><font face="宋体">正一道的研究，学界内外并没有过多的涉猎。当然全真道的融摄案例极其繁多，更具有普遍性，吴亚魁《江南全真道教》一书中有详细的介绍。正一道融摄了全真道的教义规范所形成的</font><font face="Times New Roman">&ldquo;</font><font face="宋体">新</font><font face="Times New Roman">&rdquo;</font><font face="宋体">正一道的典型案例则极其稀少，《穹窿山志》里所揭示出来的，清初上真观行的是斋醮符箓，守的却是全真教义教规，这样的正一道观，对于更加全面地研究清初道教在江南的大融合，或许会具有极大的价值和意义。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">注：</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">①②③⑨⑩&nbsp;<font face="宋体">《穹窿山志》卷三，载《四库全书存目丛书》史</font><font face="Times New Roman">237</font><font face="宋体">，第</font><font face="Times New Roman">161</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">④⑤&nbsp;<font face="宋体">《穹窿山志》卷三，载《四库全书存目丛书》史</font><font face="Times New Roman">237</font><font face="宋体">，第</font><font face="Times New Roman">163</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑥⑦&nbsp;<font face="宋体">《穹窿山志》卷三，载《四库全书存目丛书》史</font><font face="Times New Roman">237</font><font face="宋体">，第</font><font face="Times New Roman">164</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑧&nbsp;<font face="宋体">《穹窿山志》卷三，载《四库全书存目丛书》史</font><font face="Times New Roman">237</font><font face="宋体">，第</font><font face="Times New Roman">166</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>11</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;注：此碑位于今穹窿山上真观祖师殿内南壁正中。碑身宽<font face="Times New Roman">82</font><font face="宋体">厘米，高</font><font face="Times New Roman">168</font><font face="宋体">厘米，底座高</font><font face="Times New Roman">40</font><font face="宋体">厘米，额高</font><font face="Times New Roman">85</font><font face="宋体">厘米。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>12</span><span>13</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;见彭定求《南畇文稿》卷十。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>14</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;（明）朱权编：《天皇至道太清玉册》，见《中华道藏》，第<font face="Times New Roman">28</font><font face="宋体">册，第</font><font face="Times New Roman">708</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>15</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;（清）娄近垣纂：《龙虎山志》，载《藏外道书》<font face="Times New Roman">19</font><font face="宋体">册，第</font><font face="Times New Roman">510</font><font face="宋体">页，第</font><font face="Times New Roman">511</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>16</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;（清）娄近垣纂：《龙虎山志》，载《藏外道书》<font face="Times New Roman">19</font><font face="宋体">册，第</font><font face="Times New Roman">511</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>17</span><span>18</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;《穹窿山志》卷三，载《四库全书存目丛书》史<font face="Times New Roman">237</font><font face="宋体">，第</font><font face="Times New Roman">160</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>19</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;闵智亭著：《道教仪范》，第<font face="Times New Roman">81</font><font face="宋体">页，第</font><font face="Times New Roman">82</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>20</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;《穹窿山志》卷三，载《四库全书存目丛书》史<font face="Times New Roman">237</font><font face="宋体">，第</font><font face="Times New Roman">166</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>21</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;见闵智亭著：《道教仪范》，第<font face="Times New Roman">243</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>22</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;《藏外道书》，第<font face="Times New Roman">31</font><font face="宋体">册，第</font><font face="Times New Roman">168</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>23</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;《穹窿山志》卷三，载《四库全书存目丛书》史<font face="Times New Roman">237</font><font face="宋体">，第</font><font face="Times New Roman">166</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>24</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;陈兵著：《道教之道》，第<font face="Times New Roman">86&mdash;97</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>25</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;Judith&nbsp;Berling.&ldquo;Taoism&nbsp;in&nbsp;Ming&nbsp;Culture.&rdquo;In&nbsp;F.W.Mote&nbsp;and&nbsp;D.Twitchett<font face="宋体">，</font><font face="Times New Roman">eds.</font><font face="宋体">，</font><font face="Times New Roman">The&nbsp;Cambridge&nbsp;History&nbsp;of&nbsp;China</font><font face="宋体">，</font><font face="Times New Roman">vol.8</font><font face="宋体">，</font><font face="Times New Roman">pt.2.Cambridge:Cambridge&nbsp;University&nbsp;Press,1998.</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>26</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;莫妮卡（<font face="Times New Roman">Monica&nbsp;Esposito</font><font face="宋体">）著：</font><font face="Times New Roman">&ldquo;Daoism&nbsp;in&nbsp;the&nbsp;Qing&rdquo;</font><font face="宋体">（清代道教），载</font><font face="Times New Roman">Livia&nbsp;Kohn</font><font face="宋体">编</font><font face="Times New Roman">Daoism&nbsp;Handbook</font><font face="宋体">（道教手册）（</font><font face="Times New Roman">Leiden</font><font face="宋体">：</font><font face="Times New Roman">Brill</font><font face="宋体">，</font><font face="Times New Roman">2000</font><font face="宋体">）：第</font><font face="Times New Roman">623</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>27</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;陈兵著：《道教之道》，第<font face="Times New Roman">130</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>27</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;任继愈主编：《中国道教史》（下册），第<font face="Times New Roman">852</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>29</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;王志忠著：《明清全真教论稿》，第<font face="Times New Roman">141</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>30</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;陈耀庭著：《全真教派的发展和演变》，见《全真道学术研究报告》，第一辑，第<font face="Times New Roman">16</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: right; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">（作者系中国道教学院研究生班学员）</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

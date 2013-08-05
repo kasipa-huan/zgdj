@@ -1,0 +1,595 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260100000000000000&targetPage=Fdjxy2">
+						道协会刊(1962—1986)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260114000000000000&targetPage=Fdjxy2">
+						第14期(1984年6月）
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	《太极图》、《无极图》、《太极先天图》蕴义及源流考辨（1）
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<div style="LINE-HEIGHT: 150%" align="center"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">李 养 正 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　五代 (公元907&mdash;&mdash;960年)以后，哲学思想界出现一股向宗教吸取&ldquo;营养&rdquo;的流派，这就是以图解《易》之学的兴起。托名解《易》，实际上不过引用《易传》系统的术语，冒易道而杂以仙道之说，将《易传》的哲学思想衍化为神秘主义。其著名倡导者有陈抟、种放、穆修、周敦颐、邵雍、朱熹等。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　唐末五代，社会兴起钟吕金丹道教。相传五代、宋初处士陈抟集其义旨作《无极图》，宋真宗时儒家学者周敦颐开创道学，作《太极图》，尔后授受渐广，演绎者日多，各种各样的图式，纷纷出现。他们都自称其哲理精髓，皆总摄于自己所设计的图式。总之，这许许多多的图式，都是这些学者们所设计的世界模式论的图式以及道教炼养士们的根本理论与修真方法的图式。因此，我们要了解五代以后流传的金丹道教的&ldquo;奥理&ldquo;，两宋理学的实质，理学与道教的互相影响、互相交融、互为表里的密切关系，便十分必要弄清这些图式的基本源流及内涵。换言之，要了解五代末及两宋哲学思想的发展以及道教的发展，都必须研究这些图式。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　由于北宋以后，图学十分繁琐，阐发性的图说卷帙浩繁，各种图式光怪陆离，如果漫无边际来谈，则势必如堕烟海，茫茫然无所收益。因此，笔者选择其与哲学史、道教史关系较密切者，即两宋理学家相传周敦颐《太极图》、相传道教陈抟的《无极图》及道教《上方大洞真元妙经》中的《无极先天图》，加以探讨。又由于宋元以来，考证、辨说这些图式的著作不少，笔者对其中涉及源流、内涵的有些说法，颇慼其有必要作进一步探讨的地方，因而不揣固陋，试为考辨。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">第 一 章 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">周敦颐《太极图》及《太极图说》 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">第 一 节 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">周敦颐作《图》及《图说》考 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　周敦颐，字茂叔，号濂溪。宋真宗天禧元年至宋神宗熙宁六年 (公元1017&mdash;1073年)间人。生于道州营道县之营乐里。原名惇实，后避英宗旧讳改敦颐。他是一位顺应三教合流思潮的儒家学者。他以儒家的社会伦理哲学为主体，吸取佛教的&ldquo;禅定&rdquo;思想及道教陈抟《无极图》的宇宙观，开创了道(理)学体系。他把儒家的《周易》思想与阴阳五行说、道教的内丹理论相结合，论证宇宙的本原&mdash;&mdash;&ldquo;无极而太极&rdquo;，并制作了描绘宇宙形成和发展变化的宇宙生成图式，还著作了阐发《太极图》的《太极图说》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　元脱脱撰《宋史 &middot;列传&middot;道学》载： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　至宋中叶，周敦颐出于舂陵，乃得圣贤不传之学，作《太极图说》、《通书》，推明阴阳五行之理，命于天而性于人者，瞭若指掌。《宋史 &middot;周敦颐传》也说他：博学力行，著《太极图》，明天理之根源，究万物之终始。按《太极图说》为《太极图》之阐发，《太极图》为《太极图说》之图象。朱熹说：&ldquo;先生之精，因图以示，先生之蕴，因图以发&rdquo;。虽然，《宋史》肯定周敦颐曾作《太极图》及《太极图说》⑴，但从宋代至清代，对《图》及《图说》是否出自周敦颐，均有争议。如宋时朱熹与陆九渊反复辨难，朱熹作肯定，陆九渊则疑其非周之作；迨至清代，黄宗炎作肯定，而朱彝尊则疑其出之于程颢(明道)。同时，认为出自周敦颐者，又有分岐，宋代朱震等认为周敦颐乃受之于穆修，而朱熹等则认为是周敦颐所自作。自宋以来，仍属悬案。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　关于周敦颐哲学著作的最早记载，为周敦颐至友潘兴嗣所撰《濂溪先生墓志铭》： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　尤善谈名理，深于易学，作《太极图》、《易说》、《易通》数十篇。南宋初朱震在《汉上易解》中也述及此事，《宋史 &middot;朱震传》中说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　陈抟以《先天图》传种放，放传穆修 &hellip;&hellip;。穆修以《太极图》传周敦颐，敦颐传程颢、程颐。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　朱震在宋高宗四年(公元1134年)为高宗讲《易》时，在《进周易表》中亦曾谓抟以《太极图》传种放，种放传穆修，修传周敦颐。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　朱熹是坚持周敦颐作《图》及《图说》者，他不同意朱震 &ldquo;修传周敦颐&rdquo;的说法，只勉强承认穆修对周敦颐有所影响，而《图》仍系周敦颐所自作。他在《再定太极通书后序》⑵中说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　张忠定公 (张咏)尝从希夷学，而其论公事之有阴阳，颇与图说意合。窃疑是说之传，固有端绪，至于先生然后得之于心，而天地万物之理，巨细幽明，高下精粗，无所不贯，于是始为此图，以发其秘耳。在《周子太极通书后序》⑶中说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　五峰胡公仁仲作《通书序》， &hellip;&hellip;夫以先生之学之妙，不出此图，以为得之于人，则决非种穆所及，&hellip;&hellip;是以尝窃疑之。及得志文⑷考之，然后知其果先生之所自作，而非有所受于人者。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　因此，朱熹在《濂溪先生事状》 ⑸中肯定周敦颐作《图》及《图说》。他不仅肯定周敦颐作《太极图》；而且认为《太极图》应列为《通书》之首篇；更认为周敦颐道学之奥妙均具于《太极图》中。《周子太极通书后序》⑹： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　盖先生之学，其妙具于太极一图，《通书》之言，皆发此图之蕴，而程先生兄弟语及性命之际，亦未尝不因其说。 &hellip;&hellip;潘清逸志先生之墓志，叙所著作，特以作《太极图》为称首，然则此图当为书首不疑也。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　及至明末，王夫之 (船山)认为只有第二圈之&ldquo;取坎填离&rdquo;图是陈抟所传，其余则皆为周敦颐所自作。《思问录外篇》： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《太极》第二图，东有坎、西有离，颇与玄家毕月鸟、房日兔，龙吞虎髓、虎吸龙精之说相类，所谓互藏其宅也。世传周子得之于陈图南，愚意陈所传者此一图，而上下四图，则周子以其心得者益之，非陈所及也。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　明末清初的黄宗炎，在《易学辨惑 &middot;太极图说辨》⑺中说，周敦颐&ldquo;得图于方士，得偈于释心证，而后推墨附儒，借大易以申之，更为《太极图说》&rdquo;。认为此图非易，为老、仙、释淆乱之作。《太极图说辨》中说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　太极图者，并刃于河上公，传自陈图南，名为无极图，乃方士修炼之术， &hellip;&hellip;周茂叔得之更为太极图说，则穷其本而反于老庄，可谓拾瓦砾而悟精蕴，但缀说于图，合二途为一门，&hellip;&hellip;又惧老氏非孔孟之正道，不可以传来学，借大易以申其易，混二术而总冒以儒&hellip;&hellip;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　清毛奇龄依据：张南轩所说周濂溪之学始宗陈希夷，后从穆修、邵康节游，又尝学于润州鹤林寺僧寿涯；胡汲仲《大同论》所说河南程氏二子得周子之传，周子之传出北固 (润州)竹林(鹤林)寺僧寿涯；胡双湖一桂《启蒙翼传》所说胡武平、周茂叔同师润州鹤林僧寿寺涯，其后武平传其学于家，茂叔传二程等说法。认为周敦颐的《太极图》端绪于陈抟及僧寿涯，所谓&ldquo;方士所传，老僧所授&rdquo;，周敦颐合二氏加以修饰，绘制出了《太极图》。他在所撰《西河合集&middot;太极图说遗议》⑻中肯定周敦颐传《太极图》： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　闻之汉上 (朱震)所进图在高宗绍兴甲寅，而亲见其图，而摩画之，则在徽宗政和之丙申，&hellip;&hellip;况其图后注云：右太极图周惇实，茂叔传二程先生，其称惇实，则在英宗以前，未经避讳改名之际，其图之最真最先已暸然矣。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　以上所引述的这些，基本上都肯定周敦颐作了《图》及《图说》。而自宋以来，持异议者亦复不少，如宋陆九渊、清朱彝尊可为代表。如朱熹《答陆子静书》 ⑼记载： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　象山陆九渊书云：梭山兄谓《太极图说》与《通书》不类，疑非周子所为 &hellip;&hellip;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　陆九渊最根本的理由是，《太极图》及《太极图说》在 &ldquo;太极&rdquo;之上又加&ldquo;无极&rdquo;，&ldquo;太极&rdquo;是儒家宇宙本原的术语，而&ldquo;无极&rdquo;乃道家宇宙本原的术语，周敦颐是儒家，他所著《通书》亦不言&ldquo;无极&rdquo;，故断定《图》与《说》非周之作。可是他又有所犹豫，接着说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　假令《太极图说》是其所传，或是少时所作，则作《通书》时，盖已知其说之非矣。此言殆未可忽也。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　及至清代，朱彝尊撰《太极图授受考》，在该文的前部分也说：陈抟居华山，曾以《无极图》刊诸石，相传抟受之吕岩，岩受之钟离权，权得说于伯阳，伯阳闻其旨于河上公；周敦颐取而转易之，更名《太极图》，仍不没《无极》之旨。可是在该文后部却又拐弯抹角怀疑周传《太极图》之说。他写道： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　山阳度正作元公 ⑽年表，书庆历六年知虔州兴国县，程公珀假促南安，因与先生为友，令二丁师之，时明道年十五，伊川年十四，尔其后先生作《太极图》，独手授之，他莫得而闻焉。考是年元公以转运使王逵荐移知彬县，自是而后，二程子未闻与元公觌面，然则从何地手授乎?伊川撰《明道行状》云：&ldquo;先生为学，自十五六时闻汝南周茂叔论道，&hellip;&hellip;未知其要，泛□于诸家，出入于老释者几十年，反求诸后得之&rdquo;。绎其文，若似乎未受业于元公者，不然，何以求道未知其要，复出入于老、释邪? </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　言外之意，即程颢并不曾受图及说于周敦颐，由于程颖多年出入于老、释，则图及说可能为程颢所作，非周敦颐所作。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　综上所述，我认为潘兴嗣、胡五峰等与周敦颐同时，而且关系较密切，朱熹根据他们的记述加以考订，是比较可靠的。陆九渊、黄宗炎、朱彝尊等之所以有疵议，关键在于儒道相绌，出发于维护儒家尊严，千方百计要摆脱周敦颐开创的道学吸取了道家 &ldquo;无极&rdquo;之旨的说法；可是在事实面前，又只能无可奈何地游移其词，甚至如黄宗炎在承认之后却又痛斥这是&ldquo;奉螟蛉为高曾&rdquo;、&ldquo;戴僭窃为君父⑾&rdquo;，不免失之偏激。其实朱熹早就力辟关于周敦颐吸取道家&ldquo;无极&rdquo;为宇宙本原的说法。据《国史&middot;周敦颐传》所载《太极图说》原文为&ldquo;自无极而为太极&rdquo;，朱熹觉察到这样会过份抬高道家，有损儒家尊严，于是他在考订《太极图说》时，便删去&ldquo;自&rdquo;、&ldquo;为&rdquo;，并且一再解释&ldquo;无极&rdquo;乃是指&ldquo;太极&rdquo;的原始体性，无声、无嗅、无形&hellip;&hellip;。在《太极图说解》中说：&ldquo;非太极之外复有无极也&rdquo;。其实，这都不过是&ldquo;掩耳盗铃&rdquo;而已。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">第 二 节 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">《太极图》、《太极图说》蘊义 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　据《周子全书》卷一记载，经朱熹整理考订后的周敦颐《太极图说》，全文为： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　无极而太极。太极动而生阳，动极而静；静而生阴，静极复动。一动一静，互为其根；分阴分阳，两仪立焉。阳变阴合而生水火木金土，五气顺布，四时运焉。五行一阴阳也，阴阳一太极也，太极本无极也。五行之生也，各一其性。无极之真，二五之精，妙合而凝。乾道成男，坤道成女。二气交感，化生万物，万物生生而变化无穷焉。唯人也得其秀而为灵。形既生矣，神发知矣，五性感动而善恶分，万事出矣。圣人定之以中正仁义而主静，立人极焉。故圣人与天地合其德，日月合其明，四时合其序，鬼神合其吉凶。君子修之吉，小人悖之凶。故曰：立天之道曰阴与阳；立地之道曰柔与刚；立人之道曰仁与义。又曰，原始反终，故知死生之说。大哉易也，斯其至矣！ </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　元脱脱撰《宋史 &middot;周敦颐传》亦录周敦颐《太极图说》全文。与《周子全书》所录《太极图说》相校，则微有出入，&ldquo;四时运焉&rdquo;改作&ldquo;四时行焉&rdquo;，&ldquo;唯人也得其秀而为灵&rdquo;改作&ldquo;惟人也得其秀而最灵&rdquo;；余尽同。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　关于周敦颐《太极图》，我所见到流传下来的图式，有好几种。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　(一)朱震向来高宗所进周敦颐《太极图》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　朱震字子发，荆门军人，登政和进士第。胡安国荐于高宗。既至，高宗问以《易》、《春秋》之旨，他把考订的周敦颐《太极图》进给了高宗。据清代毛奇齡《太极图说遗议》所抄录朱震《易挂图》上卷《太极图》，其图示： </span></div>
+<p style="LINE-HEIGHT: 150%" align="center"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt"><img alt="" src="http://www.taoist.org.cn/tjt/01.jpg" /><br /><br /><br /><br /></span><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt"></span>
+<p>&nbsp;</p>
+</p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 27pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">自上而下，首圈为<span lang="EN-US"> &ldquo;</span>阴静<span lang="EN-US">&rdquo;</span>。次圈为<span lang="EN-US">&ldquo;</span>坎离匡郭<span lang="EN-US">&rdquo;</span>图。首、次圈表示自<span lang="EN-US">&ldquo;</span>无极而太极<span lang="EN-US">&rdquo;</span>。<span lang="EN-US">&ldquo;</span>坎离匡郭图<span lang="EN-US">&rdquo;</span>外边的一轮，左边白表示<span lang="EN-US">&ldquo;</span>太极动而生阳<span lang="EN-US">&rdquo;</span>，右边黑表示<span lang="EN-US">&ldquo;</span>动极而静，静而生阴<span lang="EN-US">&rdquo;</span>；第二轮黑白相错，左黑右白，表示<span lang="EN-US">&ldquo;</span>静极复动<span lang="EN-US">&rdquo;</span>；第三轮白黑相错，左白右黑，表示<span lang="EN-US">&ldquo;</span>一动一静，互为其根<span lang="EN-US">&rdquo;</span>。第三圈的<span lang="EN-US">&ldquo;</span>阳动<span lang="EN-US">&rdquo;</span>与五行相生联在一起，表示太极生两仪后，<span lang="EN-US">&ldquo;</span>阳变阴合而生水火木金土<span lang="EN-US">&rdquo;</span>，五气顺布，四时运行。从五行相生图至首圈<span lang="EN-US">&ldquo;</span>阴静<span lang="EN-US">&rdquo;</span>，就体现<span lang="EN-US">&ldquo;</span>五行一阴阳也，阴阳一太极也，太极本无极也<span lang="EN-US">&rdquo;</span>。五行图中下小圈，表示<span lang="EN-US">&ldquo;</span>无极之真，二五之精，妙合而凝<span lang="EN-US">&rdquo;</span>。第四圈表示<span lang="EN-US">&ldquo;</span>乾道成男，坤道成女<span lang="EN-US">&rdquo;</span>，产生了人类。第五圈表示<span lang="EN-US">&ldquo;</span>二气交感，化生万物，万物生生而变化无穷焉<span lang="EN-US">&rdquo;</span>。 <span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 27pt; LINE-HEIGHT: 150%"><span lang="EN-US" style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">(</span><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">二<span lang="EN-US">)</span>朱熹所考订的周敦颐《太极图》。<span lang="EN-US"><o:p></o:p></span></span></p>
+<p><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt; mso-font-kerning: 1.0pt; mso-bidi-font-family: ’Times New Roman’; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">朱熹，字元晦，又字仲晦，号晦庵。祖籍安徽婺源，出生于福建南剑尤溪县，生于宋高宗建炎四年<span lang="EN-US"> (</span>公元<span lang="EN-US">1130</span>年<span lang="EN-US">)</span>，卒于宋宁宗庆元六年<span lang="EN-US">(</span>公元<span lang="EN-US">1200</span>年<span lang="EN-US">)</span>。朱熹得程氏正传，非常重视《太极图》。他校订周敦颐著作，《太极图》便包括在内。《宋史<span lang="EN-US">&middot;</span>朱熹传》载，朱熹著有《太极图解》。《周子全书》中录朱熹考订的图示为：</span></p>
+<p align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt; mso-font-kerning: 1.0pt; mso-bidi-font-family: ’Times New Roman’; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><img alt="" src="http://www.taoist.org.cn/tjt/02.jpg" /></span></p>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt; mso-font-kerning: 1.0pt; mso-bidi-font-family: ’Times New Roman’; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 26.25pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">据《朱子图解》，大意是： <span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 26.25pt; LINE-HEIGHT: 150%"><span lang="EN-US" style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">(</span><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">第一圈<span lang="EN-US">)○</span>此所谓无极而太极也。所以动而阳、静而阴之本体也<span lang="EN-US">&hellip;&hellip;</span>。<span lang="EN-US">(</span>第二圈<span lang="EN-US">)</span>此<span lang="EN-US">○</span>之动而阳、静而阴也。中<span lang="EN-US">○</span>者，其本体也。左圈者，阳之动也，<span lang="EN-US">○</span>之用所以行也。右圈者，阴之静也，<span lang="EN-US">○</span>之体所以立也<span lang="EN-US">&hellip;&hellip;</span>。<span lang="EN-US">(</span>第三圈<span lang="EN-US">)</span>此阳阴合而生水火木金土也。者，阳之变也；者，阴之合也<span lang="EN-US">&hellip;&hellip;</span>。<span lang="EN-US">(</span>第四圈<span lang="EN-US">)</span>乾男坤女，以气化者言也。各一其性，而男女一太极也<span lang="EN-US">&hellip;&hellip;</span>。<span lang="EN-US">(</span>第五圈<span lang="EN-US">) ○</span>万物化生，以形化者言也。各一其性，而万物一太极也。<span lang="EN-US">&hellip;&hellip;</span>然形，右圈之为也；神，左圈之发也。五性之德也，善恶男女之分也，万事万物之象也。此天下之动，所以纷纶交错，而吉凶悔吝，所由以生也。<span lang="EN-US">&hellip;&hellip;</span>是以一动一静，各臻其极；而天下之故，常感通乎寂然不动之中。盖中也，仁也，感也。所谓左圈也，<span lang="EN-US">○</span>之用所以行也，正也，义也、寂也。所谓右圈也，<span lang="EN-US">○</span>之体所以立也。中正仁义，浑然全体；而静者常为主焉。则人<span lang="EN-US">○</span>于是乎立，而天地日月，四时鬼神，有所不能违矣。<span lang="EN-US">&hellip;&hellip; <o:p></o:p></span></span></p>
+<p align="left"><span lang="EN-US" style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt; mso-font-kerning: 1.0pt; mso-bidi-font-family: ’Times New Roman’; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">　　(</span><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt; mso-font-kerning: 1.0pt; mso-bidi-font-family: ’Times New Roman’; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">三<span lang="EN-US">)</span>黄宗炎《易学辨惑<span lang="EN-US">&middot;</span>太极图说辨》所录周茂叔《图》。黄宗炎，明末清初人，黄宗义<span lang="EN-US">(</span>梨州<span lang="EN-US">)</span>之弟，字晦木，一字立溪，学者称鹧鸪先生。学行与宗羲埒。在他所撰《易学辨惑<span lang="EN-US">&middot;</span>太极图说辨》中，亦录有周敦颐《太极图》，与朱熹所考订的《太极图》相比较，两者有所不同；即在《太极图说辨》内，<span lang="EN-US">&ldquo;</span>辨曰<span lang="EN-US">&rdquo;</span>中之五行图亦与黄宗炎所录《周茂叔图》有不同处。是本来有所不同，还是刻板者之误<span lang="EN-US">? </span>姑录之以供查考：</span></p>
+<p align="center"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt; mso-font-kerning: 1.0pt; mso-bidi-font-family: ’Times New Roman’; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><img alt="" src="http://www.taoist.org.cn/tjt/03.jpg" /></span></p>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt; mso-font-kerning: 1.0pt; mso-bidi-font-family: ’Times New Roman’; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 26.25pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">周茂叔图<span lang="EN-US"> (</span>自上而下，顺而生人<span lang="EN-US">) <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 26.25pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">黄宗炎认为周敦颐得此图于穆修，而其端绪则为陈抟《无极图》。故在其辨说文中将此图与《无极图》两下比较，作了一点辨别性质的解说。扼要择录于下： <span lang="EN-US"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 26.25pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">茂叔握方士之实，悟老氏之指，而蒙以大易之名，<span lang="EN-US"> &hellip;&hellip;</span>方士之诀，逆则成丹，茂叔之意，以为顺而生人。太虚无有，有必本无，是为最上<span lang="EN-US">○</span>，乃更<span lang="EN-US">&ldquo;</span>炼神还虚，复归无极<span lang="EN-US">&rdquo;</span>之名，曰<span lang="EN-US">&ldquo;</span>无极而太极<span lang="EN-US">&rdquo;</span>。太虚之中，脉络分辨，指之为理，是为次，乃更<span lang="EN-US">&ldquo;</span>取坎填离<span lang="EN-US">&rdquo;</span>之名，曰<span lang="EN-US">&ldquo;</span>阳动阴静<span lang="EN-US">&rdquo;</span>。气生于理，落为气质之性，是为又次之，乃更<span lang="EN-US">&ldquo;</span>五气朝元<span lang="EN-US">&rdquo;</span>名，曰<span lang="EN-US">&ldquo;</span>五行各一性理<span lang="EN-US">&rdquo;</span>。气既具而形质呈，得其全灵者为人，人有男女，是为又次<span lang="EN-US">○</span>，乃更<span lang="EN-US">&ldquo;</span>炼精化气，炼气化神<span lang="EN-US">&rdquo;</span>之名，曰<span lang="EN-US">&ldquo;</span>乾道成男，坤道成女<span lang="EN-US">&rdquo;</span>。得其偏者蠢者为万物，是为最下之<span lang="EN-US">○</span>，乃更<span lang="EN-US">&ldquo;</span>元牝之门<span lang="EN-US">&rdquo;</span>为<span lang="EN-US">&ldquo;</span>化生万物<span lang="EN-US">&rdquo;</span>。就其义而详绎之，又与方士乖矣。方士之元牝炼化，本属两层，其用功亦有次第，故作为二图。茂叔之男女万物，直至一气所生，则无分先后，二图之内，一为赘疣。方士之五气朝元，言化气化神之后，堕肢体，黜聪明，搜一身之五藏，悉守其神气，然后能坎离交媾，火不炎上，水不润下，而金丹圣胎成矣。茂叔于此二图，先有条理而后有气质，吾不知气质未露，条理安托，紊其先后，义亦背畔矣。方士之还虚归无，又合于元牝，上下始终周旋无间，最上一图与最下一图，分而合，合而分，会之不可言一，离之不可言二，所以成长生妙。茂叔于此为天地化生之本，虽得老氏之正宗，而于此图则未免牵强，又欲合以大易，则更不伦矣<span lang="EN-US">&hellip;&hellip;</span>。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　<span lang="EN-US">(</span>四<span lang="EN-US">)</span>明末清初的王夫之在《思问录外篇》中也对《太极图》作了图解。其中说：<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　绘太极图，无已而绘一园圈尔，非有匡郭也。如绘珠之与绘环无以异，实则珠环悬殊矣。珠无中边之别，太极虽虚而理气充凝，亦无内外虚实之异。从宋者说，竟作一园圈，围二殊五行于中，悖矣。此理气，遇方则方，遇园则园，或大或小，絪緼变化，初无定质，无已而以园写之者，取其不滞而已。王充谓从远观火，但见其园，亦此理也。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　又说：<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　图有五重，从上而下，今以此图首北趾南，顺而悬之，从下而窥之，则阳东阴西，其位不易矣。动极而静，静极复动，所谓动极静极者，言动静乎，此太极也。<span lang="EN-US"> &hellip;&hellip;</span>阳含静德，故方动而静；阴储动能，故方静而已动。故曰：动静无端，待其极至而后大反，则有端矣。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　我认为《太极图》的构图有五重，<span lang="EN-US"> (</span>一<span lang="EN-US">)</span>无极而太极；<span lang="EN-US">(</span>二<span lang="EN-US">)</span>阴静阳动；<span lang="EN-US">(</span>三<span lang="EN-US">)</span>五气顺布；<span lang="EN-US">(</span>四<span lang="EN-US">)</span>顺以生人；<span lang="EN-US">(</span>五<span lang="EN-US">)</span>化生万物。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　<span lang="EN-US">&ldquo;</span>无板<span lang="EN-US">&rdquo;</span>一词，原出于道家：<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　知白守黑，复归于无极。<span lang="EN-US"> (</span>《老子<span lang="EN-US">&middot;</span>知其雄章》<span lang="EN-US">) <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　入无穷之门，以游无极之野《<span lang="EN-US"> (</span>庄子<span lang="EN-US">&middot;</span>在宵篇<span lang="EN-US">)</span>》<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　物之终始。初无极已。<span lang="EN-US"> (</span>《列子<span lang="EN-US">&middot;</span>汤问夏革篇》<span lang="EN-US">) <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　无则无极。有则有尽。无极之外，复无无极。无尽之中复无无尽。无极复无无极，无尽复无无尽，是以知其无极无尽也，而不知其有极有尽也。<span lang="EN-US"> (</span>仝上<span lang="EN-US">) <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　<span lang="EN-US">&ldquo;</span>无极<span lang="EN-US">&rdquo;</span>是道家所主张的宇宙本原。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　<span lang="EN-US">&ldquo;</span>太极<span lang="EN-US">&rdquo;</span>一词，原出于儒家。《尚书<span lang="EN-US">&middot;</span>洪范》：<span lang="EN-US">&ldquo;</span>惟皇作极<span lang="EN-US">&rdquo;</span>、<span lang="EN-US">&ldquo;</span>皇建其有极<span lang="EN-US">&rdquo;</span>。《易<span lang="EN-US">&middot;</span>系辞》：<span lang="EN-US">&ldquo;</span>易有太极，是生两仪<span lang="EN-US">&rdquo;</span>。<span lang="EN-US">&ldquo;</span>太极<span lang="EN-US">&rdquo;</span>是儒家所认为的宇宙本原。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　<span lang="EN-US">&ldquo;</span>无极而太极<span lang="EN-US">&rdquo;</span>，实际上是依据《道德经》第四十二章所说<span lang="EN-US">&ldquo;</span>天下万物生于有，有生于无<span lang="EN-US">&rdquo;</span>而承认道家所说的<span lang="EN-US">&ldquo;</span>无极<span lang="EN-US">&rdquo;</span>是宇宙最原始的本原。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　阴静阳动，其真谛在于《太极图说》中所说的<span lang="EN-US"> &ldquo;</span>一动一静，互为其根<span lang="EN-US">&rdquo;</span>。这个提法亦原出于道家，《道德经》：<span lang="EN-US">&ldquo;</span>玄牝之门，是为天地根<span lang="EN-US">&rdquo;</span>。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　五气顺布，五气指五行之气。五行说原出于《尚书<span lang="EN-US"> &middot;</span>洪范》，<span lang="EN-US">&ldquo;</span>五行，一曰水，二曰火，三曰木，四曰金，五曰土<span lang="EN-US">&rdquo;</span>。东汉《周易参同契》把一二三四五当作水火木金土的系数，把五行分为三个五。即中央土为一五，表示天五生土；左边火与木为一五，表示地二生火，天三生木；右边水与金为一五，表示天一生水，地四生金。三五终归于下面的园圈，表示归于一元。周敦颐据此改为<span lang="EN-US">&ldquo;</span>五气顺布<span lang="EN-US">&rdquo;</span>。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　顺以生人，即《太极图说》中所说：<span lang="EN-US"> &ldquo;</span>无极之真，二五之精，妙合而凝。乾道成男，坤道成女<span lang="EN-US">&rdquo;</span>。说明<span lang="EN-US">&ldquo;</span>惟人也，得其秀而最灵<span lang="EN-US">&rdquo;</span>。其中<span lang="EN-US">&ldquo;</span>乾道成男，坤道成女<span lang="EN-US">&rdquo;</span>原出于《易<span lang="EN-US">&middot;</span>系辞》。《礼记<span lang="EN-US">&middot;</span>礼运》称人为<span lang="EN-US">&ldquo;</span>直行之秀气<span lang="EN-US">&rdquo;</span>，《尚书<span lang="EN-US">&middot;</span>泰誓》称人为<span lang="EN-US">&ldquo;</span>万物之灵<span lang="EN-US">&rdquo;</span>。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　万物化生，即《太极图说》中所说：<span lang="EN-US"> &ldquo;</span>二气交感，化生万物<span lang="EN-US">&rdquo;</span>。《易<span lang="EN-US">&middot;</span>系辞》：<span lang="EN-US">&ldquo;</span>两仪生四象，四象生八卦<span lang="EN-US">&hellip;&hellip;&rdquo;</span>。《道德经》：<span lang="EN-US">&ldquo;</span>一生二，二生三，三生万物<span lang="EN-US">&rdquo;</span>。包涵了儒家与道家的思想。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　周敦颐认为社会伦理道德仁义礼智信，是水火木金土五行之性所派生的，因此五常之德与自然的五行之性一样，是绝对合理的、永恒的。正如朱熹在《语类》卷九十四中所说：<span lang="EN-US"> &ldquo;</span>太极便是性，动静阴阳是心，金木水火土是仁义礼智信，化生万物是万事<span lang="EN-US">&rdquo;</span>。又说：<span lang="EN-US">&ldquo;</span>太极只是个极好至善底道理。<span lang="EN-US">&hellip;&hellip;</span>周子所谓太极，是天地人物万善至好的表德<span lang="EN-US">&rdquo;</span>。<span lang="EN-US"> <o:p></o:p></span></span></p>
+<p align="left"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt; mso-font-kerning: 1.0pt; mso-bidi-font-family: ’Times New Roman’; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">　　总之，《太极图》所讲的是人同自然的关系、个人同社会的关系、社会伦理道德同自然的关系。在其宇宙生成论及社会伦理思想方面，明显的是儒道杂糅。</span></p>
+</span></span>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

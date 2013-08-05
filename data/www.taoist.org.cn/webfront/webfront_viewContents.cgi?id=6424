@@ -1,0 +1,598 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260200000000000000&targetPage=Fdjxy2">
+						中国道教(1987—1997)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260217000000000000&perPageNum=15&targetPage=Fdjxy3">
+						1991年第1期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	方仙道的方术
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	——《论方仙道》之二
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">郑杰文</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">方仙道的兼容并取的特质，使其学说日趋缜密完善，方术日益丰富多样，其道日神，其术日异，从而吸引了更多的信徒，形成了庞大的方士集团。&ldquo;及至秦始皇并天下，至海上&rdquo;，方士言东海三神山及仙人仙药者&ldquo;不可胜数&rdquo;；汉武帝时，&ldquo;齐人上疏言神怪奇方者以万数&rdquo;(《史记&middot;封禅书》)。西汉时，曾有人专门为方士们作传(见章太炎所辑《七略》)。范晔《后汉书》中亦专立《方术列传》，从中我们可看出方士集团的声势和影响。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">方士的影响和声势主要是靠了他们的多种多样的方术造成的。由文献记载所见，方士们的方术可分为三类十四种。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">一、不死方</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">不死方有却老术、不死药、祠灶炼丹术、辟谷术、尸解术五种。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">1.却老术</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">却老，即使青春永驻，返颜还童。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《史记&middot;封禅书》说李少君曾以&ldquo;却老方&rdquo;见上，《新论&middot;辫惑》说曲阳侯王根曾从方士西门君惠&ldquo;学养性却老之术&rdquo;，《韩非子&middot;观行》曰&ldquo;有贲、育之强，而无法术，不得长生&rdquo;，可见却老长生有种种法术。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《论衡&middot;道虚》说方士们&ldquo;以服食药物，轻身益气，延年度世&rdquo;，《抱朴子&middot;论仙》说仙人&ldquo;以药物养身&rdquo;、&ldquo;久视不死&rdquo;，曹植《释道论》说甘始&ldquo;以药含生鱼而煮于沸脂中&rdquo;，鱼&ldquo;游戏终日，如在水中&rdquo;、&ldquo;又以药粉桑以饲蚕，蚕乃到十月不老。又以住年药食鸡雏及新生犬子，皆止不复长&rdquo;(《抱朴子&middot;论仙》引)，是有却老药、住年药。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">曹丕《典论》曰&ldquo;甘始亦善行气，老有少容&rdquo;，《抱朴子&middot;论仙》说仙人&ldquo;以术数延命&rdquo;，&ldquo;旧身不改&rdquo;，《庄子&middot;刻意》曰&ldquo;吹呴呼吸，吐故纳新，熊经鸟</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">申</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">、为寿而已矣&rdquo;，是有以导引、行气却老者。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">孔安国《秘记》言张良所得黄石公书中不但有兵法，还有&ldquo;不死之法&rdquo;(《抱朴子&middot;至理》引)；《汉书&middot;刘向传》说淮南《鸿宝》、《苑秘书》中载有&ldquo;邹衍《重道延命方》&rdquo;；长沙马王堆三号西汉墓中曾出土绘有行气、导引动作的帛画。《汉书&middot;艺文志》&ldquo;神仙家&rdquo;类载有《黄帝杂子步引》十二卷、《黄帝岐伯按摩》十卷、《神农杂子技道》二十三卷，是方士们有养生却老专著。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">却老的目的是长生不死，为了宣扬长生久视，方士们编造出不死之药。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">不死药</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《汉书&middot;郊祀志》言方士们宣扬仙人&ldquo;服食不终之药&rdquo;，这种药在东海神山上:蓬莱、方丈、瀛洲&ldquo;诸仙人及不死之药之皆在焉&rdquo;(《史记&middot;封禅书》)，东海&ldquo;有不死草生琼田中&rdquo;(《十洲记》)。方士们说这种不死药叫神芝:&ldquo;芝草一年三华，食之令人眉寿厌世&rdquo;(《论衡》佚文，见《太平御览》卷八七二)，为道者&ldquo;食紫芝之英&rdquo;(《论衡&middot;道虚》)。方士们还说这种药需到海中神山上向仙人寻求:《史记》言秦始皇曾派卢生、徐福、韩终、侯公、石生入海求仙人不死之药(《秦始皇本纪》)，《汉书&middot;郊祀志》言新垣平、少翁、公孙卿、栾大等都曾入海求神采药。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">海外不死药的谎言破产后，方士们又编造出新的不死药:&ldquo;神芝五色，生于名山之阴&rdquo;(《遁甲开山图》，见《太平御览》卷三四五)，玄洲&ldquo;上有芝著玄涧，涧水如密味，服之长生&rdquo;(《龙鱼河图》，见《太平御览》卷五九)，&ldquo;少室之山巅亦有白玉膏，得服之，即得仙道&rdquo;(《诗含神雾》，见《古微书》)。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">3.祠灶炼丹术</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">方士除了寻求天然不死药外，还依据师传秘方自己制造、合成不死药，这便是在我国科技史上颇有影响的金丹。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《抱朴子&middot;论仙》:&ldquo;董仲舒所撰《李少君家录》云:少君有不死之方，而家贫无以市其药，故出于汉，以假涂求其财，道成而去。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">方士们主张&ldquo;为道者服金玉之精&hellip;&hellip;食精身轻，故能神仙&rdquo;(《论衡&middot;道虚》)，宣扬&ldquo;金丹之为物，烧之愈久，变化愈妙。黄金入火，百炼不消；埋之，毕天不朽。服此二物，炼人身体，故能令人不老不死。&rdquo;(《抱朴子&middot;金丹》)可见，方士们把黄金亦作为不死药来用。李少君告诉汉武帝:&ldquo;黄金成，以为饮食器则益寿。&rdquo;《新论&middot;辨惑》说方士们宣扬&ldquo;金成可作延年药&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">方士们利用金丹之术干世主，说长生，求富贵。方士栾大曾向汉武帝进言&ldquo;臣之师曰:&lsquo;黄金可成，&hellip;&hellip;不死之药可得&rsquo;&rdquo;，终被封为五利将军。《汉书&middot;郊祀志》言方士们干世主以贵幸的方术中便有&ldquo;黄冶&rdquo;之术。《新论&middot;辨惑》曰&ldquo;淮南王之子娉迎道人，作为金银&rdquo;，又云傅太后欲使史子心炼金&ldquo;作延年药&rdquo;，&ldquo;乃除之为郎，舍之北宫，中使者待迂&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">方士们炼丹有一定的师传秘方。《汉书&middot;淮南王传》言淮南方士所作书中&ldquo;又有中篇八卷，言神仙黄白之术，亦二十余万言&rdquo;，《汉书&middot;五行志》言刘向曾向皇上&ldquo;献淮南枕中《洪宝》、《苑秘》之方&rdquo;，《新论&middot;辨惑》言黄门郎程伟&ldquo;按枕中《鸿宝》作金不成&rdquo;，其妻是方家女，&ldquo;乃出其囊中药，少少投之。食顷发之，已成银&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">方士们在炼金丹、作金银之前，又需先祠灶神。《史记&middot;封禅书》说:&ldquo;(李)少君言上曰:&lsquo;祠灶则致物，致物而丹沙可化为黄金。&rsquo;&rdquo;又说:&ldquo;少翁以方盖夜至王夫人及灶鬼之貌。&rdquo;在这种学说的影响下，方士和道士们都宣扬灶神掌人寿命:&ldquo;《易内戒》及《赤松子经》及《河图记命符》皆云:&hellip;&hellip;月晦之夜，灶神亦上天白人罪状。大者夺纪，纪者，三百日也；小者夺算，算者，三日也。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">4.辟谷术</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">辟谷又称却谷、断谷、绝谷、绝粒。谷指食粮菜蔬。辟谷，说是不吃粮食蔬菜。方士们把它作为长生炼养的一种方术。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《论衡&middot;道虚》:&ldquo;世或以辟谷不食为道术之人，谓王子乔之辈以不食谷，与恒人殊食，故与恒殊寿。&rdquo;《史记&middot;留侯世家》说张良曾&ldquo;不食谷&rdquo;一年多。《淮南子&middot;人间训》说单豹&ldquo;不食五谷，行年七十，犹有童子之色&rdquo;。《汉书&middot;郊祀志》说李少君曾以&ldquo;谷道&rdquo;之方见上，颜师古注引李奇曰:&ldquo;谷道，辟谷不食之道也。&rdquo;《汉武帝外传》说王真&ldquo;断谷二百余日，肉色光美，力并数人。&rdquo;曹植《释疑论》言曹操曾&rdquo;试闭左慈等，令断谷近一月，而颜色不减，气力自若。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">辟谷者，或服药。《史记&middot;留侯世家》张良&ldquo;不食谷&rdquo;集解引《汉书音义》曰:&ldquo;服辟谷之药。&rdquo;或食气，《论衡&middot;道虚》记方士们相传说&ldquo;真人食气，以气为食&rdquo;，&ldquo;食气者寿而不死&rdquo;。或吞唾液，《后汉书&middot;方术传》说王真年百岁而&ldquo;似未五十者&rdquo;，是因其&ldquo;能行胎息胎食之方，漱吞下泉咽之&rdquo;。或练神，《汉书&middot;郊祀志》载谷永说方士们有&ldquo;仕色五仓之术&rdquo;，颜师古注引李奇曰:&ldquo;思身中有五色、腹中有五仓神。五色存则不死，五仓存则不饥。&rdquo;或服其他替代物，《后汉书&middot;方术传》说郝孟节含枣核&rdquo;不食可至五年十年&rdquo;，《汉武帝外传》说封君达&ldquo;服黄连五十年&rdquo;，&ldquo;服水银百余年，还乡里，如二十者。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">现在所能见到的古人辟谷的最早文献资料是1973年长沙马王堆三号汉墓出土的帛书《却谷食气篇》。关于却谷的练养方法，其文曰:&ldquo;却谷者，食石韦。&rdquo;&ldquo;(初练者)为首重足轻体轸，则吹呴之，视利止。&rdquo;&ldquo;年廿者，朝廿暮廿，二日之暮二百。年卅者，朝卅暮卅，三日之暮三百。以此数推之。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">但是，方士们的&ldquo;不死&rdquo;皆无验征，故以&ldquo;尸解&rdquo;解之。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">5.尸解术</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;尸</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">解，即真灵解脱尸体仙去。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《史记&middot;封禅书》说燕齐方士&ldquo;为方仙道，形解销化&rdquo;，形解，《集解》引服虔云&ldquo;尸解也&rdquo;，引张晏曰&ldquo;人老而解去故骨如变化也&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《汉禁中起居注》载汉武帝夜梦太乙派使者下凡请李少君，&ldquo;数日而少君称病死。久之，帝令人发其棺，无尸，唯衣冠在焉&rdquo;(《抱朴子&middot;论仙》引)。《阴君自序》云:程伟逼其妻传授方术，&ldquo;妻不传。逼之不已，妻趸然而死，尸解而去&rdquo;。(《太平御览》卷六六四)</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《汉武帝内传》云上元夫人曾劝西王母赐汉武帝&ldquo;以尸解之方&rdquo;，可见方士们曾编造过种种尸解方术。《抱朴子&middot;遐览篇》所载方士、道士之书中，有《尸解经》一卷，《太平御览》中亦有《尸解》、《剑解》两卷辑文，云尸解有剑解、兵解、火解诸法。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">二、鬼神方</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">鬼神方有使物见鬼术、见侧人术、解克术、神异术、祭祀方五种。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">1.使物见鬼术</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《汉书&middot;郊祀志》云汉武帝时方士们曾奏&ldquo;事鬼使物&rdquo;术。《抱朴子&middot;论仙篇》云:&ldquo;《神仙集》中，有召神劾鬼之法，又有使人见鬼之术。&rdquo;《抱朴子&middot;遐览篇》载方上、道士之书中有《见鬼记》一卷。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《史记&middot;封禅书》、《新论&middot;辨惑》、《汉书&middot;郊祀志》、《论衡&middot;自然篇》、《抱朴子&middot;论仙篇》等皆云方士齐人少翁曾为汉武帝招致已死的李夫人之貌，使武帝偿思见之愿。《史记&middot;封禅书》曰&ldquo;五利常夜祠其家，欲以下神。神未至，而百鬼集矣。然颇能使之。&rdquo;《后汉书&middot;方术传》载高获&ldquo;能役使鬼神&rdquo;，刘根曾&ldquo;左顾而啸&rdquo;，召史祈&ldquo;亡父祖近亲数十人，皆反缚在前，向根叩头&rdquo;，寿光侯&ldquo;能劾百鬼众魅，令自缚见形。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">2.见仙人术</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《史记&middot;封禅书》说&ldquo;公孙卿候神河南，言见仙人缎氏城上&rdquo;，&ldquo;公孙卿言见神人东莱山&rdquo;，汉武帝幸东莱，&ldquo;见大人迹&rdquo;，&ldquo;上即见大人迹，未信，及群臣有言老父(牵狗，已忽不见)，则大以为仙人也。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见仙人要有一定的地点，除了上述在名山上见仙人外，方士们还说在东海上曾遇见仙人。《史记&middot;封禅书》说:&ldquo;(栾)大言曰:&lsquo;臣往来海中，见安期、羡门之属。&rsquo;&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见仙人还要有一定的方术仪式。《史记&middot;封禅书》曰:&ldquo;公孙卿曰:&lsquo;仙人可见，而上往常遽，以故不见。今陛下可为观，如缑氏城，置脯枣，神人宜可致也。且仙人好楼居。&rsquo;&rdquo;又曰&ldquo;于是天子又刻玉印曰&lsquo;天道将军&rsquo;，使使衣羽衣，夜立白茅上。五利将军亦衣羽衣，夜立白茅上受印，以示不臣也。而佩&lsquo;天道&rsquo;者，且为天子道天神也。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">3.解克术</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">解术，即祓灾除邪的方术。克术，即以方术克胜对方。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《史记&middot;秦始皇本纪》:&ldquo;卢生说始皇曰:&lsquo;臣等求芝奇药仙者常弗遇，类物有害之者。方中，人主时为微行以避恶鬼。&rdquo;龙川资言考证曰:&ldquo;方，仙方也。&rdquo;《史记&middot;封禅书》载汉武帝从文成将军之言，&ldquo;乃作画云气车，及各以胜日驾车辟恶鬼。&rdquo;龙川资言考证曰:&ldquo;胜日，谓甲乙五行相克之日也。如庚辛日驾赤车，丙丁日驾黑车也。&rdquo;《史记&middot;封禅书》又曰:&ldquo;后人复有上书言:古者天子常以春解祠。&rdquo;索隐曰:&ldquo;谓祭祀以解殃求福祥也。&rdquo;这些便是解术。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《史记&middot;封禅书》说:是岁西伐大宛，方士&ldquo;以方祠，诅匈奴、大宛焉&rdquo;，&ldquo;其秋为伐南越，告祷太一，以牡荆画幡，日月北斗登龙以象天一三星，为太一锋，命曰灵旗。为兵祷，则太史奉以指所伐国。&rdquo;《后汉术&middot;方术传》说寿光侯为乡人妇治病，劾死数丈大蛇于门外，又能劾死树中七、八丈大蛇。汉章帝闻而召试之，使三人夜装鬼魅于殿前，寿光侯劾三人，&ldquo;登时仆地无气&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">方士们把这种克术托始于姜太公。《六韬》云:&ldquo;武王伐殷，丁侯不朝，太公乃画丁侯于策，三箭射之，丁侯病困。卜者占云:祟在周。恐惧，乃请举国为臣。太公使人甲乙日拔丁侯着头箭，丙丁日拔着口箭，戊己日拔着腹箭，丁侯病稍愈。四夷闻，各以来贡&rdquo;(《太平御览》卷七三七)</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">4.神异术</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">神异术是方士们干主求禄的重要手段，是方仙道吸引世人世主的重要原因。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《方士传》、《论衡&middot;定贤篇》、《论衡&middot;寒温篇》都曾言&ldquo;燕有寒谷&rdquo;，&ldquo;不生五谷&rdquo;，邹衍&ldquo;吹律致气&rdquo;，使寒谷升温可种黍，&ldquo;到今名之曰黍谷&rdquo;⑨。《淮南子》、《论衡&middot;感虚篇》及《累害篇》、《寒温篇》、《变动篇》皆云邹衍在燕无罪被系，&ldquo;当夏五月&rdquo;，邹衍&ldquo;仰天而叹，天为陨霜&rdquo;</span><span>10</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《西京杂记》言淮南方士&ldquo;画地为山河，摄土为山岳，</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">戏</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">呼为寒暑，喷嗽为雨露&rdquo;。《史记&middot;封禅书》言&ldquo;栾大验小方半斗棋，棋自相触击&rdquo;《汉武故事》言栾大&ldquo;令於自相触击，繙繙竟庭中，去地十余丈&rdquo;，又言新垣平曾使&ldquo;日却复中&rdquo;。《西京杂记》言&ldquo;东海人黄公，少时为幻，能刺蛇御虎&rdquo;，能&ldquo;立兴云雾，坐成山河&rdquo;。《新论&middot;辨惑》言&ldquo;哀、平间，睢陵有董仲君，好方道，尝犯事，坐重罪，系狱，佯病，死。数日，目陷虫出。史捐弃之，既而复活&rdquo;。《风俗通》言郭延年&ldquo;身生光，远顾小物，见其采色&rdquo;《新论&middot;辨惑》言汉元帝时人王仲都&ldquo;能忍寒署&rdquo;，元帝&ldquo;以隆冬盛寒日，令袒衣，载以驷马，于上林昆明池上环冰而驰。御者厚衣狐裘，甚寒战，而仲都独无变色，卧于池台上，曛然自若&rdquo;，&ldquo;至大暑日，使曝坐，又环以十炉火，不言热而身不汗出&rdquo;。《后汉书》言魏尚能坐在立亡；裴优&ldquo;能为三里雾&rdquo;；张楷&ldquo;能作五里雾&rdquo;；许扬能使械自解；徐登能禁溪不流；赵炳能使枯树生荑；能茅屋上烧饭；蓟子训能使死儿复生、僵驴复驰；左慈能坐中钓鱼、蜀道取姜、袖餐哺客、隐形人壁、幻化为羊；郝孟节能&ldquo;结气不息，身不动摇，状若死人，可至百日半年&rdquo;(见《郑范贾张列传》、《方术列传》等)。葛洪曾言方术之士&ldquo;变易形貌，吞刀吐火，坐在立亡，兴云起雾，召致虫蛇，合聚鱼鳖，三十六石，立化为水，消玉为炲,溃金为浆，入渊不沾,蹴刃不伤，幻化之事，九百有余&rdquo;(《抱朴子&middot;对俗》)《抱朴子&middot;遐览篇》。并记有《幻化经》一卷。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">方士们传说姜太公时，便有神异之术。《论衡&middot;恢国篇》曰：&ldquo;传书或称武王伐纣，太公阴谋食小儿以丹，令身纯赤，长大，教言&lsquo;殷亡&rsquo;。殷民见儿身赤，以为天神，及言&lsquo;殷亡&rsquo;，皆谓商灭。&rdquo;《语增篇》中也有相似的记述。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">5.祭祀方</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">秦皇汉武大兴神仙之事，方士们将各地域、各部族的神灵名称及祭祀仪程奉献给皇上。皇上设祠以去灾求福，拜神乞寿。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《史记&middot;封单书》言秦始皇曾从方士之说祀邹峰山、齐地八神、碣石山、会稽山、言汉文帝曾从新垣平之言立五帝之祠于渭阳，言汉武帝曾从李少君祠灶方&ldquo;亲祠灶&rdquo;，言汉武帝时&rdquo;谬忌奏祠太一方&rdquo;、公玉带奏明堂祠上帝方、方士奏祠三一方、奏解祠黄帝、冥羊、马行之方、奏五帝佐太一祠方、奏祠上帝于明年方，又言&ldquo;方士所兴祠，各自主，其人终则已，祠官不主&rdquo;，说出了方士奏祠和王侯传统祭祀的区别。《汉书&middot;郊祀志》言汉宣帝&ldquo;以方士言，为随侯、剑宝、玉宝壁、周康宝鼎立四祠于未央宫中，又祠太室山于即墨、三户山于下密，祠天封苑火井于鸿门，又立岁星、辰星、太白、荧惑、南斗祠于长安城旁。又祠参山八神于曲城。蓬山石社石鼓于临朐、之罘山于腄、成山于不夜、莱山于黄、成山祠日、莱山祠月。又祠四时于琅邪、蚩尤于寿良。京师近县户，则有劳谷、五床山、日月、五帝、仙人、玉女祠。&hellip;&hellip;又立五尤山仙人祠及黄帝、天神、帝泉水凡四祠于肤施。&rdquo;汉元帝时，匡衡、张谭曾上疏言&ldquo;长安厨官县官给祠郡国候神方士使者所祠凡六百八十三所&rdquo;(《汉书&middot;郊祀志》)，可见方上奏祠方之多。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">三、政治方</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">政治方有封禅术、讖言术、五德说、大九洲说四种。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">1</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">.封禅术</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">封禅是表示天命转移，王者易姓而告天报地的一种宗教仪式。《白虎通义》云:&ldquo;王者受命必封禅。封者，增高也。禅者，广厚也。&hellip;&hellip;天以高为尊，地以厚为德，故增泰山之高以示报天，禅梁甫之址以报地。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">封禅之说，最早见于《管子&middot;封禅篇》</span><span>11</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">。梁玉绳说:&ldquo;三代以前无封禅，乃燕齐方士所伪造，昉于秦始，侈于汉武&rdquo;(《史记志疑》)。《史记&middot;封禅书》载管子曾向齐桓公讲述过古代七十二帝王封禅泰山的故事，便是方士们的假托之辞，因齐景公时，齐人还只是祭祀泰山神而无封禅之说(见《晏子春秋&middot;内篇谏上》)。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">秦始皇得天下、为服关东六国民心，示为受天命之君，从方士之说而封禅，&ldquo;除车道，上自泰山阳至巅，立石颂秦始皇帝德，明其得封也。从阴道下，禅于梁父。其礼颇采太祝之祀雍上帝所用&rdquo;(《史记&middot;封禅书》)。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">汉武帝时，方士们把封禅受命和长生不死结合起来。方士公孙卿向汉武帝奏其师之言曰:&ldquo;封禅七十二王，唯黄帝得上泰山封&rdquo;，&ldquo;汉主亦当上封，上封则能仙登天矣&rdquo;。齐人丁公亦曰:&ldquo;封禅者，合不死之名也。&rdquo;(皆见《史记&middot;封禅书》)</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">方士们说封禅应先致四方怪物珍品，他们曾借管仲之口说:&ldquo;古之封禅，鄗上之黍，北里之禾，所以为盛，江淮之间，一茅三脊，所以为藉也。东海致比目之鱼，西海致比翼之鸟，然后物有不召而自至者十有五焉。&rdquo;(《史记&middot;封禅书》)&ldquo;天子既闻公孙卿及方士之言：黄帝以上封禅者皆致怪物，与神通。&rdquo;&ldquo;天子至梁父，礼祠地主。乙卯，令侍中儒者皮弃荐绅，射牛行事。封泰山下东方，如郊祠太一之礼。封广丈二尺，高九尺，其下则有玉牒书，书秘。礼毕，天子独与侍中奉车子侯上泰山，亦有封。其事皆禁。明日下阴道，禅泰山下址东北肃然山，如祭后礼。天子皆亲拜见，衣上黄而尽用乐焉。江淮间一茅三脊为神藉，五色土益杂封，纵远方奇兽蜚禽及白雉诸物，颇以加礼，兕牛犀象之属不用。皆至泰山，祭后去。&rdquo;&ldquo;古者天子五载一巡狩，用事泰山。&rdquo;&ldquo;夏，遂还泰山，修五年之礼如前，而加以禅祠石闾:&ldquo;石闾者，在泰山下址南方，方士多言此仙人之闾也。&rdquo;至此，泰山封禅意义及仪式始完善。&ldquo;公玉带曰:&lsquo;黄帝时虽封泰山，然风后、封巨,岐伯令黄帝封东泰山，禅凡山，合符，然后不死。&rsquo;&rdquo;(皆见《史记&middot;封禅书》)是为封禅说中之异说。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">2.讖言术</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">讖言之起，方士们托始于姜太公。《论衡&middot;纪妖》:&ldquo;太公钓得巨鱼，刳鱼得书云:吕尚封齐。&rsquo;&rdquo;《论衡&middot;语增》:&ldquo;太公《阴谋》之书，食小儿丹，教云&lsquo;殷亡&rsquo;。&rdquo;其实，讖言乃起始于燕齐方士，刘师培、顾颉刚、陈槃皆言讖纬导源于邹衍之徒</span><span>12</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">。《史记&middot;孟荀列传》曰:&ldquo;(邹衍之朽)称引天地剖判以来五德转移，治各有宜、而符应若兹。&rdquo;符应之说，即具讖言成分。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">秦始皇时，即有讖言书籍。《史记&middot;秦始皇本纪》曰:&ldquo;燕人卢生使入海还，以鬼神事，因奏箓图书曰：&lsquo;亡秦者胡也。&rsquo;&rdquo;秦始皇因卢生、徐福等人亡去不返而怒方士，方士大造讖言以乱秦政。《史记&middot;秦始皇本纪》曰咸阳方士&ldquo;或为妖言以乱黔首&rdquo;，东郡方士刻陨石曰&ldquo;始皇帝死而地分&rdquo;，华阴方士造讖言曰&ldquo;今年祖龙死&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">汉武帝时，方士亦造讖言以媚上，公孙卿言其师申公曰:&ldquo;汉兴，复当黄帝之时&rdquo;，&ldquo;汉之圣者，在高祖之孙，且曾孙也&rdquo;(《史记&middot;封禅书》)。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">两汉之交，讖言迭起。王莽曾靠讖言为篡权制造舆论，《汉书&middot;王莽传》言孟通浚井得石，石上有丹书曰&ldquo;告安汉公莽为皇帝&rdquo;，又载齐郡新井、巴郡石牛、扶风雍石之讖，并记哀章&ldquo;作铜匮，为两检，署其一曰&lsquo;天帝行玺金匮图&rsquo;，其一署曰&lsquo;赤帝行玺传某传予黄帝金匮书&rsquo;&rdquo;之事，刘秀之起，亦假讖言以服众心。《汉书&middot;王莽传》言西门君惠造讖言曰&ldquo;星孛扫宫室，刘氏当复兴，国师公姓名是也&rdquo;。《后汉书&middot;光武帝纪》曰&ldquo;宛人李通等以图讖说光武云&lsquo;刘氏复起，李氏为辅&rsquo;&rdquo;，&ldquo;光武先在长安时同舍生强华自关中奉《赤伏符》曰&lsquo;刘秀发兵捕不道，四夷云集龙斗野，四七之际火为王&rsquo;&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">两汉时代，是讖言流行的时代。西汉时，甘忠可、夏贺良有讖言专书，藏于兰台</span><span>13</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">。东汉方士所造讖言，在《后汉书》中俯拾皆是，而《后汉书&middot;五行一》所记歌谣，则多是彼时的讖语。讖言，是方士们为君主提供的舆论武器。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">3.五德说</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">五德终始说，起自邹衍。《史记&middot;封禅书》曰:&ldquo;自齐威、宣之时，邹子之徒，论著终始五德之运。&rdquo;集解引如淳曰:&ldquo;今其书有《五德》、《终始》，各以所胜为行。秦谓周为火德。灭火者水，故自谓水德。&rdquo;《吕氏春秋&middot;应同篇》曰:&ldquo;凡帝王之将兴也，天必见祥乎下民。黄帝之时，天见大螾、大蝼，黄帝曰:上气胜。故其色尚黄，其事则土。及禹之时，天先见草木秋冬不杀，禹日:木气胜。木气胜，故其色尚青，其事则木。及汤之时，天先见金刃于水，汤曰:金气胜。金气胜，故其色尚白，其事则金。及文王之时，天先见火，赤乌衔丹书，集于周社，文王曰:火气胜。火气胜，故其色尚赤，其事则火。&rdquo;马国翰曰:&ldquo;《吕览》所述，盖即《邹》文佚文。&rdquo;(《玉函山房集佚书&middot;邹子序》)</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">邹子五德之说，&ldquo;及秦帝而齐人奏之，&rsquo;故始皇采用之。&rdquo;(《史记&middot;封禅书》)&ldquo;始皇推终始五德之传，以为周得火德，秦代周，德从所不胜。方今水德之始，改年始朝贺，皆自十月朔。衣服旄族节旗皆上黑，数以六为纪，符法冠皆六寸，而舆六尺，六尺为步，乘六马，更名河日德水，以为水德之始。&rdquo;(《史记&middot;秦始皇本纪》)</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">汉代皇帝亦从终始五德之说，&ldquo;公孙臣上书曰:&lsquo;始秦得水德，今汉受之，推终始传，则汉当上德，上德之应，黄龙见。宜改正朔，易服色，色上黄。&rsquo;&rdquo;但是，由于五德说流传渐广，所以出现了异说，&ldquo;是时示相张苍好律历，以为汉乃水德之始，故河决金堤，其符也。年始冬十月，色外黑内赤，与德相应。如公孙臣言非也，罢之。&ldquo;直到&rdquo;后三岁，黄龙见成纪，文帝乃召公孙臣，拜为博士，与诸生草改历服色事&rdquo;(《史记&middot;封禅书》)，这场争论才算告一段落。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">4.大九洲说</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《史记&middot;孟荀列传》:&ldquo;(邹衍)乃深观阴阳消息，而作怪迂之变，《终始》、《大圣》之篇十万余言。&hellip;&hellip;以为儒者所谓中国者，于天下乃八十一分居其一分耳。中国名赤县神州。赤县神州内自有九州，禹之序九州是也，不得为州数。中国外如赤县神州者九，乃所谓九州也。于是有裨海环之，人民禽兽，莫能相通者，如一区中者，乃为一州。如此者九，乃有大瀛海环其外，天地之际也。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">邹子是说，前人多斥为虚妄。其实，它是齐人在航海业发展所带来的视野大开的基础上产生的一种推论性的地理假说，是为新生王朝提供扩张新地域导向的一种政治学说。在这种学说导向的吸引下，初并海内而雄心勃勃的秦始皇遣徐福、韩终等率领庞大的船队并带善射者去东海。此去东海的目的应有两个，一为求长生药，一为寻找新大陆</span><span>14</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">，汉人对这后一目的尚有认识。《盐铁论&middot;论邹》载大夫说:&ldquo;(邹子)所谓中国者，天下八十一分之一，名曰赤县神州，而分为九州。绝陵陆不通，乃为一州，有大瀛海环其外。此所谓八极，而天地际焉。&hellip;&hellip;故秦欲达九州而方瀛海，牧胡而朝万国。&rdquo;载文学曰:&ldquo;昔秦始皇已吞天下，欲并万国而亡其三十六郡；欲达瀛海而失其州县。&rdquo;他们都明确地说到秦始皇在这种学说吸引下的寻求新大陆的领土野心。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">注:</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑨《方士传》见刘向《别录》辑本。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span>10</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《淮南子》是文，见《后汉书&middot;刘瑜传》引。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span>11</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">司马贞说:&ldquo;案今《管子》书，《封禅篇》亡。&rdquo;尹知章言:&ldquo;元篇亡，今以司马迁《封禅书》所载管子言以补之。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span>12</span><span>17</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见刘师培《左盦集》三，顾颉刚《五德终始说下的政治和历史》第三章，陈槃文同注⑧。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-AUTOSPACE: ideograph-numeric" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span>13</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《汉书&middot;王莽传》:&ldquo;甘忠可、夏贺良讖书藏兰台。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span>14</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">此说先由山东大学王绍曾先生提出。</span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

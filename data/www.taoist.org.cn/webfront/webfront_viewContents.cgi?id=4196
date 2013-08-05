@@ -1,0 +1,592 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260100000000000000&targetPage=Fdjxy2">
+						道协会刊(1962—1986)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260111000000000000&targetPage=Fdjxy2">
+						第11期(1983年3月）
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	道教知识讲座（1）
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">教理教义 </span></div>
+<div style="LINE-HEIGHT: 150%">&nbsp;<span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">一、道 　　《道德经》中所说的&ldquo;道&rdquo;是道教的基本教义。《云笈七签》以《道德部》为第一部，《道教义枢》也以《道德义》作为开宗明义第一义。道教为什么要以&ldquo;道&rdquo;名教呢? 就是因为他们对老子之道，一要研究，二要信仰，三要继承，四要发扬，所以《典论》中说：道士者，要&ldquo;以道为事&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;道&rdquo;字通常当&ldquo;道理&rdquo;讲，但老子所说的&ldquo;道&rdquo;并不同一般的道理，他说：&ldquo;道之为物，惟恍惟惚。惚兮恍兮，其中有象。恍兮惚兮，其中有物。窈兮冥兮，其中有精。&rdquo;又说：&ldquo;反者道之动，弱者道之用。&rdquo;概括地说，他的&ldquo;道&rdquo;是以&ldquo;清静为宗、虚无为体、柔弱为用&rdquo;的一种&ldquo;道&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;道&rdquo;是老子的宇宙观，他认为&ldquo;道&rdquo;是天地万物的本源，又是宇宙的原动力，也是大自然的规律。《道德经》第二十五章说：&ldquo;有物混成，先天地生，寂兮寥兮，独立而不改，周行而不殆，可以为天下母，吾不知其名，字之曰道。&rdquo; 《淮南子&middot;原道训》引申了老子的这一意思说，&ldquo;天道者，复天载地，廓四方，柝八极，高不可际，深不可测，包裹天地，禀受无形&rdquo;，将&ldquo;道&rdquo;说成为天地万物的本源。《清静经》根据老子以上的话，解释&ldquo;道&rdquo;字说，&ldquo;大道无形，生育天地；大道无情，运行日月；大道无名，长养万物&rdquo;。唐吴筠在《玄纲论》中也说，&ldquo;道者，何也?虚无之系，造化之根，神明之本&hellip;&hellip;万象以之生，五行以之成&rdquo;，则将&ldquo;道&rdquo;说成了宇宙的原动力。老子又说：&ldquo;道生一，一生二，二生三，三生万物。&rdquo;《玄纲论》从而解释说，&ldquo;生生成成，今古不移谓之道&rdquo;，将&ldquo;道&rdquo;又说成为大自然的规律。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;道&rdquo;是老子的宇宙观，又是他的方法论，他将&ldquo;道&rdquo;运用在许多不同方面。他的社会思想主张&ldquo;无为而治&rdquo;。他的人生观是&ldquo;清虚以自守，卑弱以自持&rdquo;(见《汉书&middot;艺文志&middot;诸子略》)。他的修养方法是要&ldquo;深根固蒂，长生久视&rdquo;，他认为以&ldquo;道&rdquo;为准则，通过一定的修炼，人就可以返本还原，和大自然之&ldquo;道&rdquo;同一体性，而处于永恒的境地。这也就是老子所说的&ldquo;谷神不死&rdquo;。后来的仙学是在这一思想基础上成长起来的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　道教的根本信仰就是老子的 &ldquo;道&rdquo;。他们说修道，所修的也就是这个&ldquo;道&rdquo;，所以在后来道教中，&ldquo;道&rdquo;字还当做&ldquo;导&rdquo;字或&ldquo;通&rdquo;字讲。河上公在《道德经》注中说，&ldquo;道&rdquo;就是&ldquo;导执令忘，引凡入圣&rdquo;的意思。《自然经》中则说，&ldquo;道&rdquo;是&ldquo;导末归本&rdquo;的意思，他们皆训&ldquo;道&rdquo;为&ldquo;导&rdquo;。《消魔经》中说，&ldquo;道&rdquo;能&ldquo;通生万法，变通无壅。&rdquo;又训&ldquo;道&rdquo;为&ldquo;通&rdquo;。不论训&ldquo;导&rdquo;训&ldquo;通&rdquo;，他们的目的则是要&ldquo;令忘&rdquo;、&ldquo;入圣&rdquo;、&ldquo;归本&rdquo;、&ldquo;生法&rdquo;，希望取得同老子所说的与&ldquo;道&rdquo;同一体性的后果。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;道&rdquo;在道教中既是他们的基本教义，也是他们的根本信仰，他们将大自然现象的&ldquo;道&rdquo;予以人格化，变成了&ldquo;老君&rdquo;，在葛仙翁(葛玄)《五千文经序》中说：&ldquo;老君体自然而然，生乎太无之先，起乎无因，经历天地，始终不可称载，穷乎无穷，极乎无极也，与大道而转化，为天地而立极，布气于十方，抱道德之至纯&rdquo;。&ldquo;老君&rdquo;后来又变成道教中的三清尊神，即&ldquo;元始天尊、灵宝天尊、道德天尊&rdquo;，成为他们信仰中的最高天尊，所以道教中有&ldquo;太上老君一气化三清&rdquo;之说。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　二、道德　　道教中以&ldquo;道&rdquo;、&ldquo;德&rdquo;并称，以&ldquo;道&rdquo;和&ldquo;德&rdquo;作为一个事物的两个侧面，两者是整体和局部、一般和特殊的关系。《道教义枢&middot;道德义》中说：&ldquo;道德一体，而具二义，一而不二，二而不一。&rdquo;所以《道德经》&ldquo;德&rdquo;字有时作&ldquo;道的本体&rdquo;讲，有时作为&ldquo;道的特性&rdquo;讲，有时作为&ldquo;道的总体表现&rdquo;讲。《道德经》中所说的&ldquo;上德&rdquo;、&ldquo;玄德&rdquo;、&ldquo;常德&rdquo;、&rdquo;道尊而德贵&rdquo;的德，都指的是这个&ldquo;德&rdquo;。老子在解释&ldquo;上德&rdquo;时说，&ldquo;上德不德，是以有德&hellip;&hellip;上德无为而无以为&rdquo;。解释&ldquo;玄德&rdquo;说，&ldquo;长之畜之，成之熟之，养之复之，生而不有，为而不恃，长而不宰，是为玄德&rdquo;。解释&ldquo;常德&rdquo;说，&ldquo;常德不忒，复归于无极&hellip;&hellip;常德乃足，复归于朴&rdquo;。又说：&ldquo;道生之，德畜之。&rdquo;即或以&ldquo;道&rdquo;、&ldquo;德&rdquo;并称，或以&ldquo;德&rdquo;解释成为&ldquo;道&rdquo;的某一方面。《自然经》中说&rdquo;德&rdquo;就是&ldquo;得于道果&rdquo;的意思，《太平经》中说，能够&ldquo;成济众生，令成极道&rdquo;的就是&ldquo;德&rdquo;。唐玄宗在《道德经》御注序中说，&ldquo;道之在我&rdquo;就是&ldquo;德&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　道教中以 &ldquo;道&rdquo;和&ldquo;德&rdquo;作为他们信仰、行动的总准则，他们既要修德，还要积德，所以&ldquo;道&rdquo;和&ldquo;德&rdquo;同为道教的基本教义。老子哲学中其他的理论观点，如&ldquo;清静&rdquo;、&ldquo;无为&rdquo;、&ldquo;抱一&rdquo;、&ldquo;知足&rdquo;等，都是从&ldquo;道&rdquo;和&ldquo;德&rdquo;引申和发挥出来的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;德&rdquo;字一般被解释为&ldquo;优点&rdquo;或&ldquo;特点&rdquo;，如中国儒家即以&rdquo;孝、悌、忠、信、礼、义、廉、耻&rdquo;等都归于&ldquo;德&rdquo;字的概念中。在道教中，有时也采用这样的解释，如《道德经》说&ldquo;下德不失德&rdquo;，此处所谓&ldquo;德&rdquo;字即指的社会上做人的优点，又如《抱朴子》说：&ldquo;非积善阴德，不足以感神明&rdquo;；&ldquo;乐人之吉，愍人之苦，蜩人之急，救人之穷，手不伤生，口不劝祸，不自贵，不自誉，不嫉妒，不佞谄，如此乃为有德，受福于天&rdquo;，以及后世道书中无数的&ldquo;积功累德&rdquo;之说，这些都是老子所谓&ldquo;下德不失德&rdquo;，这是就人类社会相互间的关系而言，并非指道教中最高的教义。若问最高的教义如何?那就是老子所谓&ldquo;上德不德&rdquo;，&ldquo;上德无为而不为&rdquo;。人们如果能达到这样境界，&ldquo;道&rdquo;和&ldquo;德&rdquo;也就没有什么分别了。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　三、无为而无不为　　在《道德经》中曾有两处提到这句话：第三十七章说&ldquo;道常无为而无不为&rdquo;。第四十八章又说：&ldquo;为学日益，为道日损，损之又损，以至于无为，无为而无不为矣。&rdquo;两处的意思都肯定了&ldquo;无为而无而不为&rdquo;就是&ldquo;道&rdquo;；所以，它既是&ldquo;道&rdquo;的本性，也是&ldquo;道&rdquo;的现象，同时又是&ldquo;道&rdquo;的作用。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　在道教中，他们首先以 &ldquo;无为而无不为&rdquo;作为他们社会政治思想中的一个最高准则，《庄子&middot;天地篇》中说：&ldquo;古之畜天下者，无欲而天下足，无为而天下化。&rdquo;《应帝王篇》中又说：&ldquo;游心于淡，合气于漠，顺物自然而无容私，而天下治矣。&rdquo;这是完全同意老子的政治思想的。《列子&middot;黄帝篇》中说，华胥之国是顺自然而治的，他所说的&ldquo;自然&rdquo;等于&ldquo;无为而无不为。&rdquo;西汉初年，汉文帝和景帝(公元前179&mdash;&mdash;141) 曾以这种思想和主张来治理天下，实行清静无为与民休息的政治，使战国以来严重的经济破坏情况获得好转，成为我国历史上著名的&ldquo;文景之治&rdquo;。后来《太平经》 中更以&ldquo;无为而无不为&rdquo;作为致太平的根本，它说：&ldquo;上古所以无为而治，得道意，得天心者。&rdquo;又说：&ldquo;垂拱无为，弃不祥也。&rdquo;它还将&ldquo;无为而无不为&rdquo;直接说成&ldquo;道&rdquo;，它说：&ldquo;王者行道，天地喜悅；失道天地为灾异。&rdquo;又说&ldquo;夫王者静思道德，行道安身，求长生自养。&rdquo;，很明显地，它所说的&ldquo;道&rdquo;，实在也就是&ldquo;无为而无不为&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　同时道教中还以 &ldquo;无为而无不为&rdquo;作为他们处世哲学中的主要原則，《淮南子&middot;原道训》中说：&ldquo;所谓无为者，不先物为也；所谓无不为者，因物之所为。&rdquo;《文子&middot;上仁篇》 中说：&ldquo;夫道退故能先，守柔弱故能矜，自身卑下故能高人，自损弊故坚实，自亏缺故成全，处浊辱故新鲜，见不足故能贤，道无为而不为也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　在道教个人修养方面， &ldquo;无为而无不为&rdquo;这句格言更适合于他们清静功夫的标准。老子在解释&ldquo;道常无为而无不为&rdquo;时说：&ldquo;侯王若能守之，万物将自化，化而欲作，吾将镇之以无名之朴。无名之朴，夫亦将无欲，无欲以静，天下将自定。&rdquo;他的意思是说，清静工夫做到&ldquo;无为而无不为&rdquo;的境界时，即有万象将萌的动机；为了遏止这一动机，则应镇之以&ldquo;无名之朴&rdquo;。&ldquo;无名之朴&rdquo;是什么?就是&ldquo;无欲&rdquo;，&ldquo;无欲&rdquo;即是&ldquo;清静&rdquo;。这里所说的&ldquo;无下&rdquo;，是指人身中的小天地。后来道教中的《清静经》就是进一步发挥了老子的这一思想。所以说道教修养方法上说，&ldquo;无为而无不为&rdquo;也是他们取得&ldquo;长生久视之道&rdquo;的一种手段。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　四、清静　　老子说：&ldquo;清静为天下正。&rdquo;在《道德经》中，&ldquo;清静&rdquo;和&ldquo;无为&rdquo;是两个类似的概念，它和&ldquo;寡欲&rdquo;也有着一定的联系，它们都是&ldquo;道&rdquo;的部分表现。在后来道教中常以它和&ldquo;无为&rdquo;、&ldquo;寡欲&rdquo;作为一个联用的术语，如道书中常说&ldquo;清静无为&rdquo;，或说&ldquo;清心寡欲&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　在《道德经》中，它和 &ldquo;浊&rdquo;也是相对的名词，并且还有着相生相化的关系，老子曾经说过&ldquo;浑兮其若浊，孰能浊以静之徐清&rdquo;。这两句话讲的是道家清静工夫，静功做到混然一气的境界时，继续静下去，即会生出光明。老子并认为这都是&ldquo;道&rdquo;的表现。《清静经》中明确地说：&ldquo;夫道有清有浊，有动有静&rdquo;。指出&ldquo;清&rdquo;和&ldquo;浊&rdquo;是&ldquo;道&rdquo;的一种表现的两个不同面。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　在老子的宇宙观中， &ldquo;清静&rdquo;是大自然最早的形态；在他的社会政治思想中，&ldquo;清静&rdquo;是他理想领导人物的政治风格；在修养方面，&ldquo;清静&rdquo;又指修养过程中的一种境界。在这最后的一方面，后来道教中是做了更多发挥，《清静经》就是这样撰著出来的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《清静经》中说： &ldquo;大道无形，生育天地；大道无情，运行日月，大道无名，长养万物。&rdquo;此处所说的&ldquo;无形&rdquo;、&ldquo;无情&rdquo;、&ldquo;无名&rdquo;都是说明&ldquo;道&rdquo;的&ldquo;清静&rdquo;的现象。经中认为修养工夫主要就是效法&ldquo;道&rdquo;的&ldquo;清静&rdquo;，不但要&ldquo;清静&rdquo;而且要&ldquo;常清静&rdquo;，要&ldquo;真常应物，真常得性，常应常静&rdquo;。&ldquo;常应常静&rdquo;就是&ldquo;清静&rdquo;的最高境界，也就是做到了&ldquo;道&rdquo;的无为而无不为&rdquo;。&ldquo;常清静&rdquo;在经中叫&ldquo;真清静&rdquo;，就是要&ldquo;心无其心&rdquo;、&ldquo;形无其形&rdquo;、&ldquo;物无其物&rdquo;，能够&ldquo;唯见于空，并且观空亦空&rdquo;，最后才达到&ldquo;湛然常寂&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　五、抱一　　老子说：&ldquo;载营魄抱一，能无离乎?&rdquo;&ldquo;抱一&rdquo;是道教中基本的修养工夫，简单的说，就是在静坐的时候要做到&ldquo;神气混然&rdquo;的境地，所以说&ldquo;一&rdquo;就是&ldquo;混然一气&rdquo;的意思。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;一&rdquo;字的解释很多，在道教中主要解释为&ldquo;形变之始&rdquo;，也就是所谓&ldquo;元气&rdquo;，他们似乎是把&ldquo;一&rdquo;当作物质来解释。《庄子&middot;天地篇》中说：&ldquo;泰初有&lsquo;无&rsquo;，无&lsquo;有&rsquo;无&lsquo;名&rsquo;，&lsquo;一&rsquo;之所起。&rdquo;这和老子所说&ldquo;道生一&rdquo;的意思是一样的，老子说&ldquo;道生一&rdquo;，庄子则说从&ldquo;无&rdquo;中生出了&ldquo;一&rdquo;。至于&ldquo;一&rdquo;究竟是什么样?庄子又说，&ldquo;有一而未形，物得以生谓之德。&rdquo;&ldquo;一而未形&rdquo;是说万物的根源，它的&rdquo;生生&rdquo;作用便是&ldquo;德&rdquo;。他又说：&ldquo;留动而生物，物成生理谓之形。&rdquo;认为由&ldquo;一&rdquo;的存在和变化生了&ldquo;物&rdquo;，从&ldquo;物&rdquo;所生成的生理而有了&ldquo;形&rdquo;。总的来说，他以&ldquo;一&rdquo;为万物的根源，是&ldquo;形&rdquo;之所始。《列子&middot;天瑞篇》中说：&ldquo;太易者未见气也，太初者气始也，太始者形之始也，太素者质之始也。&rdquo;下文又说；&ldquo;一者，形变之始。&rdquo;他的说法和庄子是一致的，认为&ldquo;一&rdquo;是形变之始，也就是大自然演化过程中的一个阶段，但他却更具体地指出了&ldquo;一&rdquo;就是&ldquo;气&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　后来道教中对于 &ldquo;一&rdquo;的解释主要即是根据庄子和列子的说法，但进一步肯定了&ldquo;一&rdquo;是&ldquo;气&rdquo;。《云笈七签》卷五十六，引《元气论》说：&ldquo;一者，真正至元纯阳一气，与大道同心，与自然同性&rdquo;。卷六十一，又引《五厨经气法》说：&ldquo;一气和太和，得一道皆泰，和乃无一和。&rdquo;在&ldquo;一气和太和&rdquo;注中说：&ldquo;一气者，妙本冲用，所谓元气也。冲用在天为阳和，在地为阴和，交合为泰和也，则人之受生皆资一气之和以为泰和。&rdquo;在&ldquo;得一道皆泰&rdquo;注中说：&ldquo;得一者，言内存一气以养精神，外全形生以为车宅，则一气冲用与身中泰和和也。&rdquo;他们将&ldquo;一&rdquo;说成&ldquo;纯阳一气&rdquo;，又将&ldquo;一气&rdquo;说成&ldquo;元气&rdquo;。至于老子所说的&ldquo;抱一&rdquo;，就是这里所说的&ldquo;内存一气以养精神&hellip;&hellip;&rdquo;三句话的意思，所以&ldquo;抱一&rdquo;的主要教义是指道家修养的基本工夫。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　此外， &ldquo;一&rdquo;字在道教有时解释为&ldquo;道&rdquo;，有时解释为&ldquo;无为&rdquo;，但都不能算是他们主要的解释。&ldquo;一&rdquo;字在《道德经》中不仅指修养工夫，也是老子政治思想中的一个重要概念，他说：&ldquo;侯王得一以为天下贞&rdquo;，&ldquo;圣人抱一以为天下式&rdquo;，这两个&ldquo;一&rdquo;字不能作为&ldquo;元气&rdquo;解。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;抱一&rdquo;在《庄子》和《太平经》中说成&ldquo;守一&rdquo;，他们的意思大致相同，不过《庄子》之言简而精，《太平经》之言繁而杂。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　六、寡欲　　老子说：&ldquo;见素抱朴，少私寡欲&rdquo;。同时他还说过一些&ldquo;无欲&rdquo;、&ldquo;不欲&rdquo;等和&ldquo;寡欲&rdquo;相类似的名词。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　在老子的修养方法中，对于 &ldquo;人欲&rdquo;的节制，是认为非常重要的，《道德经》第四十六章说：&ldquo;罪莫大于可欲，祸莫大于不知足，咎莫大于欲得。&rdquo;他这一认识，是从他的&ldquo;道&rdquo;中体会出来的。《道德经》第三十四章说：&ldquo;大道泛兮，其可左右。万物恃之以生而不辞，功成不名有。衣养万物而不为主，可名于大。是以圣人终不为大，故能成其大。&rdquo;他说，&ldquo;道&rdquo;的伟大是说不完的，从大的方面来说，是万物归焉而不辞；从小的方面来说，就是&ldquo;无欲&rdquo;，但圣人务小不务大，而结果却能成其大。他认为&ldquo;道&rdquo;的本来面目就是&ldquo;无欲&rdquo;。&ldquo;无欲&rdquo;的后果则是成就了&ldquo;道&rdquo;的伟大，所以主张&ldquo;寡欲&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　后来道教中对于老子的 &ldquo;寡欲&rdquo;精神，主要是表现在他们的戒律中，较早的有&ldquo;道民三诫&rdquo;、&ldquo;录生五戒&rdquo;、&ldquo;祭洒八戒&rdquo;、&ldquo;想尔九戒&rdquo;、&ldquo;老君二十七戒&rdquo;；后来又有&ldquo;初真十戒&rdquo;、&ldquo;中极三百二十戒&rdquo;、和&ldquo;天仙十戒&rdquo;，一共是三百二十戒，虽说&ldquo;戒重于因，律重于果&rdquo;但他们都尽量的发挥了老子&ldquo;寡欲&rdquo;的精神。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　同时在道教经典中，对 &ldquo;寡欲&rdquo;也做了不少理论的解释，《云笈七签》卷八十七《太清神仙众经要略》中说：&ldquo;夫民之生性，莫非气烦，气烦则嗜欲生焉。原夫嗜欲之本势，不腧于口实五味，体充衣暖，男女偶适之间而已矣。&rdquo;又说：&ldquo;夫嗜欲之茂，好利而恶害，喜荣而忿辱&hellip;&hellip;故其向荣也靡知足；其喜，故其触辱也莫知已。&rdquo;说明了&ldquo;欲&rdquo;的根源和它的弊害。在卷九十《七部要语》中说：&ldquo;喜怒乱气，嗜欲伤性&hellip;&hellip;如水性欲清，泥沙污之；人性欲平，嗜欲害之，与性相害，不可两立。&rdquo;进一步说出了&ldquo;欲&rdquo;对于&ldquo;气&rdquo;和&ldquo;性&rdquo;的关系，也是它在修养方面的弊害。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　七、精气神　　历代道书中讲修养方法，总不能离开&ldquo;精气神&rdquo;并且认为这三件事有一连串的作用，如所谓&ldquo;虚化神，神化气，气化精，是顺则生人；炼精化气，炼气化神，炼神还虚，是逆则成仙&rdquo;。凡是内丹家言，在他们的口诀上或有许多繁简巧拙之不同，而在理论上并无多少差别。我们看《老子》书中虽亦有&ldquo;精、气、神&rdquo;这三个字，但每一个字是独立的，不与其它两个字发生关系，如第二十一章&ldquo;窈兮冥兮，其中有精，其精甚真，其中有信&rdquo;，此章只讲&ldquo;精&rdquo;字，未曾提到&ldquo;神、气&rdquo;二字。第十章&ldquo;专气致柔，能如婴儿乎&rdquo;，第四十二章&ldquo;万物负阴而抱阳，冲气以为和&rdquo;，这两章只讲&ldquo;气&rdquo;字，未曾提到&ldquo;精、神&rdquo;二字。第六章&ldquo;谷神不死，是谓玄牝&rdquo;，第三十九章&ldquo;神得一以灵&rdquo;，这两章只讲&ldquo;神&rdquo;字，未曾提到&ldquo;精、气&rdquo;二字。《老子》书中有些地方确与修养工夫有关系，那是无可否认的，但古代修养法讲的都是原则，并不像后人那样具体的说明，如果把唐宋以来炼内丹之说解释《庄子》，恐未必能够名实相符。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　再看《庄子》书上对于 &ldquo;精气神&rdquo;如何说法。《庄子&middot;达生篇》说&ldquo;夫形全精复，与天为一。&hellip;&hellip;形精不亏，是谓能移，精而又精，反以相天&rdquo;，此则单讲&ldquo;精&rdquo;。又说&ldquo;至人潜行不窒，蹈火不热，行乎万物之上而不慄，是纯气之守也&rdquo;。此则单讲&ldquo;气&rdquo;《庄子&middot;刻意篇》说&ldquo;纯粹而不杂，静一而不度，淡而无为，动而以天行，此养神之道也&rdquo;，此则单讲&ldquo;神&rdquo;。除此而外，精气神三个字分开散见于各篇中的尚不少，但未看出其间相互的关系，更未发现它们一连串的作用。虽然其中有许多至理名言足为后世修养家所应该取法，苦于他的文章不容易使人领会，他的理论又不适合于晚近道书上制定的那一套公式，因此常被人们忽略过，甚为可惜。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　老庄书中虽有精气神三种名词，但未指出三者的产生孰先孰后。惟《太平圣君秘旨》有云 &ldquo;夫人生本混沌之气，气生精，精生神，神生明&rdquo;又云：&ldquo;气转为精，精转为神，神转为明&rdquo;。照这个排列次序看来，是先有气，后有精，再后才有神，不管他说的对与不对，总算有了一个先后次序，还有这三者的相互关系，在《圣君秘旨》中也曾说过，如云：&ldquo;神者受之于天，精者受之于地，气者受之于中和，相与共为一。故神者乘气而行，精者居其中，三者相助为理。&rdquo;又云：欲寿者当守气而合神，精不去其形，念此三合以为一。&rdquo;这也就说明了三者之间互相依存的关系。后来梁道士孟安排所选《道教义枢&middot;法身义》即根据此说，认为&ldquo;气、精、神&rdquo;是三义一源。《无上玉皇心印妙经》又进一步的加以发挥，如云：&ldquo;上药三品，神与气精，恍恍惚惚，否杳冥冥，存无守有，顷刻而成，迥风混合，百日功灵。&hellip;&hellip;出玄入牝，若亡若存，绵绵不绝，固蒂深根。人各有精，精合其神，神合其气，气合其真。&hellip;&hellip;神依形生，精依气盈，&hellip;&hellip;三品一理，妙不可听。&rdquo;所言上乘工夫，比较《圣君秘旨》更为透彻。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　再者，精气神有先后天之分，上乘修养工夫所讲的都是先天，不是后天，各家道书常说：元精非交感之精，元气非呼吸之气，元神非思虑之神&rdquo;。这也是道教的重要教义之一，为世间学道的人士所当研究的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">道教仪范 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">道教三洞经书的十二大类中，每洞都有 &ldquo;戒律&rdquo;、&ldquo;威仪&rdquo;、&ldquo;章表&rdquo;三个大类。其中&ldquo;戒律&rdquo;包括了六情、十恶防止的种种戒律；&ldquo;威仪&rdquo;包括了斋法典式诸种仪式；&ldquo;章表&rdquo;则包括了六斋请愿、三会请谒等类祈请文书的格式。概括来说，道教仪范的内容，应当是尽于此矣。至于某些仪范的书笈，则多记载得比较繁复，如《正一威仪》一书中，就规定了各种仪范一百三十二条；仅其子目即有：&ldquo;法服、入靖、奏请、读经、演经、事师、奉斋、受戒、忏悔、礼拜、烧香、燃灯、呜磬、章奏、醮请、法具、食器、器用、居处、卧具、屦履、井泉、用水、饮食、动止、随行、住观&rdquo;等二十八个大项。又《道门科范大全集》为五代杜光庭所著，其中记载了&ldquo;拜章、消灾忏禳、安宅、设醮、谢罪&rdquo;等七个方面的坛醮威仪。现在我国最流行的一部有关道教仪范的大书就是《灵宝领教济度金书》，全书八十一种，二百四十六卷，其内容之庞大与繁复，可以想见。我们在这里现分为奉戒、住观、行止、服饰、建醮、符咒步诀与章表青词、供器与法器七个部分作简单介绍。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　一、奉戒　 &ldquo;戒&rdquo;亦作诫。奉戒是为了禁制&ldquo;恶心邪欲&rdquo;和&ldquo;乖言戾行&rdquo;，所以&ldquo;戒&rdquo;就是道士的行为守则。在张陵创造五斗米道的时候，已经有了戒律，《正一法文》卷下说：&ldquo;凡为道民便受护身符及三戒，进受五戒、八戒，然后受箓。从前末受者，受策以后，依次受之&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　道民们对于所规定的戒条一定要熟读深记，不能违反。《同上卷》中说：受戒之后，一定要 &ldquo;诵记通行，恒存思行，持忆不谬妄，则不犯科&rdquo;。&ldquo;科&rdquo;是五斗米道的教规，不犯科，就是不得违反教规。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;三戒&rdquo;、&ldquo;五戒&rdquo;和&ldquo;八戒&rdquo;，一般认为都是老君所传。三戒指的是皈依戒。一是皈身戒，皈身于&ldquo;太上无极大道；二是皈神戒，信仰&ldquo;三十六部尊经&rdquo;；三是皈命戒，服从&ldquo;玄中大法师&rdquo;(即大师长)的教导。王常月在《初真戒》中说，道士皈身之后，可以&ldquo;永脱轮回&rdquo;，即道宝；皈神之后，&ldquo;得闻正法&rdquo;，即经宝；皈命之后，&ldquo;不落邪见&rdquo;，即师宝。这在道教中叫做&ldquo;三宝&rdquo;，亦即所谓&ldquo;皈依三宝&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　五戒， &ldquo;杀、盗、淫、妄、酒&rdquo;，是老君所传的根本戒条。一者，不得杀生，二者，不得荤酒；三者不得口是心非，四者，不得偷盗；五者，不得淫邪。《初真戒》中说：凡能持此五戒，精进无虞者，益算延龄，天神护佑，永脱五刑之苦，世世不失人身&rdquo;。所以道教中又将它叫做&ldquo;积功归根&rdquo;五戒。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　八戒的具体条文，在《云笈七签》卷四零陆修静《受持八戒》中说，在五戒之外又加上&ldquo;六者，不得杂卧高广大床；七者、不得普习香油，所为华饰；八者，不得耽着歌舞，以作倡伎&rdquo;等三条。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　这些戒规在早期道教中实行，是道教中最早戒法。此外《抱朴子》中还说：郑隐曾收藏有&ldquo;道家训戒书近百卷&rdquo;。这大概是魏晋道士们的遗留。《云笈七签》中也有&ldquo;上清戒、灵宝戒、女青戒律&rdquo;等，道教中传说，这些戒法是元始天尊或灵宝道君所传，但其书所出时间尤晚，他们可能是魏晋以后道士们的创作。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　早期道教的传戒活动是公开的，魏晋以后逐渐转向密传。全真道教丘处机的时候，又恢复了公开传戒，但他的传戒制度，并没有继续下来。清代龙门派道士王常月遥承丘祖教法，又公开传戒。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　三坛大戒，亦称&ldquo;三堂大戒&rdquo;。和尚说戒照例是在堂上，道教则在道坛上。此处所说&ldquo;三坛大戒&rdquo;是龙门七祖王常月在白云观公开传戒时所留下来的传戒方法。其内容分：初真戒、中极戒、天仙戒三个部分，传戒全部日程是一百天。一百天完了，三坛大戒也就传授完毕。传戒仪式是复杂的，也是隆重的，他们传戒一次，花费数以巨万，从戒弟子多至千人以上。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　清规，是有关住观道士们违反戒律的处分规定。丘长春在长春观时订有《清规榜》及《执事榜》。道教清规就是这样留传下来，白云观中至今奉为圭臬，沿用不替。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　二、住观　道士出家，先要住观，这是六朝旧例，道教中的传统习惯。王喆在《立教十五论》中说：&ldquo;凡出家先须投菴、菴者、舍也，一身依倚。身有所依倚，心渐得安，气神和畅，人道真矣&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　菴是简陋的道教小庙，观是较为豪华的大庙，所以 &ldquo;投菴&rdquo;和&ldquo;住观&rdquo;实际上是一回事。在《正一威仪》中，&ldquo;住观&rdquo;也是其中的项目之一。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　住观是道士入道之始，又是他们一身依倚之处。当然，他们修持、奉祀和进行一切宗教活动，都和宫观分不开。王常月在《初真戒》中规定了出入威仪、事师威仪、听法威仪、起立威仪、坐卧成仪、作务成仪、沐浴威仪等，其中&ldquo;玄门传戒威仪&rdquo;和&ldquo;弟子奉师科戒&rdquo;，规定得更为详尽。这些道士言行方面的制度也是道教宫观成仪中的一部分。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　三、坛醮　道教仪范中最突出、最繁琐的一部分就是坛醮，不论是何种坛醮，不论其规模大小如何?照例都有隆重的仪式。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　坛，在古代也是专门祭祀的地方，《书经》中有 &ldquo;三坛&rdquo;，是太王、王季和文王祭天的地方；《礼记》有&ldquo;太坛&rdquo;，也是祭天的地方，道教祀典照例要在坛上举行，因此，他们即将坛、醮两字连用，成为道教祀典的专用名词。但也有时只用醮字一词，或以斋、醮二字连用，其意均同。一般称为做法事或做道场。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《魏书&middot;释老志》： &ldquo;张陵学道于鹄鸣，因传《天宫章本》千有二百，&hellip;&hellip;斋仪跪拜各有成法。&rdquo;这就是道教中最早的斋法，亦即这里所说的坛醮制度的开始。又《释老志》中还说，太武帝迎寇谦之及嵩高道士四十余人至，&ldquo;遂起天师道场于京城之东南，重坛五层，遵其新经(指《云中音诵新科之诫》及《图录真经》)，给道士百二十人衣食，斋肃祈请，六时礼拜&rdquo;。这又是北天师道改革三张之法后，所订定的新斋法，坛醮之制，此时又充实了一步。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　南朝陆修静在崇虛馆整理三洞经典，编制了许多道教仪范。一般说，道教斋法完备于陆修静。五代杜光庭是道教仪范的集大成者。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　斋法主要分 &ldquo;极道斋&rdquo;和&ldquo;济度斋&rdquo;两种。此外，还有&ldquo;八节斋&rdquo;和&ldquo;九食斋&rdquo;，都是有关素食的规定。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;箓、斋、醮&rdquo;三个名词，从来是可以通用的。早期道教中常用&ldquo;箓&rdquo;字，六朝时期喜用&ldquo;斋&rdquo;字，隋唐以来普遍使用&ldquo;醮&rdquo;字，如所谓&ldquo;金箓醮&rdquo;和&ldquo;黄箓醮&rdquo;即都是斋法的一种。封建王朝中最喜欢修举醮法的则是明代，《明史》中常有万寿大醮、安神醮、生辰醮、祈年醮和秋报大典等类的名词。近代所通行的则有朝圣醮、礼斗醮、祈雨醮和&ldquo;度亡醮&rdquo;等。现在所流行《四六金书》是坛醮的一部大汇集，道教宫观中奉为典范。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《隋书&middot;经笈志 &middot;道经叙录》中叙说当时结坛作醮的情况是&ldquo;为坛三成，皆置绵蕝以为限域。傍各开门，皆有法象。斋亦有人数之限，以次入于绵范之中，鱼贯面缚，陈说愆咎，告白神祗，昼夜不息，或一、二、七日而止，其斋数之外有人者，并在绵菇之行，谓之宾客，但拜谢而已；不面缚焉&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　这里所说的，指的是六朝以前的 &ldquo;涂炭斋&rdquo;的仪式。如其中的&ldquo;面缚&rdquo;制度早已没有了。至于近代的坛醮都是大同小异的，坛醮照例是在道坛上举行，设醮时要安坐、设像、献香、献水、设供、诵经。有的还要焚疏、送表。其中最重要的项目就是诵经。因为&ldquo;醮&rdquo;的性质和坛上所奉祀的尊神不同，所唪诵的经典也不一样。带有拘制性质的醮坛，另有拿妖捉鬼的仪式，并使用&ldquo;符、篆、咒、步、印、诀&rdquo;之类的方术。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　道教道坛多设置于宫观中，而且是宫观建筑中的主要部分，张盛由汉中回到龙虎山首先建立传箓坛；扬羲、许谧在茅山首先建立上清宗坛，金代十方大天长观中主要建筑是虛皇道坛。由此可见道坛在宫观建筑中的重要性，后来道士根据自己的需要，常常将道坛设置于宫观附近或是旷野无人的地方。杜甫诗中说： &ldquo;屋前太古玄都坛，青石漠漠当凤宫。&rdquo;吕温诗：&ldquo;披卷最宜当白日，吟诗妤就步虛坛。&rdquo;这些都是建筑在宫观以外的道坛。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　四、行止　行止威仪也是修持项目之一，讲究行止威仪，和修养方法中的&ldquo;筑基&rdquo;的工夫同等重要，其中有的是宫观威仪的一部分，有的和坛醮威仪有着一定联系的。居住小庙，又不做法事的道士也要注意行止威仪，如：睡醒、闻钟、下单、栉发，洗手之时都要持咒。睡醒时咒曰：&ldquo;当愿众生，以迷人觉，一旦豁然&rdquo;。闻钟声咒曰：&ldquo;太音希声，能悟证真&rdquo;。在诵经和做其它法事的时候也都要持咒。咒在道教中本来是法术的一种，和&ldquo;禹步&rdquo;、&ldquo;持诀&rdquo;都是一项的性质，伹在一般的道教威仪中，无论在行止或道坛上皆必须使用，所以它又是仪范中的必不可少的环节。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　关于行止威仪，在王常月的《初真戒》中谈得很多，我们可从引为参考。笪重光在《初真戒》后序中说：&ldquo;自北七真出，龙门一派崇尚清静，专守戒规&rdquo;。行止威仪多出自王常月的教法。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　五、服饰　是道教宗教形态上的一个突出标志。人们可从服饰上清楚地辩认出道教徒。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　道教服饰在早期道教中没有严格规定，南朝陆修静以后，渐渐有了一些制度。《太平御览》卷六七五引《传授经》说，陆先生云&ldquo;对上下接，谓之俯仰之格，披、褐二服也&rdquo;。又云&ldquo;冠戴二仪，衣被四象，故谓之法服&rdquo;。说明了他制定道教服饰的情况和他当时的理论根据。《体道通鉴》卷二四说：&ldquo;修静立道士衣服之号，月帔星巾，霓裳霞袖，十绝灵幡，于此著矣&rdquo;。经陆修静修订之后，道饰始著于世。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　现在的道教服装，大约有六种： 1．大褂，袖宽一尺四寸，袖长随身，此为日常服用之衣。2．得罗、袖宽一尺八寸，长随身，大礼服。以上衣均兰色。3．戒衣，袖宽二尺四寸，袖长随身，受戒用，黄色。4．法服，袖披无，袖长随身，方丈大典用，紫色。5．花衣，袖披无，袖长随身，出外念经用，杂色。未受戒道士，大褂及得罗均应为黄色。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　道巾种类尤多，据清闵小艮《清规玄妙》说：全真之巾，系有九种：即：唐巾、冲和巾、浩然巾、逍遥巾、紫阳巾、一字巾、纶巾、三教巾和九阳巾。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　其中除一字巾为束发时所用外，其它统称礼巾，遇有典礼时随意用之。习惯上老年道士多用冲和巾，少年用逍遥巾，寒冷时用幅巾，降雪时用浩然巾，一般天气下则用紫阳巾、一字巾等。道士曾受初真戒者用纶巾，戴偃月冠；曾受中极戒者用三教巾、戴三台冠；曾受天仙戒者用冲和巾、戴五岳冠。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　冠有四种，为：月冠、五岳冠、莲花冠和三台冠等。冠多玉制或木制，服用时可任意使用之。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　又道士一般多用白布袜，着云履或青鞋。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　以上为道教服饰之主要部分。此外尚有云游七宝、蒲团、衲衣、单瓢、棕笠、棕扇、青囊、扁拐等，亦为道士必备之物。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　六、符咒步诀、青词表章　符咒步诀在道教中本属道术的范畴，但他们必须用于道坛上、法事中，所以应当列为斋醮威仪的内容之一。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;符&rdquo;在早期道教中常和&ldquo;箓&rdquo;字连用，所以符有时也叫符箓。符箓和丹鼎又是早期道教两大派系的名称之一。龙虎山天师道就是以传授符箓著称的主要道派。《天宫章本》是张陵所遗留下来的有关符箓的经典，是道教中有名的&ldquo;正一宗坛&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　此外还有江苏茅山杨羲、许谧的 &ldquo;上清宗坛&rdquo;，江西临江军閤皂山葛玄的&ldquo;元始宗坛&rdquo;。后来又有许逊的&ldquo;净明派&rdquo;、肖抱一的&ldquo;太一道&rdquo;，都是以传授符箓著称的道派。他们的符箓散见于《正一经》、《上清经》、《灵宝经》等道教经典中。到了元代出现了所谓&ldquo;三山并峙(指龙虎山、茅山和閤皂山)，共辅皇图&rdquo;的新形势，道教符箓，此时得到了封建统治阶级的无比信任。元陶宗仪《辍耕录》中说：&ldquo;茅山道士张伯雨随王月溪真人人京，晤虞伯凡(集)修撰，问其能作几家符箓?虞先生曰，某试书之，以质是否?连书七十二家。伯雨汗流浃背&rdquo;。道家符箓之盛，此时为最。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　咒，《后汉书》卷六 ○下《襄楷传》引《太平经》说：&ldquo;天上有常神圣要语，时下授人以言，用使神吏应气而往来也。人众得之，谓神咒也&rdquo;。后来道士于刻制鬼神时使用外，讽诵经典及其它仪范中亦常常使用之。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　步，又叫禹步。《洞神八帝元变经&middot;禹步考灵第四》云： &ldquo;禹步者，是夏禹所为术，召役神灵之行步。禹届南海之滨，见鸟禁咒，能令大石翻动。此鸟禁时，常作是步，禹遂模写其行，令之人术&rdquo;。今道士作法，多于坛上用之。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　诀　亦作抉。此处所指为手诀，亦称掐诀，今世流行的道教诀法有&ldquo;玄武诀&rdquo;、&ldquo;五雷诀等。道士行法时，每以诀、咒并用。道教中有所谓&ldquo;口诀&rdquo;者，与此无涉。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　表章青洞，为道教仪范中常用的一种文体，系以韵语或四六句法为之。其总称则曰&ldquo;青词&rdquo;，李肇《翰林志》云：凡太清宫观荐告之文词，多用青藤纸以朱字写之。故曰青词；亦称绿章云。宋陆游诗：&ldquo;绿章夜奏通明殿。为借春阴护海棠&rdquo;。历代文人中以擅长此类文字著称的有杜光庭、严嵩等人。一般习见的青词中，又分表、章两种，表章多用于较为隆重的道场中，如上奏于最高尊神三清或玉皇的文书则曰上表，或曰上章，一般通诚于小神的文书，则统称之曰上书。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　七、法器与供器　法器指的是道士在行法时所使用的法物。《四川总志》云：&ldquo;张陵自以功成道著&hellip;&hellip;是年九月九日，将诸秘箓、斩邪二剑、玉册和玉印授长子衡，乃与夫人孙氏白曰升天&rdquo;。这里所说的秘箓，指的是符。至于玉册和玉印则皆属法物，玉册如何?世间鲜见。无从详考。宝剑和玉印则为张氏世传刻制鬼神的主要法器，为正一宗坛的镇坛之宝，历代天师亲自宝藏之。其印文为&ldquo;阳平治都功印&rdquo;六字，后世天师法築上皆必须铨有此印。茅山上清宗坛的法印为&ldquo;九老仙都君印&rdquo;六字。阎皂山元始宗坛的法印为&ldquo;元始宗坛印&rdquo;五字。三印皆为道教中所公认的宝物。至于一般道教法师们所使用法器，则为：&ldquo;宝剑、舍旗、令箭、敕令牌、天莲尺、镇坛木&rdquo;等五件，五者皆并列于道坛的法器架上，以备拘劾神鬼之用。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　此外经仟时所伴用的器乐，亦有七件： &ldquo;钟、磬、铛、钗、盂、笙、鼓等，一般亦称为法器。其它伴奏间所使用的笙、箫、管、笛则称为乐器，不叫法器，不属法物之列。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　供器，指香案上所陈列的器皿，一般有香炉、蜡台、花瓶、香筒、果盘、水碗 (亦称&ldquo;净盂&rdquo;)等。果盘例有五色，不得自为增减。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　此外，神像前应用神幔、欢门、灵幡、桌围、拜垫等亦为道教仪范中必需之物，不得减省。</span></div>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

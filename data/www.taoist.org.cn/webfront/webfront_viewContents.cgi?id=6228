@@ -1,0 +1,555 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260400000000000000&targetPage=Fdjxy2">
+						中国道教(2004—2010)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260441000000000000&perPageNum=15&targetPage=Fdjxy3">
+						2010年第5期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	拜水都江堰 问道青城山
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	——第三届中国（成都）道教文化节在青城山隆重举办
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　9月16日至19日，由中国道教协会、四川省道教协会、成都市道教协会主办，青城山道教协会、四川大学道教与宗教文化研究所承办的第三届中国（成都）道教文化节在道教仙山青城山隆重举办。全国人大常委会原副委员长许嘉璐，中央社会主义学院党组书记、第一副院长叶小文，国家宗教事务局副局长齐晓飞，中央统战部二局副局长袁莎，四川省委常委、统战部部长陈光志，上海市政府副秘书长、上海市对口援建都江堰灾后重建指挥部总指挥薛潮，成都市市长葛红林，都江堰市市委书记刘俊林、市长徐富艺等有关领导；中国道教协会会长任法融道长，中国佛教协会会长传印长老，中国道教协会副会长张继禹道长、黄信阳道长、唐诚青道长、黄至杰道长等宗教界人士；海内外有关专家学者、文化名人、工商界精英、上海援建工作者，以及来自美国、英国、法国、日本、韩国、澳大利亚、新加坡等二十多个国家和地区的一千多名嘉宾，齐聚都江堰和青城山，共同体验和见证了这一道教文化盛会。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">知恩感恩　再聚青城</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　作为本届道教文化节的主办地，都江堰市拥有青城山和都江堰两个世界文化遗产，深受道文化和水文化的浸润，有着深厚的道教文化底蕴和丰富的自然、人文景观。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　早在2004年、2006年，成都已经成功举办了首届和第二届中国（成都）道教文化节，本应于2008年举办的第三届道教文化节，因&ldquo;5&middot;12&rdquo;汶川特大地震影响而暂停举办。两年来，在上海援建人员的帮助下，在全国人民的关心下，灾后重建工作顺利完成。经过精心筹备，道教节组委会决定于今年9月恢复举办第三届中国（成都）道教文化节。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　本届道教文化节继续沿用了前两届道教文化节&ldquo;自然&middot;生命&middot;和谐&middot;发展&rdquo;的主题，以道教文化关爱生命内涵为主线，坚持&ldquo;诠释道教道法自然精神内涵&rdquo;，感怀生命，感恩世界，全面检阅成都、都江堰灾后重建及统筹城乡发展成果，集中展示具有地域特色的道教文化资源和建设世界现代田园城市的美丽蓝图。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　9月16日晚8时，修葺一新的青城山广场流光溢彩，琴声悠扬，第三届中国（成都）道教节开幕式在这里隆重举行。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　中国道教协会会长任法融道长、国家宗教局副局长齐晓飞、都江堰市市委书记刘俊林、成都市市长葛红林、四川省委统战部部长陈光志先后致辞。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　任法融会长表示，在道教仙山青城山下举办道教文化节是很有意义的。中华民族是一个有着优秀文明的民族，中国的这片国土是一片得天独厚的土地。就在这一片国土上，五千多年的历史自然形成了儒释道三大文化体系，这三大文化体系对天下太平、社会稳定、国家的繁荣富强、民族的兴旺有极高的积极作用。这三大文化体系虽然内容不一，形式不同，其中心思想都是以道德为核心。道德的文化思想正是我们中华民族传统文化的根基所在。道德思想在中国根深蒂固，影响极深，对中国以及人类的发展壮大都起到一定的作用。有道德的国家是一个国泰民安的国家，有道德的人是一个前途远大、光明磊落的人。他希望通过这样一个活动，能进一步弘扬传统的道德思想。最后，他祝愿天清地宁，山岳稳固，风调雨顺，万物繁荣。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　齐晓飞副局长对四川地震灾区恢复重建工作所取得的成绩表示祝贺和祝福，高度评价了举办道教文化节的现实意义。他说，道教生根于中华文化的沃土，既是中国传统文化的重要组成部分，也是人类精神文明的宝贵财富。九十多年前，鲁迅先生曾说，&ldquo;中国根柢全在道教&rdquo;。这句名言有极强的历史穿透力。经过近百年的沧桑变化，今天我们仍然认为，道教所倡导的尊道贵德、道法自然、生而不有、为而不争、清虚慈俭、见素抱朴、和光同尘等思想，对于提升个人精神境界、促进社会和谐，具有积极的人文价值和现代意义。举办道教文化节，不仅可以帮助人们多个层面体验和感悟道教可宝贵的人文价值和现代意义，而且可以通过多姿多彩的文化形式，展示中国道教与时俱进的精神风貌和良好形象，还可以凝聚众缘，促进海内外道教界的互动与合作，共同弘扬中华优秀的传统文化。&nbsp;成都是道教的发源地，积淀着深厚的历史文化底蕴，宫观众多，高道辈出。青城山、鹤鸣山、老君山，二王庙、青羊宫等名山道场名闻遐迩。张道陵、张鲁在这里创教，杜光庭、李荣在这里弘道，孙思邈、张三丰在这里修持、云游留下仙迹&hellip;&hellip;道教文化已成为成都重要的人文资源。道教文化节已成为成都这座历史文化名城的重要文化品牌。今天，面对保护与传承宝贵的自然与人文遗产的大课题，我们仍然需要学习、运用道教文化中的大智慧。衷心希望道教界和社会各界，以此道教文化节为契机，携起手来，认真思考中国道教面临的机遇和挑战，共同挖掘道教深刻的思想内涵，提升文化品位与信仰素质，不断适应时代进步，为促进科学发展和社会和谐做出新的贡献。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　开幕式上，中国老年协会常务副主任兼秘书长赵宝华向都江堰市颁发了&ldquo;中国长寿之乡&rdquo;的牌匾。当六十余位小朋友从四面八方汇集到舞台一角，将手中一幅幅描绘都江堰新貌的图画翻转拼合成&ldquo;谢谢您&rdquo;三个大字，借此表达对即将离开的上海援助者的感谢之情时，场下响起了热烈的掌声，成为当晚最感人的一幕。在陈光志部长宣布第三届中国（成都）道教文化节开幕后，《道韵青城》大型文艺演出正式上演。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　&nbsp;《道韵青城》是以道教文化、道教音乐作为创作主题，以青城山传说为故事背景，将舞蹈、武术、养生和书法融为一体的一台具有国际水准的道教文化原创音乐剧。演出分为《天德出宁》、《上善若水》、《天下青城》、《大象无形》、《道行天下》和《太极神韵》六个段落，是由著名国际舞蹈艺术家金星，著名青年作曲家郭思达，奥斯卡最佳美术指导叶锦添，文华导演奖获得者、六十年大庆阅兵群众方阵总导演陈蔚联合打造的精品，将作为旅游项目从2012年起在青城山长期驻演。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　在当晚的演出中，舞台上时而轻声吟诵，时而琴声悠悠，时而腾挪移转，时而缓步转动。刚柔相济，动静结合，高潮迭起，精彩纷呈，为台下嘉宾带来了视觉和听觉上的双重享受。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">巅峰对话　论道青城</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　弘扬中华民族优秀传统文化，促进文化交流，发挥道教文化的现代价值，是举办本届道教文化节的目的之一。为此，围绕中国传统文化、道教思想和道教养生这三个主题，组委会特别组织了三场别开生面的道教论坛，成为本届道教文化节的重头戏。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　17日下午，&ldquo;中华之道&mdash;&mdash;中国传统文化巅峰论坛&rdquo;正式开坛。论坛由中央社会主义学院党组书记、常务副院长叶小文主持。中国道教协会会长任法融道长，中国佛教协会会长传印长老，著名儒学思想家杜维明教授分别代表道、释、儒三家，围绕&ldquo;和谐社会，身心和美&rdquo;这一主题展开论述，努力求得&ldquo;人与自然天地的完美和谐&rdquo;。三位大师端坐台上，引经据典，娓娓道来，引人深思。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　任法融会长用深入浅出的道理、生动通俗的故事，诠释了道教道法自然的精神内涵。他从道的起源讲起，将道归结为宇宙的本体、根源和运动法则。道的属性是和，道的运动法则是无为、自然，无论是治国，还是治理事物、家庭、个人身体，都不能违背这个法则。他将儒释道相通之处归结为两点：一是道教所讲的&ldquo;道法自然&rdquo;，在儒家则为&ldquo;天性&rdquo;，在佛教则为&ldquo;自在&rdquo;，三者殊途同归；二是道教讲&ldquo;重积德&rdquo;，而儒家讲仁，佛教讲善，三者的宗旨都是通过参道使人减少私欲，返归人的天真本性。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　任会长所讲的道，在传印长老看来则是佛教中所讲的法。因为大千世界，缘起缘灭，变化不已，所以法的规律是缘起于我，因果相续，也就是道教说的&ldquo;道法自然&rdquo;。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　杜维明教授是当代新儒学的代表人物之一，他从全球这个大视角审视中国传统文化，认为中华民族能够慧命相续，是因为中国的传统文化有三个非常重要的特征&mdash;&mdash;宽容、学习和对话，这也是三教能够和平共生、互利互惠的对话，以及进行持久深入的自我反思的基础。而儒家的求仁，与佛教的修心、道教的修道，本意相通。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　最后，叶小文常务副院长对三位大师的对话进行了精彩的总结。他说，今天的&ldquo;青城三笑&rdquo;，三位大师至少给了我们两个方面的启示：第一是学理上的收获。人们常说儒释道相通，它们究竟是怎么相通的？它们之间的最大公约数是什么？今天三位大师用他们的文章给我们解答了这个问题。一个&ldquo;道&rdquo;字可以通达三教，可以作为中国古代哲学的最高范畴，标志为中华传统文化的巅峰&hellip;&hellip;对中国传统文化的追本溯源总要谈到道。道是事物的根本，道是变化的法则，道是形而上者，道是把握世界整体性的东西。儒释道三家依靠一个&ldquo;道&rdquo;字联通起来。因此，结论是一个道字确实可以通达昭示中华所有传统文化的巅峰。一个时代的精神要充满活力地在全球张扬，就需要从传统文化的深厚积淀中取得。大道无垠，生生不息。一个道字，儒释道三家都可以在这里相通。所谓儒以治国，佛以治心，道以治身。儒释道三家确有修身齐家治国平天下的抱负，这在今天仍然是我们世人宝贵的精神财富。第二是实践上的启迪。道蕴含着古今的连接，中西的对话，活力的张扬。我们对传统文化的继承，是为了实践的需要，为了创造性的超越。任道长说道的属性是&ldquo;和&rdquo;。&ldquo;和&rdquo;何以理解，又从何来？&ldquo;万物负阴而抱阳，冲气以为和。&rdquo;&ldquo;和&rdquo;是事物两重性的最高境界。因为和是道的属性，所以它才有无限的生命力。&ldquo;和&rdquo;的思想反映了事物的普遍规律，中国的儒释道思想中都含有&ldquo;和&rdquo;。&ldquo;和&rdquo;的精神是一种承认，一种尊重。和的基础是和而不同，互相包容，求同存异。和的途径是以对话实现沟通三教，以共识求得和平共处，以包容促进和谐发展。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　18日，分别由中国道教协会副会长张继禹道长和黄信阳道长主持的&ldquo;中华之道&mdash;&mdash;道教与中国传统文化&rdquo;&nbsp;和&ldquo;中华之道&mdash;&mdash;道在养生&rdquo;两场论坛同样精彩，尤其是当日上午的&ldquo;道教与中国传统文化&rdquo;论坛，大家云集，精彩纷呈。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　全国人大常委会原副委员长许嘉璐先生，中国道教协会副会长黄信阳道长，凤凰卫视董事局主席刘长乐先生，中国传统文化促进会常务理事、医学保健委员会执行主任、知名中医专家丹朱先生，中国国家画院书法篆刻院执行院长曾来德先生，世界老子同道会会长、中央党校教授李德深先生等，从不同的角度，极富个性、颇具魅力地探讨了中国传统文化同道教的关系。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　许嘉璐先生作为当天的特邀嘉宾压轴出场，为大家作了题为《道教与中国传统文化》的演讲。他首先从历史和文化学的角度来谈对道教的认识，接着谈到生活在21世纪的道教界人士应该为道教发展做些什么以及怎样去做，对道教的关切之情溢于言表。他强调当前是道教发展的历史最好时期，道教界要肩负起身上的责任，努力弘扬道教优秀文化，以对宇宙、对人生的极大关怀这样一种胸怀来感悟道，用撕心裂肺的痛苦这样一种情怀来度世，在诚信的基础上走出道教的振兴道路，通过培养人才、加强管理、关怀社会来更好地继承和弘扬道教。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">全面展示　胜地重光</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　为了全面展示成都道教文化的魅力，除了开幕式和道教文化论坛，本届道教文化节还举办了祈福众生&mdash;&mdash;老君阁灾后重建落成典礼暨感恩祈福大法会、天籁之音&mdash;&mdash;蜀派古琴表演、仙山新姿&mdash;&mdash;名人书画暨摄影作品展、知恩感恩&mdash;&mdash;上海-澳门系列感恩活动、道在养生&mdash;&mdash;道家养生体验与展示活动、仙山对弈&mdash;&mdash;围棋邀请赛等系列专题活动。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　9月17日上午，祈福众生&mdash;&mdash;老君阁灾后重建落成典礼暨感恩祈福大法会在老君阁举行。祈福法会由张继禹副会长主礼。法会上，大家齐诵祈祷词，祈福风调雨顺，社会安宁，国家昌盛。老君阁位于青城山第一绝顶之上，因&ldquo;5&middot;12&rdquo;特大地震而严重受损。在澳门基金会的援助下，经两年多重建，在完成主体工程后重光。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　9月17日至18日，组委会在青城山建福宫、上清宫慈云阁等处安排了&ldquo;天籁之音&mdash;&mdash;蜀派古琴表演&rdquo;，道长们演奏了《流水》、《醉渔唱晚》等蜀派名曲。飘渺的道乐萦绕山林，让来宾体味到了其中的玄妙，从听觉上体悟道家天人合一的思想境界。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　此外，在大邑县鹤鸣山、彭州市阳平观和新津县老君山还安排了品道茶、赏道乐、观太极拳等配套活动。如此丰富多彩的道教文化展示活动，让宾客和游人们充分感受和体验到了成都道教文化的深厚积淀。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　9月19日晚上，第三届中国（成都）道教文化节完美闭幕。都江堰市委副书记、市长徐富艺和张继禹副会长分别在闭幕式上致辞，许嘉璐先生宣布本届道教文化节闭幕。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　徐市长在致辞中对本届道教文化节作了全面总结，称整个活动规模宏大，内容丰富，是一次智慧的结晶，是一次思想的盛宴。活动主要呈现出三个特点：一是嘉宾范围更广，层次更高；二是活动更丰富，主题更突出；三是宣传报道更多，影响更大。张副会长在致辞中说，围绕道教文化节和感恩情怀展开的一系列文化活动精彩纷呈，内涵丰富，成果斐然。本次文化节所举行的&ldquo;中华之道&mdash;&mdash;儒释道巅峰论坛&rdquo;和&ldquo;道教与中华传统文化论坛&rdquo;，大家云集，特别是许嘉璐先生的演讲，更是智者的体悟开导和心灵交流，让大家享受了一次精神文化的大宴，感受到了文化的厚重和魅力，深受启迪，希望第四届中国（成都）道教文化节有更加丰富的活动，有更广泛人士的参与，有更多真切的道教文化体验。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　闭幕式后，上演了大型实景剧《道解都江堰》。演出以都江堰的建坝理念及道家思想为核心展开，以源远流长的&ldquo;水&rdquo;文化和博大精深的&ldquo;道&rdquo;文化为主题内容，以废弃的鱼嘴电站大坝为舞台，将岷江山水作为演出背景，利用高科技的声光技术和造浪技术，营造出一种如梦如幻、如诗如画的美景，通过失道、问道、解道、平常道、非常道共五个篇章的演绎，对顺应自然、天人合一、造福千秋万代的水利工程进行艺术解读，再现历史情景，完美地诠释出岷江水的柔美与刚烈，描绘出都江堰的建造与功德，表现出天府之国的宁静、悠远与安逸，展示出都江堰的千年文化底蕴和人与自然和谐相处的美妙画卷。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　带着几分留恋，几分谢意，几分期许，几分祝福，与会嘉宾依依惜别了幽幽的青城山和秀美的都江堰。四天的展示，精彩又意犹未尽，宾主不禁相约，两年后&ldquo;再聚青城山，再读道文化，再续天道缘&rdquo;。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: right; MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">（郑　琢）</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

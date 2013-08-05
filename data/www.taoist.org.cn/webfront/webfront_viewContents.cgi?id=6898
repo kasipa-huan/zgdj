@@ -1,0 +1,584 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260800000000000000&targetPage=Fdjxy2">
+						中国道教2011—
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260803000000000000&perPageNum=15&targetPage=Fdjxy3">
+						2011年第3期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	明清以来（ 1368-1949 ）泰山道派考略（一）
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">秦国帅</span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">泰山拥有浓厚的宗教文化传统。自远古起，泰山就被视为神人自天降临之地，</span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">①</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">秦汉以降，加之汉民固有冥界和地府思想的流行，泰山又兼具了神山与鬼都的双重宗教品格。</span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">②</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">因而，围绕着泰山，古代的统治者和普通民众举行了封禅、祭祀等各种各样的宗教活动。基于统治者的支持和普通民众的需求，道士也频繁地出现和参与到这一系列的宗教活动中来，在满足统治者和民众物质、精神需要与诉求的同时，道教也延续了自身的法脉和传承。本文即以泰山及其支脉现存的碑刻材料为基础，对明清及民国时期留存的道派进行梳理和考察。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">一、华山派：岱宗坊北玉皇阁、五峰山洞真观</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">玉皇阁在今泰安岱宗坊北，仅余一石坊，匾额上题<font face="Times New Roman">&ldquo;</font><font face="宋体">玉皇阁</font><font face="Times New Roman">&rdquo;</font><font face="宋体">，下题</font><font face="Times New Roman">&ldquo;</font><font face="宋体">白鹤泉</font><font face="Times New Roman">&rdquo;</font><font face="宋体">。清人宋思仁《泰山述记》载：岱宗坊</font><font face="Times New Roman">&ldquo;</font><font face="宋体">北为玉皇阁，即白鹤泉故道，明万历八年建</font><font face="Times New Roman">&rdquo;</font><font face="宋体">。</font></span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">③</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">清顺治、康熙年间，道士孙真清行修皈命于此：</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">坐化道士姓孙，名真清，直隶河间府阜城县人。游泰山，皈命玉皇阁，行修六十余载，悟大乘。康熙四十年（<font face="Times New Roman">1701</font><font face="宋体">），冬一日，忽呼徒曰：</font><font face="Times New Roman">&ldquo;</font><font face="宋体">我死，停于阁内三年，开视可埋则埋。</font><font face="Times New Roman">&rdquo;</font><font face="宋体">语毕而化，越十二年，其徒开缸，端坐如生。立坐龛于阁下，凡朝谒岱岳者，无不瞻礼焉。</font></span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">④</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">另，在岱庙天贶殿前立有《中华民国二十二年重修玉皇阁记碑》一通，其文言<font face="Times New Roman">&ldquo;</font><font face="宋体">泰山之麓白鹤泉上，旧有玉皇阁</font><font face="Times New Roman">&rdquo;</font><font face="宋体">。</font></span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑤</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">明言此玉皇阁处白鹤泉上，故此碑为岱宗坊北玉皇阁的重修记碑无疑。在该碑碑阳题名处，录有住持道士姓名如下：</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">住持：王智若、徐智海，徒侄夏信道，徒侄孙刘嘉峻，徒侄曾孙杨祥庚、李祥玉&nbsp;仝立石。</span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑥</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">据《诸真宗派系谱》，华山派系谱的前二十五字为<font face="Times New Roman">&ldquo;</font><font face="宋体">至一无上道、崇教演全真、冲和德正本、仁义礼智信、嘉祥宗泰宇</font><font face="Times New Roman">&rdquo;</font><font face="宋体">，</font></span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑦</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">因而，民国二十二年（<font face="Times New Roman">1933</font><font face="宋体">）时，住持玉皇阁的道派为全真道华山派，王智若等道众分别为华山派第</font><font face="Times New Roman">19</font><font face="宋体">至</font><font face="Times New Roman">22</font><font face="宋体">代弟子。并且，极有可能的是，顺治、康熙年间道士孙真清亦属华山派，一方面</font><font face="Times New Roman">&ldquo;</font><font face="宋体">真</font><font face="Times New Roman">&rdquo;</font><font face="宋体">字为华山派系谱排字之一，另一方面，孙真清与王智若前后相距三百年左右，间隔八代弟子，在传承时间上也较为合理。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">五峰山在今山东省济南市长清区，为泰山支脉之一，因山有会仙、志仙、群仙、望仙、聚仙（亦称迎仙）五峰而得名。关于洞真观的创建时代，元好问《五峰山重修洞真观记》载：<font face="Times New Roman">&ldquo;</font><font face="宋体">金泰和中，全真师丘志圆、范志明劚地于此，屋才数椽而已。丘、范而没，同业王志深、李志清辈增筑之，始有道院之目。堂庑既成，贞祐初入</font><font face="Times New Roman">□</font><font face="宋体">粟县官，得为洞真观。</font><font face="Times New Roman">&rdquo;</font></span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑧</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">由于王志深等人师事全真高道崔道演，而崔道演<font face="Times New Roman">&ldquo;</font><font face="宋体">事父母以纯孝闻，庐墓三年，去家为道士，师东海刘长生，甚得其传</font><font face="Times New Roman">&rdquo;</font><font face="宋体">，</font></span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑨</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">故此时洞真观属全真刘长生一系。明末，由于皇室人员的参与，五峰山再度兴盛，其表现之一即是道众数量的增加。五峰山现存《明正德戊寅题神虚宫记碑》载道士题名为：</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">刘崇吉、李教容、李教缘；</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">住持张崇美、住持张教纯、段崇<font face="Times New Roman">□</font><font face="宋体">、王教得、刘教</font><font face="Times New Roman">□</font><font face="宋体">、侯教隆、</font><font face="Times New Roman">□</font><font face="宋体">教</font><font face="Times New Roman">□</font><font face="宋体">；</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">庄演<font face="Times New Roman">□</font><font face="宋体">、王演成、司教堂、刘教</font><font face="Times New Roman">□</font><font face="宋体">、李演</font><font face="Times New Roman">□</font><font face="宋体">、孙演</font><font face="Times New Roman">□</font><font face="宋体">、王演禄、史演玘；</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">□<font face="宋体">教福、张演</font><font face="Times New Roman">□</font><font face="宋体">、高演</font><font face="Times New Roman">□</font><font face="宋体">、李演</font><font face="Times New Roman">□</font><font face="宋体">、赵演宁、赵演</font><font face="Times New Roman">□</font><font face="宋体">、孙演</font><font face="Times New Roman">□</font><font face="宋体">、李全杨。</font></span><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑩</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">现存《明嘉靖十六年洞真观建仙亭桥记碑》碑阴载住持道士题名为：</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">段崇高、张崇美；</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">张教隆、刘教腾、李教容、司教堂、刘教通、郭教亮；</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">裴演衡、李演靖、高演<font face="Times New Roman">□</font><font face="宋体">、史演启、李演乐、王演时、房演道。</font></span><span>11</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">据此两碑<font face="Times New Roman">&ldquo;</font><font face="宋体">崇教演全</font><font face="Times New Roman">&rdquo;</font><font face="宋体">的排辈顺序，可以推定，明正德、嘉靖时期，五峰山洞真观的道派为全真道华山派。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">二、龙门华山派：五峰山洞真观</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">明神宗万历年间，五峰山的发展达到顶峰。<font face="Times New Roman">&ldquo;</font><font face="宋体">明神宗万历时，特命黄冠周云清（指周玄贞</font><font face="Times New Roman">&mdash;&mdash;</font><font face="宋体">引者注）辟山重修，颁以《道藏》全经，五峰遂与泰岱、灵严并称三山云。</font><font face="Times New Roman">&rdquo;</font></span><span>12</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">作为泰山的支脉，五峰山由于万历皇室的重视甚至达到了与泰山并称的程度。在这一过程中，全真道士周玄贞发挥了重要作用。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">周玄贞，亦称周云清，</span><span>13</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">山东济南人，主要作品有《皇经集注》。关于其道派归属，据现有材料，周玄贞署名之处大都与<font face="Times New Roman">&ldquo;</font><font face="宋体">全真弟子</font><font face="Times New Roman">&rdquo;</font><font face="宋体">或</font><font face="Times New Roman">&ldquo;</font><font face="宋体">全真道士</font><font face="Times New Roman">&rdquo;</font><font face="宋体">连用，</font></span><span>14</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">而王静粹在《皇经集注<font face="Times New Roman">&middot;</font><font face="宋体">誊录序》中自称</font><font face="Times New Roman">&ldquo;</font><font face="宋体">臣静粹，幼业儒，</font><font face="Times New Roman">&hellip;&hellip;</font><font face="宋体">后从玄师周云清修《道藏》，供书务，观《皇经注》，乃知三教一理，性道无二</font><font face="Times New Roman">&rdquo;</font><font face="宋体">。</font></span><span>15</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&ldquo;<font face="宋体">玄师</font><font face="Times New Roman">&rdquo;</font><font face="宋体">一词的具体指谓关系较为模糊，或为实指，表示师事周玄贞，或为虚指，表示对周玄贞的敬称，如李雨沾在《重修五峰山碑记》中称周玄贞为</font><font face="Times New Roman">&ldquo;</font><font face="宋体">淡然子周法师</font><font face="Times New Roman">&rdquo;</font><font face="宋体">，</font></span><span>16</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">并不表示其与周玄贞存在师徒关系。在此，若<font face="Times New Roman">&ldquo;</font><font face="宋体">从玄师周云清修《道藏》</font><font face="Times New Roman">&rdquo;</font><font face="宋体">实指周玄贞与王静粹之间的师徒关系，则据</font><font face="Times New Roman">&ldquo;</font><font face="宋体">玄</font><font face="Times New Roman">-</font><font face="宋体">静</font><font face="Times New Roman">&rdquo;</font><font face="宋体">二字，可推知周玄贞属全真道龙门派道士。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">周玄贞与万历皇室关系密切，在其住持洞真观期间，皇室参与洞真观活动多达<font face="Times New Roman">14</font><font face="宋体">次，频繁地在此修斋建醮，甚至以此来进行政治斗争，</font></span><span>17</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">由此也为洞真观的兴盛提供了有力的政治支持。然而，恰恰是从周玄贞开始，五峰山洞真观的道众发生了改宗现象，道派由正德、嘉靖时期的华山派转为万历及以后的龙门华山派。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">通过对现存碑刻上道众题名的整理，张琰指出，其系谱排字为：玄<font face="Times New Roman">-</font><font face="宋体">全</font><font face="Times New Roman">-</font><font face="宋体">真</font><font face="Times New Roman">-</font><font face="宋体">冲</font><font face="Times New Roman">-</font><font face="宋体">和</font><font face="Times New Roman">-</font><font face="宋体">得</font><font face="Times New Roman">-</font><font face="宋体">正</font><font face="Times New Roman">-</font><font face="宋体">本</font><font face="Times New Roman">-</font><font face="宋体">恒</font><font face="Times New Roman">-</font><font face="宋体">成</font><font face="Times New Roman">-</font><font face="宋体">位</font><font face="Times New Roman">-</font><font face="宋体">尚</font><font face="Times New Roman">-</font><font face="宋体">仙</font><font face="Times New Roman">-</font><font face="宋体">能</font><font face="Times New Roman">-</font><font face="宋体">贞</font><font face="Times New Roman">-</font><font face="宋体">心</font><font face="Times New Roman">-</font><font face="宋体">传</font><font face="Times New Roman">-</font><font face="宋体">乙</font><font face="Times New Roman">-</font><font face="宋体">世，并进而推论认为，</font><font face="Times New Roman">&ldquo;</font><font face="宋体">自万历二十七年（</font><font face="Times New Roman">1599</font><font face="宋体">）至光绪三十三年（</font><font face="Times New Roman">1907</font><font face="宋体">），龙门华山派在五峰山共传了</font><font face="Times New Roman">22</font><font face="宋体">代。如果上考不误，则周玄贞为全真龙门华山派第二代传人。</font><font face="Times New Roman">&rdquo;</font></span><span>18</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">值得注意的是，在五峰山现存《明万历二十七年敕赐道藏碑圣旨记碑》中，除周玄贞、李全德、郑真元外，尚有如下道众题名：</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">五峰山焚修住持道士小臣：</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">庄全信、王全名、李演敬、陈演孝、李全德、郑真元、周演和、李全寿、郭全首、李全仁；</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">耿真亨、国全宜、刘全敬、张全智、倪全义、徐全礼、高全廉、李全思、张全科、李真利；</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">宋真玉、张真禄、王真纪、赵真安、吴真祯、邓真福、张真宁、张真成、王真裕、张真琪；</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">陈真贤、邵真仙、徐真重、陶真忠、李真慈、赵真序、李真一、杨真翰、张真国、廉真见、王真<font face="Times New Roman">□</font><font face="宋体">；</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">张真<font face="Times New Roman">□</font><font face="宋体">、傅真</font><font face="Times New Roman">□</font><font face="宋体">、张真清、张真虚、</font><font face="Times New Roman">□□□</font><font face="宋体">、吕</font><font face="Times New Roman">□□</font><font face="宋体">、张</font><font face="Times New Roman">□□</font><font face="宋体">、何</font><font face="Times New Roman">□□</font><font face="宋体">、张</font><font face="Times New Roman">□</font><font face="宋体">祝、陈冲举；</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">□<font face="宋体">冲会、</font><font face="Times New Roman">□</font><font face="宋体">冲进、宋冲第、魏冲海、</font><font face="Times New Roman">□</font><font face="宋体">冲远、</font><font face="Times New Roman">□</font><font face="宋体">冲泫、</font><font face="Times New Roman">□</font><font face="宋体">冲瀛、王冲登、刘冲</font><font face="Times New Roman">□</font><font face="宋体">、郑冲</font><font face="Times New Roman">□</font><font face="宋体">；</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">闫冲纶、周冲度、范冲节、郭冲渊、邢冲原、邢冲江、徐冲<font face="Times New Roman">□</font><font face="宋体">、随冲</font><font face="Times New Roman">□</font><font face="宋体">、李冲善、孙冲如；</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">□□□<font face="宋体">、刘冲</font><font face="Times New Roman">□</font><font face="宋体">、徐冲思、李冲瑾、张冲</font><font face="Times New Roman">□</font><font face="宋体">、常冲</font><font face="Times New Roman">□</font><font face="宋体">、张</font><font face="Times New Roman">□□</font><font face="宋体">、王</font><font face="Times New Roman">□□</font><font face="宋体">、赵冲</font><font face="Times New Roman">□</font><font face="宋体">、朱冲顺；</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">□□□<font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">和则、李和睦、宋冲秀、田冲</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">冲</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">冲</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">和</font><font face="Times New Roman">□</font><font face="宋体">、田和雍、孙和道。</font></span><span>19</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">其中包括华山派<font face="Times New Roman">&ldquo;</font><font face="宋体">演</font><font face="Times New Roman">&rdquo;</font><font face="宋体">字辈道众李演敬、陈演孝、周演和等。这也就意味着，至迟到明万历二十七年时，五峰山洞真观同时存在着两个全真道派：华山派与龙门华山派。</font></span><span>20</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">此外，在岱庙中似乎亦能发现龙门华山派的传承。岱庙现存《清同治十一年岱<font face="Times New Roman">□□□</font><font face="宋体">记碑》载：</font><font face="Times New Roman">&ldquo;</font><font face="宋体">嘉庆年间，道纪侯仙海积香钱买朴家庄宅田顷余归入庙内，至道光年，因岁歉，售以餬口，讼不休。</font><font face="Times New Roman">&hellip;&hellip;</font><font face="宋体">今道纪张传彬领同道众，力行节俭十数年，积累置北集坡地九十余亩，较前加丰矣。</font><font face="Times New Roman">&rdquo;</font></span><span>21</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">可知嘉庆、同治时泰安道纪分别为侯仙海、张传彬；另据《清道光七年复得徐世隆诗碑之记碑》题名处载有<font face="Times New Roman">&ldquo;</font><font face="宋体">岱庙道纪禹贞文识并立石</font><font face="Times New Roman">&rdquo;</font></span><span>22</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">字样，因而，道光时道纪为禹贞文。虽然三人之间无记载证明他们存在着师承关系，但<font face="Times New Roman">&ldquo;</font><font face="宋体">仙</font><font face="Times New Roman">-</font><font face="宋体">贞</font><font face="Times New Roman">-</font><font face="宋体">传</font><font face="Times New Roman">&rdquo;</font><font face="宋体">三字都出现在龙门华山派的排字系谱中，且三人俱属道纪一职，故此一时间岱庙传承的道士可能亦为龙门华山派。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">三、周祖铁冠派：红门关帝庙、碧霞灵应宫</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">红门关帝庙是泰山本山另外一座拥有系统性道派传承的道教庙宇。据红门关帝庙现存碑刻，现将所存道众姓名迻录于下：</span><span>23</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">在康熙十年（<font face="Times New Roman">1671</font><font face="宋体">）及康熙二十二年（</font><font face="Times New Roman">1683</font><font face="宋体">）两通碑刻中，道众的排字为</font><font face="Times New Roman">&ldquo;</font><font face="宋体">和德正</font><font face="Times New Roman">&rdquo;</font><font face="宋体">，在无其他相关材料予以支持的前提下，无法判定此一道派属华山派或是龙门华山派。</font></span><span>24</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">而自康熙五十年始，尤其是清朝中后期，关帝庙出现了明晰的道派传承。<font face="Times New Roman">&ldquo;</font><font face="宋体">传</font><font face="Times New Roman">-</font><font face="宋体">崧</font><font face="Times New Roman">-</font><font face="宋体">岱</font><font face="Times New Roman">-</font><font face="宋体">显</font><font face="Times New Roman">-</font><font face="宋体">扬（阳）</font><font face="Times New Roman">-</font><font face="宋体">静</font><font face="Times New Roman">&rdquo;</font><font face="宋体">排字顺序与周祖铁冠派的传承系谱</font></span><span>25</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">相吻合，故此一时段内红门关帝庙的住持道派为周祖铁冠派。而对于《清康熙五十年重修记碑》中的住持道人耿明锟，亦可将之归入周祖铁冠派，一则<font face="Times New Roman">&ldquo;</font><font face="宋体">明</font><font face="Times New Roman">&rdquo;</font><font face="宋体">亦为周祖铁冠派系谱排字之一，二则</font><font face="Times New Roman">&ldquo;</font><font face="宋体">明</font><font face="Times New Roman">&rdquo;</font><font face="宋体">与</font><font face="Times New Roman">&ldquo;</font><font face="宋体">岱</font><font face="Times New Roman">&rdquo;</font><font face="宋体">间隔五字，康熙五十年（</font><font face="Times New Roman">1711</font><font face="宋体">）与咸丰九年（</font><font face="Times New Roman">1859</font><font face="宋体">）相距</font><font face="Times New Roman">148</font><font face="宋体">年，若法脉相续的话，时间跨度也较为合理。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">不仅如此，碧霞灵应宫中的碑刻材料亦记载了周祖铁冠派类似的传承：</span><span>26</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">由于现存碑刻材料的限制，与周祖铁冠派的系谱排字相比较，<font face="Times New Roman">&ldquo;</font><font face="宋体">明</font><font face="Times New Roman">-</font><font face="宋体">镜</font><font face="Times New Roman">-</font><font face="宋体">崧</font><font face="Times New Roman">-</font><font face="宋体">岱</font><font face="Times New Roman">-</font><font face="宋体">显</font><font face="Times New Roman">-</font><font face="宋体">扬</font><font face="Times New Roman">-</font><font face="宋体">静</font><font face="Times New Roman">&rdquo;</font><font face="宋体">的排字缺失三个字辈，但碧霞灵应宫的住持道派仍属周祖铁冠派无疑。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">四、果老祖师云阳派：三阳观</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">三阳观位于泰山凌汉峰，地理位置较为偏僻，因其与明万历年间的国本之争相交涉，故引起了众多学者的关注。</span><span>27</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">与五峰山洞真观的发展历程相类似，恰恰是在与国本之争相交涉时，三阳观的发展达到了顶峰，表现为<font face="Times New Roman">&ldquo;</font><font face="宋体">庙产丰富，道众增加；</font><font face="Times New Roman">&hellip;&hellip;</font><font face="宋体">规模初具，殿宇恢弘；</font><font face="Times New Roman">&hellip;&hellip;</font><font face="宋体">声名远播，上达帝阙</font><font face="Times New Roman">&rdquo;</font><font face="宋体">。</font></span><span>28</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">关于三阳观的创始年代，明萧大亨《建三阳庵记》载：<font face="Times New Roman">&ldquo;</font><font face="宋体">嘉靖辛亥，三阳率其徒云山昝复明霞游岱岳，卜地修真。时大梁张乐峰者，以宦隐，亦与三阳游，见其山川形胜，遂输赀为市而居。德藩承奉龙泉于公，复捐俸以益之，于是，庵不数月而底绩。</font><font face="Times New Roman">&rdquo;</font></span><span>29</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">在士绅张乐峰和德王府承奉龙泉于公的资助下，三阳观于嘉靖三十年（<font face="Times New Roman">1551</font><font face="宋体">）创建。自此，三阳观便成为果老祖师云阳派传承法脉的依据，从万历二十七年（</font><font face="Times New Roman">1599</font><font face="宋体">）至民国二十三年（</font><font face="Times New Roman">1934</font><font face="宋体">），历经</font><font face="Times New Roman">&ldquo;</font><font face="宋体">阳复志坚守太玄智礼清白信存意法明长道贵诚正</font><font face="Times New Roman">&rdquo;</font><font face="宋体">二十一辈：</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">阳：王阳辉。</span><span>30</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">复：昝复明。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">志：陈志德、吴志玺、车志文、胡志龙、王志斌、卢志怀、王志秀、徐志忿。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">坚：罗坚随、闫坚梅、黄坚廉、路坚林、陈坚众、张坚亮、王坚支、刘坚纯、于坚邦。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">守：史守知、王守登、张守香、萧守<font face="Times New Roman">□</font><font face="宋体">、李守洞、曹守禄、李守贞、阴守</font><font face="Times New Roman">□</font><font face="宋体">、王守</font><font face="Times New Roman">□</font><font face="宋体">、楚守言、李守</font><font face="Times New Roman">□</font><font face="宋体">、李守</font><font face="Times New Roman">□</font><font face="宋体">、陈守内、王守库、阴守利、江守住、李守节、曹守</font><font face="Times New Roman">□</font><font face="宋体">、王守翠、刘守</font><font face="Times New Roman">□</font><font face="宋体">、王守明、赵守金、王守瑞、高守虚、李守</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">守</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">守业、王守分、萧守科、姜守</font><font face="Times New Roman">□</font><font face="宋体">、李守</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、俞守</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、</font><font face="Times New Roman">□□</font><font face="宋体">科、徐守安、李守纲、刘守钵、姜守住、付守业、张守存。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">太：刘太佑、刘太勤、张太<font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">太</font><font face="Times New Roman">□</font><font face="宋体">、李太言、王太</font><font face="Times New Roman">□</font><font face="宋体">、开太崇、薛太书、贺太宁、高太印、张太冲、</font><font face="Times New Roman">□□□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、刘太</font><font face="Times New Roman">□</font><font face="宋体">、昝</font><font face="Times New Roman">□□</font><font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">太书、昝太守、车太贞、王太学、张太鳌、贺太宁、鞠太谦、王太逊、徐太愚、郑太鸾、李太平、石太喜、杜太谦、徐</font><font face="Times New Roman">□</font><font face="宋体">平、张太</font><font face="Times New Roman">□</font><font face="宋体">、杜太让、</font><font face="Times New Roman">□</font><font face="宋体">太和、房太良、阴太仁、宋太津、汪太炫、王太成。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">玄：陈玄修、李玄<font face="Times New Roman">□</font><font face="宋体">、刘玄</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、任玄典、纪玄珠、王玄</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、张</font><font face="Times New Roman">□□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">玄</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">玄</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">玄</font><font face="Times New Roman">□</font><font face="宋体">、</font><font face="Times New Roman">□</font><font face="宋体">玄</font><font face="Times New Roman">□</font><font face="宋体">、李玄亭、张玄虚、韩玄</font><font face="Times New Roman">□</font><font face="宋体">、李玄青、</font><font face="Times New Roman">□</font><font face="宋体">玄</font><font face="Times New Roman">□</font><font face="宋体">、张玄</font><font face="Times New Roman">□</font><font face="宋体">、杨</font><font face="Times New Roman">□□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、</font><font face="Times New Roman">□□□</font><font face="宋体">、刘玄兆、</font><font face="Times New Roman">□□□</font><font face="宋体">、伊玄玄、李玄顺、</font><font face="Times New Roman">□</font><font face="宋体">玄奇、张玄吉、杜玄鸾、唐玄</font><font face="Times New Roman">□</font><font face="宋体">、杨玄意、孙玄教、李玄白、任玄</font><font face="Times New Roman">□</font><font face="宋体">、郭玄应、方玄宽。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">智：王智惠、李智教。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&hellip;&hellip;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">意：展意中。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">法：殷法华。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">明：谢明禄、李明顺。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">长：于长龄、郑长轩、朱长年。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">道：宋道昆、顾道荣、吴道矩、王道仑。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">贵：吴贵璋、董贵人、高贵琦、满贵祥、张贵琴。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">诚：俞诚水、邱诚河、韩诚江。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">正：刘正望、刘正印、李正生。</span><span>31</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">抛开政治斗争的因素，皇室及藩府的关注客观上推动了三阳观的发展。王三阳逝世以后，昝复明守丧岁余，苦志玄修，觉照真体，<font face="Times New Roman">&ldquo;</font><font face="宋体">由是，道行益高，流誉远迩。龙泉于公复谋于时庵陈公、南泉斐公，各捐金若干，增置殿阁，缭以石垣，益加胜概。既而事闻，德王殿下以为香火院，命典服松冈马公市庄宅一区，地三十亩，以为焚修道众衣粮之资。马公又导诸内相，各捐赀以助其不给，而此庵益恢廓永赖矣</font><font face="Times New Roman">&rdquo;</font><font face="宋体">。</font></span><span>32</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">除士绅捐金助给外，德王府还将其纳为香火院，这一系列举动无疑为三阳观从政治上和经济上都提供了持久而稳定的支持与保障。当然，随着政治力量的淡出，三阳观也不复之前的辉煌。在这一点上，三阳观与五峰山洞真观都经历了相同的历程。</span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

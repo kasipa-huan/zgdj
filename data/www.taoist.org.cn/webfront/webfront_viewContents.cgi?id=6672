@@ -1,0 +1,588 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260200000000000000&targetPage=Fdjxy2">
+						中国道教(1987—1997)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260223000000000000&perPageNum=15&targetPage=Fdjxy3">
+						1992年第3期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	中國道教協會第四屆理事會工作報告
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	一九九二年三月二日
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">傅元天</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">各位代表、各位領導、各位來賓<font face="Times New Roman">:</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;自<font face="Times New Roman">1986</font><font face="宋体">年</font><font face="Times New Roman">9</font><font face="宋体">月，我會在京舉行第四屆代表會議，至今已五年多了。在此期間，全國各族人民在黨和政府領導下，堅持&ldquo;一個中心、兩個基本點&rdquo;的基本路線，經濟建設持續、穩定、協調發展。國家政治穩定，社會安定團結，舉國上下正滿懷信心地為實現&ldquo;八五計畫&rdquo;和&ldquo;十年規劃&rdquo;，建設有中國特色的社會主義奮勇前進。</font><font face="Times New Roman">1990</font><font face="宋体">年</font><font face="Times New Roman">12</font><font face="宋体">月，國務院召開了全國宗教工作會議，會上李鵬總理對宗教工作作了重要的講話。</font><font face="Times New Roman">1991</font><font face="宋体">年</font><font face="Times New Roman">1</font><font face="宋体">月和</font><font face="Times New Roman">92</font><font face="宋体">年</font><font face="Times New Roman">1</font><font face="宋体">月</font><font face="Times New Roman">28</font><font face="宋体">日江澤民總書記兩次邀請全國五大宗教團體領導人去中南海作客，並作了重要講話。強調要保持宗教政策的穩定性和連續性，重申黨的宗教信仰自由政策不會改變。我們衷心感謝黨和政府對宗教界的關懷，堅信黨的宗教信仰自由政策是全面的、正確的、長期的。在這樣的大好形勢下，我們在京召開中國道教協會第五屆代表會議。盛世盛會，令人豪情滿懷，歡欣鼓舞。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;各位代表，現在我受第四屆理事會的委託，向大會作工作報告，請予審議。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;一、五年來的工作回顧</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;五年多來，我會遵循國家政策，在大好形勢下，工作有生氣、有特色，取得了可喜成績。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;第一，加強愛國主義和社會主義教育。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;加強愛國主義和社會主義教育，是我會《愛國愛教公約》所規定的基本內容。五年來，我們堅持《愛國愛教公約》，提高了廣大道教徒的愛國主義和社會主義思想覺悟。認真組織學習了中國共產黨十三屆四至八中全會和中央工作會議精神，學習了全國七屆人大、七屆政協檔。為了增強廣大道教徒的政策觀念、法制觀念，我會及各地道協先後舉辦了&ldquo;法律知識&rdquo;、&ldquo;反對資產階級自由化&rdquo;、&ldquo;關於社會主義若干問題&rdquo;等內容的學習班，加深了大家對黨的路線、方針、政策的認識。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;在<font face="Times New Roman">1989</font><font face="宋体">年春夏之交發生的動亂和反革命暴亂期間，我會及時召開會議，並迅速向各地道協和宮觀傳達了中央指示情神，組織道眾和工作人員學習&ldquo;四&middot;二六&rdquo;社論，要求廣大道教徒和全體工作人員端正立場，不隨波逐流，不聽信和傳播謠言，不參加非法遊行示威，堅持正常的工作、學習和生活制度。平息反革命暴亂後，我會於六月十五日召開在京理事、常務理事會議，傳達學習鄧小平同志六月九日重要講話，並向全國各地道協和宮觀發出了《堅決擁護黨中央、國務院、中央軍委平息反革命暴亂》的通知。黨的十三屆四中全會結束後，在京召開了四屆五次常務理事擴大會，認真學習四中全會公報和鄧小平、江澤民、李鵬等中央領導同志的重要講話，堅決擁護以江澤民總書記為核心的新的中央領導集體，並做出了《關於加強愛國主義、社會主義學習的決議》。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;1991<font face="宋体">年&ldquo;七&middot;一&rdquo;期間，我會舉行慶祝中國共產黨成立七十周年座談會，學習江澤民總書記《在慶祝中國共產黨建黨七十周年大會上的講話》。大家回顧中國革命的歷史，回顧在中國共產黨的領導下宗教政策貫徹落實的成果，暢談黨和政府改革開放政策帶來的巨大變化，從而增強了對黨的深厚感情，更加堅定在黨的領導下，走社會主義道路的決心。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;去年華東地區遭受特大洪澇災害，道教界發揚濟世利民的優良傳統，積極為國分優，踴躍捐助，充分體現了我們道教徒熱愛祖國，熱愛人民，熱愛社會主義的感情。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;第二，協助黨和政府貫徹宗教信仰自由政策，依法維護道教界合法權益。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;為了更好地協助黨和政府貫徹落實宗教信仰自由政策。我會於<font face="Times New Roman">1989</font><font face="宋体">年</font><font face="Times New Roman">7</font><font face="宋体">月增設了教務處，接待和處理各地道協組織、宮觀和信教群眾要求落實宗教政策問題的來訪來信，及時向政府宗教部門作了反映。在各級黨和政府領導的重視下，西安八仙宮、江西龍虎山、湖南南嶽大廟、廣東南海縣雲泉仙館等宮觀的落實政策問題得到解決。我會還向政府提交了關於繼續落實道教宮觀場所的報告。多次派人前往湖北、湖南、陝西、四川、福建、廣東、雲南、浙江等地調查瞭解情況，協助地方政府處理一些宮觀的遺留問題。此外，根據政策，各地道協收回一批宮觀產權。現經政府批准開放的宮觀和成立的地方道協組織有了明顯增加。據不完全統訊全國現有開放宮觀約四百餘處，成立各級地方道協組織</font><font face="Times New Roman">80</font><font face="宋体">多個，住觀道士已達五千餘人。這些道協組織的成立和宮觀的開放，為團結廣大信教群眾開展正常宗教活動創造了條件。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;第三，加強宮觀管理，努力辦好教務。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;第四屆代表會議以來，我會先後派人到各地參加地方道協、宮觀的會議和有關活動，支持並協助各地開展工作，密切了與地方道協、宮觀的聯繫。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;在加強宮觀管理，辦好教務方面，我們著重抓了以下幾件事<font face="Times New Roman">:</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;1.<font face="宋体">協助和支持北京白雲觀開展教務活動。白雲觀選舉了新的管理組織，恢復了叢林制，建立和健全了各項規章制度，實行民主管理，調動了道友的積極性。為了適應香客和遊人的要求，由每週兩天的開放改為每週六天。</font><font face="Times New Roman">1987</font><font face="宋体">年開始與西城文化文物局合作舉辦了六屆民俗迎春會，豐富了首都人民的文化生活，多次受到北京市政府的稱讚。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;2,1989<font face="宋体">年，我會和全國政協宗教委員會聯合舉辦了&ldquo;陳攖寧先生仙逝二十周年紀念會&rdquo;。緬懷已故老會長陳攖寧先生熱愛中國共產黨，熱愛社會主義祖國，畢生致力於中國道教事業的業績。激勵後人繼承和發揚陳攖寧先生熱愛黨，熱愛社會主義，忠貞不渝的愛國精神和高貴品質。在京召開了中國道協成立三十周年紀念大會，回顧過去，展望未來，激發廣大道教徒的愛國熱情。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;3.<font face="宋体">制定了《關於道教全真派傳戒規定》。在北京白雲觀舉行了已中斷六十年的全真派傳戒盛典。受戒弟子來自全國四十多個宮觀，</font><font face="Times New Roman">129</font><font face="宋体">名道士</font><font face="Times New Roman">(</font><font face="宋体">其中受方便戒者</font><font face="Times New Roman">54</font><font face="宋体">名</font><font face="Times New Roman">)</font><font face="宋体">經過二十天的戒壇生活，學到了較深的律壇規範知識，提高了素質。</font><font face="Times New Roman">1991</font><font face="宋体">年</font><font face="Times New Roman">10</font><font face="宋体">月，我會還協助江西龍虎山恢復建國以來首次對臺灣和海外正一道士授箓活動。臺灣地區和新加坡共有</font><font face="Times New Roman">36</font><font face="宋体">位道侶臨壇受箓。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">4</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">.<font face="宋体">根據四屆二次理事會關於對散居正一道士加強管理的精神，我會先後派人到福建、上海、湖南、浙江等地進行調查研究。</font><font face="Times New Roman">1991</font><font face="宋体">年</font><font face="Times New Roman">6</font><font face="宋体">月在杭州召開了有關省市道協組織和宮觀參加的&ldquo;關於散居正一道士管理&rdquo;座談會。會上彙報了情況，研究了問題，提出了&ldquo;關於加強散居正一道士的管理意見&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">草稿</font><font face="Times New Roman">)</font><font face="宋体">。目前有些地區對散居正一派道士進行了管理，取得了一些經驗。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;5.<font face="宋体">為了搞好宮觀管理，中國道協起草了《道教宮觀管理試行辦法》，經四屆三次常務理事會通過後下發試行。大家反映，《辦法》體現了黨的宗教信仰自由政策，符合當前宮觀實際，促進了宮觀管理，總的來看是可行的，取得了較好的效果。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;第四，開展道教文化研究，發揚道教優良傳統。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道教文化豐富多彩，源遠流長，為祖國傳統文化中之瑰寶。我會重視開展對道教文化的研究工作。近五年來，從實際出發，組織研究工作已取得可喜成果。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;1987<font face="宋体">年將內部不定期的原《道協會刊》改版為《中國道教》季刊，在國內外公開發行。至今已出版</font><font face="Times New Roman">21</font><font face="宋体">期。計發稿</font><font face="Times New Roman">660</font><font face="宋体">餘篇，</font><font face="Times New Roman">180</font><font face="宋体">餘萬字。在宣傳黨和政府的宗教信仰自由政策、報導道教界新人新事、整理和研究道教文化、交流會務和宮觀管理工作經驗等方面起到了一定作用，受到國內外道教徒和社會學術界人士的好評。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;這幾年還編著、重刊出版了有關道教論著、道教史資料、重要經籍等道書<font face="Times New Roman">32</font><font face="宋体">種，約</font><font face="Times New Roman">300</font><font face="宋体">多萬字。這些書籍的出版，不僅廣泛傳播了道教文化，也擴大了中國道教協會在國內外的影響。</font><font face="Times New Roman">1989</font><font face="宋体">年我會召開&ldquo;道教文化研討會&rdquo;，成立了&ldquo;道教文化研究所&rdquo;，加深了道教界學者與社會上道教文化研究者的聯繫。</font><font face="Times New Roman">l99</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">0</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">年編著了《道教文化叢書》第一輯共十冊<font face="Times New Roman">(</font><font face="宋体">近</font><font face="Times New Roman">200</font><font face="宋体">萬字</font><font face="Times New Roman">)</font><font face="宋体">，即將出版。在各名山宮觀支持下，我會協助中國新聞電影製片廠拍攝了《中國道教紀錄片》，譯成多種語言，由駐外使館在國際上放映，增強了世界各國人民對道教的瞭解。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;此外，各地道協和宮觀在推動道教文化研究方面也做出了積極努力。<font face="Times New Roman">1990</font><font face="宋体">年在北京召開了道教音樂研討會，有北京白雲觀、上海道協、蘇州道協、武當山道協、千山無量觀等</font><font face="Times New Roman">6</font><font face="宋体">個道教行樂團參加了會議，會上觀摩演出，互相學習，促進了道教音樂的整理和研究。北京白雲觀道樂團還在北京音樂廳作了道教音樂彙報演出。上海道協編輯出版了《上海道教》季刊。陝西省道協出版了《三秦道教》，武當山道協編印了《武當山畫冊》，並與有關部門聯合舉辦道家武術研討會。四川、甘肅、湖北等地道協和宮觀還積極配合有關部門編寫地方道教志、名山志，為促進道教文化研究作出了貢獻。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;第五，開辦道教學校，培養道教人才。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;四屆代表會議以來，我會加強了對道教知識專修班的領導，配備了專職人員，編印了《道教簡史》、《神名》、《道派》、《道教徒修養》、《儀範》、《教理教義》等講義。舉辦了四期專修班，有<font face="Times New Roman">186</font><font face="宋体">名青年道教徒參加了學習</font><font face="Times New Roman">(</font><font face="宋体">其中包括一期</font><font face="Times New Roman">57</font><font face="宋体">名坤道</font><font face="Times New Roman">)</font><font face="宋体">。為了培養高層次道教知識人才，在辦專修班的基礎上，</font><font face="Times New Roman">1987</font><font face="宋体">年又開辦了進修班。經過兩年的學習，學員畢業後已充實到道協研究、教學和教務工作中，發揮了作用。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;在黨和政府的關懷下，我們於<font face="Times New Roman">1990</font><font face="宋体">年</font><font face="Times New Roman">5</font><font face="宋体">月正式成立了中國道教史上第一所高等學府&mdash;&mdash;中國道教學院。招收了第一批來自全國</font><font face="Times New Roman">16</font><font face="宋体">個省、市</font><font face="Times New Roman">32</font><font face="宋体">個宮觀的</font><font face="Times New Roman">48</font><font face="宋体">名學員。中國道教學院的成立是道教界的一大喜事，為更好地培養道教高層次人才創造了條件。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;各地道協和宮觀，對培養道教人才工作也很重視。上海市道協開辦道教學校，經過三年多學習，學員完成了普通高中的文化教學內容，學習了道教儀範、經典釋義、唱贊及道教音樂等專業課。四川、陝西、蘇州、茅山、武漢、武當山等道協也都舉辦過地方性&ldquo;道教知識學習班&rdquo;或培訓班，對中青年道教徒進行道教知識、經懺或宮觀管理培訓，提高了道教徒的素質，培養了一批具有初步專業水準的道教人才。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;第六，積極開展國際友好往來，加強對港、澳、臺道教界的聯誼工作。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;我會積極開展同港、澳、臺道教界及海外道教界的友好往來。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;1987<font face="宋体">年，北京白雲觀首次接受香港紫闕玄觀的邀請赴港進行參訪。之後，中國道教協會、《中國道教》雜誌社及江蘇茅山、蘇州玄妙觀、廣州三元宮、上海道協、杭州道協等先後應邀組團去香港參訪。</font><font face="Times New Roman">1988</font><font face="宋体">年</font><font face="Times New Roman">6</font><font face="宋体">月，中國道協應加拿大多倫多蓬萊閣道觀邀請，第一次派出有較深道教造詣的老道長遠渡重洋前去講學，受到加拿大同道們熱情接待。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;外事接待工作顯著增多。五年來，據不完全統計，接待來自五大洲的三十多個國家和地區的團組<font face="Times New Roman">140</font><font face="宋体">餘個，達二萬九千餘人。有我會邀請來訪的香港道教聯合會參訪團、香港圓玄學院參訪團、香港紫闕玄觀參訪團、香港信善育宮參訪團、香港竹林仙館參訪團、香港蓬瀛仙館參訪團、新加坡道教總會參訪團及美國中孚道觀凱蒂博士、法國成道協會成之凡女士、美國夏威夷太玄道觀張怡香女士、美國加州紫根閣閣長謝滿根、原臺灣天師府秘書長龔群等。還接待了來自世界各國的政府首腦、知名人士。如西德總理科爾、奧地利前總統、瑞典王國武裝力量總司令古斯諾夫松上將、香港知名人士安子介等。隨著對外開放和&ldquo;一國兩制&rdquo;政策的深入，臺灣道友的來訪也日益增多。臺灣道教會理事長高忠信、副秘書長張怪先生先後組團回大陸朝聖，各道教團體和廟觀也紛紛組團來訪。江西龍虎山天師府作為正一祖庭，這兩年來接待前來尋根謁祖的臺灣道教參訪團達數十個。到武當山朝謁真武祖師的海外道教信眾已逾數千人。北京白雲觀還於</font><font face="Times New Roman">199</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">0</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">年<font face="Times New Roman">12</font><font face="宋体">月與臺灣道友在北京舉行了海峽兩岸道教科儀交流。接待了日本道教信眾</font><font face="Times New Roman">310</font><font face="宋体">多人的朝拜活動。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;通過對外交往，廣交了朋友，加深了相互瞭解，增進了友誼，宣傳了我國改革開放和宗教信仰自由政策。為四化建設，祖國統一，維護世界和平作出了努力。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;第七，積極參加社會主義建設事業，努力實現宮觀自養。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;近年來，各地宮觀根據自身條件和特點，發揚辛勤勞作的優良傳統，積極舉辦各種自養事業。四川青城山在辦好道家酒廠、茶廠的同時，又在天師洞、上清宮開辦了道家旅社、道家餐館等。青羊宮、武當山、抱樸道院、茅山、蘇州玄妙觀、武昌長春觀、廣州三元宮、羅浮山沖虛觀等許多宮觀自辦旅社和食堂、服務部及醫療所等，既方便了香客遊人，又為宮觀自養開闢了門路。樓觀臺主要從事農業生產，糧食自給有餘，並把一些餘糧無償支援陝西省道協辦道教事業。現在全國一些著名宮觀已基本實現自養。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;不少宮觀還從實際出發，積極從事植樹造林、修橋補路、支持地方辦學和殘疾人事業等各種社會公益事業。青海省西寧市土樓觀、安徽鳳臺縣禹王宮，堅持植樹造林，成績突出，多次得到省、市政府的表彰。甘肅天水花石岩道觀長期堅持封山育林，把一個荒山禿嶺變成花果山，得到社會的讚揚。泰山碧霞祠對教育事業非常關心，多次資助泰安市辦學。陝西佳縣白雲觀道觀捐資五萬元資助地方修橋補路、修建學校。不少宮觀和個人，受到當地政府表彰，被授予先進集體和先進個人稱號。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;各位代表，以上所報告的是我會五年多來的主要工作情況，此外還有大量的、繁重的日常行政事務性工作，在我會同仁的共同努力和地方道協、有關部門以及全國道教徒的支持幫助下，圓滿完成。當然，我們工作中還存在不少缺點，比如與地方道協和宮觀聯繫不夠主動，調查研究工作還很不深入等等。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;我們回顧過去，總結成績與經驗，展望未來，寄予更美好的祝願。為此，我們對今後的工作，也提出一些建議，供下屆理事會參考。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;二、今後工作意見</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">一</font><font face="Times New Roman">)</font><font face="宋体">堅持愛國主義、社會主義教育。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;今後，我會和各地道協、宮觀，應當繼續把愛國主義和社會主義教育作為一項首要任務。堅持已實行的學習制度，繼續舉辦形式多樣、內容豐富的愛國主義和社會主義教育的學習班。加強時事政治學習，進行國情教育和近代史教育。進一步修訂道教界《愛國愛教公約》的條款，並付諸於實際行動。當前要繼續組織學習好江澤民總書記&ldquo;七一&rdquo;重要講話，認清形勢，堅定信念，在世界風雲變幻中，堅定地跟著黨走社會主義道路，自覺抵制資產階級自由化思潮。為國家的統一、民族的團結、社會的安定和建設有中國特色的社會主義貢獻力量。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;在今後的一兩年內，建議各地道教組織和宮觀認真總結經驗，表彰一批愛國愛教的先進集體和個人，把愛國主義和社會主義教育引入新階段。在各地總結經驗的基礎上，我會擬召開一次道教界全國性表彰先進集體和先進個人大會。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">二</font><font face="Times New Roman">)</font><font face="宋体">認真貫徹執行黨的宗教信仰白山政策。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;繼續協助黨和政府貫徹落實宗教政策，仍然是我會工作的主要任務。我們應該看到，黨的十一屆三中全會以來，在黨和政府的領導下，落實道教教職人員、宮觀廟產等各項政策方面取得了顯著成績。道教界的基本權利得到保障。正常的宗教活動受到法律保護。雖然目前還存在一些問題，但我們完全相信，只要依靠黨和政府的領導，問題一定會得到逐步解決。今後要密切與地方道協、宮觀的聯繫，在深入調查研究的基礎上，充分發揮道協的橋樑作用，及時向黨和政府反映道教界的合理要求，維護道教界的合法權益。協助政府宗教工作部門繼續處理好落實政策中的遺留問題。地方道協組織也應與我會保持經常聯繫，反映情況，支持我會的工作。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;同時，我們廣大道教徒作為有宗教信仰的公民，更應自覺地遵守黨的宗教信仰自由政策，在國家《憲法》、法律的範圍內進行正常的宗教活動。道教傳統的齋醮儀典應在宗教活動場所內舉行，積極開展有益於個人修持和道教事業健康發展的宗教活動，劃清道教與封建迷信的界限。一切宗教活動以不妨礙社會秩序、生產秩序和生活秩序為原則，維護祖國社會主義大家庭的安定團結。正常的宗教活動和個人日常修持，會受到法律的保護。禁止在宗教活動場所抽籤、卜卦、看相算命、看風水、扶乩等封建迷信活動，制止道士到社會上化緣<font face="Times New Roman">;</font><font face="宋体">勸阻少數人到處雲遊掛單，反對濫修廟、亂塑像。對利用道教進行非法違法活動，或以修廟為名騙取錢財的不法分子要堅決抵制，並建議政府依法懲處，維護道教的聲譽。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">三</font><font face="Times New Roman">)</font><font face="宋体">加強宮觀管理，辦好道教事務。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;宮觀是體現宗教面貌，弘揚教法的重要場所。管理好宮觀是道教徒一項重要任務。宮觀管理工作，包括道眾的管理和教育、宗教活動、財務人事、宮觀維修、文物保護、消防治安、內外接待等諸多方而。按照我會制定的《道教宮觀管理辦法》，首先要建立好民主管理組織，選好領導班子。管理組織的成員應經道眾民主選舉產生。應由擁護中國共產黨領導，擁護社會主義制度，以廟為家，一心為道，正直公道，有一定工作能力和道教知識修養的道長擔任。管理組織的成員要以身作則，起模範作用，善於聯繫和團結廣大道教徒，維護道教徒的合法權益。要大膽使用中青年道教徒，用其所長，避其所短，愛護和幫助青年道友，對他們一要傳，二要幫，三要帶。青年道友也要尊重老道長，虛心向他們學習。反對拉幫結派，警惕個別人以廟謀私，破壞團結，敗壞宮觀的聲譽。其次，要建立健全各項規章制度，狠抓落實。尤其是財務制度要有專人負責，健全帳目和領導審批手續。開支收入要接受主管部門的檢查，接受道眾的監督。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;對散居正一道士的管理，應納入各級道教組織議事日程。散居正一道的問題，我們已經做了大量的調查研究工作，起草了《關於散居正一道士管理試行辦法》，擬提交這次大會討論通過後試行。散居正一道士的管理應在政府宗教部門的幫助下，各級道教組織對他們的宗教活動進行合理安排和管理。組織他們學習有關法律、政策，學習教義規戒，教育他們做一個遵紀守法的好公民，虔誠奉道的好道徒。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;全真派傳戒活動，應根據我會制定的《關於全真道傳戒的規定》進行。少數有條件的全真派名山叢林，經過報批後，可有計畫、有準備地舉辦傳戒活動。傳戒活動要從嚴要求，無論時間規模及費用等方面都要從嚴掌握，厲行節約。堅決杜絕亂傳戒、濫傳戒，給社會帶來不良影響。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">四</font><font face="Times New Roman">)</font><font face="宋体">開展道教文化研究，發揚道教優良傳統。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道教歷史悠久，在漫長的歷史中積累了大量的經籍與文獻史料，是祖國傳統文化的重要組成部分，應當下功夫進行整理和研究。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道協的研究工作，應本著尊重道教的基本教義，尊重歷史的態度，發揚道教文化的優良傳統，積極同國際和國內研究道教文化的團體和個人進行聯繫和交流。本會研究工作重點<font face="Times New Roman">:</font><font face="宋体">仍應放在教理教義、道教歷史、宗派名人、規戒科儀等方面，要有組織有計畫地進行這一工作。&ldquo;道教文化研究所&rdquo;應按計畫與出版部門協商，分期分批出版《道教文化叢書》。充實研究力量，著手編寫一部較為完備的《中華道教大辭典》。努力辦好《中國道教》刊物。堅持&ldquo;愛國愛教&rdquo;方針，宣傳黨的宗教信仰自由政策，發揚道教優良傳統。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">五</font><font face="Times New Roman">)</font><font face="宋体">培養道教人才，繼承道教事業。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;繼承和發揚道教優良傳統，使道教事業健康發展，關鍵在於培養出更多道教人才，提高道教徒的素質。隨著道教事業發展，道教界現有的人才素質難已適應形勢發展的需要。人才短缺，後繼乏人，仍然是道教界而臨的嚴峻問題，尤其是缺少研究、教育和管理人才。實際上，道教的發展已受到人才的制約。今後，如何培養道教後繼人、造就道教各方面的人才，是擺在我們面前十分緊迫的任務。對此，我們要有充分的認識，把力量轉移到這方面來，同心協力、採取多種形式培育人才。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;1990<font face="宋体">年我們開辦的&ldquo;中國道教學院&rdquo;，其目的和任務是</font><font face="Times New Roman">:</font><font face="宋体">培養愛國愛教的，具有較高道教知識和修養，並有志為道教事業服務的青年道教徒，繼承和發揚道教優良傳統。根據中國遂教學院《章程》和辦學宗旨，既著力於提高學員的道教學識和文化水準，又要培養學員的宗教感情和良好的進德情操。按學院學制在辦專修班的礎上，繼續開辦好&ldquo;進修班&rdquo;，培養研究、教學等方面的人才，並要充實學院教研室力量，健全學院各項規章制度。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;培養人才的途徑是多種多樣的，除了中國道教學院和各地興辦的進教學校、進修班、專修班、培訓班外，還可以把青年道士放在重要崗位上鍛煉，以老帶新等方法進行培養。在培養和教育青年一代道教徒的工作中，我們應該按道教的傳統和國家法紀從嚴要求，又要有前輩&ldquo;玄玄大量之心&rdquo;，有教無類。發揚道教&ldquo;普度&rdquo;與&ldquo;精選&rdquo;的育人精神。&ldquo;普度&rdquo;即一視同仁，以德化人，導人向善。&ldquo;精選&rdquo;即沙裏淘金，選拔載道之器，因材施教，傳揚道業。總之，要從實際出發，採取切實措施，儘快改變道教後繼乏人的現狀，以適應進教事業的發展。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">六</font><font face="Times New Roman">)</font><font face="宋体">努力實現自養，為社會主義建設做貢獻。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;在過去的歲月裏，一大批宮觀在探索勞動自養的道路上做出了可喜的成績。要總結經驗，繼續發揚道教修持與勞作並重的優良傳統，不斷探索自養的新路子，爭取更上一層樓。宮觀的自養要因地制宜，形式多樣。地處風景名勝和城市的宮觀，可以積極做好服務事業，地處山村的宮觀可以植樹造林、種植果樹、藥材，開展農業生產。通過誠實的勞動，增加宮觀的經濟收入，改善道眾的生活。我們要在自己的崗位上，維修和保護好宮觀建築、文化古跡，美化環境，努力為廣大香客遊人服務，積極開展各種社會公益事業，發揚道教濟世利人的優良傳統，廣行善舉，修橋補路、施藥救人，支持地方辦教育和福利事業。這些都是對社會主義建設事業有益的工作，也是道教界為社會主義建設事業服務的具體表現，我們應該發揚光大。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">七</font><font face="Times New Roman">)</font><font face="宋体">積極開展友好往來，為祖國統一大業服務。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道教作為中華民族土生上長的宗教，在臺灣、香港、澳門以及旅居海外的華人中都有許多道教信奉者。近年來，他們組團來大陸參訪和朝拜祖庭的次數和人數明顯增多。我們應在互不隸屬、互不干涉、互相尊重的原則下，加強聯繫和交流，促進相互間的瞭解，為實現祖國統一大業共同努力。同時，要重視國際間友好往來和文化交流，加強與海外華裔道教信眾的聯繫，積極開展道教對外民間交流。讓他們多瞭解祖國，多瞭解祖國道教，宣傳黨的宗教信仰自由政策，積極開展友好往來和聯誼活動。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;但是，我們還要清醒地認識到<font face="Times New Roman">:</font><font face="宋体">海外一些敵對勢力，正通過務種管道和方式，對我國進行滲透，企圖顛覆中國共產黨的領導和社會主義制度。一些台獨分子還明目張膽地進行分裂祖國的活動，我們要提高警惕。在外事接待中，應遵守外事紀律和要求，內外有別，不卑不亢，有禮有節，做好外事接待工作。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;各位代表、各位道長<font face="Times New Roman">:</font><font face="宋体">前程萬里，任重道遠。道教事業進入了歷史上最好時期之一。今天，國家政通人和，氣象萬千，社會穩定，經濟繁榮。黨的宗教政策深得人心。願道門同仁順應時代，體太上之大德，精勤共勉，為將進教事業辦得更好而共同努力。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;謝謝<font face="Times New Roman">!</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

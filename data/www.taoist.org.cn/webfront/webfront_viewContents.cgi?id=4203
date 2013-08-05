@@ -1,0 +1,618 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260100000000000000&targetPage=Fdjxy2">
+						道协会刊(1962—1986)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260112000000000000&targetPage=Fdjxy2">
+						第12期（1983年9月）
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	葛洪神仙思想探源
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<div style="LINE-HEIGHT: 150%" align="center"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">徐 西 华</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">一、老庄派的养生论 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　养生术的起源很早，行气导引、房中术和辟谷饵药是古代养生术的三大类。同养生术有关的是养生论，养生论的起源也很早，直可追溯到庄子的时代，战国秦汉之际是它的第一个辉煌时期。这一时期的养生论，我们在《庄子》书中可以看到它的大概轮廓，其特点是强调精神意念的作用。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　古代的养生论总是围绕着形神问题展开的，在佛教思想大量输入以前，形神问题也就是养生问题。在养生论之外，别无独立的形神问題的讨论。甚至可以说，古代养生论的发达，是产生范缜《神灭论》的前提条件。陈寅恪在《陶渊明之思想与清谈之关系》一文中说： &ldquo;今观僧佑《弘明集》第捌、第玖两卷所载梁室君臣往复辨难之言说，足征子真守护家传信仰之笃至矣。&rdquo;又谓《神灭论》与陶渊明之《神释》诗旨趣相合：&ldquo;陶、范俱天师道世家，其思想冥会如此。&rdquo;诚然，研究范缜的形神观，对于范氏世奉天师道这一点是不可忽略的；对于《神灭论》与古代养生论的关系，也是不可忽略的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　古代的养生家强调形神的不可分离，认为 &ldquo;形神离则死&rdquo;，养生的目的就是希望达到永远的形神不离。为达到这一目的，依照对形神关系的不同认识，或重养神，或重养形。《庄子刻意》就已经提出&ldquo;养形之人&rdquo;同&ldquo;养神之道&rdquo;的对立。两派兴衰相替，反映了我们祖先在人体科学方面认识发展的曲折过程。《庄子刻意》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;吹呴呼吸，吐故纳新，熊经鸟申，为寿而已矣。此道引之士，养形之人，彭祖寿考者之所为也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　这里提到的是属于行气导引一类的养生术。这一派的理论，见诸《庄子养生主》的，有这样的几句话： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;缘督以为经，可以保身，可以全生，可以养亲，可以尽年。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;督&rdquo;即人体督脉。王船山《庄子解》注&ldquo;缘督以为经&rdquo;说：&ldquo;奇经八脉，以任、督主呼吸之息。背脊贯顶，为督为阳。&rdquo;由于背脊在人体中央，故督字有中义，注家乃训督为中，未免求之过深了。此处应以船山先生的解释为是，&ldquo;缘督以为经&rdquo;讲的就是呼吸运动。《庄子养生主》又以庖丁解牛为喻，提出&ldquo;依乎天理&rdquo;，&ldquo;因其固然&rdquo;的养生要领。我们知道，庄子本人的态度是齐生死的，严格地说，只要主张养生，就不是齐生死的态度了。《养生主》一篇在《庄子内篇》中同以《齐物论》为代表的其他六篇不类，寓意多所触牾。除《养生主》外，《庄子内篇》都讲任其自然而不主张养生。《养生主》提出来的&ldquo;因其固然&rdquo;是说不违背生理的自然，但究竟不是齐生死的态度。且形制局促短小、非若他篇之浩渺无涯，似乎本不应当收入内篇中。它被收入《内篇》的原因，可能是由于产生年代较《庄子》外、杂篇的文章早一些的缘故。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《庄子外篇》收集了战国秦汉之际老庄学派的作品，其中涉及养生论的，有《刻意》、《在宥》、《达生》等篇。尤其是《达生》篇集中讨论了养生问题。若将这几篇的内容同《养生主》作一对照，就会发现它们之间的差别。《养生主》属于早期养形派的理论，而《达生》等篇正是通过批判养形派以建立其养神之说并贯串着老庄无为自然的精神。这就说明《养生主》产生在前，《达生》等篇产生在后；养形派出现在前，养神派出现在后。《达生》篇说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;养形必先之物，物有余而形不养者有之矣。有生必先无离形，形不离而生亡者有之矣。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;世之人以为养形足以存生，而养形果不足以存生，则世奚足为哉!&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;夫欲免为形者，莫如弃世，&hellip;&hellip;事奚足弃而生奚足遗?弃事则形不劳，遗生则精不亏。夫形全精复，与天为一。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　王船山注云： &ldquo;弃世谓不资于物以养。&rdquo;大意是说，养形离不开物，包括生活所需的各种物品。为取得生活所需的各种物品，必须劳其形体，由是造成了精神的亏损，而这是违背养生之旨的。以物养形即无益于生，则不如任其自然。《庄子刻意》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;纯粹而不杂，静一而不变，淡而无为，动而以天行，此养神之道也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　站在无为自然的立场，用养神之道来同养形之人相对立。养神就是做到精神的高度集中，王船山在《逍遥游》 &ldquo;其神凝&rdquo;三宇下注目：&ldquo;一部《南华》大旨&rdquo;。《庄子达生》以斗鸡为喻来说明凝神的作用： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;纪省子为王养斗鸡，十日而问：鸡巳乎?曰：未也，方虚憍而侍气。十日又问，曰未也、犹应向景。十日又问，曰：未也，犹疾视而盛气。十日又问，曰：几矣，鸡虽有鸣者，已无变矣，望之似木鸡矣，其德全矣，异鸡无敢应者，反走矣。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　这虽不是庄子齐生死的态度，却合乎老子无为而无不为的宗旨。那么，怎样才能达到凝神的境界呢 ?《达生》篇说：&ldquo;用志不分，乃凝于神&rdquo;。志就是意念，集中意念，就能达到凝神的境界。但要做到这一点，必须经过严格的训练。《达生》篇又设佝偻者承蜩之喻： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;仲尼适楚，出于林中，见佝偻者承蜩，犹掇之也。仲尼曰：子巧乎?有道耶?曰：我有道也。五六月累凡二而不坠，则失者锱铢，累三而不坠，则失者十一；累五而不坠，犹掇之也。吾处身也，若厥株拘，吾执臂也，若槁木之枝；虽天地之大，万物之多，而唯蜩翼之知。吾不反不侧，不以万物易蜩之翼，何物而不得!孔子顾谓弟子曰：用志不分，乃凝于神，其佝偻丈人之谓乎!&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　老庄派以直观的方式对精神即意念的作用给以充分的肯定。但由于它未经科学证明的神秘性，常常引起人们的误解和附会，或且视为荒唐之言，无端崖之辞，而不去认真研究它。其实，这一派的理论，是在当时养生术的实践的基础上，提炼出来的。《庄子》书中的人物，如象《齐物论》中 &ldquo;隐几而卧，仰天而嘘，嗒焉似丧其偶&rdquo;的南郭子綦，《应帝王》中&ldquo;未始出吾宗&rdquo;的壶子，可能都是一些养生术的实践者。值得注意的是《人间世》的心齐(斋)&rdquo;之说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;若一志!无听之以耳，而听之以心；无听之以心，而听之以气。听止于耳，心止于符。气也者，虚而待物者也。唯道集虚、虚者心斋也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　虚是气的特殊性格，也是心斋的第一要谛。这儿的 &ldquo;气&rdquo;，与&ldquo;吹呴呼吸，吐故纳新&rdquo;的普通气体或空气不同，而是指人的主观意念活动时传导信息的一种载体。故《达生》篇形容斗鸡云：&ldquo;方虚憍而恃气&rdquo;，&ldquo;犹疾视而盛气&rdquo;，又梓庆为據，不敢耗气，这儿的&ldquo;气&rdquo;都是指精神现象。&ldquo;气&rdquo;这个字自古以来就有两种用法，即用来指普通的气体，也用来指人的精神或意念作用。为了同普通的气体有所区别，稷下黄老学派称后者为&ldquo;精气&rdquo;。近年的气功研究表明，意念活动时有收、发信息的功能，而传导信息离不开一种载体，这载体就是稷下黃老学派说的&ldquo;精气&rdquo;。稷下黄老学派所强调的虚、静、一，是指人体进入气功状态时的条件，与《庄子》书中的所谓&ldquo;心斋&rdquo;是一个意思，不是一般的谈认识论问题。在养生论方面，稷下黄老学派重视精神的作用，与老庄派一致，而与后期黄老学派即西汉道家有所不同。关于这一点，《庄子人间世》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;闻有以翼飞者矣，未闻以无翼飞者也；闻以有知知者矣，未闻以无知知者也。瞻彼阕者，虚室生白，吉祥止止。夫且不止，是之谓坐驰。夫徇耳目内通，而外于心知，鬼神将来舍。而况于人乎?&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;鬼神将来合&rdquo;云云，也就是稷下黄老学派的&ldquo;精气入合&rdquo;的意思。王船山注&ldquo;坐驰&rdquo;二字曰：&ldquo;端坐而神游于六虚。&rdquo;这里区别了两种知识，一种是有知之知，还有一种是无知之知。前者是通过正常认识途径获得的普通知识，后者是通过&ldquo;虚室生白&rdquo;、&ldquo;坐驰&rdquo;、&ldquo;耳目内通&rdquo;等方法直接获得的关于外部世界的信息。关于后者，我们似乎不应当简单斥之为神秘主义。显然，庄子是强调后一种知识的。假如要得到这后一种知识，就必须经过严格的训练，并且不是每个人都能成功的。事实上庄子认为只有圣人或神人才能做到这一点，多数人是做不到的。《庄子外篇达生》则以梓庆为據之喻来说明心斋的过程，可以看作是对内篇《人间世》的诠释： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;臣将为據，未尝敢以耗气也，必斋以静气：斋三日而不敢怀庆赏爵禄，斋五日不敢怀非誉巧拙，斋七日辄然忘吾有四肢形体也。&hellip;&hellip;&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　三日、五日、七日是心斋的三个阶段。内篇《大宗师》： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;&hellip;&hellip;三日，而后能外天下。已外天下矣，吾又守之，七日而后能外物。已外物矣，吾又守之，九日，而后能外生。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;颜回曰：回益矣。仲尼曰：何谓也!曰：回忘仁义矣。曰：可以，犹未也。它日复见，曰：回益矣。曰何谓也?曰：回忘礼乐矣。曰：可以，犹未也，它日复见，日&hellip;&hellip;回坐忘矣。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　说的也是这样三个阶段。其实，心斋、坐忘、凝神是一样的意思，都是说要把意念集中起来，而集中意念要经过三个步骤，最后才能达到 &ldquo;坠肢体，黜聪明。离形去知，同于大通&rdquo;的坐忘境界。《庄子在宥》说：&ldquo;目无所见，耳无所闻，必无所知，汝神将守形，形乃长生。&rdquo;用&ldquo;无视无听&rdquo;的办法以达到精神的高度内敛，也就是凝神的境界，幻想由此达到形的长生。理由是：倘若做到精神内敛而不耗散，那精神就不会离开形体而去，即所谓&ldquo;神将守形&rdquo;。守形是养神的目的，人的死亡被认为是精神离开形体的结果。这里承认了精神离开形体的可能性，可以引出人死精神不灭的观点，与后来佛教神识不灭的说法相通。可是终极的目的并不一样：佛教强调的是生死轮回和彼岸世界，而古代养生家强调的是形神相亲和延长生命、或者说强调精神重要性的目的是在形的长生而不是在精神的永存。虽然，这种形神二无论可为佛教灵魂不灭的思想提供一片滋生的土壤。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">二、黄老派的养生论 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　西汉的黄老学派，不仅在政治论上与老庄不同，在自然观上也很不一样。老庄派的养生论，是从无为自然的立场出发的。在人与自然的关系问题上，黄老学派提出了一种新的自然观， 即有为自然说。在养生论方面，主张通过养形的途径以达到不老长生。在形与神之间，更多地重视形对神的决定作用。随着医学的进步，汉初养生术颇为活跃，近年长沙汉墓出土的《导引图》足以说明这一点。《导引图》已是颇为复杂的一套&ldquo;动功&rdquo;了，当是《庄子》书中记载的&ldquo;吹呴呼吸，吐故纳新&rdquo;这一派在汉代的发展。而这一派的理论，由东汉的王充作了总结。以前老庄派强调的是&ldquo;神&rdquo;，现在黄老派充分注意到形。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　王充继承和发展了西汉黄老学派的有为自然说，提出了一种 &ldquo;则天&rdquo;思想。这种则天思想包含两层意思：一是天道自然无为，二是&ldquo;气自为之&rdquo;。王充的出发点是反对天人感应的神学目的论，在人与自然的关系问题上，目的论是有为而不是无为。王充讲天道自然无为是针对目的论的，他在《论衡自然篇》中解释说：&ldquo;天动不欲以生物而物自生，此则自然也；施气不欲以为物而物自为，此则无为也。&rdquo;从而，自然无为的义蕴实际上是指物的自生和自为。他把这个观点概括为&ldquo;气自为之&rdquo;。《论衡自然篇》又说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;夫天无为，故不言；灾变时至，气自为之。&hellip;&hellip;殆自然也&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　既然天地无为的内容是气的自为，这就从无为论走到了有为论。这种情形，他称之为： &ldquo;外若有为，内实自然。&rdquo;《论衡自然篇》又说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;至德纯渥之人，禀天气多，故能则天，自然无为。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;尧则天而行。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;虽然自然，亦须有为辅助。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　虽说天道是自然无为的，可是要则天而行，就不能没有人为了，就不能没有辅助自然的人为。这种有为自然的则天思想，也体现在王充的养生论中。与《庄子》书中养神派的宗旨不同，王充是主张养形的，是养形派。从《论衡道虚篇》来看，王充是不信神仙的，但晚年又作养性之书。那么，是什么原因促使王充作养性之书呢 ?王充认为，人的寿命短，决定于先天气禀的厚薄，禀气厚者则寿命长，禀气薄者则寿命短。人的生与死，皆同无气息息相关。所以《论衡论死篇》说：&ldquo;人未生在元气之中，即死复归元气。&rdquo;从元气自然论出发，王充在《论衡无形篇》中提出了一种变形说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;人，物也，受不变之形，形不可变更，年不可增减。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　这里把形体同寿命修短联系在一起，并看成是决定的因素，人若是要增加寿命，那么首先就得改变形体。因为有人之形斯有人之寿，有牛马之形斯有牛马之寿。《论衡无形篇》明确提出了 &ldquo;人以气为寿&rdquo;： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;形之包血气也，犹囊之贮粟米也。&hellip;&hellip;人以气为寿，气犹粟米，形犹囊也。增减其寿，亦当增减其身，形安得如故!&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　从而以为，人寿之增减，形体也应发生相应的变化。这种变形说甚至把人的寿命比作苞瓜之汁： &ldquo;人不耐(能)损益苞瓜之汁，天安耐增减人之年?&rdquo;&ldquo;终死形不可变化，年亦不可增加。&rdquo;可见，王充以为变形是增寿的唯一途径，但变形又是不可能的。因此他怀疑时下流行的&ldquo;图仙人之形，体生毛，臂变为翼&rdquo;的可能性。而且，象知了那样，&ldquo;徒变其形而年不增&rdquo;，是不足取的，为了增寿的目的，只有老翁变成婴儿方才可贵。否则&ldquo;徒变其形，寿命不延，其何益哉!&rdquo;由于对形体方面的特殊重视，王充相信假如有神仙的话，那么神仙在饮食方面一定是与普通人不同的。《论衡道虚篇》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;且凡能轻举入云中者，饮食与人殊之故也。龙食与蛇异，故其举措与蛇不同。闻为道者，服金玉之精，食紫芝之荚，食精身轻，故能神仙。 &hellip;&hellip;&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　正是这种养形的观点，对饮食作用的看法，促使他晚年作养性之书， &ldquo;庶冀性命可延，斯须不老。&rdquo;怀着不妨一试的心情，从事养生术的实践。相信&ldquo;吞药养性，能令人无病&rdquo;，但却&ldquo;不能寿之为仙&rdquo;。这是一种积极有为的养生态度。到了汉魏之际，风靡一时的养生术和大批出现的养生家则从实践方面支持了这种养形论。曹丕《典论》和曹植《辨道论》都记载了当时养生术的流行的盛况。《典论》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;颖川郃俭能辟谷饵伏苓；甘陵甘始亦善行气，老有少容；庐江左慈知补导之术。并为军吏。初，俭之至市，伏苓价暴数倍，议郎安平李覃学其辟谷，餐伏芩，饮水，中寒泄利，殆至殒命。始来，众人无不鸱视狼顾，呼吸吐纳。军谋祭酒弘农董芬为之过差，气闭不通，良久乃苏。左慈到，又竞受其补导之术。至寺人严峻往从问受，阉竖真无事于斯术也!&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　张华《博物志》说： &ldquo;魏武帝好养生法，亦解方药，招引四方之术士如左元放、华佗之徒、无不毕至。&rdquo;并罗列了魏武所集方士一十六人的名单，说：&ldquo;右十六人魏文帝、东阿王、仲长统所说，皆能断谷不食，分形隐没，出入不由门户。&rdquo;从养生家的派别来看，曹操罗至的方士，大体可分为以甘始代表的行气派，以左慈为代表的房中派和以郄俭为代表的饵药派。三派的历史都可追溯到先秦，然而它的空前兴盛无疑是在汉魏之际。曹营之中，似乎并无老庄养神派的踪迹，可以说是黃老养形派的垄断局面。而在这三派当中，最为发达的恐怕还是饵药(草木药)这一派。这是可以从《列仙传》一书得到证明的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《列仙传》收集了先期以来有关神仙的传说，托为刘向所撰。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　关于此书作者和成书年代自来就是一个疑问，陈振孙《书录题解》说它 &ldquo;不类西汉文字&rdquo;，而黄伯思《东观余论》肯定它是&ldquo;东京人作&rdquo;，是大体可信的。东京人作，也就是东汉人作。所以《列仙传》的成书，应当是在养生术极为流行的汉魏之际。此书所列&ldquo;神仙&rdquo;共七十一名，其中绝大部分是饵草木药的。所以神仙的性格和特点，与《庄子》书中的圣人或神人是大不相同了。《庄子》书中的圣人或神人，由于把形体看作是一种消极的因素，因而是不食五谷、吸风饮露的，并且总是笼罩着一种神秘的氛围气。而《列仙传》的神仙，除长生这点以外，几乎没有什么特殊之处，似乎就存在于普通人中间，显然是按照当时养生家的形家塑造出来的，不过被加以夸大而已。从养生术的角度，可分以下三类： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　1、房中：计有容成公&ldquo;善补导之事，取精于玄牝&rdquo;；老子&ldquo;好精养气，贵接而不施&rdquo;；女几行&ldquo;交接之术&rdquo;。共三例。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　2、饵丹：计有任光&ldquo;善饵丹&rdquo;，主柱&ldquo;饵砂&rdquo;，赤斧&ldquo;能作水浈炼丹、与硝石服之。&rdquo;共三例。饵其他矿物药的则有赤松子&ldquo;服水玉&rdquo;，方回&ldquo;炼食云母&rdquo;，邛疏&ldquo;煮石髓而服之&rdquo;，陵阳子明&ldquo;采五石脂沸水而服之&rdquo;。共四例。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　3、饵草木药：计有赤将子与&ldquo;啖百草花&rdquo;，偓佺&ldquo;好食松实&rdquo;涓子&ldquo;好饵术&rdquo;，吕尚&ldquo;服泽芝地髓&rdquo;，师门&ldquo;食桃李葩&rdquo;，务光&ldquo;服兰韭根&rdquo;，仇生&ldquo;常食松脂&rdquo;，彭祖&ldquo;常食桂芝&rdquo;，陆通&ldquo;食橐卢木实及芜菁子&rdquo;，范蠡&ldquo;好服桂饮水&rdquo;，寇先&ldquo;好种荔枝食其葩实焉&rdquo;，桂父&ldquo;常服桂及葵，以龟脑和之&rdquo;、修羊公&ldquo;取黄精食之&rdquo;，赤须子&ldquo;好食松实、天门冬、石脂&rdquo;，犊子&ldquo;采松子茯苓饵而服之&rdquo;，园客&ldquo;常种五色花香，&hellip;&hellip;食其实&rdquo;，鹿皮公&ldquo;食芝草&rdquo;，昌容&ldquo;食蓬根&rdquo;，谿父&ldquo;炼爪子与桂、附子、芷实共藏而&hellip;&hellip;食之&rdquo;，山图&ldquo;服地黄、当归、羌活、独活、苦参散&rdquo;，毛女&ldquo;食松叶&rdquo;，文宾&ldquo;服菊花、地肤、桑上寄生、松子&rdquo;，商丘子胥&ldquo;食术、菖蒲根&rdquo;，玄俗&ldquo;饵巴豆&rdquo;。共二十四例，涉及的中药约三十余味，这些普通中药的效用都被夸大和神秘化了。唯其如此，使我们不怀疑这样一个事实，即养生术乃至养生论由重&ldquo;神&rdquo;发展到重&ldquo;形&rdquo;，是医学进步的结果。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　此外，饵药而兼行气的有彭祖、邛疏二例，彭祖 &ldquo;善导引行气&rdquo;，邛疏&ldquo;能行气炼形&rdquo;。《列仙传》中没有单独出现导引行气这一派。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　饵药派的绝对优势，说明后汉以来相信神仙饮食与常人不同已成为一种流行的看法。同时，《列仙传》的作者相信药物能使人的形体发生变化、从而修改了王充的观念，但在最根本的一点，在重 &ldquo;形&rdquo;这一点上继承了王充。例如僵佺由于好食松子的缘故，&ldquo;形体生毛，长数寸，两目更方&rdquo;。赤斧由于饵丹，&ldquo;三十年反如童子，毛发生皆赤&rdquo;。更多的例子是白发变黑、齿落更生。总之，后汉以来的养生家相信药物能引起形体变化与生命过程的逆转。饵药派的这种优势，至少延续到葛洪说过&ldquo;世人不信神丹，反信草木之药&rdquo;的话，可见那时饵丹派的势力是远不如饵药派的。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">三、模拟自然的金丹术 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　葛洪一方面吸收了流行于民间的养生术，作为金丹术的补充，另一方面，又接受了王充的影响，把黄老养形派的养生论同金丹术结合起来，于是金丹术有了理论。葛洪服膺王充，《抱朴子喻蔽卷》说： &ldquo;余雅谓王仲任作《论衡》八十余篇，为冠伦大才&rdquo;。方维甸在《校刊抱朴子内篇序》中认为葛洪乃&ldquo;神仙家之汉学&rdquo;。葛洪思想的若干方面，可以看作是王充思想在晋代的发展。在养生论方面，葛洪首先接受并修正了王充的自然命定论。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　王充之所谓命，指的是先天气稟。这种先天气禀，在《论衡气寿篇》中，有时称之为性、又称之为命。《抱朴子辨问卷》云： &ldquo;按仙经以为诸得仙者，皆其受命偶值神仙之气，自然所禀。&rdquo;按照种种自然命定论，则&ldquo;人之吉凶，制在结胎受气之日，皆上得列宿之精，&hellip;&hellip;值寿宿则寿，值仙宿则仙。&rdquo;又《抱朴子塞难篇》说：&ldquo;命之修短，实由所值，受命结胎，各有星宿。天道无为，任物自然。&rdquo;这里不难发现王充的影响。可是，葛洪与王充并不完全相同，在养生问题上，葛洪更强调的是人为。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　王充的自然命定论是从反对天人感应的神学目的论出发的，而命定论是排斥人为的。另一方面，王充持有为自然说，以人为作为自然的辅助手段。这是矛盾的。由于王充反对目的论的主要武器是自然命定论，因此，在王充的思想体系中比较缺乏积极有为的思想。葛洪一方面接受了王充的自然命定论，以反对神学目的论，于《抱朴子塞难卷》中宣布： &ldquo;万物感气，并亦自然，与彼天地，各为一物。&rdquo;表现出了唯物主义的倾向。另一方面，又在《抱朴子黄白卷》中宣布&ldquo;我命在我不在天，还丹成金千万年。&rdquo;反对天命，表现出了积极有为的态度。天命论与命定论在本质上是相同的，反对天命论最终必然导致否定命定论。因而不象王充那样走进了自己设置的迷宫，在人为与命定之间，葛洪更强调的是前者，虽然并没有完全摆脱王充自然命定论的影响。《抱朴子勤求卷》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;有仙命者，要自当与之相值也。然求而不得者有矣，未有不求而得者也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　是说虽有 &ldquo;仙命&rdquo;，还要经过一番人为的努力，这就不知不觉地否定了命定论。在《抱朴手至理卷》中，甚至把&ldquo;命有自然&rdquo;着作愚夫的见解，而强调人为的养生之功： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;夫人之所以死者，损也，老也，百病所害也，毒虫所中也，邪气所伤也，风冷所犯也。今导引行气，还精补脑，饮食有度，兴居有节，将服药物，思神守一，&hellip;&hellip;可以免此六害。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　在《抱朴子道意卷》中，葛洪认为延长寿命可由养生而致，祈祷是无用的，说： &ldquo;若命可以重祷延，疾可以丰祀除，则富姓可以必长生，而贵人可以无疾病也。&rdquo;王充认为，禀命受气，皆有一定，若要延长寿命，就得改变形体，而变形是不可能的。所以《论衡道虚篇》说：&ldquo;虾蟆化为鹑，雀入水为蜃蛤，禀自然之性，非学道所能为也。&rdquo;但葛洪反对&ldquo;受气皆有一定&rdquo;，在《抱朴子论仙卷》中认为即有&ldquo;雉之为蜃，雀之为蛤&rdquo;的情形，那人当然也可以变化形体，例如&ldquo;牛哀成虎，楚妪为鼋，秦女为石，死而更生&hellip;&hellip;&rdquo;等等，由此证明神仙的不无。姑不论这些证据的可信程度如何，要之，葛洪认为，通过养生，人的寿命是可以延长的。王充即提出了变形则寿命可延这样的问题，葛洪就试图证明变形的种种可能性，从而得出了相反的结论。毋宁说，王充的变形说本来就存在着走向葛洪的可能，因为这个变形的假设，本身就充满了机械性。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　在《抱朴子极言卷》中，葛洪认为，虽说禀命受气，自有修短，受气多者其尽迟，受气少者其尽速，但可以设法补救。气可以损益，寿命也可以变化。这里的气被看作长寿的秘密，如认为龟鹤之所以长寿，是因为食气的缘故。养生论中的两大派，养形派和养神派都重视气，但所说的气不是一种东西。前者指的是普通的气体，因而气可以 &ldquo;食&rdquo;；后者指的是精神现象，已如前述。与《庄子》书中的养神派的观点不同，葛洪是肯定吐故纳新的。《抱朴子极言卷》说：&ldquo;夫吐故纳新者，因气以长气，而气大衰者则难长也。&rdquo;《抱朴子至理卷》说：&ldquo;善行气者，内以养生，外以却恶，然百姓日用而不知也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　晋代对于神仙有两派不同的特点。一种观点认为，神仙票之自然，即不可学，也不可为。竹林七贤之一的嵇康就是持这种观点的，嵇康《养生论》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;世或有谓神仙可以学得，不死可以力致者；或云上寿百二十，古今所同，过此以往，莫非妖妄者。此皆两失其情。请试粗论之：夫神仙虽不目见，然记籍所载，前使所传，较而论之，其必有矣。似特受异气，禀之自然，非积学所能致也。至于导养得理，以尽性命，上获千余岁，下可数百年，可有之耳。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　对于神仙，嵇康认为必有，然而禀之自然，不可力致。但通过养生，可得数百年乃至千余岁的长寿。至于养生的方法，他主张： &ldquo;吾顷学养生之术，方外荣华，去滋味，游心于寂莫以无为贵。&rdquo;这些空洞的议论，与其当作养生论来看，还不如当作玄言来看。嵇康是否还有别的具体的养生之道，则不得而知，仅就这段文字来看，主张&ldquo;以无为为贵&rdquo;，这是属于养神派的观点，无疑是老庄的孑遗了。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　与嵇康不同，葛洪提出了 &ldquo;神仙非自然&rdquo;的口号，即认为神仙即可为也可学。在对待人与自然的关系问题上，葛洪不同于老庄的无为自然，并且不同于黄老的有为自然，而是时时流露出&ldquo;非自然&rdquo;的倾向。所谓&ldquo;非自然&rdquo;，并非用人为来同自然相对立，而是按照物质的自然属性来役用万物，井人工地模拟自然。续承和发展了《淮南子》、《论衡》以来的人为和自然的一致性的观点。在养生问题上，假如说先秦时期的老庄学派将自然和人为对立起来，则秦汉以来的黃老学派逐渐注意到它们之间的一致性，而魏晋之际以葛洪为代表的神仙家更进一步地强调了人为的作用。并将人为置于自然之上。《抱朴子金丹卷》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;元君者，大神仙之人也，&hellip;&hellip;犹自言亦本学道服丹之所致也，非自然也，况凡人乎!&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《抱朴子对俗卷》明确地提出了役用万物： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;夫陶冶造化，莫灵于人，故达其浅者，则能役用万物，得其深者，则能长生久视。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　役用万物，这是神仙非自然的另一种说法，即认为神仙是役物所致。《抱朴子金丹卷》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;丹之为物，烧之愈久，变化愈妙，黄金入火，百炼不消，埋之毕天不朽，服此二物，炼人身体，故能令人不老不死，此盖假求于外物以自坚固。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;铜青涂脚，入水不腐，此是借铜之劲，以扦其肉也。金丹入人身中，沾洽荣卫，非但铜青之外傅矣。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　这里强调的是 &ldquo;假外物以自坚固&rdquo;，并且力图从物质的自然属性来说明金丹何以能使人不老不死。幻想通　　过服食金丹，使人的身体能象黄金一样&ldquo;毕天不朽&rdquo;，而抵抗住时间之流的侵蚀。这里，人与自然的同一性，通过幻想的方式被表现出来。毫无疑问，这里有着某种科学思维的萌芽。《抱朴子对俗卷》进一步肯定之&ldquo;异物之益&rdquo;，它说：&ldquo;异物之益，不可诬，&hellip;&hellip;况乎以宜身益命之物，纳之于己，何怪其令人长生乎!&rdquo;强调异物之益与强调人为在出发点上是一致的，葛洪认为，药金是胜过自然金的，《抱朴子黄白卷》说：&ldquo;又化作之金，乃是诸药之精，胜于自然者也。&rdquo;又说：&ldquo;金银可自作，自然之性也，长生可学得者也。&rdquo;这里说的自然之性，是指自然界中物质变化的本性。《抱朴子黄白卷》说：&ldquo;水火在天，而取之以诸燧；铅性白也．而赤之以为丹；丹性赤也，而白之以为铅。&hellip;&hellip;变化者，乃天地之自然，何以嫌金報之不可以异物作乎7&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　葛洪坚持，金银可作而长生可学。作为神仙家的葛洪，不仅要回答人与自然能否取得同一性，即人能否借外物之力以达到长生，这在葛洪是作了肯定回答的；而且还要回答人与自然是怎样取得同一性的。古代的神仙说实质上是围绕着人与自然的同一性这个问题展开的。《老子》一书注意到了 &ldquo;天长地久&rdquo;的现象，那么人的寿命是否也可以象天地一样长久，或至少象金玉等物质经久不坏呢?是否能找到或制造出一种不死药来帮助人获得长生，使人获得与自然同等的地位、品格和属性?这种可以人工控制的人与自然互相转化的努力，就是人与自然的同一性问题。对于神仙家来说，这当然是幻想的同一性。葛洪相信，人要想获得与自然平等的地位，只有模仿自然，通过模拟自然的金丹术，人是可以做到长生久视的。《后汉书费长房传》； </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;费长房者，汝南人也，曾为市掾。市中有老翁卖药，悬一壶于肄头，及市罢，輒跳入壶中。市人莫之见，唯长房于楼上睹之异焉。&hellip;&hellip;旦曰复诣翁，翁乃与俱入壶中，唯见玉堂严丽，旨酒甘肴盈衍其中，共饮毕而出。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　这个故事暗示了相对的时空观念。传说中的仙人可不受空间的约束；或加以放大，或加以缩小，或移动位置，或一人同时交叉出现于不同地点。它是如此荒唐而又违反常识，然而却记载了古人那种想要冲破一成不变的空间观念所作的努力。西汉以来发源于帝王宫廷间的金丹术则进而试图模拟自然界的物质变化，试图浓缩时间和空间。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　葛洪相信，人要想达到长生不死的目的，最重要的，也是唯一可靠的办法是服食金丹。其他的养生术，都只能起辅助的作用。金丹术是《抱朴子内篇》的中心议题。《抱朴子内篇》反映了汉武帝以来金丹术的发展和成就。金丹术是对自然界物质变化的模拟。金丹术土自信发现并已掌握了大自然的奥秘，自然界被认为是按照阴阳五行的模式发生变化的，因而试图进行人工的模拟。这种模拟是把物质纳入阴阳五行的模式，为了再现自然界物质变化的过程，时间和空间都在幻想中被极度地浓缩：他的丹灶代表天地、阴阳和四时，而他的一个时辰则大约相当于一年之久，这一点在葛洪的《大丹问答》中是深信不疑的。在这里，金丹术士幻想通过巫术的方法，模拟自然界的物质变化过程，并人工地加以控制。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《淮南子地形训》已提到物质按五行的模式发生变化这一精想，例如： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;状士之气，御于赤天，赤天七百岁生赤丹，赤丹七百岁生赤汞，赤汞七百岁生赤金，赤金七百岁生赤龙，府龙入藏生赤泉&hellip;&hellip;&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　丹即丹砂，汞即水银。这里每发生一次变化，说是须经七百年之久。为什么是七百年呢 ?高诱注：&ldquo;南方火，其色赤，其数七，故七百岁而一化。&rdquo;按照同样的理由，中央土，色黄，数五，所以黄汞变为黄金是五百年，东方木，色青，其数八，所以青汞变为青金是八百年。西方金，色白，其数九，所以白汞变为白金是九百年。北方水，色黑，其数六，所以玄汞变为玄金是六百年。等等。总之，自然界的物质被假定为是按照五行的模式发生变化的，《淮南子地形训》的这段话，或者就是从《墨子五行记》里抄出来的也未可知。《抱朴子遐览卷》说：&ldquo;其变化之术，大者唯有墨子五行记。本有五卷，昔刘安君尚未仙去时，抄取其要，以为一卷。&rdquo;可见这种人工模拟自然界物质变化，以期取得与自然界平等地位的想法，起源是很古老的。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">四、《抱朴子》一书立言宗旨 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　黄巾张角的起义，摧毁了东汉王期的统治。起义失败后，太平道的组织依然分散在民间，成为封建统治阶级的腹心之患。因此，吸收古代的神仙说与养生术，反对符水治病，以改造民间原始道教，使之适应门阀地主的需要，就成为葛洪撰写《抱朴子》一书的目的。此后，金丹道教逐渐取代了原始道教。正是葛洪的《抱朴子》一书，给了金丹道教一个理论的基础。针对民间原始道教的鬼神崇拜，《抱朴子道意卷》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;不务药石之救，帷专祝祭之谬，祈祷无已，问卜不倦，巫祝小人，妄说祸崇，&hellip;&hellip;或偶自有差，便谓受神之赐；如其死亡，便谓鬼不见赦。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《抱朴子自叙卷》更提出了 &ldquo;鬼神无能为&rdquo;的观点： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;屡值疫疠，当得药物之力；颇冒矢石，幸无刺伤之患。益知鬼神之无能为也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　频冒矢石云云，当系指参与镇压石冰之乱那回事。石冰是张昌领导的农民起义军的一部，起义翠的主要成份是士兵和流民，其中，特别是蜀地流民中，应该有相当数量的太平道和天师道的信徒，张昌本人是南方少数民族 (义阳蛮)，预言&ldquo;当有圣人出&rdquo;，&ldquo;又言珠袍、玉玺、铁券、金鼓自然而至&rdquo;，见《晋书张昌传》。因此，统治阶级将张昌与张角视同一例，称为&ldquo;妖贼&rdquo;。葛洪提出&ldquo;鬼神无能为&rdquo;的观点，就是因为起义农民是祠祀和崇拜鬼神的。故凡打击原始道教的人，葛洪都加以颂扬，如云&ldquo;第五公诛除妖道而即寿且贵&rdquo;，&ldquo;魏武禁瑶淫祀之俗而洪庆未暇&rdquo;，等等。所以葛洪不信奉鬼神，&ldquo;四时祀先人而已&rdquo;。见《抱朴子道意卷》 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　葛洪相信，决定祸福的是神秘的命运，而不是鬼神。这多少是受了王充的影响。不信鬼神是怀疑论，而相信命运是神秘主义。这些都可以看作是王充思想在晋代的继续。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　反对符水和祈祷，主张用药物来治病，这使葛洪成为历史上著名的医学家和药物学家。从科学史的角度来看，用医药代替巫祝，把巫同医分开，这是很大的进步。他留心医药，或者是有感于医药的不普及，《抱朴子至理卷》说人们 &ldquo;不肯信良医之攻病，反用巫史之纷若&rdquo;，所撰《玉函方》百卷，就是以普及为目的的医药目用手册，《抱朴子杂应卷》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;篱陌之间，硕盼皆药，众急之病，无不毕备，家有此方，可不用医。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　葛洪在这方面的贡献应予肯定。但若探究他的动机，则实实在在是为了反对原始道教，并进而反对农民起义。这是葛洪的基本政治态度，作为统治阶级的一员，这是不奇怪的。《抱朴子道意卷》是《抱朴子》一书的立言宗旨所在，其中提到了用严刑峻法来禁止原始道教活动的办法： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;唯宜王者更峻其法制，犯无轻重，致之大辟。购募巫祝不肯止者，刑之无赦，肄于道路。&hellip;&hellip;曩者有张角、柳根、王歆、李甲之徒，或称千岁，假托小术，坐在立亡，变形易说，诳眩黎庶，纠合群愚。进不以延年益寿为务，退不以消灾治病为业。逐以招集奸党，称合逆乱，不纯自伏其辜。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　正是这一基本政治立场使他不免流于申辨，提出 &ldquo;刑为仁佐&rdquo;，甚至认为与其&ldquo;鞭笞&rdquo;，还不如恢复古代的肉刑。见《抱朴子用刑卷》。对于民间原始道教，除了主张严刑镇压之外，又试图用神仙说和金丹来加以改造。这是可以从指责张角等人&ldquo;进不以延年益寿为务&rdquo;的话看出来的，在《抱朴子道意卷》中，他认为使他较为满意的李家道也是&ldquo;了无治身之要，服食神药，延年驻命，不死之法也。&rdquo;而李宽本人，&ldquo;老则老矣，死则死矣，此其不得道，居然可知矣。&rdquo;根据对原始道教的这种种挑剔，我们有理由说，葛洪是有意识地用神仙说来改造原始道教的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　从对待民间原始道教的这两手，我们看到，一方面，葛洪是荀派儒家，另一方面又是神仙家。《自叙》说到《抱朴子》一书是： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;其内篇言神仙方药鬼怪变化养生延年禳邪却祸之事，属道家。其外篇言人间得失，世事臧否，属儒家。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　原来葛洪与他的同时代人不一样，他并没有把老庄看作道家，而是因袭了汉人的观念，他说的道家是指黄老，即自认为他是黄老学派。战国秦汉之际的黄老学派与神仙家本来不是一码事，西汉中期以后，先是黄帝被神仙化了，随后老子也被神仙化了。在人们的观念上，道家与神仙发生了混淆，这种混淆正如我们在《论街道虚篇》中看到的那样，王充把道家和神仙放在一起来加以抨击。这种混淆并不始于葛洪。方维甸说 &ldquo;抱朴子内篇，古神仙家言也，&hellip;&hellip;寻其旨趣，与道家判然不同，&rdquo;是照着魏晋人的观念，把老庄看作道家了。而葛洪又自认是道家，是照着汉人的观念，指的是神仙化了的黃老。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　亦儒亦道，内外兼修，葛洪所设计的道教神仙，又有了新的特点。《抱朴子释滞卷》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;内宝养生之道，外则和充于世，治身而身长修，治国而国太平。以六经训俗士，以方术授知音，欲少留，则止而佐时，欲升腾，则凌霄而轻举者，上士也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　一方面治国平天下，一方面又可当神仙，真是两全其美。所以，仙人是出处任意的，并非一定要远离人间不可。那种 &ldquo;断绝人理，决然与木石为邻&rdquo;的做法是不足取的。《抱朴子对俗卷》说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&ldquo;仙人或升天，或住地，要于俱长生，住留各从其所好耳，&hellip;&hellip;笃而论之，求长生者，正惜今日之所欲耳，本不汲汲于升虚，以飞腾为胜于地上也。&rdquo; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　虽然《明本卷》说 &ldquo;长生之道，道之至也&rdquo;，但实际上葛洪之所谓道，是包括求长生和治理天下这两者在内的。所以《勤求卷》以&ldquo;黄帝能治世致太平而又升仙&rdquo;为理想的榜样。经过榜洪的改造，道教已不再是让封建统治阶级感到头痛的东西，而是可以接受的东西了。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">(</span><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">本刊有删节)</span></div>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,575 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260800000000000000&targetPage=Fdjxy2">
+						中国道教2011—
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260804000000000000&perPageNum=15&targetPage=Fdjxy3">
+						2011年第4期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	随侍丘处机西行十八士考
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">侯照民</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　丘处机在金大定年间（1161&mdash;1189）后期已极负盛名，曾于金大定二十八年（1188）得到金世宗的召见，并深受礼遇。蒙古大汗成吉思汗虽远在大漠忙于战事也想见他，并于蒙古国太祖十四年（1219）&ldquo;自乃蛮命近臣札八兒、刘仲禄持诏求之&rdquo;。</span><span>1</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">丘处机接受礼请，西去觐见蒙古大汗。一方面，可得到蒙古国的支持，有利于将全真道发扬光大；另一方面，蒙古人扩张时杀戮太重，丘处机想借此机会向成吉思汗进言，以图止杀救民。</span><span>2</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">蒙古国太祖十五年（1220）一月，丘处机精心挑选了部分优秀弟子随侍，开始了长达三年的西行传道之路。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">一、随侍西行者是十八人还是十九人</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　据李志常《长春真人西游记》记载，丘处机当时预选了19人，&ldquo;（刘仲禄与尹志平）冬十有二月同至东莱，传皇帝所以宣召之旨。师知不可辞，徐谓仲禄曰：&lsquo;此中艰食，公等且往益都。俟我上元醮竟，当遣十五骑来。十八日即行。&rsquo;于是宣使与众西入益都。师预选门弟子十有九人以俟其来&rdquo;。</span><span>3</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">但是不知为何，在《长春真人西游记》附录的侍行门人名单中只有18人的名字，即赵道坚、宋道安、尹志平、孙志坚、夏志诚、宋德方、王志明、于志可、张志素、鞠志圆、李志常、郑志修、张志远、孟志稳、綦志清、何志清、杨志静、潘德冲。</span><span>4</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">考诸全真史料，绝大部分全真文献对此事的记载也都是选弟子18人。如&ldquo;长春承诏赴阙，择侍行之士得十八人，真人（宋德方）其一也&rdquo;。</span><span>5</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&ldquo;己卯，圣朝遣便宜刘仲禄起长春于海滨，门人中选道行清实可以从行者，得十八人，公（孟志源，一作孟志稳）其一也。&rdquo;</span><span>6</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&ldquo;时从者十八人，皆德望素重者，师（尹志平）为之冠。&rdquo;</span><span>7</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　随侍丘处机西行者，到底是18人还是19人？尹志平《葆光集》中有词《秋阳观作》一阙，记有&ldquo;十九游仙子，随师历八荒&rdquo;</span><span>8</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">句。尹志平生于金大定九年（1169），随侍丘处机西行时是金兴定四年（1220）。此时尹志平已51岁，所以&ldquo;十九游仙子&rdquo;绝非是指自己19岁随师游历。据此推断此诗提到的&ldquo;十九游仙子&rdquo;很可能就是指19人随师游历。李志常和尹志平都曾亲自参与西行，作为当事人，应该不会记错西去的人数，更不会杜撰。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　陈铭珪认为侍行者为19人，有一位回程时留在了阿不罕山。&ldquo;侍行者十九人，至阿不罕山，留九人，以十人从至赛蓝城，赵九古逝，计尚有十八人乃归至阿不罕山，先后起程者，只十七人，盖一人尚留该地栖霞观也。附录连赵九古只十八人，尚缺一人，其姓名今不可考。&rdquo;</span><span>9</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">如果有人留在阿不罕山的话，《长春真人西游记》当提到，后来的封赐活动，也不会把他漏掉。赵道坚虽然逝于西去途中，尚封了虚静先生，没有理由回程的不封赐。陈铭珪之所以认为是19人，除了开始那段记载之外，可能还源于《长春真人西游记》另一记载，先有&ldquo;留弟子宋道安辈九人选地为观&rdquo;，后又有&ldquo;&nbsp;携门人虚静先生赵九古辈十人&rdquo;</span><span>10</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">继续西行，所以总数为19人。樊光春先生认为&ldquo;此种误差大概源于原定19人的印象，习以为常&rdquo;。</span><span>11</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《金元全真教石刻新编》提供了很有价值的资料。《烟霞崇道宫碑记》记载&ldquo;岁己卯有诏，召长春真人邱公于东海上，选其徒有道业通辩之士十有八人与之，潍州昌乐人玄真大师张鹏举预中&rdquo;。</span><span>12</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">此则史料证明，当时张鹏举被预选上了。但是此碑记并没有提到张鹏举曾随丘处机西行。如果他也参与了随侍的话，应是其一生中的大事，该有所记载。比较合理的解释就是，他虽然被预选上了，但并没有随侍西行。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　综合以上史料，可知当时与丘处机西去有关的的确有19人，最终随侍西去的是18人。对于当时的情况有两种解释。一是当时预选了19人。这与李志常&ldquo;师预选门弟子十有九人以俟其来&rdquo;的说法相符，张鹏举是其中一位，但因某种原因他未能成行，最后是18人随丘处机西去。另一种解释是，当时预选了18人。这与《烟霞崇道宫碑记》的记载相符合，&ldquo;选其徒有道业通辩之士十有八人与之，潍州昌乐人玄真大师张鹏举预中&rdquo;。18人中张鹏举虽居其一，但西行出发前，张鹏举出现了临时状况不能西去，于是丘处机又选了另外一位顶了他的缺，还是18人随侍丘处机西行。而第一种可能性更大，因为参与其事的李志常、尹志平都说19人。到底是何种原因，致使19人中的18人最后随丘处机西去，囿于史料有限，现在已不得而知。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">二、选随侍者的标准</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　以十八士的事迹为依据，笔者归纳出丘处机选随侍者的标准有以下几个方面。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;　（一）德望素重</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　德望素重，即德行好，名望高。《玄门掌教清和妙道广化真人尹宗师碑铭并序》中记载：&ldquo;时从者十八人，皆德望素重者。&rdquo;《大元清和大宗师尹真人道行碑》也载有&ldquo;选名德以辅行，得十八人&rdquo;。</span><span>13</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">从者中多为德行名望突出者。赵道坚生于金大定三年（1163），</span><span>14</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">随侍丘处机西行时已57岁。他自丘处机在龙门修炼时已跟随其左右，是丘处机的入室弟子，也是丘处机为数不多的早期弟子之一。而且赵道坚还曾跟随过马钰、刘处玄修行，所以是当之无愧的全真高道，德望素重。张广保先生认为如果他不早逝的话，丘处机仙逝后，&ldquo;继任掌教非他莫属&rdquo;。</span><span>15</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">宋道安生卒年不详。从《长春真人西游记》可以了解到，此人在十八人中排名第二，在全真教内很有威望。西行路上，一行人走至阿不罕山时，山路难行，丘处机决定留下一部分人就地建观传教，&ldquo;留弟子宋道安辈九人选地为观&rdquo;。</span><span>16</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">丘处机将此重任交给宋道安去办理，充分说明了对他的信任，也反映了宋道安在教内的地位和威望是相当高的。另外，在回燕京路上是分三批走，第一批也是以宋道安为首，可见宋道安确实是威望很高。更重要的是，据李志常《长春真人西游记》记载，丘处机仙逝后将掌教之位传给了宋道安。&ldquo;众欲哭临。侍者张志素、武志摅等遽止众曰：&lsquo;真人适有遗语令门人宋道安提举教门事，尹志平副之，张志松又次之，王志明依旧勾当。宋德方、李志常等同议教门事。&rsquo;&rdquo;</span><span>17</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">据张广保先生考证，宋道安并没有接任，而是让给了尹志平。但据李志常所记丘处机遗言可证明，宋道安的德望确实是远在他人之上的。尹志平19岁拜刘处玄为师入全真道，金明昌二年（1191）拜丘处机为师，在金卫绍王大安之后与丘处机交往密切，</span><span>18</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">之前曾跟从过马钰，期间又&ldquo;受易于太古郝真人，受口诀于玉阳王真人&rdquo;，</span><span>19</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">深得全真要义。在山东传道期间，丘处机常寓居于尹志平的玉清宫，期间对他多有指导。得名师指点后，尹志平在潍阳玉清观清修20年。尹志平是一位道缘深厚，悟性极高的人，有名师指点再加上自己的苦修，日益精进。此时年届51岁的尹志平在山东道教界威望很高。据《玄门掌教清和妙道广化真人尹宗师碑铭并序》记载，刘仲禄在东来路上行至益都，李志常曾献言&ldquo;长春今在海上，非先见尹公，必不能成此盛事&rdquo;。</span><span>20</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">尹志平出面与否直接关系到刘仲禄征诏丘处机能否成功，可见他在全真教内的威望非同寻常。夏志诚于元宪宗五年（1255）仙逝，道寿八十三，随侍西去时48岁。他自金泰和元年（1201）就跟随丘处机，其间&ldquo;参求玄理&rdquo;，&ldquo;亲炙（长春）左右，得一善则服膺，朝夕不替&rdquo;，&ldquo;行众人之所难为&rdquo;。</span><span>21</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">至1220年已经学道二十年，可以说已是深得道妙。金贞祐年间，</span><span>22</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&ldquo;有大寇据海州，州之道众无计可出，宗师命公（夏志诚）往救之，即不辞而去。既至，方便援引，获免者甚众&rdquo;。</span><span>23</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">夏志诚在灾难面前先人后己，苦己利人，救了不少徒众，深得全真弟子的爱戴，德望很高。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;　（二）道行清实</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　道行清实即道业清正，行为朴实。《重玄广德弘道真人孟公碑铭》载：&ldquo;门人中选道行清实可以从行者，得十八人，公（孟志源）其一也。&rdquo;</span><span>24</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　张志素时年33岁。他&ldquo;始于侍海峤之游，赴龙庭之如，迄于环西域之辙，税燕城之驾，艰关数万里，首尾四十年，周旋供奉，未尝失长春旨意。暂违几杖，辄有如失一手之喻&rdquo;。</span><span>25</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">可见跟从长春日久，而且深得长春之意。丘处机1227年去世之时，他已经跟从长春40年，那么随侍西去之时，他也已跟从长春30多年。丘处机素以实著称，张志素能够几十年如一日地默默侍奉丘处机30多年且深得其意，可见他确在&ldquo;实&rdquo;上有所得。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　宋德方时年37岁。他12岁学道于刘长生，长生真人爱其不凡，&ldquo;投以正法而启发之&rdquo;，宋德方&ldquo;得法，朝夕充养修进&rdquo;，后得度于王玉阳。金泰和三年（1203）长生真人仙去，他又到栖霞投于丘处机门下，所以有&ldquo;三灯传一灯，一灯续三灯&rdquo;</span><span>26</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">之说。投入丘处机门下之后，他对儒道经典、诗书子史无不涉猎，&ldquo;于中采其性命之学尤精粹中正者，涵泳履践，潜通默识，光明洞达，动与之会&rdquo;。</span><span>27</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">可见当时的宋德方行为内敛，道行清实，与道合德。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　綦志远时年31岁，他少有道缘，王重阳携四子西游之时宿于其家，就曾对其父亲预言：&ldquo;汝将来必有一子为羽衣。&rdquo;</span><span>28</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">綦志远15岁时，就直述&ldquo;所愿则为神仙轻举之事&rdquo;，不久就辞别了父母，礼丘处机为师。他&ldquo;奉宗师道&rdquo;，道业有成，于蒙古国太祖十三年（1218）就成为了莱州昊天观的住持，时年29岁。由此可见，綦志远绝非一般道人，应为丘处机弟子中的佼佼者，且年轻有为。在西行归来回燕京的路上，丘处机曾这样评价綦志远，&ldquo;綦公从我以来，山行水宿，日益恭敬，可谓勤矣。观其气象，将来弘吾教者，必斯人矣&rdquo;。尹志平对于丘处机的评价也非常赞同。至燕京驻足于长春宫时，綦志远被委任总知宫门事。綦志远在西行的艰辛路途中还能不畏艰险日益恭敬，可见他确实也是道行清实之人。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　孟志稳时年35岁。他于金章宗泰和三年（1203）&ldquo;径诣潍阳玉清宫&rdquo;，得为丘处机弟子。期间还&ldquo;质于玉阳、太古二师真&rdquo;。此时已学道17年，且求证于全真二代师真，应该深得全真道的真义。所以《重玄广德弘道真人孟公碑铭》载：&ldquo;门人中选道行清实可以从行者，得十八人，公（孟志源）其一也。&rdquo;</span><span>29</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　潘德冲时年30岁。在随丘长春西行前已跟长春学道十余年，&ldquo;自是服膺问道，得传心之要。长春委师（潘德冲）以焚修之事，至其暇日，则默坐静室中，凝神涤虑，物我两忘，一归于要妙幽玄之境，如是者十余年&rdquo;。</span><span>30</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">潘德冲虽然年轻，却能够摒弃外在尘世的繁华而潜心修道，以达到&ldquo;幽玄之境&rdquo;，道行清实正是他的真实写照。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;　（三）道业通辩</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　《烟霞崇道宫碑记》载：&ldquo;岁己卯有诏，召长春真人邱公于东海上，选其徒有道业通辩之士十有八人与之，潍州昌乐人玄真大师张鹏举预中。&rdquo;张鹏举生平不详。丘处机回到燕京驻足长春宫时，曾&ldquo;擢玄真师（张鹏举）为提点&rdquo;。&nbsp;后来他在大兴府创建了一所道观，尹志平为之命名曰烟霞观。虽然此碑对他的事迹记载并不清楚，但却为探讨丘处机选侍行弟子的标准提供了很好的资料，道业通辩是又一个重要标准。道业通辩即道业通达，口才出众。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　李志常少年时与刘处玄弟子于道显交游，后来在道友的指点下投至丘处机门下，丘处机见而爱之，留置左右。蒙古国太祖十四年（1219），刘仲禄东来征召丘处机，行至益都时见到李志常。李志常曾出谋划策让刘仲禄先到潍阳，请尹志平与其一起到昊天观劝说丘处机西行。为了使西去之路顺畅，李志常又不惜去益都劝说已归宋守将张林，让其放丘处机一行西去。在他的劝说之下，张林竟然&ldquo;俾移檄所经，卫送以行&rdquo;，</span><span>31</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">这也是丘处机选他侍行的主要原因。</span><span>32</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">此时李志常虽只有二十七八岁，但他确有独到的社会洞察力和非凡的口才。后来丘处机曾称赞他&ldquo;通明中正，学问该洽&rdquo;，</span><span>33</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">也是对他非凡洞察力和能言善辩的褒奖。尹志平掌教后，李志常负责处理教内日常事务，他曾自述&ldquo;教门一切，我悉主之&rdquo;。</span><span>34</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">同时他还是全真教与蒙古国汗廷的沟通信使。他一方面要处理教内事务，另一方面又要游走于官宦之间，却能游刃有余。可见他不但道行高，口才好，而且能够通权达变。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　王志明，全真史料中出现此名字很多，居于这个时代的有两位。《长春庵铭》记有&ldquo;王志明师事菘山紫虚于大师（于道显）及即仙翁积年。避壬辰之兵，东之海滨。乱定还洛阳&hellip;&hellip;道俗归向，以为坚坐六年，非世人所能堪，乃即谭（谭长真）所居而奉之。今年过八十，神观殊未衰，目光炯然，人望之知为有所养者&rdquo;。</span><span>35</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">其铭并未提及师事丘处机，也未涉及西行之事。由此可见，此王志明并非丘处机弟子王志明。丘处机弟子王志明在《长春真人西游记》中出现了三次。第一次是十八人回程至阿不罕山时，发现路程难行，于是兵分三路。&ldquo;五月七日，令宋道安、夏志诚、宋德方、孟志温、何志坚、潘德冲六人先行。十有四日，师携尹志平、王志明、于志可、鞠志圆、杨志静、綦志清六人次之&hellip;&hellip;十有八日，张志素、孙志坚、郑志修、张志远、李志常五人又次之。&rdquo;第二次是回到燕京后，王志明传成吉思汗之诏。&ldquo;既还，五月二十有五日，道人王志明至自秦州，传旨：&lsquo;改北宫仙岛为万安宫，天长观为长春宫，诏天下出家善人皆隶焉。且赐以金虎牌，道家事一仰神仙处置。&rsquo;&rdquo;第三次是&ldquo;门人拈香拜别，众欲哭临。侍者张志素、武志摅等遽止众曰：&lsquo;真人适有遗语令门人宋道安提举教门事，尹志平副之，张志松又次之，王志明依旧勾当。宋德方、李志常等同议教门事。&rsquo;&rdquo;</span><span>36</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">当时王志明的职务应该是全真道与蒙古国王室之间的信使。这个职务的人选要求很高，一要了解丘处机，在王室内部能够代表丘处机发言；二要与王室保持良好的关系。要达到以上要求，就必须具备两个特点：一要道行高，二要能言善辩。丘处机在世时让王志明担任这个职务，仙逝时又遗言，要他&ldquo;依旧勾当&rdquo;，显然丘处机对他的工作比较满意。据此推测，王志明应该是一位道业通辩之人。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;　（四）都曾师从丘处机</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　除了以上三点之外，他们还有一个共同的特点：都曾跟从丘处机学道。部分人如赵道坚、尹志平、宋德方、于志可、李志常等，在师从丘处机前已投过名师，但是他们后来都曾跟从过丘处机学道，而且与丘处机的关系非常好。其他几位则是长春亲传弟子，夏志诚29岁&ldquo;径诣栖霞太虚观，师礼长春宗师&rdquo;；张志素&ldquo;谒长春于东莱&rdquo;；綦志远15岁&ldquo;辞家礼长春大宗师丘公为师&rdquo;；孟志稳&ldquo;径诣潍州玉清宫，见长春宗师，请为门弟子&rdquo;；潘德冲在尹志平的引荐下拜于丘处机门下。综上可知，十八士都在丘处机门下学过道，与丘处机的关系密切，且都受到丘处机的嘉许。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　当时已经很负盛名的丹阳门人周全阳、赵悟玄；长生门人于道显、崔道演；太古门人王志谨、范圆曦等并没有入选。丘处机不选他们随行，是否有门户之见呢？考诸史料，丘处机弟子中的部分优秀分子也没有入选，比如范全生，他是丘处机早期弟子之一，丘处机西行前将太虚观嘱托于他，丘处机西行期间他重修了太虚观，还在山东大力传教，实为山东玄门的精英人物。于善庆先师从马丹阳，后师从丘长春，也没有入选，而他当时在洛阳一带已极负盛名。由此可见，丘处机并没有门户之见，而是另有隐情。笔者推测原因可能有三。一要考虑当时的弟子是否在身边的问题。因为当时刘仲禄到莱州时已是12月，而出发时是1月18日，过去通信和交通很不方便，所以在短短一个月左右的时间内，要选出一批可堪重任的弟子随侍，确实也是件不容易的事。由于时间紧迫，在遴选时就不可能把范围放得太大，只能局限在山东及周围地区，以便于行程安排。当时十八士的行迹，正佐证了这种推测。赵道坚跟随丘处机归山东时，经过掖县曾去参谒刘长生，后来刘长生又命他到栖霞寻投丘处机，此后一直在丘处机身边。尹志平在潍阳玉清观&ldquo;栖真本观&rdquo;，</span><span>37</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">后陪同刘仲禄去了莱州昊天观。宋德方一直&ldquo;事长春国师于栖霞&rdquo;。</span><span>38</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">夏志诚在&ldquo;栖霞太虚观，师礼长春宗师，参求玄理，遂亲炙左右&rdquo;，亲炙长春左右，应在山东。潘德冲于玉清宫拜丘处机为师后，&ldquo;长春委以焚修之事&rdquo;，</span><span>39</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">当然也在山东。李志常因&ldquo;山东路转运使田琢器之&hellip;&hellip;以书邀至益都&rdquo;，所以也在山东。綦志远&ldquo;奉宗师教，住持莱州昊天观&rdquo;，也在山东。第二个原因可能是出于对年龄问题的考虑，年龄太大的不行，因为此行艰辛，要跋山涉水，年龄太大可能会出意外，比如出发时已57岁的赵道坚就仙逝于西去途中。所以此次随侍丘处机西行者除了赵道坚、宋道安、尹志平超过五十岁，其他从者多为三十多岁的青年得道者。第三个原因可能是出于弘道的考虑。此行路途遥远，用时较长，但是期间中原地区特别是山东及周围地区的弘道事业并不能因此中断，所以就要留下一批优秀弟子继续弘道。所以有一批优秀弟子并未入选西去，如范全生、范志敦等。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">三、十八士为全真教的发展作出了巨大贡献</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　丘处机确为得道高人，此次西去大获成功。不仅他本人被成吉思汗称为&ldquo;神仙&rdquo;，全真道也一举成为了蒙古国承认的道教正宗。全真道迎来了发展史上最好的时期，教团势力迅速扩大，出现了&ldquo;南际淮，北至朔漠，西向秦，东向海，山林城市，庐舍相望，什百为偶，甲乙授受，牢不可破&rdquo;</span><span>40</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">的景象。回到燕京之后，各位随侍者在教内的名望大增，蒙古国太祖二十年（1225）夏，十八士被封为大师。元武宗至大三年（1310）苗道一为全真道掌教，他上奏元朝廷表述十八士为全真道所作贡献，元朝廷封十八士为真人。</span><span>41</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　在获得荣誉的同时，十八士也逐渐成长为教内领袖人物。他们通过各种方式促进了教团发展，为全真道的早期发展作出了巨大贡献。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;　（一）管领教门</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　十八士随侍丘处机归来后，很快成为全真道的实际管理者。丘处机掌教时，宋道安为提举，</span><span>42</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">綦志远&ldquo;总知宫门事&rdquo;，</span><span>43</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">夏志诚&ldquo;主玉虚观事&rdquo;。</span><span>44</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">丘处机仙逝后，十八士之一的尹志平掌教。尹志平掌教时，李志常为&ldquo;都道录兼领宫门事&rdquo;，</span><span>45</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">宋德方&ldquo;实提点之&rdquo;。</span><span>46</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">元太宗十年（1238）尹志平传掌教位于李志常，李志常掌教时，潘德冲为&ldquo;诸路道教都提举&rdquo;、&ldquo;河东南北两路道教都提点&rdquo;，</span><span>47</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">綦志远&ldquo;提点陕西教事&rdquo;。</span><span>48</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">元宪宗六年（1256）李志常传掌教位于其弟子张志敬，张志敬掌教时，孟志稳被&ldquo;授以教门都提点印，俾摄其事&rdquo;。</span><span>49</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">西行归来后，十八士成为全真道的核心成员，他们积极弘教，为全真道的发展打开了新局面。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;　（二）广收门徒</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　丘处机西行归来，受到官方和民间信徒的广泛崇信，大批道教信仰者投至门下。此时随丘处机西行归来的十八士，广收门徒，成为了全真道的弘教主体。&ldquo;甲申岁（1224），（刘志渊）首闻长春国师至自西域，弭节于燕京太极宫，斯时云俦辐凑，不惮重趼，千里参觐。&hellip;&hellip;既领药石，骨肉都融，心释神解，行不知所之，处不知所持，因归礼嗣教清和（尹志平）为引度。&rdquo;</span><span>50</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">此类情况不胜枚举。十八士一时间收了大量门徒。如尹志平门下有刘志渊、马志希、马志通等；李志常门下有张志敬、申志贞、刘超然、樊志应等；宋德方门下有秦志安、祁志诚、何志渊等；綦志远门下有申志信、吴志决等；张志素门下有李志秘；潘德冲门下有刘若水、文志通等。十八士将他们培养成为了弘扬全真道的主力军，为全真道的发展和传承作出了巨大贡献。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;　（三）大建宫观</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　丘处机西行觐见获得巨大成功，全真教几乎成为了蒙古国的国教。全真教在蒙古国统治区，甚至在金宋统治区也迎来了发展的春天。大批地方官员为了显示对蒙古国的支持态度，纷纷向全真道舍道观。十八士抓住时机，投入到接收道观和兴修道观的活动之中。他们借此机会为全真道修建了大批宫观，为全真道创立了多个弘教基地。尹志平接收太平兴国观、神霄宫、玄都观等，</span><span>51</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">命刘志源重修终南山上清太平宫，</span><span>52</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">命刘道宁重修华山云台观等；</span><span>53</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">宋德方重修天坛上方紫微宫；</span><span>54</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">潘德冲大建永乐纯阳宫，并增葺潍阳玉清宫；</span><span>55</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">张志素重修&ldquo;玄元祖庭&rdquo;&mdash;&mdash;亳州太清宫；</span><span>56</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">綦志远建大玄都万寿宫。</span><span>57</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">在以十八士为主力的全真道三代弟子的努力之下，全真道形成了以堂下（燕京长春宫）、祖庭、亳州太清宫、永乐纯阳宫为核心，以山东诸宫观、山西诸宫观、河南诸宫观、甘陕诸宫观为辅翼，点、线、面结合的宫观群落，为全真道在蒙古国时期的全面发展提供了弘教基地，也为全真道教风由苦修向住观修持的转变提供了物质基础。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;　（四）续修《道藏》</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　宋德方续修《道藏》，&ldquo;立局二十有七，役工五百有奇&rdquo;，</span><span>58</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&ldquo;若夫三洞三十六部之零章，四辅一十二义之奥典，仁卿藏经碑文，□真人参校政和、明昌目录之始，至工墨装襮之毕手，其于规度旋斡，靡不编录，读之一过，见其间补完亡缺，搜罗遗逸，直至七千卷焉&rdquo;。</span><span>59</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">前后六年才得完其功。功成之时，太子阔端闻大功告成，封赐宋德方为&ldquo;玄都至道&rdquo;之称。秦志安作《披云仙翁赞》称颂他&ldquo;阐玄化于阴山之外，续琼章于火劫之终&rdquo;。</span><span>60</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">尹志平作为当时全真教掌教也为续修《道藏》作出了贡献，&ldquo;分命披云宋公率众镂道藏经板，不数载而完，所费不赀，而人乐成之，亦师（尹志平）为之张本&rdquo;。</span><span>61</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">战火之后，续修《道藏》为保存道教书籍立下了汗马功劳。在续修过程中，宋德方的弟子秦志安又&ldquo;增入金莲正宗记、烟霞录、绎仙、婺仙等传附焉&rdquo;。这极大地完善了全真道教史。通过续修《道藏》，宋德方、尹志平为全真道的发展和传承，甚至对道教的传承作出了巨大贡献。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　十八士作为全真道的第三代弟子，都是苦修而有所得、道行高深之人。随侍丘处机西行的经历给他们提供了一个更高的平台去弘扬全真道。西行归来后，他们也都积极地投入到收徒建观活动之中，成为蒙古国时期全真道发展的中流砥柱，为全真道的发展作出了不可磨灭的功勋，在全真道发展史上具有重要地位。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">注：</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>1</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;《元史&middot;释老传》。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>2</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　赵卫东：《丘处机&ldquo;一言止杀&rdquo;辨正&mdash;&mdash;兼与杨讷先生〈丘处机&ldquo;一言止杀&rdquo;再辨伪〉一文商榷》，载《丘处机与全真道&mdash;&mdash;丘处机与全真道国际学术研讨会论文集》，北京：中国文史出版社，2008年6月，第127页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>3</span><span>4</span><span>10</span><span>16</span><span>17</span><span>36</span><span>42</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　李志常：《长春真人西游记》卷上，《道藏》，第34册，第481页，第501页，第485页，第485页，第499页，第499页，第499页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>5</span><span>6</span><span>7</span><span>13</span><span>19</span><span>20</span><span>21</span><span>23</span><span>24</span><span>25</span><span>26</span><span>27</span><span>28</span><span>29</span><span>30</span><span>31</span><span>33</span><span>34</span><span>35</span><span>37</span><span>38</span><span>39</span><span>40</span><span>41</span><span>43</span><span>44</span><span>45</span><span>46</span><span>47</span><span>48</span><span>49</span><span>50</span><span>51</span><span>52</span><span>53</span><span>54</span><span>55</span><span>56</span><span>57</span><span>58</span><span>59</span><span>60</span><span>61</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　陈垣：《道家金石略》，北京：文物出版社，1988年6月，第613页，第553页，第567页，第680页，第568页，第568页，第570页，第570页，第553页，第603页，第753页，第547页，第662页，第553页，第555页，第578页，第578页，第578页，第483页，第539页，第547页，第555页，第475页，第729-732页，第662页，第570页，第579页，第613页，第555页，第662页，第553页，第538页，第568页，第519页，第493页，第505页，第555页，第603页，第662页，第486页，第547页，第469页，第568页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>8</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　尹志平：《葆光集》卷中，《道藏》第25册，519页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>9</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　[清]陈铭珪：《长春道教源流》，台北：台北艺文印书馆，1974年，第157页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>11</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　樊光春：《全真道龙门派在西北的传承》，载《丘处机与全真道&mdash;&mdash;丘处机与全真道国际学术研讨会论文集》，北京：中国文史出版社，2008年6月，第458页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>12</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　王宗昱：《金元全真教石刻新编》，北京：北京大学出版社，2005年7月，第109页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>14</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　《终南山祖庭仙真内传》卷下，《道藏》第19册，第528页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>15</span><span>32</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　张广保：《金元全真教史新研究》，香港：青松观出版社，2008年7月，第121页，第129页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>18</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　张广保：《尹志平学案》，济南：齐鲁书社，2010年1月，第43页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>22</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　据《金史》卷一百二《仆散安贞列传》记载，时间当为贞祐初（1213-1214），此时杨安儿占莱州、登州自立为王，与金庭相抗衡。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: right; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">（作者系山东师范大学齐鲁文化研究中心硕士研究生）</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

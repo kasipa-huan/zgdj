@@ -1,0 +1,603 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260400000000000000&targetPage=Fdjxy2">
+						中国道教(2004—2010)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260442000000000000&perPageNum=15&targetPage=Fdjxy3">
+						2010年第6期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	造精微于性理之中 忘荃蹄于言象之外
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	——浅谈《长春刘真人语录》的成书及其思想
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">熊海明</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　本文依据新发现的五十五卷本《元宗博览三十一种》第二十八卷《长春刘真人语录》与其他道书资料互证，在已有的研究基础上，对明初高道刘渊然真人（1351&mdash;1432）的道脉传承进行简要介绍，结合《长春刘真人语录》，对刘渊然真人以净明为修道宗旨，兼取全真北派、金丹南宗之所长的丹道理论，以及其入世济度思想等进行简要论述，以就教于方家。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">一、刘渊然生平履迹及法脉传承</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　&nbsp;（一）生平履迹</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　据《净明宗教录》卷六载，&ldquo;长春刘真人，名渊然，号体玄子，其先徐之萧县人，元至治间，祖伯成，赣州路总管，因家焉。&rdquo;《龙泉观长春真人祠记》记载，刘渊然真人出生前夕，祖母谢夫人梦紫衣道人入其母之室，既觉，家人报其降生。生逾月，受惊得疾，祖父祈祐于玄妙观，许为道士陈方外之徒。年十六遂为道士。</span><span>1</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">《净明宗教录》说他&ldquo;形全神清，有道缘，于是得亲炙赵公（赵宜真，号原阳子），授以净明秘奥，刻志进修，寒暑不懈。每与同辈处，语及修行，辄举忠孝为之主本。原阳闻之，叹曰：&lsquo;此真良器也。&rsquo;携之归金精山。&rdquo;赵原阳授以《玉清宗教》、《无极净明》等书，以及金火返还大丹之诀，能呼召风雷，劾治鬼神，济拔幽爽，无不应验。二十来岁时，专程到龙虎山拜谒四十二代天师，得天师正学。刘真人曾在赣州紫极宫修道受法，在玉虚观炼丹。</span><span>2</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">因为其得赵原阳传《无极净明》，学得净明奥旨，与同辈论道，则举忠孝为修道之本，所以被尊为净明派第六代嗣师。在《逍遥山万寿宫志》中赵原阳为旌阳公五传，刘渊然为旌阳公六传。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　洪武二十六年癸酉（1393），刘真人为明太祖朱元璋召至南京。《明史&middot;方伎传》载其&ldquo;接对清问，深契宸衷，试以道法，灵应赫然&rdquo;，因此被赐为&ldquo;高道&rdquo;，于是朱元璋建西山道院于朝天宫供其居住。后来刘真人持御诏游名山洞府，寻访张三丰真人。《逍遥山万寿宫志》卷五载&ldquo;得乘驿传，游庐山，上鄂渚，至武当，适銮御宾天钧，召还&rdquo;，</span><span>3</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">擢升为道箓司右正一。永乐年间，从明成祖朱棣至北京，升左正一，建金箓大斋七昼夜。后因性情耿直，不久触怒权贵，而被谪至龙虎山，后又谪至昆明黑龙潭龙泉道院。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　刘真人精通典籍，道行高妙，在云南有着很大的影响。如《重建长春观记》所言：&ldquo;滇南自永乐中，刘公渊然以道法显。&rdquo;</span><span>4</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">收邵以正、芮道材、蒋日和等为徒。《龙泉观长春真人祠记》载其在宣德年间&ldquo;奏请立云南、大理、金齿三道纪司以植其教。&rdquo;兴建长春观、真庆观等道场，使得云南道教大兴。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　仁宗洪熙元年（1425）征召真人回北京，居住洞阳观，&ldquo;赐貂裘鹤氅，亲书&lsquo;冲虚至道玄妙无为光范演教长春真人&rsquo;赐之，曰：&lsquo;以此封号，恐不满德&rsquo;。真人顿首谢，力辞，不许，复赐诰，于前封加&lsquo;庄静普济&rsquo;四字，又颁以银章，俾领天下道教事，选乐舞生十人为之徒。&rdquo;</span><span>5</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">宣宗宣德年间，宠眷益隆，赐以法衣宝剑，晋&ldquo;大真人&rdquo;。可见，此时真人地位之崇，已成为显赫一时的全国道教领袖。宣德七年（1432）真人以老辞，乞还南京朝天宫，是年二月宣宗皇帝遣内臣罗智送还，亲作《山水图歌赐长春真人刘渊然归南京》，题诗于其端，并序曰：&ldquo;长春真人刘渊然，事太祖皇帝、太宗皇帝、仁宗皇帝，以至于朕，凡历四朝&hellip;&hellip;今已耄年，志存闲佚，辞归南京。朕重其去也，因取孔子仁智寿乐之旨，援笔作《山水图》赐之，题诗其端，以寓所以眷厚于老成之意云。&rdquo;</span><span>6</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">无论是歌还是序都显露了明宣宗对刘真人眷注之情感。是年八月八日，真人沐浴更衣，集其徒告曰：&ldquo;人以气聚而生，气散而死，生死之理，一而已，&nbsp;吾将逝矣！&rdquo;坐化于朝天宫。讣闻，宣宗遣行人吴惠谕祭，并命工部出资，葬于江宁县安德乡园子冈，命胡俨撰文立碑以表彰真人之功。</span><span>7</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　其门人著名的有邵以正、蒋日和、芮道材、喻道纯、倪正道等，其中成就最大者，当属邵以正真人。刘渊然还朝天宫时，&ldquo;乃留弟子邵以正仍居洞阳，以代祝釐&rdquo;。英宗正统年间，邵以正迁为左正一，获赐&ldquo;守玄冲静高士&rdquo;，主持点校道藏，于正统十年（1445）刊成《正统道藏》。代宗时赐号&ldquo;悟玄养素凝神冲默阐微振法通妙真人&rdquo;。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　&nbsp;（二）法脉传承</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　关于刘渊然真人的法脉传承，《净明宗教录》和《逍遥山万寿宫志》都说他曾亲炙赵宜真，得授净明秘奥。另据资料记载，刘渊然曾在赣州紫极宫修道受法，在玉虚观炼丹。紫极宫、玉虚观都是以许真君为主要信仰的净明派道场。另二十来岁时，专程到龙虎山拜谒四十二代天师，得天师正学。后因触怒权贵而被谪至龙虎山，（清）卢振先等编纂的《贵溪县志&middot;方外》载&ldquo;正一真人张宇初之术，渊然所授也。&rdquo;而其师赵原阳集净明派、清微派、全真北派、南宗道法于一身。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　从以上资料可知刘渊然真人法脉传承，师从赵原阳，兼道教净明、清微、内炼南北宗诸派之传，尤被净明派尊为第六代嗣师。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">二、《长春刘真人语录》成书年代及原因</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　就目前发现的材料来看，刘渊然真人本人没有专门著作，只编了其师赵原阳真人的语录《原阳子法语》，现保存在《正统道藏&middot;太玄部》。而《长春刘真人语录》是其弟子邵以正根据真人刘渊然平时言语，以语录的形式整理编成的，现存于（明）胡文焕编《元宗博览三十一种》，其书共五十五卷，《长春刘真人语录》在第二十八卷。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　关于《长春刘真人语录》的成书时间，可以从书首所载邵以正撰《长春刘真人语录序》中得到确定。其《序》曰：</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　先师之言，简要明白，沿流溯源，达夫至道之极。若宿有仙骨，性躭玄虚，&hellip;&hellip;寻文解悟，乃天之□授也。可以祷雨祈晴，除邪辅正；可以济显渡幽，奏章设醮；可以禳灾治病，可以炼丹修仙。如入宝藏之中，惟人所求，随力祈及，各有所获，言言句句，无非道也。以正佩服师训，亦已有年。窃以之为己，不若公之于人，由是以广其传。盖欲人人体道，咸离迷途，造精微于性理之中，忘荃蹄于言象之外。此则先师平昔开度人天之愿力，而亦区区之本心也。谨识此以□诸同志者云耳。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　正德癸亥秋道录司右演法朝天宫住持兼掌灵济上宫事门弟子邵以正序。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　邵以正《序》末落款所署时间为&ldquo;正德癸亥秋道&rdquo;。笔者根据史料发现&ldquo;正德癸亥&rdquo;有误。首先在正德年间没有癸亥年，只有癸酉年（1513）。再看邵以正生平履历，据《通妙真人祠堂记》，&nbsp;&ldquo;真人姓邵氏，讳以正，别号止止道人，又号承康子&hellip;&hellip;真人先世家姑苏，洪武中，父母迁滇南&rdquo;，&ldquo;自幼丰神秀颖，警悟过人，&hellip;&hellip;时长春真人倡道于滇，真人往更之从，其居距长春所凡三涉水，日以为常。长春嘉其勤恳，悉以道秘授之。&hellip;&hellip;已而长春入京，领天下道教，而真人亦被召。自道录司右至灵，历右演法、左正一，进守玄冲静高士，而至今封&rdquo;。</span><span>8</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">宣德七年（1432）刘渊然以老辞，乞还南京朝天宫时，推荐邵以正代领祝釐之事于朝，由左玄义升为至灵。正统九年（1444）十月&ldquo;命道录司右演法邵以正点校《道藏》于禁中&rdquo;。</span><span>9</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">由此可知在正统九年以前已任右演法。&ldquo;正统十二年（1447）升左正一&rdquo;。</span><span>10</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">天顺六年（1462）八月二十日&ldquo;悟玄养素凝神冲默阐教振法通妙真人邵以正卒&rdquo;。</span><span>11</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">后赐葬于北京城西，五华山之阳。由上可见，正德当为正统。因为正统癸亥是正统八年（1443），此时邵以正还是道录司右演法，至正统十二年升左正一。这也与序末落款&ldquo;道录司右演法&rdquo;相合。而正德年间，邵以正已经羽化四十多年了。因此，笔者认为&ldquo;正德&rdquo;二字，当是胡文焕刊刻时所误，而《长春刘真人语录》的成书时间应在明正统八年（1443）之前。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　&nbsp;&nbsp;《长春真人语录》一书是邵以正根据其师长春真人刘渊然平时言语加以整理而成。此书的印发是针对当时一些人曲解道家金丹南宗双修思想，进行淫乱之事，败坏道风而作。序文说，先师之言，简要明白，达夫至道之极，乃天之降授。可以祷雨祈晴，除邪辅正，可以济显渡幽等等。所说的每句话都是&ldquo;道&rdquo;之理也，针对当时利弊，公之于人，首在以正视听，再则以广其传，弘道宣教。这是刘真人的心愿，也是他之本心。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">三、修道特色与丹道思想</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　《长春刘真人语录》内容看似很零散，为刘真人对二十七个问题所做回答与解释，篇幅虽不大，区区四千字，但每一段话针对性都很强，内容相当丰富。其二十七个问题分别为：</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　道者何也</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　人要如何进修</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　修持之士将何立根本</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　人能清静天地悉皆归何以致清静</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　性命之理</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　长生之道可得闻乎</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　金丹大药果为何物</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　药用先天采有时节</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　鼎器之旨</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　火候之法</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　玄牝之旨</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　何谓五炁朝元</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　如何是主宾</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　何为沐浴</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　温养之法</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　脱胎之理</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　按摩导引气诀等法可得长生否</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　凝神守一之要</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　如何断除其妄欲念</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　心有真妄何谓真心何谓妄心</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　身中三宝何物也</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　守中之理</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　清静法身</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　存心养性说</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　修真谢罪之法</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　天堂地狱果有果无</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　学道九祖生天此语信否</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　从以上所引的二十七个问题来看，可以归纳为三个方面的内容：</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　第一部分，是刘渊然真人对修道的根本是什么、要如何进修等问题作的解释。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　刘渊然真人首先对&ldquo;修道，道者何也&rdquo;做了一个详细解释。刘渊然真人说&ldquo;道本无形无名，无声无色，非高非下，非有非无，寂寂杳冥，不生不灭，亘古亘今，其大无外，其小无内&hellip;&hellip;天地由之而生，万物由之而化&rdquo;。在此他对&ldquo;道&rdquo;的概念做了一个基本描述，认为道是不生不灭的，是无形无名，无声无色，不可以名相的，但却又无所不包，天地万物由此而化生，道是宇宙自然运转的原动力和规律。所以刘渊然真人认为谈道、修道而不知&ldquo;道&rdquo;的内涵，那就根本谈不上修道。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　在&ldquo;以何为根本&rdquo;的问题上，刘渊然真人说&ldquo;斋戒者，道之根本，法之津梁&rdquo;。此处&ldquo;斋&rdquo;不只是设供斋和节食斋，更重要的是心斋。所以他说&ldquo;子欲学道，清斋奉戒，念念正真，远离尘垢，此要言也。法子须当猛省，割其欲根，除烦恼障，清静身心，以立根本&rdquo;。也就是说学道之士不但要清斋奉戒，更重要的是远离尘垢，清静身心，复归于最朴真的&ldquo;婴儿&rdquo;状态，这才是修道之根本。接下来告诉修道者为什么要清静身心、如何清静。真人说：&ldquo;人人本来清静，只因主人无觉照，被物欲所牵，声色汩于外，情欲荡于内，颠倒梦想，无由渐息，所以不能清静。&rdquo;正如《净明忠孝全书》所说的，人的真性是光明的，上与天通，但人出生以来，渐渐熏染了种种世俗习性，纵忿恣欲，被物欲所牵，真性则渐渐被蒙蔽了，所以不能清静。那要如何才可以致清静？真人说，&ldquo;若能一切断除，舍妄归真，&hellip;&hellip;一尘不染，一物不留&rdquo;，做到这样则&ldquo;常清常静&rdquo;。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　那么要&ldquo;如何进修&rdquo;呢？刘渊然真人说：&ldquo;学道者，先当务忠孝，以报君亲之恩。盖忠孝乃大道本。&rdquo;在此认为忠孝是大道之根本。刘真人所说的忠孝已经超越世俗的伦理纲常之义，而是上升到了修仙道的范畴。《净明忠孝全书&middot;净明大道说》言：&ldquo;人当忠孝而答君亲之恩。忠孝，大道之本也，是以君子务本，本立而道生。&rdquo;这里是将&ldquo;忠孝&rdquo;作为一种修炼&ldquo;心性&rdquo;、追求&ldquo;净明&rdquo;境界的求仙之法门。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　对于&ldquo;忠&rdquo;字，《净明忠孝全书&middot;玉真先生别集》说：&ldquo;忠者，忠于君也，心君为万神之主宰，一念欺心，即不忠也。&rdquo;&nbsp;在此&ldquo;忠&rdquo;是修炼心性的基本功夫，而且是&ldquo;正心诚意&rdquo;地忠于自己的心君。步步要上合于天心，这种心才是&ldquo;真心&rdquo;，才能&ldquo;仰不愧于天，俯不愧于人，内不怍于心&rdquo;。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　&ldquo;孝&rdquo;也非只是孝敬于世俗父母。当有弟子问&ldquo;事亲之礼，冬温夏清，&hellip;&hellip;无不尽心，可得谓之孝乎？&rdquo;《净明忠孝全书&middot;中黄先生问答》说：&ldquo;此是孝道中一事耳。当知有就里的孝道，不可不行持。大概吾身是父母遗体，但向行住坐卧十二时中善自崇护，不获罪于五脏，方可谓之至孝。&rdquo;也就是说侍奉父母不过是孝道内容之一，而最高的孝道乃是不获罪于五脏。如何才能不获罪于五脏？《中黄先生问答》说，人饮酒过度，广杀物命，滋味求奇，会获罪于脾脏。色欲偏重，亡精灭神，获罪于肾脏。纵嗔念，动不动使血气不中节，甚至嗔忿忘身，令人心昏目乱，则获罪于肝肺二脏等等。所谓获罪于五脏其实就是破散五脏之元气，而不获罪于五脏就是不伤五脏之元气。所以真忠至孝就是&ldquo;珍啬元气，深知天命，长养道胎，继续正脉。&rdquo;</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　刘真人把&ldquo;忠孝&rdquo;作为学道之基、修仙之梯，认为如果不本忠孝而能成道者，是闻所未闻的。为了进一步说明，刘真人援引净明派法师洞真先生胡慧超的话说：&ldquo;修仙之要，不在参禅问道，入林山炼形，惟在忠孝为先。&rdquo;认为&ldquo;天上人间，哪有不忠不孝的神仙&rdquo;？</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　第二部分，刘真人对内丹修炼的一些问题作了针对性的回答。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　这部分是《长春刘真人语录》最主要的部分，篇幅也最大。其主要内容是对性命之理、金丹大药为何物、采药时节、火候之法、玄牝之旨、何谓五炁朝元、如何是主宾、何为沐浴、温养之法、脱胎之理、按摩导引气诀等法可得长生否、凝神守一之要、如何断除其妄欲念、心有真妄何谓真心何谓妄心、身中三宝为何物等十五个问题的回答。通过对这些问题的解答，可以看出其丹道思想渊源所在。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　《长春刘真人语录》援引了很多南宗祖师的经文。如在&ldquo;药用先天，采有时节&rdquo;这个问题上，刘真人援引紫阳真人张伯端的《悟真篇》：&ldquo;铅遇癸生须急采，金逢望远不堪尝。&rdquo;认为采先天之药的时节不能只看时辰，而是根据自身的节令，一阳来复之时，先天之精还没有落入后天之时，将其采入鼎炉，也就是丹经说的&ldquo;活子时&rdquo;，这个时候是采药老嫩之至理。在&ldquo;火候之法&rdquo;问题上援引《悟真篇》的话&nbsp;&ldquo;真火无候，大药计斤&rdquo;。也认为火候是根据自身情况，并没有&ldquo;子午卯酉之分&rdquo;，&ldquo;无二至（夏至、冬至）弦望之说&rdquo;。又援引刘海蟾祖师《证道真机》之语&nbsp;&ldquo;开阖乾坤造化机，锻炼一炉真日月&rdquo;来说明这是乾坤造化之机，火候之至言。这些是&ldquo;若遇真师口诀方知&rdquo;。在&ldquo;身中三宝何物&rdquo;问题上，刘真人援引《翠虚篇》&ldquo;大药须凭神炁精，采来一处结交成&rdquo;一语来说明，按此方法&nbsp;&ldquo;存而炼之，养而全之&rdquo;，则能达到&ldquo;精全可以保其身，炁全可以养其心，神全可以成其真&rdquo;。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　当问到&ldquo;玄牝之旨&rdquo;时，刘真人说：&ldquo;玄牝者天地之根，造化之宗，太极之蒂，混沌之源。&rdquo;援引全真北宗吕祖之言&ldquo;自古神仙无巧妙，只凭玄牝立根基&rdquo;。并引七真之言&ldquo;炼丹修仙，非玄牝则不立，采药非玄牝则不成&rdquo;。进一步说明修仙炼丹需要懂得玄牝之理。这是&ldquo;仙圣不传之秘，天宝至重，玄律甚严&rdquo;，不可泄慢，名师无高徒不可传，以免所传非人，不然的话会&ldquo;泄慢堕地狱，祸及七祖翁&rdquo;。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　明朝是内丹学非常繁荣的时期，此时内丹学理论已经越来越明晰，但概念上还是有一些缺陷。特别是一些人曲解双修派理论，言阴阳和合而成道，谬举三峰采战之说，更有甚者利用双修理论进行淫乱之事，受到社会的垢病。针对于此，刘渊然真人在《长春刘真人语录》中加以指正和批判。刘真人说修仙道者当知修真之机，不要流于旁门左道，乱神耗精，背真就伪。并引薛道光祖师语，曰：&ldquo;若说采阴之法，即是徘徊大道，九祖永沉下鬼，自身恶鬼根，戒之慎之。&rdquo;&nbsp;就是说若用采阴之法会祸及九祖下沉为鬼。从养生角度上说，&ldquo;妄以邪术诳惑愚迷，以女人为鼎器，乖误天理，败道误人，本期延寿，反戕其生&rdquo;。为此刘真人就&ldquo;鼎器之旨&rdquo;专门做了介绍：&ldquo;真人曰：玄关一窍，神气归藏之府，乃鼎也；器在乾下坤上，震西兑东，一身天地之正中。&rdquo;道教认为一阴一阳之谓道，万物皆有阴阳，所以修习铅汞之术，取坎填离，阴阳交媾在自身就可以完成。引用其师赵原阳之语&ldquo;自家身里有夫妻&rdquo;和南宗祖师石泰《还元篇》&ldquo;自家燮理内阴阳&rdquo;来加以说明这个问题。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　针对当时一些双修派&ldquo;但以全真为名，不务本宗，不明大道，以戕生之术为养生之方&rdquo;，曲解丹经中的阴阳思想，&ldquo;教人房中御女，三峰采战，以女人为鼎器，天癸为药物，铸雌雄，制闭尾闾关&rdquo;，刘真人认为这是在以盲引盲，非长生之道，乃促命之法，都是一些邪术。他提醒修仙道之士：&ldquo;习邪门，专务采阴种种邪术，似蛾投火，自取灭亡。&rdquo;须知&ldquo;竹破须将竹补宜&rdquo;，阴阳采补与交媾都是在自家身里完成的，&ldquo;岂外吾身而求之他人哉&rdquo;！最后他援引《黄庭经》言&ldquo;戕生至慎房中急，胡为误作令神泣&rdquo;来告诫世人，莫做令神泣之事，须知&ldquo;错路教人行，永劫堕迷津&rdquo;，所以&ldquo;明达之士可不戒哉&rdquo;！</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　通过以上分析，可以看出刘真人丹道学说吸取了全真北派、金丹南宗之所长，主张性命双修。以净明忠孝为修道之基，辅以命功。主张清修，反对房中术。这是其丹道特色之一。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　第三部分，刘渊然真人强调&ldquo;欲修仙道，先修人道，人道立而仙道成&rdquo;。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　&ldquo;人道&rdquo;就是要加强自身的道德修养，仰不愧于天，俯不愧于人，内不怍于心，做世间上品好人。正如《净明忠孝全书&middot;玉真先生内集》&nbsp;说：&ldquo;每见世间一种号为学道之士，十二时中使心用计，奸邪谬僻之不除，险诐倾侧之犹在，任是满口说出黄芽白雪，黑汞红铅，到底只成个妄想去，所以千人学万人学，终无一二成。&rdquo;就是说如果不修德行，把命功做得再好，想成仙道也只是妄想，终无一二成。刘真人又认为修&ldquo;德&rdquo;要以&ldquo;孝&rdquo;为先。他说：&ldquo;父母之身，天尊之身，能事父母，天尊降临。&rdquo;如前文所说，&ldquo;孝&rdquo;不只是世俗之孝，还有&ldquo;珍啬元气&rdquo;的内涵。所以做好&ldquo;孝&rdquo;，能够&ldquo;不待祈福于天，自然学道得道，求仙得仙&rdquo;。反之，则&ldquo;虽朝夕看经不辍，亦徒然耳&rdquo;&nbsp;。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　他在&ldquo;天堂地狱，果有果无&rdquo;这个问题的回答中，阐明了&ldquo;善恶&rdquo;的关系。刘真人认为&ldquo;天堂地狱即善恶二字&rdquo;，认为世人积善属阳，阳气上浮；积恶属阴，阴气下堕。所以&ldquo;为善而享福，即天堂；作恶而受祸，即地狱&rdquo;。善恶之报，天堂地狱，只在人的一念而已。以此来警示世人，不只是修仙道要广种福田，为人之道也是如此，不然堕入地狱还要殃及九祖。只有学道修德才能使九祖沾福而升天，为此他举例说：&ldquo;昔日许都仙真君，行满功成，名高玉籍，庆及宗祖，福及一门仙眷，四十二口白日上升。历代成仙者，祖宗皆列仙品。&rdquo;劝学道者&ldquo;当取以为法&rdquo;。既要进道，便要福慧相须，不可偏废，二者缺一不可。专慧废福，即使能够度脱生死轮回，得道成仙，但未种福缘，也不免会出现艰难状况，使身心不清静；反之，专福废慧，即使能够济世度人，广行方便，但受限于未证以道果，因此也摆脱不了生死轮回。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">　　《长春刘真人语录》是笔者偶得于国家图书馆，不见于《正统道藏》、《万历续道藏》、《藏外道书》等大型道教典籍。其书得以行世，首先与真人在当时影响有关，更得益于其门人弟子传承与发扬。刘真人是明代高道，为一时道门领袖，又是净明派的六世嗣师，其弟子著名者亦不少，他的法言，应当有比较广泛的影响。但目前由于相关材料的不足，还不能具体的呈现其客观的影响范围。这就有待于我们今后对刘渊然真人的相关事迹，以及他的徒子徒孙们的行迹作进一步的研究。本文只是结合《长春刘真人语录》的内容，对刘渊然真人的言与行作了简要的介绍，期能抛砖引玉，引起专于此道的方家关注。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">注：</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>1</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">陈垣：《道家金石略》，文物出版社，1988年，第1261页。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>2</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">周建华：《刘渊然与赣南客家道教》，载《中国道教》，2006年第1期。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>3</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">《藏外道书》第20册，巴蜀书社，1992年，第730页。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>4</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">见明代万历年间《云南通志》。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>5</span><span>7</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">《净明宗教录》卷六《长春刘真人传》。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>6</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">（清）张豫章等奉敕编：《御选宋金元明四朝诗》卷一，见《文渊阁四库全书》。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>8</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">《通妙真人祠堂记》，收入陈垣《道家金石略》，第1266页。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>9</span><span>11</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">《明实录&middot;英宗实录》。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>10</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">顾寿芝编纂：《雩都县志》。</span><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: right; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: ’宋体’; FONT-SIZE: 12pt; mso-spacerun: ’yes’">（作者系中国道教学院研究生班学员）</span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

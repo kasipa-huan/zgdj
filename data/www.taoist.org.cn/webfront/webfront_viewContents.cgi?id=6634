@@ -1,0 +1,576 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260200000000000000&targetPage=Fdjxy2">
+						中国道教(1987—1997)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260221000000000000&perPageNum=15&targetPage=Fdjxy3">
+						1992年第1期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	道教义理与《韩非子》
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">李养正</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《韩非子》，古题韩非撰。韩非是战国末期一位杰出的思想家，是先秦法家政治思想的集大成者。现存古籍中，记载有韩非生平事迹的有<font face="Times New Roman">:</font><font face="宋体">《史记&middot;老庄申韩列传》、《秦始皇本纪》、《韩世家》、《六国表》、《战国策&middot;秦策》、《论衡&middot;祸虚篇》、《论衡&middot;案书篇》。据《史记&middot;老庄申韩列传》谓</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;韩非者，韩</font><font face="Times New Roman">(</font><font face="宋体">战国时诸侯国名，位于今河南中、西部和山西东南部</font><font face="Times New Roman">)</font><font face="宋体">之诸公子也。喜刑</font><font face="Times New Roman">(</font><font face="宋体">通形</font><font face="Times New Roman">)</font><font face="宋体">名法术之学，而其归本于黄老。&rdquo;非善著书，&ldquo;观往者得失之变，故作《孤愤》、《五蠹》、《内外储》、《说林》、《说难》十余万言&rdquo;。有人传其书到秦国，秦始皇很欣赏韩非的书，说</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;嗟乎，寡人得见此人与之游，死不恨矣</font><font face="Times New Roman">!</font><font face="宋体">&rdquo;李斯与韩非都曾是荀子的学生，李斯告诉秦始皇，&ldquo;此韩非之所著书也。&rdquo;秦因急攻韩，韩王安遣非使秦，后因李斯、姚贾的陷害，终死于秦。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《汉书&middot;艺文志》法家著录《韩非子》五十五篇，《隋书&middot;经籍志》子部《韩非子》二十卷，《唐书&middot;经籍志》以下所记《韩非子》卷数均一与《隋书》同。今传本《韩非子》俱二十卷，五十五篇，与《汉书》、《隋书》卷、篇数相合。古今传本虽卷、篇数相同，但内容是否完全一致<font face="Times New Roman">?</font><font face="宋体">《韩非子》是否韩非一人之作</font><font face="Times New Roman">?</font><font face="宋体">自来众说纷纭。学术界多以《韩非子》篇数杂乱，材料芜杂，有些篇章不是韩非著作。《古史辫》四容肇祖《韩非子著作考》谓</font><font face="Times New Roman">:</font><font face="宋体">确为韩非所作者有《五副蠧》、《显学》、《难势》、《问辩》、《诡使》、《心度》</font><font face="Times New Roman">;</font><font face="宋体">黄老道或道家言混入于《韩非子》书中的有《解老》、《喻老》、《主道》、《扬权》，纵横家或游说家混入于《韩非子》书中的有《说难》、《内储说上&middot;七术》、《内储说下&middot;六微》、《外储左上》、《外储左下》、《外储说右上》、《外储说右下》</font><font face="Times New Roman">;</font><font face="宋体">他家言法可确定为不是韩非所作的有《有度》</font><font face="Times New Roman">;</font><font face="宋体">与韩非有关系的记载因而混入《韩非子》书中的有《存韩》、《问田》，司马迁指为韩非所作而未可遽信的有《孤愤》、《说林》，文著&ldquo;非&rdquo;名似尚有可疑的有《难言》，似是韩非所作而后段搀杂他人之文的有《姦劫弑臣》</font><font face="Times New Roman">:</font><font face="宋体">其馀《爱臣》、《二柄》、《八姦》、《十过》、《和氏》、《亡徵》、《三守》等等，均疑未能定。梁启雄《韩子浅解》认为</font><font face="Times New Roman">:</font><font face="宋体">《孤愤》、《五蠧》、《内外储说》</font><font face="Times New Roman">(</font><font face="宋体">六篇</font><font face="Times New Roman">)</font><font face="宋体">、《说林》、《说难》等十篇为韩非真作品，《显学、《定法》、《难势》、《难一》、《难二》、《难三》、《难四》似是韩非作品，《南面》、《说疑》、《问辩》、《六反》、《诡使》、《八经》、《八说》、《和氏》、《姦劫弑臣》、《难言》、《亡徵》、《喻老》、《爱臣》、《心度》、《三守》、《备内》、《饰邪》、《八姦》等十八篇不像伪作，《主道》、《扬权》文体不同而思想体系相同，似乎不是伪作，《解老》、《问田》是韩子真篇，但中段或后段有后人的增补作品加入，《十过》、《用人》、《安危》、《功名》、《忠孝》、《大体》、《守道》、《观行》、《制分》等九篇疑为后人增益的作品。认为《韩非子》确是真伪混杂，但真多伪少。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《韩非子》一书内容之混杂，在西汉司马迁撰《史记》之前便已形成，关于其篇章真伪考辩，不属本文所讨论的范围，我们这里只是探讨东汉产生的道教与《韩非子》思想的关系。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;韩非是先秦法家政治思想的集大成者，坚决主张法治，《韩非子&middot;有度》说<font face="Times New Roman">:</font><font face="宋体">&ldquo;国无常强，无常弱。奉法者强则国强，奉法者弱则国弱。&rdquo;他继承和发展了商鞅治秦的法治说学，采用了申不害的术治思想和慎到的势治学说。三者结合，形成了以法治为中心，法、术、势相结合运用的政治思想体系。韩非生当百家争鸣之时，因此他也受到当时诸家学派的影响，而融吸有道家、儒家、墨家等学派的思想，在哲学思想方面，《管子》及黄老思想对他有较大影响。韩非&ldquo;喜刑名学术之学，而其归本于黄老&rdquo;，这是说韩子是以黄老哲学为其立论的根本依据的。正因为这样，故后世道教颇重《韩非子》，把它收进了《道藏》。《韩非子》内容广泛，后世道教吸取其思想资料，主要是在哲学思想方面，而且主要是《解老》、《喻老》、《主道》、《守道》、《扬权》、《大体》等，特别是前三篇。因《解老》是对《老子》的解释，是我国哲学史上解释《老子》的第一篇文章</font><font face="Times New Roman">;</font><font face="宋体">《喻老》是列举史事来比喻《老子》的微妙意思和借用历史故事来阐发《老子》思想，《主道》是把《老子》虚静无为的哲学思想运用于政治。黄老之学本兼养生及君人南面之术两方面，韩非&ldquo;归本黄老&rdquo;，主要体现在把黄老虚静无为之学与政治相联系，这与法家启蒙思想家管仲的政治思想是相似的。凡古代学术思想有归本黄老迹象者，后世道教莫不奉为先哲之作，这是道教自文教义的一贯作法，韩非首扬《老</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">子》，当然要加以注重。下面仅就道教所关注《韩非子》中的思想资料，来说明两者之间的思想联系。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">一</font><font face="Times New Roman">)</font><font face="宋体">《韩非子》对&ldquo;道&rdquo;的解释与发挥</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《老子》哲学思想中抽象的&ldquo;道&rdquo;，本包含有&ldquo;道&rdquo;是&ldquo;先天地生&rdquo;的宇宙本体与&ldquo;周行不殆&rdquo;的规律的双重意义。《韩非子》对&ldquo;道&rdquo;的解释也基本上是这样。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《主道》<font face="Times New Roman">:</font><font face="宋体">&ldquo;道者，万物之始，是非之纪也。是以君守始以知万物之源，治纪以知善败之端。&rdquo;&ldquo;道在不可见，用在不可知。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》<font face="Times New Roman">;</font><font face="宋体">&ldquo;道者，万物之所然也，万理之所稽也。理者，成物之文也</font><font face="Times New Roman">;</font><font face="宋体">道者，万物之所以成也。&rdquo;&ldquo;天得之以高，地得之以藏，维斗得之以成其威，日月得之以恒其光，五常得之以常其位，列星得之以端其行，四时得之以御其变气，轩辕得之以擅四方，赤松得之与天地统，圣人得之以成文章。&hellip;&hellip;以为近乎，游于四极</font><font face="Times New Roman">;</font><font face="宋体">以为远乎，常在吾侧</font><font face="Times New Roman">;</font><font face="宋体">以为暗乎，其光昭昭</font><font face="Times New Roman">;</font><font face="宋体">以为明乎，其物冥冥</font><font face="Times New Roman">;</font><font face="宋体">而功成天地，和化雷霆，宇内之物，恃之以成。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《扬权》<font face="Times New Roman">:</font><font face="宋体">&ldquo;夫道者弘大而无形&rdquo;。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;以上均以&ldquo;道&rdquo;为神秘之宇宙本体。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》<font face="Times New Roman">:</font><font face="宋体">&ldquo;圣人观其玄虚，用其周行，强字之曰&lsquo;道&rsquo;，然而可论。&rdquo;这里&ldquo;周行&rdquo;，即周旋运行之规律。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《韩非子》据《老子》&ldquo;道可道，非常道&rdquo;句，析出&ldquo;常道&rdquo;与&ldquo;非常道&rdquo;，即&ldquo;不可道&rdquo;与&ldquo;可道&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》<font face="Times New Roman">:</font><font face="宋体">&ldquo;唯夫与天地之剖判也俱。生，至天地之消散也不死不衰者，谓&lsquo;常&rsquo;而常者，无枚易，无定理。无定理，非</font><font face="Times New Roman">(</font><font face="宋体">应为&ldquo;而&rdquo;</font><font face="Times New Roman">)</font><font face="宋体">在于常，是以不可道也。&rdquo;意即与天地俱生而无衰亡、无变易、无形象之分的是守恒不易的&ldquo;常道&rdquo;。&ldquo;常道&rdquo;是&ldquo;不可道&rdquo;其理的。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》<font face="Times New Roman">:</font><font face="宋体">&ldquo;夫物之一存一亡，乍死乍生，初盛而后衰者，不可谓&lsquo;常&rsquo;。&rdquo;凡物所禀之&ldquo;道&rdquo;，与物共生灭，有变易，&ldquo;不得不化，故无常操&rdquo;，不是永恒的，所以是&ldquo;非常道&rdquo;，是&ldquo;可道&rdquo;其理的&ldquo;道&rdquo;，</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《韩非子》对老子&ldquo;道&rdquo;的发挥，即&ldquo;常道&rdquo;与&ldquo;非常道&rdquo;的哲学思想，到唐代为道教学者王玄览所承袭和阐发，认为&ldquo;常道&rdquo;生天地，天地能长久<font face="Times New Roman">;</font><font face="宋体">&ldquo;可道&rdquo;</font><font face="Times New Roman">(</font><font face="宋体">非常道</font><font face="Times New Roman">)</font><font face="宋体">生万物，万物有生灭。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;王玄览《玄珠录》中说<font face="Times New Roman">:</font><font face="宋体">&ldquo;道能遍物，即物是道。物即生灭，道亦生灭。为物是可，道皆是物。为道是常，物皆非常。&rdquo;为物之道有生灭，系&ldquo;可道&rdquo;而非&ldquo;常道&rdquo;。又说</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;可道为假道，常道为真道。若住于常者，此常会是可。何者</font><font face="Times New Roman">?</font><font face="宋体">常独住常而不遍可，故此常对可，故其常会成可。&rdquo;&ldquo;不但可道可，亦是常道可</font><font face="Times New Roman">;</font><font face="宋体">不但常道常，亦是可道常。皆是相因生&rdquo;。两者是辩证关系。又说</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;常道本不可，可道则无常。不可</font><font face="Times New Roman">(</font><font face="宋体">道</font><font face="Times New Roman">)</font><font face="宋体">生天地，可道生万物。有生则有死，是故可道称无常。无常生其形，常法生其实。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;王玄览据此论修道之途径，认为众生与道有密切关系，修得&ldquo;真道&rdquo;，便可长生不死。如何修得真常之道<font face="Times New Roman">?</font><font face="宋体">&ldquo;道应内求&rdquo;，求得常清静之&ldquo;识体&rdquo;即可。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">二</font><font face="Times New Roman">)</font><font face="宋体">《韩非子》对&ldquo;德&rdquo;的解释与发挥</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《韩非子》对&ldquo;德&rdquo;作了多方面的解释与发挥，后世道教亦多宗仰之。如<font face="Times New Roman">:</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》<font face="Times New Roman">:</font><font face="宋体">&ldquo;德者，内也</font><font face="Times New Roman">;</font><font face="宋体">得者，外也。&rdquo;认为&ldquo;德&rdquo;是人性之内涵，而&ldquo;得&rdquo;是指从外物所获得的因素。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》<font face="Times New Roman">:</font><font face="宋体">&ldquo;&lsquo;上德不德</font><font face="Times New Roman">(</font><font face="宋体">得</font><font face="Times New Roman">)</font><font face="宋体">&rsquo;，言其神不滛于外也。神不滛于外则身全，身全</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">之谓德。&rdquo;意谓人的内在精神不放耗于外物，保持身体的纯全，便是德，或称上德。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》<font face="Times New Roman">:</font><font face="宋体">&ldquo;凡德者以无为集，以无欲成，以不思安，以不用固。为之欲之，则德无舍，德无舍则不全。&rdquo;意谓&ldquo;德&rdquo;乃是无为、无欲集成的，不思索则安静，不用力则坚固。如果为之欲之，便使&ldquo;德&rdquo;无止聚之处。又说</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;虚则德盛，德盛之谓上德。故曰&lsquo;上德无为而无不为&rsquo;也。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》<font face="Times New Roman">:</font><font face="宋体">&ldquo;道有积而德有功，德者道之功。&rdquo;意谓&ldquo;德&rdquo;即积聚之道功。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》<font face="Times New Roman">:</font><font face="宋体">&ldquo;柢也者，木之所以建生也</font><font face="Times New Roman">;</font><font face="宋体">曼根者，木之所以持出也。德也者，人之所以建生也&rdquo;，&ldquo;深其根、固其柢，长生久视之道也。&rdquo;&ldquo;德&rdquo;与人犹如根之与树，修德积德才能长生。&ldquo;德&rdquo;是生命之根。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》<font face="Times New Roman">:</font><font face="宋体">&ldquo;鬼不祟人则魂魄不去，魂魄不去则精神不乱，精神不乱之谓有德。&rdquo;&ldquo;德&rdquo;即精神安宁不乱。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》<font face="Times New Roman">:</font><font face="宋体">&ldquo;身以积精为德，家以资财为德，乡国天下皆以民为德。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《扬权》<font face="Times New Roman">:</font><font face="宋体">&ldquo;夫道者弘大而无形，德者覈理而普至。&rdquo;&ldquo;德&rdquo;指事物所遍具的性能。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《扬权》<font face="Times New Roman">:</font><font face="宋体">&ldquo;道不同于万物，德不同于阴阳。&rdquo;因为阴阳有消长，而内涵之德不是指阴阳之变。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;总的来说，&ldquo;德&rdquo;是人性之内涵，虚其心，无为无欲，神不外耗外逸，则能积精为德，长生久视。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;后世道教义理，在&ldquo;德&rdquo;的解释与发挥上大多宗仰《韩非子》的解释。如<font face="Times New Roman">:</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《道教义枢》<font face="Times New Roman">:</font><font face="宋体">&ldquo;德言德者，谓得于道果。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;唐玄宗《道德经注序》<font face="Times New Roman">:</font><font face="宋体">&ldquo;道之在我&rdquo;就是&ldquo;德&rdquo;。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《太上老君内丹经》<font face="Times New Roman">:</font><font face="宋体">&ldquo;修生之法，保身之道。因气安精，因精养神，神不离身，身乃长健。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《太上老君说常清静经》<font face="Times New Roman">:</font><font face="宋体">&ldquo;上德不德，下德执德，执著之者，不名道德。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《高上玉皇心印妙经》<font face="Times New Roman">:</font><font face="宋体">&ldquo;人各有精，精合其神，神合其气，气合其真。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《元气论》<font face="Times New Roman">:</font><font face="宋体">&ldquo;夫养生之要，先诫其外，后慎其内，内外寂静，此谓善入无为也。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《坐忘论》<font face="Times New Roman">:</font><font face="宋体">&ldquo;心不受外，名日虚心</font><font face="Times New Roman">;</font><font face="宋体">心不逐外，名曰安心，心安而虚，则道自来止。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《云笈七签&middot;七部语要》<font face="Times New Roman">:</font><font face="宋体">&ldquo;将全其形，先在理神。故恬和养神则自安于内，清虚栖心则不诱于外也。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《老君清净心经》<font face="Times New Roman">:</font><font face="宋体">&ldquo;道之所以能得者，其在自心&rdquo;。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;总之，道教对&ldquo;德&rdquo;的解释是强调内修心性。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">三</font><font face="Times New Roman">)</font><font face="宋体">将盛静无为的哲学思想运用于政治</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《老子》的哲学思想本与其社会思想和政治理论紧密联系，《韩非子》领会和把握了这一思想实质，每从法家角度，把《老子》思想进一步与政治相联系，也就是说用法、术、势的观点阐发《老子》。《老子》第十六章中说<font face="Times New Roman">:</font><font face="宋体">&ldquo;致虚静、守静笃。万物并作，吾以观复。&rdquo;而《韩非子》则以&ldquo;道在不可见，用在不可知，虚静无事，以图见疵&rdquo;的权术思想来加以阐发。认为君主要不露声色，不要使群臣知晓自己的意图，虚静地去那察臣下的毛病。《主道篇》便集中讲了如何控制、使用臣下的权术思想。说</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;道者，万物之始，是非之纪也。是以明君守始以知万物之源，治纪以知善败之端。故虚静以待令，令名自命也，令事自定也。虚则知实之情，静则知动者正。形名参同，君乃无事焉，归之其情。故曰</font><font face="Times New Roman">:</font><font face="宋体">君无见其所欲，君见其所欲，臣自将雕琢</font><font face="Times New Roman">;</font><font face="宋体">君无见其意，君见其意，臣将自表异。故曰</font><font face="Times New Roman">:</font><font face="宋体">去好去恶，臣乃见素，去旧</font><font face="Times New Roman">(</font><font face="宋体">《云笈七签》&ldquo;旧&rdquo;为&ldquo;贤&rdquo;</font><font face="Times New Roman">)</font><font face="宋体">去智，臣乃自备。故有智而不以虑，使万物知其处</font><font face="Times New Roman">;</font><font face="宋体">有行而不以贤，观臣下之所因，有勇而不以怒，使群臣尽其武。是故去智而有明，去贤而有功，去勇而有强。群臣守职，百官有常，因能而使之，是谓&lsquo;习常&rsquo;。故曰</font><font face="Times New Roman">:</font><font face="宋体">寂乎其无位而处，漻乎莫得其所，明君无为于上，群臣竦惧于下。明君之道，使智者尽其虑而君因以断事，故君不穷于智，贤者救其才，君因而以任之，故君不穷于能。有功则君有其贤，有过则臣任其罪，故君不穷于名、是故不贤而为贤者师，不钾而为智者正</font><font face="Times New Roman">;</font><font face="宋体">臣有其劳，君有其成功，此之谓贤主之经也。&rdquo;接着说，君主要表面装得&ldquo;虚静无事&rdquo;，默察群臣的言行，不让诸臣互通声气，自己也藏匿心情，让臣下无从揣度，紧紧掌握着权柄，杜绝群臣的野心、欲望。&ldquo;人主之道，静退以为宝。不自操事而知拙与巧，不自计虑而知福与咎</font><font face="Times New Roman">;</font><font face="宋体">是以不言而善应，不约而善增。言己应则执其契，事已增则操其符。符契之所合，赏罚之所生也。故群臣陈其言，君以其言授其事，事以责其功。功当其事，事当其言则赏</font><font face="Times New Roman">;</font><font face="宋体">功不当其事，事不当其言则诛</font><font face="Times New Roman">.</font><font face="宋体">，明君之明，臣不得陈言而不当&rdquo;。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;后世道教十分重视《韩非子&middot;主道篇》，认为这是道家&ldquo;虚静无事&rdquo;&mdash;&mdash;亦即&ldquo;无为而无不为&rdquo;&mdash;&mdash;政治思想的体现，宗仰而为道教重要义理内容。宋著名道教学者张君房编纂《云笈七签》，便把《主道篇》辑录进《总叙道德》部分，这表明道教已确认其为道家政治准则<font face="Times New Roman">;</font><font face="宋体">道教宗祖&ldquo;老子&rdquo;，当然这也就是道教的政治准则。在早期道教经典《太平经》中，己经在这方面早有反映，如以&ldquo;无为而无不为&rdquo;作为致太平的根本，谓&ldquo;上古以无为而治，得道意，得天心也&rdquo;，&ldquo;垂拱无为，弃不祥也&rdquo;，这种&ldquo;虚静无事&rdquo;或&ldquo;无为而无不为&rdquo;的政治思想，经《韩非子》阐发，受到后世道教重视，被纳入了道书，成为&ldquo;玄奥&rdquo;的义理内容。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;(<font face="宋体">四</font><font face="Times New Roman">)</font><font face="宋体">《韩非子》阐扬了《老子》的重生、长生思想</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》中说<font face="Times New Roman">:</font><font face="宋体">&ldquo;夫道以与世周旋者，其建生也长，持禄也久。&rdquo;意即以道应世者，他的生命会长久，保持养禄也会长久。&ldquo;树木有曼根，有直根。根者，书之所谓&lsquo;柢&rsquo;也。柢也者，木之所以建生也</font><font face="Times New Roman">;</font><font face="宋体">曼根，木之所以持生也。德也者，人之所以建生也</font><font face="Times New Roman">;</font><font face="宋体">禄也者，人之所以持生也。今建于理者，其持禄也久，故曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;深其根&rsquo;。体其道者，其生日长，故曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;固其柢&rsquo;。柢固则生长，根深则视久，故曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;深其根，固其柢，长生久视之道&rsquo;也。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;《解老》用人体四肢九窍的生理损益，谈人的生死问题<font face="Times New Roman">:</font><font face="宋体">&ldquo;人始于生而卒于死。始之谓出，卒之谓入。故曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;出生入死&rsquo;&rdquo;。人之身三百六十节，四肢九窍，其大具也。四肢与九窍十有三者，十有三之动静尽属于生焉。属之谓徒也，故曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;生之徒也十有三者&rsquo;。至其死也，十有三具者皆还而属之于死，死之徒亦有十三。故曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;生之徒十有三，死之徒十有三&rsquo;。凡民之生生，而生者固动，动尽则损也</font><font face="Times New Roman">;</font><font face="宋体">而动不止，是损而不止也。损而不止则生尽，生尽之谓死，则十有三具者皆为死地也。故曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;民之生生而动，动皆之死地，亦十有三。&rsquo;&rdquo;认为动损生而静益寿。</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;关于如何摄生<font face="Times New Roman">?</font><font face="宋体">《解老》说</font><font face="Times New Roman">:</font><font face="宋体">&ldquo;是以圣人精神而贵处静。&hellip;&hellip;重生者虽入军无忿争之心，无忿争之心，则无所用救害之备。此非独谓野处之军也，圣人之游世也，无害人之心。无害人之心，则必无人害，无人害则不备人，故曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;陆行不遇兕虎&rsquo;。入山不恃备以救害，故曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;入军不备甲兵&rsquo;。远诸害，故曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;兕无所投其角，虎无所错其爪，兵无所容其刃&rsquo;。不设备而必无害，天地之道理也。体天地之道，故曰</font><font face="Times New Roman">:</font><font face="宋体">&lsquo;无死地焉&rsquo;。动无死地，而谓之&lsquo;善摄生&rdquo;矣。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;后世道教多摭拾《韩非子》所阐发《老子》的摄养理论，道书中所载甚多。如《云笈七签</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&middot;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">七部语要》中说<font face="Times New Roman">:</font><font face="宋体">&ldquo;虽有柯锋而心不施，有道者处之，有德者居之，虎兑措爪而无所虑，鬼神同群而无所惧，玃鸟鹦鸽而不相畏恐，狸犬兔鼠不相避忏。故君子自处不群不党、不矅不动、不利不害，常守静不移，故成君子也。&rdquo;</font></span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;道教之宗仰《韩非子》是必然的，因其学&ldquo;归本黄老&rdquo;，而且《解老》、《喻</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">老》、《主道》等篇章是最早解释和阐扬《老子》的典籍，后世道教宗祖黄老，当然也便会宗仰《韩非子》，把它收入《道藏》，这是内在有着割不断的思想联系的缘故。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,574 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260200000000000000&targetPage=Fdjxy2">
+						中国道教(1987—1997)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260234000000000000&perPageNum=15&targetPage=Fdjxy3">
+						1995年第2期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	论碧霞元君信仰
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	范　恩　君
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p class="unnamed1">　　碧霞元君信仰是泰山信仰的重要组成部分。在众多的道教神仙中，碧霞元君威灵赫赫，庇佑九州。特别是明、清时期，正统道教在国家政治生活中受到限制，而泰山碧霞元君信仰却达到了鼎盛，&ldquo;泰山行宫&rdquo; ( 娘娘庙 ) 遍及全国，元君诞辰日的庙会演化为民俗节日，每年到泰山朝山进香的十方善信摩肩接踵络绎不绝。这种兴盛，正是道教趋向民间、趋向世俗，普及于普通民加以中的一种体现。从这种意义上讲，明清道教并非衰落，其影响更加广泛。</p>
+<p class="unnamed1">　　时至今日，到泰山碧霞祠朝拜元君的香客游人每年尚达百万人，碧霞元君信仰依然深深扎根于百姓心中，本文试就碧霞元君信仰的内容和实质，碧霞元君信仰的形成及演化，碧霞元君信仰在泰山信仰中的地位等问题做一初步探讨，以就正于方家。 </p>
+<p class="unnamed1" align="center"><strong>一、碧霞元君信仰的内容和实质 </strong></p>
+<p class="unnamed1">　　碧霞元君，俗称泰山圣母、泰山娘娘、泰山奶奶，宋真宗皇帝救号&ldquo;天仙玉女碧霞元君&rdquo;，道经则称&ldquo;天仙玉女碧霞护世弘济真人&rdquo;、&ldquo;天仙玉女保生真人宏德碧霞元君&rdquo;。明&middot;彭大翼《山堂肆考&middot;女仙》云 : &ldquo;女 ( 高仙 ) 曰元君&rdquo;，关于泰山碧霞元君，其来历历来众说纷纭，主要有以下几种 : </p>
+<p class="unnamed1">　　1. 黄帝所遣玉女说　　李谔《瑶池记》载 : 黄帝尝建岱岳观，遣女七，云冠羽衣，焚修以近西昆真人。玉女盖七女之一，其修而得道者。 </p>
+<p class="unnamed1">　　2. 简狄说或原始部落首领说　　殷商之祖先简狄即碧霞元君。《诗经》称&ldquo;天命玄鸟，降而生商&rdquo;，传说有娥氏女简狄吞玄鸟卵而怀孕，生下契建立了商朝。有人推断《山海经》中之&ldquo;昆仑墟&rdquo;就是泰山，所言怪物鬼神便是泰山周围的原始部落&mdash;&mdash;图腾氏族，后来逐渐建立商王朝。商朝&ldquo;相土之东都&rdquo;即在泰山之前，今满庄一带尚有其遗址。</p>
+<p class="unnamed1">　　山东志书有碧霞元君是原始部落首领传说的记载。 </p>
+<p class="unnamed1">　　3. 汉代玉叶说　　《岱史&middot;玉女传》引《玉女卷》云 ：&ldquo;天仙圣母本石口西牛国奉符县人，生于东汉明帝永平七年甲子四月十八日子时。三岁解人伦，七岁礼西王母，十四岁感母教，得曹仙长指入天空山后石屋修道，三年丹成，遂依于泰山。&rdquo;其名玉叶，父石守道，母金氏。 </p>
+<p class="unnamed1">　　4. 东岳大帝之女说　　晋&middot;张华《博物志》云 : 太公望为灌坛令，期年风不鸣条。文王梦一妇人当道而哭，问其故，曰 : &ldquo;我东岳泰山女，嫁为西海妇，欲东归，灌坛令当吾道。令有德，吾不敢以暴风过也。&rdquo;明日，文王召太公归，已而果有骤雨疾风，或云元君即泰山女。《篙庵闲话》载 : &ldquo;元君者，汉时仁圣帝前有琢金童玉女&hellip;&hellip;宋真宗东封还次御帐&hellip;&hellip;&rdquo;命有司建祠奉之，号为圣帝之女，封天仙玉女碧霞元君。&rdquo;明&middot;王之纲《玉女传》中则有&ldquo;玉女为东岳金虹太乙定父所生，而化身为观音在世&rdquo;之说。</p>
+<p class="unnamed1">　　5. 坤道成女说　　《岱史》卷九《崔文奎记略》云 : &ldquo;中林川谷丘陵能出云为风雨，见怪物皆谓之神。岱岳毓神，上通乾象，降灵下土，坤道成女，&lsquo;天仙玉女'之号意以是与，&lsquo;碧霞元君&rsquo;之称则后世加封之典。&rdquo;</p>
+<p class="unnamed1">　　6. 玉皇上帝之妹说　　明&middot;王遴《玉女池》诗曰 : &ldquo;生托黄帝室，道匹昊天妹&rdquo;。 </p>
+<p class="unnamed1">　　7. 天仙神女说　　王之纲《玉女传》称 : &ldquo;玉女者，天仙神女也。黄帝时始见，汉明帝时再现。&rdquo;综合黄帝所遣玉女说和汉代玉叶说。 </p>
+<p class="unnamed1">　　9.天神分炁化身说　　《太上老君说天仙玉女碧霞护世弘济妙经》云 : 元君乃&ldquo;西天斗母精运元气发现，金莲化生吾身。归隐岱岳。修炼年久，意如初兴，幸逢正果，功成道合。感蒙保奏，受敕&lsquo;天仙玉女碧霞护世弘济真人'，永镇泰山，助国裕民，济厄救险，赏功伐罪。&rdquo;《元始天尊说碧霞元君护国庇民普济保生妙经》 ( 《万历续道藏》&ldquo;隶五&rdquo; ) 称 : &ldquo;是时元君已证太一青玄之位，观见众生受此沉沦，慈悲不已。为化女流，普度群生，于四月十八日分真化炁现是慈颜，阶降泰山，静居上境，复炼元真。&rdquo;丹成&ldquo;受命玉帝，证位天仙。统摄岳府神兵，照察人间善恶，罪福昭报感应速彰。&rdquo;两经所称当为道教正统之说， </p>
+<p class="unnamed1">　　9. 青莲老母即碧霞元君说　　此为民间宗教、民间信仰之说。民间有《青莲经》，又称《泰山经》。 </p>
+<p class="unnamed1">　　此外，碧霞元君来历还有华山玉女说等。 </p>
+<p class="unnamed1">　　元君来历诸说是碧霞元君信仰的内容之一。黄带所遣玉女说、简狄说和部落首领说都源于祖先崇拜。玉女、简狄、部落首领皆远古社会的英雄、氏族祖先，由对她们的崇拜、祭祀而形成的碧霞元君信仰，继承了原始宗教祀祖的传统。玉女说中玉女所迎&ldquo;西昆真人&rdquo;，即西王母 ; &ldquo;玉叶说&rdquo;中&ldquo;尝礼西王母&rdquo;，都言及西王母。泰山山前有王母池道观，山后有玉函山，传说均为西王母神府。&ldquo;西王母&rdquo;是掌管女仙名籍的最高女神，《墉城集仙录》称&ldquo;天上天下，三界十方，女子之登仙得道者咸所隶属&rdquo;。由此我们可以看出道教修道成仙思想，并且&ldquo;玉叶说&rdquo;所反映的平民意识使她更加易受普通百姓欢迎。至于&ldquo;泰山之女说&rdquo;，把碧霞元君同东岳大帝以父女关系结合在一起，恰是两神同主泰山的一种联系，溯其源当系泰山崇拜和东方信仰，到明末以后，碧霞元君信仰超过东岳泰山神，随之碧霞元君是玉皇上帝之妹，黄帝时降临人世的说法又兴起了 ( 也有说元君是天帝之女的，而道教《五岳真形图》称泰山神乃&ldquo;天之孙&rdquo; ) 。《周易&middot;系辞》云 : &ldquo;乾道成男，坤道成女&rdquo;。阴阳五行思想与泰山崇拜结合便产生了&ldquo;坤道成女说&rdquo;。&ldquo;天仙神女分炁化身说&rdquo;是元君信仰鼎盛时期流传最广的说法。元君为惩恶度人，由神而化为人，再由人修炼成仙，这一方面是道教神仙思想，另一方面&ldquo;神道设教&rdquo;色彩极浓，从一个侧面反映出当时道教正在发生的变化。民间所谓青莲老母即碧霞元君说，正是明清时期民间宗教依附于道教，道教信仰下移的体现。&ldquo;华山玉女说&rdquo;流行不广，《重修纬书集成》卷三《诗&middot;含神雾》称 : &ldquo;太华之山上，有明星玉女，主持玉浆，服之神仙&rdquo;，这种观念被道教吸收，认为名山上必有仙人玉女在焉。岱顶有玉女池，传说为玉女梳洗池，池旁原曾有玉女像，大概与此信仰有关。 </p>
+<p class="unnamed1">　　总之，碧霞元君其神来历众说纷纭，反而适应了社会各阶层各自的信仰需求，但同时也形成了历史上道教、民间和帝王士大夫对碧霞元君信仰的差异，这个问题，我们留到后面再讲。 </p>
+<p class="unnamed1">　　元君的职司是碧霞元君信仰的另一项内容。《护国庇民普济保生妙经》中元君&ldquo;为化女流，普度群生&rdquo;而降世，&ldquo;受命玉帝，证位天仙，统摄岳府神兵，照察人间善恶，罪福昭报感应速彰。&rdquo;而《碧霞护世弘济妙经》中则围绕元君禀问&ldquo;自计酆都连绪，血湖冤魂受报日夜无休。血湖罪苦尽是女魂，饥吞火炭，渴饮溶铜，寒居冰室，热处炎烽，百端异拷，有入无出，为何因意 ? &rdquo; ( 《中国道教》 1994年第 1 期《泰山 〈碧霞护世弘济妙经〉铜钟》 ) 太上老君说经，该经中元君职司&ldquo;永镇泰山，助国裕民，济厄救险，赏功伐罪。&rdquo;两部道经都以度化&ldquo;女流&rdquo;、&ldquo;女魂&rdquo;为主旨。妇女问题是碧霞元君信仰的根本问题。 </p>
+<p class="unnamed1">　　中国几千年的封建社会里，妇女始终被束缚在狭隘的天地中，重男轻女思想不仅使她们在社会上受歧视，而且在家庭中同样没有地位。在家庭与社会双重重负下，与男性相比，她们更渴望得到解脱，寻觅精神上的慰藉。到明朝时商品经济进一步发展，经济基础发生新变化，政治上，中枢王权控制松弛，上层有所谓&ldquo;土木堡之变&rdquo;&ldquo;夺门复辟&rdquo;，社会下层则不断爆发农民起义 ; 学术上，一直被崇奉为官学正统的程朱理学逐渐走向衰落，以挽救世风人心为己任的王阳明心学乘机兴起 ; 宗教上，形形色色的民间宗教风起云涌，民间信仰思潮泛滥。在这种社会背景下，碧霞元君信仰兴盛也就不难理解了。而碧霞元君的职司也就由香客意识的转变逐渐扩大，到了明清时期&ldquo;小之一家人口的寿夭祸福，四方农民禾稼的丰歉 ; 大之社会的良窳，国家的治乱&rdquo;差不多人间一切的祸福碧霞元君都能管了，形成了一个纵横交错的信仰体系。 </p>
+<p class="unnamed1">　　碧霞元君信仰体系的核心是主生思想。泰山之&ldquo;泰&rdquo;，《周易&middot;泰卦》云 : &ldquo;天地交而万物通也&rdquo;。《风俗通义》言 : &ldquo;泰山一曰岱宗，岱，始也 ; 宗，长也。万物之始，阴阳交代，故为五岳长。&rdquo;五岳之中泰山为&ldquo;东岳&rdquo;，东方是太阳初升的地方，按五行属木，一四时为春，五常为仁，八卦属震，二十八宿为苍龙。&lsquo;&ldquo;东&rdquo;字从&ldquo;木&rdquo;，&ldquo;日&rdquo;在其中，甲骨文中&ldquo;木&rdquo;与&ldquo;桑&rdquo;通，故有日出扶桑之说 ; &ldquo;春之为言蠢也，产万物者也 &quot;( 《礼记&middot;乡饮酒义》 ); &ldquo;仁&rdquo;乃天地大德 ; &ldquo;震&rdquo;与&ldquo;苍龙&rdquo;则是帝王出生腾飞之地。于是东方主生的思想就具体到泰山，泰山还成了&ldquo;天地大德&rdquo;、&ldquo;帝王腾飞之地&rdquo;。碧霞元君出于泰山信仰，很自然地继承了东方主生的思想，故《岱史》有云 : &ldquo;泰山位东土，察木德，而玉女坤质为水，助生成之功。&rdquo;元君主生思想与妇女问题联系在一起，人们便认为元君主宰生儿育女。旧中国认为&ldquo;不孝有三，无后为大&rdquo;，有无子嗣是当时社会一大问题。</p>
+<p class="unnamed1">　　泰山碧霞祠奉祀碧霞元君、眼光娘娘、送子娘娘，其神三位一体。或说皆为元君化身，或说系三姊妹，或说眼光、送子两神为元君下属。传说眼光娘娘主治眼疾，又演化为无病不治。史载明神宗之母曾患眼疾，遣官祷子神前得愈，特铸金阙、铜钟答谢神恩。至今仍有不少得香客于神前讨香灰作&ldquo;药引子&rdquo;。也有说眼光娘娘主光明的，延伸为主宰人的前程，所以求富求贵求平安者不乏其人 。 &ldquo;送子娘娘&rdquo;，顾名思义即赐子的神，而且她还能保佑儿童健康成长。《碧霞护世弘济妙经》称&ldquo;若人缺嗣继世，虔诚求请看念此经，便生福寿智慧之男，舍欲为女，便生端正有相之女，广看诵碧霞经，就可得神赐子。泰山有&ldquo;拴娃娃&rdquo;、&ldquo;压枝 ( 子 ) &rdquo;习俗，都是此信仰的流演。 </p>
+<p class="unnamed1">　　明清两朝，上自帝王皇室，下到村氓民夫无不崇祀元君。明&middot;王锡爵《东岳碧霞宫碑》云 : &ldquo;齐鲁道中，顶斋戒弥陀者声闻数千里，策敝足茧而犹不休，问之，曰 : &lsquo;有事于元君'。问故，曰 : &lsquo;元君能为众生造福如其愿&rsquo;。&rdquo;可见当时百姓信仰元君之盛。查《岱史》卷九&ldquo;御祝文&rdquo;，弘治十六年、嘉靖十一年，皇帝、皇太后分别遣太监、官员&ldquo;以香帛用伸告祭&rdquo;祈&ldquo;永佑康宁，福佑家邦&rdquo;，&ldquo;俾子孙发育，早锡元良&rdquo;。皇室尊信元君由此也可见一斑。清代元君信仰较明代更是有过之无不及。乾隆三十六年，帝为恭贺皇太后八十寿诞，于春二月奉皇太后至岱，登山祀元君。单乾隆帝就祭泰山十次，其中六次登岱顶礼元君。乾隆五十五年(1790) ，帝逢八十大寿，春三月特东巡谒岱庙，登岱祀元君。礼毕后，大宴群臣，犒赏三军，回銮所经沿途减租税，赐银与父老数以万计。清&middot;韩锡胙《元君记》载 : &ldquo;统古今天上神祇，首东岳，东岳祀事之盛，首碧霞元君&hellip;&hellip;自京师以南，河淮以北，男妇日千万人，奉牲牢币喃喃泥首下。&rdquo; </p>
+<p class="unnamed1">　　除了到泰山进香朝拜外，全国还有成千上万座元君庙。京师娘娘庙旧有&ldquo;五顶&rdquo;之说，《天府广记》卷 38 载 : &ldquo;碧霞元君庙在城外东南弘仁桥，成化时建。弘仁桥元时呼为马驹桥。都人最重元君祠，其在麦庄桥北者曰西顶，在草桥者曰中顶，在东直门外者曰北顶。又西直门高梁桥北亦有祠，每月朔望，士女云集。&rdquo;元君之祀以四月为盛，《天咫偶闻》记京师妙峰山下碧霞元君祠，俗称娘娘顶，香火之盛闻天下 : &ldquo;岁以四月朔开山，至二十八日封山，环畿三百里间，奔走络绎，方轨叠迹，日夜不止。&rdquo;京都如此，其它各地元君庙兴盛景况亦可想而知了。 </p>
+<p class="unnamed1">　　碧霞元君信仰如此兴盛，其实质是明、清时期社会各阶层普遍的求助心理的反映。《东岳碧霞宫碑》云 : &ldquo;元君能为众生造福如其愿。贫者愿富，疾者愿安，耕者愿岁，贾者愿息，祈生者愿年，未子者愿嗣。子为亲愿，弟为兄愿，亲戚交厚，靡不交相愿，而神也亦靡诚弗应。&rdquo;清光绪十二年(1886) 《万善同归》铭称&ldquo;凡男、女欲祈年、免病、求嗣、保寿，竭诚于元君前者，元君即如其意佑之&rdquo;。两通碑铭所载信徒所祈之事皆是非人力所能为，关系到他们现实生活的困难。其实无论普通百姓，还是帝王士大夫都存在非人力所能解决的困惑和对美好生活的欲求，只不过百姓多为个人求神佑，而帝王除个人信仰外，更多的是祈请国泰民安、风调雨顺罢了。碧霞元君恰能适应人们的心理，《玉女卷》称 : &ldquo;父严而母慈，胞孕乳哺出于母，而其出之者母不自知也 ; 天尊而地亲，五材百贷产于地，而其产之者地不自明之，所谓神也。&rdquo;元君在信徒心目中成了慈善贤良孕育万物的泰山主宰。元君的职司也随着香客的意识而扩大，由最初主管妇女和生育问题，发展为护国佑民普济群生了。碧霞元君信仰的平民意识构筑起它雄厚的社会基础，既是对现实世界人们生活欲望的肯定，另一方面也反映了人们，特别是妇女，对未来幸福的追求。 </p>
+<p class="unnamed1">　　应该特别强调的一点 : 碧霞元君灵应九州是碧霞元君信仰的内容之一。明代《东岳碧霞宫碑》称元君&ldquo;而神也亦靡诚弗应&rdquo; ; 清代《万善同归》铭亦云 : &ldquo;谒诚于元君前者，元君即如其意佑之&hellip;&hellip;其灵应何昭昭也。&rdquo;旧时流行的《泰山宝卷》专述元君灵验故事 ; 明弘治年间拓建昭真观( 即今泰山碧霞祠 ) 敕改额&ldquo;碧霞灵应宫&rdquo;，都是因为元君的灵应。 </p>
+<p class="unnamed1" align="center"><strong>二、碧霞元君信仰的形成及演化 </strong></p>
+<p class="unnamed1">　　碧霞元君信仰产生于泰山独特的历史文化氛围中，悠久的文化传统、优越的地理位置和环境，以及历代帝王封禅祭告等宗教政治活动都赋予碧霞元君信仰以显明的特色。 </p>
+<p class="unnamed1">　　泰山东临黄海、西襟黄河，以拔地通天之势雄峙于中国东方，乃华夏神山、天下大宗。大约四、五万年前这里就有了人类的踪迹，是古文化的发源地之一。约公元前 4500 年至公元前 2000年，泰山周围有了&ldquo;大汶口文化&rdquo;，继而出现了&ldquo;龙山文化&rdquo;。公元前 17 世纪至公元前 11 世纪，殷商王朝在今泰安市满庄一带建&ldquo;相土之东都&rdquo;。西周分封诸侯，周公长子伯禽在泰山前建立鲁国，贵戚姜太公在泰山后建齐国。春秋时期，齐鲁两国吞并泰山周围四十余小诸侯国，在泰山南北分水岭建筑起著名的齐长城。几千年来，这里一直是东方政治、经济、文化的中心，素有&ldquo;齐鲁文化之邦&rdquo;美称。 </p>
+<p class="unnamed1">　　泰山乃孔孟之乡，稷下故里。孔子&ldquo;登泰山而小天下&rdquo;，孟子岩岩有泰山之相，孔孟儒家思想在鲁国系官学正统。而齐国稷下学宫道家学术思想占主导地位，燕齐方仙道则直接是道教的前身。泰山地处齐、鲁交界，齐文化、鲁文化在此交汇，儒道思想融合形成泰山道教的特色。 </p>
+<p class="unnamed1">　　神仙思想在泰山出现的很早，据顾炎武《考古录》称 : 泰山自周末便有了神仙的传说。岱阴鹿町山有&ldquo;黄伯阳洞&rdquo;，即因战国方士黄伯阳修隐于此而得名。东汉蔡邕《琴操》载&ldquo;泰山方士聂政刺韩王&rdquo;的故事，言战国方士聂政穴居岱阴岩洞，遍访道仙，遇东岳真人，即拜其为师，修道学琴习武，后刺韩王报父仇。泰山女神的出现也很早 : 据《岱览》载 : 秦始皇即帝位三年 ( 公元前 219) 东封泰山时，丞相李斯在岱顶发现了一女神石像，尊之&ldquo;神州姥姥&rdquo;、并进行祭祀。神仙思想的兴起，氏族祖先部落首领的传说，女神形象的出现为碧霞元君神的形成奠定了基础。 </p>
+<p class="unnamed1">　　泰山是最早的名山，《虞典》称&ldquo;岱宗&rdquo;，《尔雅》以&ldquo;泰山为东岳&rdquo;。周代以前，孔子言&ldquo;易姓而王，封泰山禅乎梁父者七十余王&rdquo; (《史记&middot;封禅书》 ) 。班固《白虎通&middot;封禅篇》云 : &ldquo;封禅必于泰山，何 ? 万物之始，交代之处也。&rdquo;传统思想就有泰山主阴阳交替万物发育的观念，战国时期随着&ldquo;五行学说&rdquo;、&ldquo;阴阳学说&rdquo;、&ldquo;五德终始论&rdquo;等思想的广泛传播，泰山主生的思想更加完善，深入人心。主生思想与神仙信仰结合再加上妇女问题和生育观念，最终于唐宋时期形成了道教碧霞元君信仰。 </p>
+<p class="unnamed1">　　泰山女神信仰历史悠久，联系元君来历中简狄说，部落道领说、黄帝所遣玉女说，很可能秦朝李斯祭祀的&ldquo;神州姥姥&rdquo;是作为氏族祖先和部落英雄崇拜的。《周礼上》载 : &ldquo;大宗伯之职，掌建邦之天神，人鬼、地祇之礼。&rdquo;周朝人们所崇拜的鬼神已经形成天神、人鬼、地祇三个系统，秦代的&ldquo;神州姥姥&rdquo;基本上仍然属&ldquo;人鬼&rdquo;系统。不过受神仙学说影响，&ldquo;神州姥姥&rdquo;开始发生某些演化。秦始皇崇信神仙方术，当时的宗教思想与泰山信仰融合，氏族祖先和部落首领逐渐被神化。汉魏两晋南北朝是道教大发展时期，完成了由民间道教向正统道教的转化，建立起较完善的义理体系。隋唐内丹道兴起，反映在碧霞元君来历上便有了黄帝所遣玉女&ldquo;修而得道者&rdquo;和玉叶修炼三年得道，永镇泰山等说法，这时已有&ldquo;元君&rdquo;称呼。唐&middot;刘禹锡《送东岳张炼师》诗云 : &ldquo;东岳真人张炼师，高情淡雅世间稀。堪为烈女书青简，久事元君住紫微&hellip;&hellip;&rdquo;。可见，到唐代泰山已建庙祀&ldquo;元君&rdquo;，唐代高道杜光庭编撰的《洞天福地岳渎名山记》中 : 泰山列五岳之首，道教神仙洞府&ldquo;三十六洞天&rdquo;中泰山称&ldquo;蓬玄洞天&rdquo;，列为第二洞天。泰山在道教中的重要地位，以及泰山道教的发展，都表明碧霞元君信仰在唐代已经形成为泰山主生思想和道教神仙思想相结合的道教信仰。不过，从有限的记载元君的资料来看，其神当时尚未引起广泛注意。 </p>
+<p class="unnamed1">　　&ldquo;碧霞元君&rdquo;封号始于宋代。真宗皇帝崇道，大中祥符元年 (1008) 六月六日&ldquo;天书&rdquo;降于泰山，于是真宗封禅&ldquo;谢天书&rdquo;。据《篙庵闲话》载 : &ldquo;宋真宗东封还次御帐，涤手池 ( 玉女池 ) 内，一石人浮出水面，出而涤之，玉女也。命有司建祠奉之，号为圣帝之女，封天仙玉女碧霞元君。&rdquo;真宗帝所涤玉女石像系&ldquo;汉时仁圣帝前有石琢金童玉女，至五代殿圮像仆，童泐尽，女沦于池&rdquo;之像。可知汉代就已经有玉女像配祀泰山神，时泰山神封号&ldquo;泰山元帅&rdquo;。泰山祭祀历史悠久，三代以前为坛而祭，唐虞、夏后氏五年一巡狩，周十二年一巡狩。周代祭礼规定，&ldquo;天子祭天下名山大川，五岳视三公&hellip;&hellip;天子曰明堂、辟雍&rdquo; (《 史记&middot;封禅书》) 。汉宣帝诏制五岳，汉武帝时形成五岳祭祀制度，之后历代相沿。唐玄宗开元十三年 (725) 封泰山神&ldquo;天齐王&rdquo;，礼秩加三公一等。《五岳记》云 :&ldquo;东岳泰山岳神天齐王领仙宫仙女九万人&rdquo;。至宋真宗，碧霞元君神成为&ldquo;天齐仁圣帝&rdquo; ( 宋真宗晋加泰山神之号 ) 之女，明确依附于东岳大帝信仰。至此，碧霞元君信仰因为封建帝王的奉祀影响日渐扩大。 </p>
+<p class="unnamed1">　　从古老的泰山氏族祖先、部落首领的传说，到秦代李斯承相所祀的&ldquo;神州姥姥&rdquo;，再到唐朝女冠张炼师所事之&ldquo;元君&rdquo;，一直到宋真宗所奉的&ldquo;玉女&rdquo;，我们可以看出 : 对碧霞元君信仰随着社会的发展而无时不在发生着演化，不断地适应着人们信仰的需求。这就决定了碧霞元君能为更多的人们所接受，从而最终导致其信仰世俗化。</p>
+<p class="unnamed1">　　宋真宗敕玉女封号，创建昭真祠 ( 今泰山碧霞祠 ) ，是碧霞元君信仰逐渐兴盛的一次转折。宋代皇室以天神赵玄朗为祖，诸帝均祟道，宋太宗、真宗推行&ldquo;清静致治&rdquo;的黄老之道治国。然而辽、西夏、金相继入侵，政局动荡。&ldquo;澶渊之盟&rdquo;后，真宗皇帝封禅，不单是宗教活动、也有&ldquo;镇服四海，夸示戎狄&rdquo;的政治意图。此时，真宗以帝王之尊奉祀元君亦含神道设教化民的色彩，真宗皇帝以元君&ldquo;号为圣帝女&rdquo;，通过&ldquo;父女关系&rdquo;确定两神在泰山的地位，玉女依附于东岳大帝，这也从一个侧面反映出碧霞元君信仰当时的地位。宋真宗是最后一位举行封禅大典的帝王，后来历金、元、明、清四朝，封禅制擅嬗变为帝王祭祀或遣官致祭泰山神，以及民间性的朝山进香活动。封禅制嬗变虽然影响到东岳大帝信仰，然而几千年来泰山神一直作为最重要的山岳河渎神列入国家祀典，其信仰在明代以前仍远远超过碧霞元君。 </p>
+<p class="unnamed1">　　一种信仰观念的存在和发展，往往取决于统治者的信仰与支持，或者它在广大民众心目中的接受范围和程度。对碧霞元君的信仰，可谓二者兼有。宋代碧霞元君得到帝王的信仰和扶持，其信徒范围扩展到帝王士大夫阶层，普通百姓的信仰者逐渐增多。金、元、明、清一直保持着来自帝王和民间两方面的信仰迅猛发展的动力。金代维修昭真祠，改额&ldquo;昭真观&rdquo;。此时全真道开始传入泰山，龙门祖师长春真人和其女弟子訾守慎先后住持岱麓长春观。元代泰山道教进一步发展，元世祖至元二十八年 (1291) 加泰山神号为&ldquo;天齐大生仁圣帝&rdquo; ; 碧霞元君作为妇女儿童的保护神在民间迅速传播 ; 随着全真道的发展，最终包括昭真观在内的泰山宫观大都成为全真道观。金、元分别是女真族、蒙古族入主中原，在当时异族入侵国破家亡的背景下，许多汉族知识分子纷纷出入佛老，碧霞元君信仰亦成为民族精神的一种寄托。 </p>
+<p class="unnamed1">　　明代碧霞元君信仰再次发生明显的转化。明初太祖限制道教，洪武三年 (1370) 去东岳历代封号，&ldquo;特以&lsquo;东岳泰山之神'名其名，以时祭神&rdquo;(《去东岳封号碑》) 。历金、元至明，元君职司、来历又发生了演化。收入《万历续道藏》的《碧霞元君护国庇民普济保生妙经》中，元君就已经是&ldquo;护国庇民普济保生&rdquo;了。关于元君来历，道教正统的己证太一青玄之位的元君神见末世众生沉沦，为化女流普度群生，分真化炁降陟泰山，复炼元真证位天仙，受命玉帝，统摄岳府神兵，照察人间善恶之说取代东岳大帝之女说，普遍为道教、帝王和百姓接受，成为元君来历诸说的主流。所以，泰山神地位的相对降低对碧霞元君信仰产生积极的影响。泰山神和碧霞元君同主泰山，那么他们的关系如何呢 ?《护国庇民普济保生妙经》注意到了这个问题，《经》中通过郁罗真人和元始天尊的问答，称 : &ldquo;下界生民生生化化各有神司，判注天人悉由东岳。碧霞元君亦主泰山，证位缘何了愿闻道因。天尊曰 : 善哉，斯问。汝复其位，吾为宣说 : 天地既判，五岳奠方，万物生春，万化始东，东岳注生，燮理元工。上古生人，察性贞良，克全忠孝，生而多寿，死而径生，元无愆衅 ; 无复幽冥，不失本真，往生善道。末世人民，行违古道，心生巧术，不忠君王，不孝父母，不敬师长，不友兄弟，恃强凌弱，妄行争夺，杀盗奸淫，亵读三光，不惧神明。及有妇女周知宿世因缘，今受如是身命，不自悔悟，妄起贪嗔，欲富憎贫，怨天恨地，侮慢公姑，欺辱妯娌，忍为不仁，作践儿女，淫祀邪神，暗行咒诅，为恶种种，报对无停、是时，元君已证太一青玄之位，观见众生受此沉沦，慈悲不已。为化女流，普度群生，于四月十八日分真化炁，现是慈颜。陟降泰山，静居上境，复炼元真，功周亿劫，慈光洞照，遍彻幽微。应九炁以生生，体一元而化化，神功莫测，浩德难量，惠溥天民，倾土皈仰。受命玉帝，证位天仙，统摄岳府神兵，照察人间善恶，罪福昭报，感应速彰。&rdquo;这段经中关于元君来历与职司，以及她与泰山神的关系就讲得很清楚了。</p>
+<p class="unnamed1">　　不过，直到明武宗朝仍有反对祭祀元君者，《明史&middot;石天柱列传》载 : &ldquo;泰山有碧霞元君祠，中宫黎鉴请收香钱为修缮费。 ( 石天 ) 柱言祀典惟有东岳神，无所谓碧霞元君者，淫祀非礼，不可许。&rdquo;然而皇帝并不因某些臣谏而禁止百姓信仰，明代曾多次修建碧霞祠。《泰山道里记》引《岱史》云 :&ldquo;宋建昭真祠，金称昭真观，明洪武中重修，号碧霞元君，成、弘、嘉靖间拓建，额曰&lsquo;碧霞灵佑宫&rsquo;。&rdquo;万历四十三年 (1615) 仿武当山金顶铜亭铸&ldquo;金阙&rdquo;及《金阙记》铜碑，天启年间又赐灵佑宫铜碑。明代尊信元君，大建宫殿，到万历年间已具相当规模。礼部尚书、文渊阁大学士王锡爵在《东岳碧霞宫碑》中描绘道 : &ldquo;琼宫银阙，连岭被麓，丹青金碧，掩映层霄。香烟烛焰，若云厦蒸吐碧落间，是为碧霞元君之宫。&rdquo;除了拓修庙宇，万历时还尊孝定皇太后为&ldquo;九莲菩萨&rdquo;，在泰山建殿陪祀元、君。上行下效，帝室的举动对民众的影响可想而知。&ldquo;生托黄帝室，道匹昊天妹，&rdquo;，当时诗人王遴《玉女池》诗中就已有元君是昊天上帝之妹，黄帝时降世的说法。 </p>
+<p class="unnamed1">　　与明代国家限制道教，而帝王个人又信奉道教，特别是以武当山宫观为皇族家庙这种特点相比，清代道教政治地位更是日趋下降，然而对泰山却倍加推崇。清朝满族皇室主要信仰满族传统宗教和喇嘛教，没有对道教特别重视，几位有为的皇帝有意识地继承先进的中原文化也主要是政治措施。那么，清朝统治者尊奉泰山信仰又是什么原因呢 ? </p>
+<p class="unnamed1">　　在人们的心目中，泰山通天达地，&ldquo;判注天人&rdquo;，属震，为苍龙乃帝主出生腾飞之发祥地。古代地理家有&ldquo;华山为虎，泰山为龙&rdquo;之说，康熙帝曾遣人航海考察泰山发脉地胳，定论泰山发脉于东北长白山，亲撰《泰山龙脉论》为爱新觉罗氏入主中原寻找理论依据。据清国家典制 : &ldquo;国家有大典礼、大政务及征伐奏凯、河渠祈祷之事，或巡狩经过，皆命重臣致岱岳。&rdquo;除沿袭明代&ldquo;遣官致祭&rdquo;之礼，并且还恢复了自宋真宗封禅后中断近三百年的帝王亲祭泰山活动。&ldquo;康乾盛世&rdquo;祭祀活动发展到高峰，康熙帝三祭泰山，两次登岱顶，遣官致祭 9 次 ; 乾隆帝 10 次祭泰山，其中 6 次登岱顶，遣官致祭 18 次。 </p>
+<p class="unnamed1">　　清皇帝尊信元君，多系个人信仰，但帝王更重其教化作用，关于元君来历也就又有了一次转化。据乾隆三十五年 (1770) 皇帝亲撰《重修碧霞元君庙记碑》称 : &ldquo;而神祎、翟、珈、笄，&hellip;&hellip;，相与喁喁请命，则曰碧霞元君。说者以为黄帝所遣玉女，或以谓是即泰山神女，往往　背不合&rdquo;，&ldquo;古者治神人，和上下，设教不为决俗，求其指归，亦曰&lsquo;礼由义起，实以名章'而已尔。&rdquo;&ldquo;而泰山者，万物之始，阴阳之交，众岳之宗。以是证之，太一青元实惟其所宜乎。有生之属斋心祗祓，愿揭其虔于元君，而元君亦将　其勤锡之羡。然则国家秩祀泰山之神与亿兆人奔走奉事碧霞元君之神其为翼縡元化，二乎一乎。&rdquo;在此，乾隆帝采元君证&ldquo;太一青元&rdquo;之位说，并且特别强调碧霞元君信仰的&ldquo;翼縡元化&rdquo;功能。 </p>
+<p class="unnamed1">　　清代民间碧霞元君信仰，在明代中后期全国各地纷纷兴建元君庙基础上更进一步普及，更进一步世俗化。冯玉祥在《读春秋左传札记》中说 :全国 200 0多个县，几乎每个县都有&ldquo;泰山行宫&rdquo;( 即元君庙 ) 。清初孙承泽撰《天府广记&middot;寺庙》载 : &ldquo;京都有碧霞元君庙五处，香客云集，烟雾终日缭绕 ; 都人最重元君祠，每月初一和十五，士女云集。&rdquo;而到泰山朝山进香的&ldquo;自京师以南，河淮以北，男妇日千万人，奉牲牢币喃喃泥首&rdquo; ( 《元君记》 ) ，信仰之盛可见一斑。另一方面，元君信仰越来越世俗化。元君圣诞庙会演化为民俗。碧霞元君上庙泰山碧霞祠及各地泰山行宫每年元君圣诞前后均有不同规模的庙会活动。元君圣诞日有正月十五，三月十五、四月初八、四月十八四种说法，后面三种说法最常见。每年农历三、四月，大地回春，草木萌发，泰山生机勃勃，实乃远足踏青的极乐世界。香客们拜神求福，踏青游名山，宗教、娱乐一举两得。京都庙会也形成民俗，《宛署杂记》卷 17 载 : &ldquo;俗传四月八日娘娘降生，妇人难子者宜以是日乞灵，滥觞遂至倾城妇女无长少竞往游之，各携酒果音乐，杂坐河之两岸，或解裙系柳为围，桩点红绿，千态万状，至暮乃罢&rdquo;。盖民俗与道教节日相结合，既满足了宗教需要，又满足了娱乐要求，成为人们社会生活的一部分。至今，这种民俗在某些地区仍然影响着人们的生活。 &rdquo;总之，碧霞元君信仰从唐宋正式形成，它就在不断的演化中 ; 这种演化恰是元君信仰与社会不断适应的一种体现，它在明、清时达到鼎盛正是道教影响日益扩大的反映。不过，从以上的论述中我们也可以看出 : 正统道教的元君信仰是惩恶度人 ; 民间的元君信仰除祈祷子嗣和保护妇女、儿童外，几乎遍及生活所有领域的困难 ; 帝王士大夫阶层的元君信仰除了和平民一样求祷子嗣康寿，更重要的是祈请元君护国庇民，特别注重其教化功能。三者信仰的差异，不仅没有冲突，反而形成碧霞元君信仰的多样性，最终成为民间性道教信仰，使碧霞元君信仰千年不衰。 </p>
+<p class="unnamed1" align="center"><strong>三、碧霞元君信仰在泰山信仰中的地位 </strong></p>
+<p class="unnamed1">　　虽然说&ldquo;东岳&rdquo;系道教圣地，但是泰山信仰却并非完全属于道教，应该说它是宗法性传统宗教、道教和民间信仰的综合体。我以为泰山信仰及其宗教活动应该包括以下几个方面 :(1) 山岳崇拜，以及源此产生的东岳大帝、泰山石敢当信仰等 ;(2) 封禅等敬天地活动，以及与之有关的青帝等信仰 ;(3) 蒿里山阴曹地府信仰和由此演变来的&ldquo;托司&rdquo;、&ldquo;压枝 ( 子 ) &rdquo;民俗 ;(4) 道教洞天福地和神仙信仰，如东岳太灵苍元司命真君、成兴公真人、碧霞元君等。其中碧霞元君信仰是泰山信仰的重要组成部分，特别是明清、民国，一直到今天，关于泰山信仰的宗教活动碧霞元君信仰占主导地位。 </p>
+<p class="unnamed1">　　碧霞元君神的出现是泰山传统的主生思想、封建社会妇女问题和民间各种生育观念、道教神仙思想三者融合的产物。她最早的雏形&ldquo;神州姥姥&rdquo;，很可能来自泰山远古的母系氏族祖先和部落女首领的传说，其信仰可谓源远流长。碧霞元君信仰形成的过程就是其神影响日趋扩大、其地位逐渐提高的过程。 </p>
+<p class="unnamed1">　　碧霞元君信仰的思想核心是关于生长发育的观念。元君的职能后来发展到&ldquo;小之一家人口的寿夭祸福，四方农民禾稼的丰歉，大之社会的良窳，国家的治乱&rdquo;，差不多人间一切祸福都能管，都是由元君主生思想延伸而来。泰山主生是泰山信仰的核心内容之一，春秋战国阴阳五行学说兴起后，泰山就成为阴阳交替，万物发育的地方了，齐鲁民谚云&ldquo;吃了泰山灵芝草，返老还童人不老&rdquo;。秦汉&ldquo;四帝&rdquo;、&ldquo;五帝&rdquo;信仰中都有&ldquo;青帝&rdquo;，青帝主生，司春，主东方。古时泰山供奉青帝 ( 宋真宗加青帝懿号&ldquo;青帝广生帝君 &quot;) ，其神乃主生思想的象征。元君继承其思想，唐宋间信仰兴起时就与妇女问题结合形成具体的生儿育女的观念。封建时代&ldquo;不孝不三，无后为大&rdquo;，子嗣问题关系到每个人，所以碧霞元君深得人心，成为各阶层共同最尊奉的女神。青帝信仰渐渐为碧霞元君主生思想取代，青帝神的影响逐步衰落。 </p>
+<p class="unnamed1">　　帝王封禅必于泰山，也是由于泰山乃&ldquo;万物之始，交代之处也。&rdquo;《博物志》云 : &ldquo;泰山一曰&lsquo;天孙'，言为天帝之孙也。主召人魂魄。东方万物始成，知人生命之长短。&rdquo;泰山神为&ldquo;天帝之孙&rdquo;，其地位何等显赫 ! 东岳大帝主死，碧霞元君主生，形成鲜明的对比。随着封禅制的嬗变。&ldquo;盖由柴望一变为封禅，由封禅再变为神仙&rdquo; ( 乾隆帝御制《重修岱庙碑记》 ) ，出现了&ldquo;国家秩祀泰山之神与亿兆人奔走奉事碧霞元君之神&rdquo;的局面，泰山神的最尊神的地位最终被碧霞元君取而代之。 </p>
+<p class="unnamed1">　　泰山主生死，是泰山信仰区别于其它山岳崇拜最显著的特色。碧霞元君继承和发扬了泰山主生思想，从泰山信仰的思想根源来看，元君信仰在泰山信仰中处于核心地位。 </p>
+<p class="unnamed1">　　我们再从碧霞元君信仰的表现形式和社会影响来看它在泰山信仰中的地位。 </p>
+<p class="unnamed1">　　&ldquo;有功于民则祀之&rdquo;这是道教祭祀的一条准则。&ldquo;元君能为众生造福如其愿&rdquo;，对碧霞元君的信仰自始至今都表现为道教尊奉和帝王百姓个人信仰朝拜祭礼。同封禅大典和国家秩祀泰山神相比，似乎碧霞元君信仰对国家政治生活没有什么影响。然而，宋、明、清帝王皇室的崇奉对碧霞元君信仰在各阶层迅速传播影响深远，随着封禅制的嬗变和明太祖去历代封号，泰山神地位相对降低，碧霞元君的社会影响更加突出。与泰山神信仰柑比，东岳大帝始终属于国家祀典，只有天子、帝王才有资格祭祀，而碧霞元君则不然，她慈祥端庄和蔼可亲，能够护国佑民灵应九州，无论帝王，还是百姓，都把元君当做自己的保护神朝拜祭祀。民国之后，国家祭典随着封建制的灭亡而结束，泰山神的地位再次下降，泰山的宗教活动主要就是香客朝山进香拜元君了。元君信仰的民间性是其影响深入广泛的特征之一。明清时期民间宗教、民间信仰蓬勃发展，泰山神因为他在国家宗法性宗教祭祀中的地位，不可能与民间宗教走到一起，而碧霞元君的&ldquo;慈母&rdquo;形象和其信仰广泛的群众基础则易与民间宗教沟通，于是就有青莲老母即碧霞元君的说法，从而碧霞元君信仰与民间信仰紧密联系在一起。 </p>
+<p class="unnamed1">　　总而言之，从碧霞元君信仰的思想根源来讲，元君主生思想是泰山信仰的核心观念之一 ;从元君信仰的形式和社会影响来讲，明清及其以后的碧霞元君信仰在泰山信仰中占主导地位。 </p>
+<p class="style7 unnamed1" align="center">&nbsp;</p>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

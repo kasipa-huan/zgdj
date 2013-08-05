@@ -1,0 +1,621 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260100000000000000&targetPage=Fdjxy2">
+						道协会刊(1962—1986)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260116000000000000&perPageNum=15&targetPage=Fdjxy3">
+						第16期（1985年3月）
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	论陶弘景的外丹 (下) 
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p class="unnamed1" align="center">[美国]迈克尔&middot;斯特里克曼　著 </p>
+<p class="unnamed1" align="center">余仲珏　译 </p>
+<p class="unnamed1"><strong>　　三、道教中的外丹 </strong></p>
+<p class="unnamed1">　　1．从历史和道教定义上考察天师道 </p>
+<p class="unnamed1">　　外丹作为道教的一个组成部份由来已久，这一概念已然成了定论，所以人们也就不感觉这一定论的根据尚有模糊之处。如果要考察其根据，首先得给道教下个定义。虽然英译的有关文献资料有不少错误和混乱，给道教下个定义其实并不像想像中那么困难。我们往往忘记了 &ldquo;前车之鉴，后事之师&rdquo;的好处，其实历史上的定义都是事后总结归纳出来的。 </p>
+<p class="unnamed1">　　目前，道教在台湾和香港都很兴旺。 1949年第六十三代天师逃到台湾，他的后人现仍在台湾。台湾的道士都结婚成家，而且住在家里；他们在名义上承认当代天师，也承认现在的各道派均是创始人张道陵的玄门流裔。 </p>
+<p class="unnamed1">　　不过，香港的道士，就我所知，与台湾的不同，属于全真龙门派。全真道创立于元代，受到蒙古皇室的支持。全真道士出家住庵，现在的全真道士似乎对当代的天师不感兴趣，但对张道陵仍然尊重，承认他为道教始祖。 </p>
+<p class="unnamed1">　　如果要把天师道和全真道加以比较，找出二者在信仰、活动以及早期经典上的共同点，那话就长了。现在我们只需注意这么一点：即茅山上清派的开创者和陶弘景均尊敬张道陵，把他和后世的天师严格区别开来。对他的合气之法，认为是他施化之术，他自己并不行使。《真诰》 卷2说：&ldquo;黄赤之道，混气之法是张陵受教施化为种子之一术耳。&hellip;&hellip;张陵承以教世人耳，陵之变举亦不行此矣。&rdquo; </p>
+<p class="unnamed1">　　如果博览道教经书，不难发现：历史上所有的新道派都承认第一代天师张道陵为始祖，即使这个新道派与天师道已经很不相同，与当时的天师也毫无关系，却都宣称由于祖天师的原旨受到歪曲和障蔽，所以要 &ldquo;替天行道&rdquo;，恢复他的原旨。 </p>
+<p class="unnamed1">　　张陵率领门人创立道教，并不是和佛、儒分庭抗礼，而是反对愚昧的群众血祭和膜拜假神，这的确是一场宗教革命。早期道士虽然也讲上古，尊崇黄帝、大禹和周代著名的神仙，也信奉老子；但道教在社会上的作用是从二世纪的天师道开始的，也就是说天师道开创了道教社会史。 </p>
+<p class="unnamed1">　　因此，我认为：只有承认张道陵历史地位的人才可以称作道士。因为张道陵信仰的是 &ldquo;道&rdquo;和道的形和象，而不是故弄玄虛的民间俗神。总之，我认为：只有天师道和渊源于天师道的道派才可称为道教&mdash;&mdash;这就是我对道教下的定义。我这个结论是研究了《道藏》中的经书之后，很自然地得出的。不过我也明白：西方虽有各种各样英文版的《老子》和《庄子》，却没有主要道教经书的英译本，所以我的上述看法可能很难使西方人理解。 </p>
+<p class="unnamed1">　　姑且不论人们能不能接受我的看法。如果学者不看《道藏》，不考虑中国社会历史的复杂性，贸然给道教下定义，我认为会引起汉学研究方面的混乱，甚至会出丑。如果不扎扎实实地研究文献资料，不考察社会结构，想当然地胡诌一通道教教义；或是只凭某位大道士传记中的片言只语，不研究史实，就给道教下定义。那么，对佛教或基督教一窃不通的人也可以给佛教或基督教下定义了。 &ldquo;道教&rdquo;是指中国固有的、较高级的宗教，其内涵十分清楚明确，不能乱用，不能把套不上我们头脑中&ldquo;佛&rdquo;、&ldquo;儒&rdquo;概念的事物贬之为&ldquo;道教&rdquo;。 </p>
+<p class="unnamed1">　　至于如何使用道教术语，我认为应根据社会内容来决定，不能随意把某种事物冠以 &ldquo;道教&rdquo;这个专门名称。如果我们只承认从天师道衍化出来的，吸收溶合了当地特点的社会组织为道教，例如四世纪江南的茅山上清道派；那么，道教的历史就会精确得多之又多了。如果我们从中国历史的长河中和社会的背景下，来考察一个个道派的产生与演化，而不是平面地把它们看成是道教这一整体的各个组成部份；这样，所有的道教专门名称就不会缺少社会立体感了。 </p>
+<p class="unnamed1">　　最后谈谈 &ldquo;哲学的道教&rdquo;。我殷切希望：为了方便文献的分类，把这个称呼归还给&ldquo;道家&rdquo;。现代学者认为道教有哲学和宗教两个相互对立的方面。我却认为其实是两码事，性质不同，很难比较，更不能用某个名称勉强把它们凑合在一起。&ldquo;哲学的道教&rdquo;信奉的是《老子》和《庄子》，它们是战国时期无名氏著作的汇集。以后的读书人没有不熟读并引用这两部经典的。如果一个人引用了《庄子》中的一句话可以算作道士，要是他再引用《论语》中的一句，是否又变成了&ldquo;儒生&rdquo;?&ldquo;哲学的道教&rdquo;是战国或先秦时期出现的，当时还没有道教。 </p>
+<p class="unnamed1">　　那么，六朝时期有没有 &ldquo;哲学的道士&rdquo;呢?有的人也许会不假思索地列举出一些三、四世纪的&ldquo;新道士&rdquo;。其实休契尔(E&middot; Zurcher)在《佛教征服了中国》一书中就已经指出这种提法不准确、不清楚。中世纪的中国道士全都承认张道陵为道教始祖，陶弘景是他们中间最有&ldquo;哲学头脑&rdquo;的道士之一。 </p>
+<p class="unnamed1">　　公元 142年太上老君降授张道陵正一盟威法箓，道教在中国西部正式创立。215年张陵之孙张鲁投降了曹操，随曹迁至邺郡(今河北省)，掀开了道教史上重要的一页。以后的一百年中在北方许多世家名门皈依道教。311年洛阳失陷，晋室和士大夫阶级几乎全部迁至江南，在今南京建都；天师道也隨着南传，遍及全国。 </p>
+<p class="unnamed1">　　正史上没有张道陵曾合过丹的记载，也没有他的子孙合过丹的记录。四世纪初江南出现了《神仙传》，其中有张陵的传说。作者把新来的北方道士尊奉的这位始祖和保护神与南方的传统结合了起来，说张陵合丹，还收了吴人赵升为弟子。赵升服丹尸解。 (见《太平广记&middot;卷8》)其实天师道的治化规范十分严格，要合丹炼药是很难的；而且天师道以治病为主，认为人得病是自己或祖先有罪所致，所以治病不用医药，只需服罪和祈祷。现存的最早功课经证明了这一点。《登真隐诀&middot;卷下》中有&ldquo;汉中入治朝静法&rdquo;。信徒祈求&ldquo;原赦罪过&rdquo;、&ldquo;百病消除&rdquo;、&ldquo;治生进利&rdquo;。一般认为《朝静法》是四世纪初的经书，我认为更早，可能是天师道创立后不久的作品。三世纪时天师道许多上层人物喜欢服食&ldquo;寒食散&rdquo;，当时服食&ldquo;寒食散&rdquo;之类的烈性矿物药散在洛阳靡然成风。这种对待化学药物的新时尚冲击了天师道的严格戒律。随着天师道传入江南地区，饵食药散之风盛极一时。 </p>
+<p class="unnamed1">　　2．南方的玄学传统 </p>
+<p class="unnamed1">　　洛阳陷落之后，天师道道士迁居江南。当时的江南，药物学正在方兴未艾。江南原有自己的文化传统，可药物学此时已经占据了中心地位，当时最有代表性的经书如《抱朴子内篇》和《太上灵宝五符序》 (《道藏183册》)中开列了许许多多药物的名称。《抱朴子》的作者葛洪和许、陶两家是亲戚，都是二世纪末吴国的官宦世家。他们傲然恪守祖宗传下来的遗风，讲家乡话，研习汉代之学，信仰汉代的神仙方术。从《抱朴子》和《灵宝五符序》来看，药物学和炼丹术已成为他们文化遗产中的一个重要组成部份。 </p>
+<p class="unnamed1">　　天师道虽然是那些从北方逃来的新大老爷们的宗教，但到了四世纪二十年代江南的世家子弟发现信仰天师道是可取的，然而怎样对待自己原有的精神遗产呢 ?唯一的办法就是把二者结合起来，于是出现了上清经箓。在上清经箓中，南方原有的信仰与习惯和天师道的社会组织与经忏礼仪相熔合的实例比比皆是。由于这种熔合，一个崭新的道教知识阶层诞生了。到了六朝末期，这个阶层发展到遍及整个中国大地。 </p>
+<p class="unnamed1">　　张道陵开创了体现 &ldquo;道&rdquo;的天神信仰，茅山上清道信徒早晚也敬拜这些天神。真人降授杨羲的经书中有一条&ldquo;正一真人三天法师讳告南岳夫人口诀&rdquo;。这条&ldquo;口诀&rdquo;原附在《魏夫人传》里，这篇传记已散失。陶弘景在《登真隐诀&middot;卷下》收录的这条口诀下注道：&ldquo;天师於洛阳教此诀也&hellip;&hellip;夫人在世尝为祭酒&hellip;&hellip;。&rdquo;这些南方人想像力比较丰富，他们烧香礼拜，看着袅袅香烟把自己的祈祷带到天上，感觉意犹未尽，&ldquo;临出静户正向香炉而微祝曰：&lsquo;香官使者，左右龙虎君，当令静室忽有芝草、金液、丹精，百灵交会在此香火前'&hellip;&hellip;。&rdquo; (《登真隐诀&middot;卷下》)就这样香炉变成了丹炉，天师道的天官神君以及葛洪妙笔之下的神丹仙芝都变成了这些南方人的精思存想。 </p>
+<p class="unnamed1">　　3．响往遨游太空的炼丹术结构 </p>
+<p class="unnamed1">　　道教礼忏具有丰富的象征性。做礼忏的静室其实就是个小道院，孕育着内丹的胚芽。从上面这段向香炉的祝词上看，有些道士已不满足于口头祝祷： &ldquo;静室忽有芝草、金液、丹精&rdquo;；加上葛洪的外丹、地仙和理想的太清天境当时都已过时，需要更适当的新教旨和更高的理想境界。这一切只有等待上清真人来完成了。 </p>
+<p class="unnamed1">　　我们在前面已经谈过四种上清外丹，即九转、琅玕、四蕊和曲晨，前三种丹的配方讲得很清楚。现在让我们来研究一下它们有什么联系，找出其发展的线索。 </p>
+<p class="unnamed1">　　真出人意外，这一点毫不困难。下面我们从简到繁考察九转、琅玕、四蕊三丹方。陶弘景为朝庭合丹，最后筛选出以上三种，他从中再挑选了最简单、用药最少的九转还丹，只需七种矿物药材。琅玕华丹要十四种，四蕊要二十四种。陶弘景是保守的，继承了以《抱朴子》为代表的老传统。葛洪在《抱朴子》中回顾了自己的合丹实验，写下了九转还丹配方，对它没有溢美之辞，接着说它的付产品可以治病。值得注意的是葛洪忽然一下子笔锋一转，讲到可以点化金银 &mdash;&mdash;在紧要关头这样跳跃不定的写法使人感觉作者似乎拿不定主意：是遁化成仙呢?还是炼成金银而驻世?《抱朴子》一书的这些特点正好说明它是上清经箓的先驱，真人降授的矿植物混合构成的华丹是这以后在天空中形成的。九转还丹丹方记载在《茅君传》中，《茅君传》是杨羲于364年传给二许的，是上清经箓中最早的经书之一，当时二许刚开始奉受十分庞大的上清经箓。 </p>
+<p class="unnamed1">　　《茅君传》在叙述了九转还丹丹方之后，紧接着就讲茅君亲自播种的五种灵芝的种法。这种把丹法和玄秘的园艺相提并论的写法含有深意。如果进一步考察玕琅丹法，会让人感觉《茅君传》中分开讲述的矿、植物在这里有意识地结合起来了。 </p>
+<p class="unnamed1">　　琅玕丹方比九转丹方在各方面都有所发展，药材从七种增加到十四种，多了一倍。合制方法也复杂得多，先合成矿物丹头，然后奇特地培育成植物。讲述丹方的语言十分夸张，并使人觉得有放射感，而且像咒语一样押韵。此外，琅玕之华显然比九转还丹要高级，因为它是上清金阙后圣帝君所合，它的降授是一个标志，宣告帝君不久就要降临了。真人降授琅玕华丹的 &ldquo;紫文&rdquo;是杨羲约于365年传给许谧的。至此上清经箓在中心内容和形式上更进一步明确了起来。 </p>
+<p class="unnamed1">　　为了更好地了解道教外丹的发展，最后还必需研究陶弘景所说的 &ldquo;高真上法&rdquo;。从其中的四蕊丹法来看，可以看出上清丹经向五世纪道教丹经过渡的痕迹。 </p>
+<p class="unnamed1">　　陶弘景对四蕊丹方的态度是 &ldquo;疑有假附&rdquo;。从这一点上，至少我个人看到了这种过渡的痕迹。因为首先四蕊需要二十四种药材而且在序言里提到琅玕，所以肯定比琅玕晚出。其次《太上八景四蕊紫浆五珠绛生神丹方经》(《道藏1042卷》)虽然使用了上清道派特有的词汇，但是缺乏连贯性，是拚凑和模仿的作品；而且似乎是怕人怀疑它的道统和作者，署名张道陵撰并注。 </p>
+<p class="unnamed1">　　合四蕊所需的二十四种药材中有十四种与琅玕所需的完全一样 (石黛在琅玕丹经中称为&ldquo;碧城飞华&rdquo;，在四蕊丹经中叫做&ldquo;碧陵文候&rdquo;)。其余的十种药材，五种是矿物(琥珀、蚌中珠、龙骨、磁石、太乙余粮)；另五种是植物，其中有三种强烈的芳香剂(薰陆香、青木香、鸡舌香)。可见四蕊丹方不但药材繁多而且矿、植物混合在一起。丹经记述丹法如下： </p>
+<p class="unnamed1">　　&ldquo;&hellip;&hellip;以上二十四种，以次别捣，先从丹砂始&hellip;&hellip;当令先斋三十日&hellip;&hellip;以药安著釜中。按第一次先内丹砂，次内雄黄，次内空青，次内薰陆，后乃内太一余粮，在众药之上也&hellip;&hellip;又次以水银五斤灌诸药之上。都毕也，又徐徐安上土釜&hellip;&hellip;以泥土釜内外。作灶法&hellip;&hellip;以好糠火于下烧之，令去釜底一尺许调适。视火勿令暴猛，足十八日讫；更令火去釜下五寸，复九日日足；更令火去釜下三寸，复更七日日足；更令去釜下一寸，复五日日足；更令火齐釜底之下，足二十七日日足；更令火至半下釜之腹，三十日日足；更令火未及下釜之上二寸，二十四日日足。都毕，药成也，复寒之七日而徐徐发现，八景四蕊之毕皆悬著上釜。 </p>
+<p class="unnamed1">　　以二月、八月朔平旦向太岁王再拜，以东流水服一两，即头生九晨之光，面有玉华飞映宝曜 &hellip;&hellip;于是腾空上造以诣紫虚，出入玉清寝宴晨房矣。 </p>
+<p class="unnamed1">　　以炼麻腴一斛，取四蕊紫华三两，合投之于铜器中，下微火煎之，三日药成，名曰四蕊紫浆。日服一合寿同天地，分形为万人，乘虚而行，所欲随意。 &rdquo; </p>
+<p class="unnamed1">　　上面讲的 &ldquo;分形为万人，乘虚而行&rdquo;大概指的是炼丹家产生的复视幻觉和腾云驾雾之感。作者是一些虔诚的炼丹理论家，即使在撰写丹经之时还沉浸在对神丹的遐想之中，所以我们拜读之后竟然怎么也弄不清什么是因，什么是果?没法全部理解清疑。四蕊丹法和其它丹法比较，更接近于&ldquo;理论&rdquo;，离实验较远。它虽然是从上清经箓中派生出来的，但和许翙、周子良所合的毒丹不同，也和陶弘景合的丹不同。 </p>
+<p class="unnamed1">　　四蕊丹经最能打动人的地方是一些象征性的描写，这一点从丹经长长的名称中就可看出： &ldquo;太上八景四蕊紫浆五珠绛生神丹&rdquo;。这里的&ldquo;景&rdquo;字我以为是&ldquo;光辉灿烂&rdquo;的意思。这个&ldquo;景&rdquo;字可以说是上清道派使用的关键性字眼。杨羲有一位仙偶，许谧也得到真人许诺将有一位仙偶。杨羲和仙女的结合称之为&ldquo;偶景&rdquo;。&ldquo;偶景&rdquo;正好与天师道凡夫俗女的&ldquo;合气&rdquo;相反，似乎有意与之区别开来。&ldquo;景&rdquo;在这里指天上的神仙和地上的凡人在纯净的气氛中不是在肉体上而是在精神上的光辉结合。 </p>
+<p class="unnamed1">　　&ldquo;景&rdquo;的意思是指发光的物体，著名的《黄庭经》就是讲内视之景。因此真人降授杨羲的这部经全名为《黄庭内景经》，后来成了上清经中最有名的一部，并发展为相当重要的一个方面。《黄庭经》提出了把人体划为三部份，各部份都有神灵的思想。《登真隐诀&middot;卷下》陶弘景在注中说：&ldquo;三宫即二十四神八景之宫&rdquo;。&ldquo;内景&rdquo;就是指人身有三宫，每宫八景，共有二十四位神。《太上八景四蕊紫浆五珠终生神丹方经》中的&ldquo;八景&rdquo;和人体中的三宫、二十四神有联系，至少和其中的一宫之神有联系。合四蕊丹需要二十四种药材，这个数目不是偶然的。《丹经》明明白白指出：&ldquo;右二十四种(药材)合二十四神之炁，和九晨九阴之凝液，结日月之明景也。&rdquo; </p>
+<p class="unnamed1">　　&ldquo;八景&rdquo;这个词曾使马斯派罗Maspero感到困惑。近来卡顿马克Kaltenmark也正在重新研究它。它难就难在有许多解释。&ldquo;景&rdquo;不但指有道之士体内的神光，也指天体的光辉。就我们所收集到的上清经书来看，&ldquo;八景&rdquo;这个词并不使人困惑，反而是解决问题的一把钥匙。如果眼睛能同时看到三宫二十八景，可以说已有了神通，凡夫变成了神仙，俗子变成了真人，短促的生命变成了长生久视。 </p>
+<p class="unnamed1">　　上清经箓中的星斗使人感到大得出奇。半夜时分降临到杨羲卧室中来的都是天上的星宿之神。茅山经箓均是礼斗拜星的仪式，因为星斗是 &ldquo;道&rdquo;的最早和最纯之体现。四至五世纪降授的经书描述了一重又一重的天宫，从此礼斗的仪式变得愈加讲究。这一发展可以说是天师道和南方深厚的玄学传统汇归熔合的自然结果。 </p>
+<p class="unnamed1">　　降授杨羲上清经箓的真人数目是二十四位。《上清后圣道君列纪》阐明了他们下凡的使命： &ldquo;今遣下教于骨命及精心学仙守诚者，遣马明、张陵、阴生、王褒、墨翟、司马季主及洞台清虚天七真人、八老先生，凡二十四人，或名隐名见，改易姓字，实难分別也。子但当心精诚，夙夜不懈，必自得见此诸人。既见之后，真姓实名亦将告子也。&rdquo; </p>
+<p class="unnamed1">　　于是二十四位真人就下凡挑选可授之人了。杨羲被选中，能够通玄，真人向他现身说法，教授他上清经箓。然而一般的修道之士当然不能通玄，对他们来说比较容易做到的是存想自己身体里面的神。人体内的光辉神灵也是二十四位，而且 &ldquo;次第品差&rdquo;和天上的二十四位真人一样。不过人体内部的&ldquo;景&rdquo;并不是想看就可以看到的，必需精诚存想才能看见，因为他们也是星宿之神。 </p>
+<p class="unnamed1">　　通过存想，凡人可以摄取天外星斗的精华进行炼养，因为星斗和时间一体。这种天人相应的看法对五世纪的修道之士是不言自明的。同样，只要提到 &ldquo;八景&rdquo;，立即能联想起另外两个&ldquo;八景&rdquo;。&ldquo;三&rdquo;这个数目表示纵向的层次结构，如上中下三宫、天地人三才等。外丹是八飞向星空的运载工具，如前面讲过的白鹤、曲晨飞盖以及《列纪》中提到的&ldquo;八景琼舆&rdquo;。&ldquo;八景&rdquo;神丹就是能运载炼丹家飞升上清的工具。炼丹家如果平时能够存想天外的星斗，那么神丹就更容易载他飞登八极了。 </p>
+<p class="unnamed1">　　&ldquo;五珠&rdquo;是四蕊神丹使炼丹家遁化的最后一步。如果&ldquo;三&rdquo;表示的是上中下直线，&ldquo;五&rdquo;则表示东南西北中横面，例如五斗、五行等，表示在同一个水平面上的嬗化作用。这两个数字还使人联想起《三皇内文》和《五岳真形图》两部南方玄学经典对炼丹家的影响，炼丹家佩着熠熠闪光的五珠符，在上中下璀灿的&ldquo;八景&rdquo;光圈中，乘风御气，飞行太空，升登八极。 </p>
+<p class="unnamed1">　　炼丹家甚至在遁化飞升之前就已经能够克服大自然的限制而超越五行的阻隔了。他不仅不怕水火，而且能够在陶土的丹鼎中炼化熔合金木，于是五行全都在他的掌握之中。四蕊和琅玕丹法均极其讲究矿物和植物的炼化熔合。周子良合制的玉沥丹也是矿、植物溶合在一起的。可以说这在某种意义上象征着炼丹家有驾驭五行之力，也可以说是象征着上清真人的启示：销毁邪恶之徒、凶残之辈逞威的世界，重建一个朴素之人、真率之民安居的天下。不过熔炼化合矿、植物需要相当深厚的基础知识，而要获得这种知识必需观察和思考。 </p>
+<p class="unnamed1">　　金的产生和木的生长都需要土。植物的生长受到矿床的影响，这一点早就受到人们的注意，并且使用类比的方法推测自然界中肉眼观察不到的物质之间的关系。 (李约瑟在《中国科技史》中谈到地理植物和植物地理的探索问题。)植物和矿物还具有类似的生长模式。多年生的乔木和矿物一样，生长缓慢，从毫未之端逐渐长成合抱之木，甚至长成参天大树，这种极度的生长具有特别的变化能力。陶弘景在《真诰&middot;卷11》中说：&ldquo;(茅山)绝宜松柏而木无人植不容自生，今亦分布岁种之耳。&rdquo;《南史&middot;隐逸传》说陶&ldquo;特爱松风，庭院皆植松，每闻其响，欣然为乐。&rdquo;他在茅山种的松树长成千年古松后，肯定会给茅山的文物古迹带来一种&ldquo;仙气&rdquo;。茅君手植的五色灵芝在陶弘景的时代已然起到了这种作用。此外茅山还有金、玉矿藏各八、九千金，而且品位极高；茅君又&ldquo;埋西胡玉门丹砂六千斤于此&rdquo;(《真诰&middot;卷11》)。这些矿藏，特别是丹砂被认为是力和光的源泉，是神丹的同义词，它们给茅山增添了魅力。 </p>
+<p class="unnamed1">　　金和木虽然都生长在土里，但各种矿、植物均有自己的生命节律，有快有慢。生命的节律是由上天决定的。如果金和木联袂生长在一起，那么天上掌管它们的永恒而纯洁的星斗也同样相聚成双。人的生死以及世上一切事物都是由星象决定的。至少从汉代起，星宿就被看成为万物之精。《太平御览 &middot;卷5》引《说文》的话：&ldquo;万物之精，上为列星。&rdquo;天上的星斗是&ldquo;道&rdquo;最早的结晶。人们倾心仰慕它们原始朴素的品质。《易经&middot;系辞》 (《十三经注疏》版)说：&ldquo;在天成象，在地成形&rdquo;。行星和恒星都是纯净的光体，和地球上有形的万物有着密切的关系，星移则物换，星宿的运行左右着大自然的一切变化。星宿预兆人事，星宿显现应命大人物出世。 </p>
+<p class="unnamed1">　　星斗的光和节律也孕育了矿、植物。最初记载星斗对矿、植物有影响的是占卜之学。汉代的纬书专讲星宿和人事的关系。从现有的残缺纬书中可以看到行星、星群和某一星座司掌各种不同的矿、植物以及它们的相互关系。土星和金星主管庄稼丰歉、年成好坏。箕斗司掌桑树的生长，为桑树之精。北斗七星和摇光向着灵芝和丹砂眨眼颔首，命令它们： &ldquo;长!长!&rdquo; </p>
+<p class="unnamed1">　　既然天上的北斗摇光同时掌管矿物和植物、矿植物的生长模式当然也就基本一样，而且可以互相吸收熔合，二者的精华甚至与星辰本身可以划等号。炼丹家调配炼制矿、植物药材，或是存想体内之神，其实就是摘移、操纵天上的星辰。四蕊丹经的作者毫不隐讳地说： &ldquo;二十四种(药材)合二十四神之炁，和九晨九阴之凝液，结日月之明景也。&rdquo;神丹合成后的华光不是什么别的光，正是星辰本身的曜光。 </p>
+<p class="unnamed1">　　综合以上所讲的，我们认为上清丹法是一种象征性的炼丹术，熔矿、植物于一炉，合天地、星辰为一体。譬如四蕊神丹要经过多次海阔天空、连续不断的熔炼化合，药物的数量和合丹的地点变化倏然，使人感到药物的化学作用具有想像的放射性，代表一种象征性的结果。其实这种变化易形的作用在更早的丹经中已有端倪了，至此发展成为结构上综合矿、植物，效果上象征邀游太空的丹法。要理解这一发展必需研究《黄庭外景经》和《黄庭内景经》。人身各部份上应日年星辰，人体也是个丹鼎，必需一辈子炼养修持。四蕊丹方的结构很像是对着香炉焚香礼拜时的祝祷。这种天地、五行之间的象征性联系终于发展为内丹丹法。 </p>
+<p class="unnamed1">　　4．劫数和命运 </p>
+<p class="unnamed1">　　人的生命是有限的，大自然是无限的，然而人经过一整套丹法修炼，可以长生久视，冲破有限和无限的界限。早期丹经就已经提出了用化学方法延长和缩短寿命。在中国的外丹史上贯穿着生与死的问题。如果不研究炼丹家对死后的看法，就说不上理解他们。 </p>
+<p class="unnamed1">　　这一点李约瑟已经开始研究了，他精辟地分析了中国早期的死亡观念及其和长生之术的关系 (《中国科技史&middot;第五册&middot;东西方对死后的看法》)，对我们认识中国炼丹术的起源有很大的帮助。他认为缺少一个伦理体系的彼岸世界也是产生炼丹术的必要条件。他还说如果没有&ldquo;天外有天&rdquo;的宇宙学说，也就不会出现汉代的长生术；此外在战国和汉初，劫数的观点还没有在伦理上分化为两极。 </p>
+<p class="unnamed1">　　上清经箓出现于四至五世纪，当时道德沦丧，社会变化之巨使人感觉恍若隔世。汉末创立的天师道宣告了宗教革命的开始，同时佛教也传入了中国，二者虽并无联系，但到了四、五世纪均已趋向成熟。至五世纪末，天师道和佛教的影响迅速扩大，遍及伦理道德和社会生活的各个方面。这种社会和伦理的复杂变化自然也会反映在神团和阴间的结构上，上清经箓充份地体现了这一点。 </p>
+<p class="unnamed1">　　陶弘景在《登真隐诀》中综合了上清经箓中的真人、道君以及当时其它道派和世俗流行的神仙冥官，撰写了一章 &ldquo;真灵位业图&rdquo;。唐代以后这一章从全书中分离了出来，自成一卷，仍名《登真隐诀真灵位业经》 (《道藏762册》)他把真灵分为七阶。他的《真诰》、《登真隐诀》、《神农本草经集注》也全都分成七卷。七阶为： </p>
+<p class="unnamed1">　　1．玉清道君(出上清经，并业崇重但心相入寂，不复应化于下界。) </p>
+<p class="unnamed1">　　2．上清道君 </p>
+<p class="unnamed1">　　3．北方太极真人 </p>
+<p class="unnamed1">　　4．东方太清真人 </p>
+<p class="unnamed1">　　5．西方昆仑九宫仙府诸仙 </p>
+<p class="unnamed1">　　6．地下洞天地仙(受天上真人管辖，可上升为真人。) </p>
+<p class="unnamed1">　　7．酆都或罗酆山，也叫六天、太阴和夜城，位于北方，是个偏远的弧岛，吓人的三官冥府也在这里。酆都掌管中州所有各处山川、河流横夭恶死之鬼。 </p>
+<p class="unnamed1">　　很明显以上九阶的划分在某种意义上是符合中国宗教历史发展情况的，也反映了当时各宗教派别的不同宗旨。第一至第六阶属于道教。一至五阶在天上，六、七阶在地上，这种天地之别表明了信行大道和礼拜民间俗神之间的严重对立。 (葛洪在《抱朴子&middot;卷3》中说：&ldquo;势可以总摄罗酆&rdquo;。六朝的文学作品中常提到罗山。关于有组织的道教和分散无组织的民间信仰之间的对立，斯坦恩的文章讲得很清楚。)道士懂得俗神其实就是鬼魂，鬼的用处充其量只能派去降服其他更胡闹的鬼，可一旦他们自己胡闹起来，就变成了危险的凶鬼恶怪了。他们生前血债累累，经过三官的审判，有的派到別的地府去任小官，有的罚做苦役，例如在黄河源头上搬运岩石。这些受罚的鬼魂在没有得到超度之前，如果没有子孙祭祀又没有寺庙做道场施舍，他们只好享用血祭了。 </p>
+<p class="unnamed1">　　现在不谈这些鬼瑰的倒霉命运，而来看看怎样才能修炼成仙 ?陶弘景在《真诰&middot;卷16》中说： </p>
+<p class="unnamed1">　　&ldquo;其中宿运先世有阴德惠救者，乃时有径补仙官或入南宫受化，不拘职位也。在世之罪福多少，乃为称量处分耳。大都行阴德，多恤穷厄例，皆速诣南宫为仙。&rdquo; </p>
+<p class="unnamed1">　　陶在下面注到： &ldquo;在世行阴功密德，好道信仙者，既有浅深轻重，故其受报亦不得皆同：有即身地仙不死者；有托形尸解去者；有既终得入洞宫受学者；有先诣朱火宫炼形者；有先为地下主者，乃进品者；有先经鬼官，乃仙化者；有身不得去，功及子孙，令学道，乃拔度者。诸如此例，高下数十品，不可一概求之。&rdquo; </p>
+<p class="unnamed1">　　《真诰》是陶弘景于五世纪末撰写的，在他看来成仙是人生在世修道行功的结果。人的道德决定一切，不但决定人的疾病和死亡，也决定能否得道成仙，不过这种看法早在 364至370的上清经箓中就能够找到，他只是引述罢了。 </p>
+<p class="unnamed1">　　《真诰 &middot;卷4》末尾还抄录了二段上清经，可见后世某些重要的仙学思想也渊源于上清经箓。其中有一段出自《九真中经》，讲的是比较上乘的尸解法： </p>
+<p class="unnamed1">　　&ldquo;若真人暂死适太阴，权过三官者，肉既灰烂、血沉脉散者而犹五藏自生，白骨如玉，七魄营侍，三魂守宅，三元(头，胸、腹)权息，太神(即二十四或二十五神之炁)内闲。或三十年、二十年，或十年、三年随意而出。当生之时，即更收血育骨， 生津成液，复质成形，乃胜于昔未死之容也。真人炼形于太阴，易貌于三官者，此之谓也。天帝曰： </p>
+<p class="unnamed1" align="center">太阴炼身形，胜服九转丹； </p>
+<p class="unnamed1" align="center">形容端且严，面色似灵云； </p>
+<p class="unnamed1" align="center">上登太极阙，受书为真人。 </p>
+<p class="unnamed1">　　赵成子死后五、六年，后人晚山行，见此死尸在石室中，肉朽骨在；又见腹中五脏自生如故，液血缠裹于内，紫色结络于外。 </p>
+<p class="unnamed1">　　夫得道之士暂游于太阴者，太乙守尸、三魂营骨，七魄卫肉，胎灵掾气。 &rdquo; </p>
+<p class="unnamed1">　　以上是陶弘景的摘录，初看起来既然 &ldquo;太阴炼身形，胜服九转丹&rdquo;，似乎可以不需要炼丹术了，其实许谧的原文长得多，收录在《无上秘要&middot;卷87》中。原文还讲到：发现赵成子尸体的人看见五脏中各有一枚白石子，他偷吃了这些石子。十几年之后，赵成子复生之时到了，石子从此人口中飞出&ldquo;迳还死尸之脏，因此成子改形而起矣&rdquo;。而偷吃石子之人脸上生恶疮而且口噤失言，很快一家&ldquo;同时俱死，族即灭矣。&rdquo; </p>
+<p class="unnamed1">　　五石子是茅山上清道派矿物类丹药的一种，服食之后可以 &ldquo;改貌化形&rdquo;，为另一类型的尸解法，合制服食的方法如下： </p>
+<p class="unnamed1">　　斋戒一百六十日，起屋、筑灶、按釜。选上好白石英在磨石上打磨成珠状，下于釜内，加薤白 (需五年生者)、苣胜、蜜和泉水共煮，即成五帝之神石。服食时向青、白、赤、黑、黄五帝祝祷，于是五石进入并镇养五脏。 </p>
+<p class="unnamed1">　　陶弘景摘引的另一段文字出自《剑经》，也是谈用化学药品进行尸解的，可惜没说明药品的配制方法．这段文字如下： </p>
+<p class="unnamed1">　　&ldquo;其用他药得尸解，非是用灵丸之化者，皆不得反故乡，三官执之也。有死而更生者，有头断已死乃从一旁出者，有未殓而失尸骸者，有人形犹在而无复骨者，有衣在形去者，有发脱而失形者。白日去谓之上尸解，夜半去谓之下尸解，向晓向暮之际而谓之地下主者也。&rdquo; </p>
+<p class="unnamed1">　　直至五世纪末，除了 &ldquo;用灵丸之化者&rdquo;以外，肯定还有&ldquo;用他药得尸解&rdquo;者。用通俗的话来说古老的地仙丹药是后来化学疗法的基础。即使在宗教的范围内，炼丹术也在不断地发展。道教的劫数学说渗透了伦理道德观念，无怪乎炼丹术向两极分化&mdash;&mdash;不是致命的毒丹就是象征性的神丹。 </p>
+<p class="unnamed1">　　然而要是谈到上清毒丹，千万不要忘记强大的时代风气对道教劫数学说的影响。杨羲和二许相信人间的旧道行将毁灭，上天的新道就要来临。他们等待着这一天的到来。一个半世纪之后，陶弘景也相信他们的新道。可我们这些人总以为只有群众的暴动才是中国中古时代的 &ldquo;救世主义&rdquo;，这是因为我们用老眼光看待事物，在利用史料方面很落后，其实史料并不缺乏。希望新道代替旧道，这种思想在上层阶级一些人中也是有的，而且可以追溯到汉代，那就是天道循环的思想。 </p>
+<p class="unnamed1">　　汉末迁居江南的世族，他们的后裔继承祖先的传统，研究易经和纬书，而且引以为无上的光荣，这一点我认为是很重要的。他们的学问和北方贵族的玄学大相径庭。王弼对易经的注释可谓北方贵族玄学的代表作。正如唐长孺在《魏晋南北朝史论丛 &mdash;&mdash;读抱朴子推论南北学风的异同》中所指出的：论述晋代和刘宋时期的文章引述了葛洪、陆澄、陈卓等人的宇宙观，他们全都是江南名门望族集团成员。《中国科技史&middot;卷3》中也一再提到这些人的名字。他们稟承祖先的传统，探索宇宙的奥祕，希望从中了解人类的命运。汉代的纬书就是这种探索与希望的体现。茅山上清道派大师也属于江南世家大族集团。 </p>
+<p class="unnamed1">　　四世纪的江南之所以又兴起这种探索与希望，还有一个重要原因，就是佛教《陀罗尼经》的影响。《陀罗尼》是佛教很重要的经卷，是用梵文或伪托用梵文撰写的咒语大集，分佛、金刚、诸天、莲华四部。早在三世纪吴国朝庭已开始翻译和转抄，在北方则更是大量进行翻译。 311年洛阳陷落，晋室东迁，《陀罗尼经》随之南传。四世纪以后江南继续翻译，甚至撰写《陀罗尼经》。四部的开头都有序言，说明佛陀在什么场合、为什么要讲这些经?因为佛法要灭，《陀罗尼经》在末法时期最后的五百年中传播。因此四世纪的江南，佛法要灭的预言气氛笼罩着佛教。佛教这种分期的启示以及&ldquo;业&rdquo;、&ldquo;三灾&rdquo;等说教在上清经箓中都有所反映。这说明江南的世族注意到了佛教的这些信息。佛教的影响就简略地谈这些。 </p>
+<p class="unnamed1">　　一般认为提出世界末日和救世主的，一定是某种意义上的穷人，不然的话他们想要超脱自己当时所处的世界，又为的是什么呢 ?但许谧是会稽王司马昱的亲随。司马昱不久受封为琅玡王并在东府为相王(摄政)，后即位为简文帝(371&mdash;372)。陶弘景也在朝庭任要职，即使在隐居茅山之后仍然保持和朝庭的良好关系。他们处在如此优越的地位，怎么会产生世界末日和救世主的思想呢? </p>
+<p class="unnamed1">　　答案要到六朝的社会史中去找。晋室东迁之后，开头几年即四世纪二十年代初东晋统治者意识到自己踏上了江南世族的土地，因此对他们实行安抚政策，敕封了许多有地位的南方名门后裔，如许谧的父亲之流，承认他们拥有大片土地的所有权。可是一等晋室在南方立稳了脚跟，为了保护北方贵族的利益，加上对南方人的优越感，不久就制订了官阶制度，限制南方人升迁。于是形成了保护北方贵族利益的社会等级制度。 &ldquo;南士&rdquo;受到排斥，只能在北方人之下任职，直到刘宋朝庭，情况才有所好转(参看周一良著的《魏晋南北朝史论集&mdash;&mdash;南朝境内的各种人及政府对待的政策》)。 </p>
+<p class="unnamed1">　　因此许多有才能的南士只能供奉宫庭，而不能在掌握实权的官僚和军事机构中任职。他们传统的学问，特别是礼仪、历法、谶纬、和易经方面的特长只有在讲究礼仪的宫庭中才受到赏识，得到青睐。《华阳陶隐居内传 &middot;卷中》讲：&ldquo;先生作浑天象，高三尺许，天转地静，列宿度数，七曜行道，昏明中星见伏，早晚以机转之，宛与天会。云：&lsquo;修道所需，非史官家事。'&rdquo;陶弘景这句话说出了南士们的心声：他们既不能担任高官命臣，就只能去探索那些鲜有人问津的高深学问了。 </p>
+<p class="unnamed1">　　然而他们却是五世纪伟大宗教运动的重要人物。这场运动深刻地改变了中国的社会结构。首先发难的是上清道派。 364至370年杨羲和二许归依上清道。接着葛巢甫于397年传出《灵宝经》。由于出身的关系，南士被排挤出达官显贵的圈子之外。上清经和灵宝经的出现对他们来说自然是一种安慰。于是一个新的阶&mdash;&mdash;道士阶级诞生了。五世纪历史上伟大的道教大师如陆修静、孙游岳、顾欢和陶弘景都是南士。他们受到北方迁来的皇帝和贵族的崇信。他们以自己高超的精神地位赢得了远远超过世俗官场上可能享受到的权力和威信。 </p>
+<p class="unnamed1">　　后圣道君要在末世降临的信息是上清真人向南士启示的，这以后赎罪活动才开始发展起来。五世纪时由于道教在官府眼中的地位有所提高，对后圣道君什么时候降临有多种说法。谄谀之徒说就在当朝，即在 420年灭晋的刘宋朝。有些道士却不同意这种说法。《宋书&middot;卷69》讲到孔熙先利用谶纬谋反，他在檄文中说：&ldquo;灵祗告征祥之应，谶记表帝者之符&rdquo;。《真诰&middot;卷19》叙述了上清经传授始末，说孔熙先的父亲从许翙的儿子那里获得上清经，熙先&ldquo;窃取看览&hellip;&hellip;&rdquo;，陶弘景在后面注道：&ldquo;后熙先等复与范哗同谋，被诛也。&rdquo;范晔是《后汉书》的作者，有才名，参与孔熙先策划的谋反活动，445年(宋文帝元嘉二十二年)事败问斩。可见上层阶级在思想信仰上虽然和朝庭基本合辙，但决不是没有&ldquo;劫教到了，救世主就要降临&rdquo;的思想。因此可以说宗教仪范虽然往往模拟朝庭礼仪，可是源渊于宗教的思想观念也会反过来对世俗的政治起重大的作用。道教的仪范取法于汉代朝庭的礼仪，再加以理想化。南北朝是中国的分裂时期，道教仪范寄托了对汉代的怀念，抒发了怀古之幽思。在外族入侵的威胁面前，道教仪范还表示汉族人可以驾驭天地宇宙。 </p>
+<p class="unnamed1">　　许谧和许翙虽也认识到当时的社会制度不公正，但他们只是安份守己地等待天命，而不是谋反作乱。这是因为他们相信祖先有阴德，自己有夙根，将来注定会成为上清真人。《真诰 &middot;卷四》中讲到许谧的七世祖许阿，&ldquo;积仁著德，阴和鸟兽。遇凶荒之年，人民饥馑，加之疫疠&hellip;&hellip;阿乃施散家财，拯其众庶，亲营方药&hellip;&hellip;。度脱凶年，赖阿而全者四百八人，仁德不坠。&rdquo; </p>
+<p class="unnamed1">　　许谧的前生是薛旅，《真诰 &middot;卷3》说：昔薛旅字季和，往学真道于锺山北阿，经七试而不过&hellip;&hellip;。不过者由淫佚失位&hellip;&hellip;。太上故使生继肇阿之阴运，致欲其该微释滞于染练新晖，速升虚之超&hellip;&hellip;&rdquo; </p>
+<p class="unnamed1">　　既然真人已经告诉他们 &ldquo;录名太上策简青宫&rdquo;，当然他们一心只准备着度世成真，登升上清了。 </p>
+<p class="unnamed1">　　因此杨羲瞻奉受记的礼忏，其中的罡步和拜星礼斗实际上是上清真人的日常生活行动。天上的真人怎么行动，地上的弟子模拟仿效。《真诰 &middot;卷9》讲到真人通过杨羲传授许谧导引法&mdash;&mdash;临睡前&ldquo;以手按目四皆二九过&hellip;&hellip;勤而行之，使手不离面乃佳，以成真人犹不废也。&rdquo;同卷稍后讲叩齿咽液，真人又一次重复说：&ldquo;真道虽成如我辈故常行之也，但不复卧，自坐为之耳。&rdquo; </p>
+<p class="unnamed1">　　许谧的饮食当然也得仿效真人，于是提出了上清丹法。真人住在天上，居于星斗环簇之中，吸食的是取自周围的琅玕之华、玉液之精以及神秘的龙脑。即使地仙，也不食人间烟火，只吃山上的野菇、野果和蓣根。修道的人要想登真成仙就必需像真人那样餐日月之精，饮星辰之华。《上清后圣道君列纪》中说： &ldquo;给以曲晨飞盖，饮以徊水玉精，贻以素羽云翮&rdquo;、&ldquo;赐蕊刚丹&rdquo;。 </p>
+<p class="unnamed1">　　真人的饮食对凡人来说是剧毒的，这也不足为怪，因为天上的日月星辰极其纯净，而有道之士虽有灵胎夙慧却还是肉体凡身。人世间的一切和天上正好相反。星斗的精华对真人是珍馐美味，对凡人却为剧毒。那么怎样才能化腐朽之躯、凡俗之身为光辉之形、不朽之体呢 ?真人降授的丹法回答了这个问题：合星辰之华而成的上清神丹，服食之后就可了却世俗的生命，飞升太极，同日月映辉，与星辰泛彩了。 </p>
+<p class="unnamed1">　　结　论 </p>
+<p class="unnamed1">　　以上考察了上清经箓藉以产生的浓烈宗教气氛，现在再回头对陶弘景的外丹作一个总结。就我们所知，合药炼丹并不是他的主要事业，他虽然受到冥召，却不肯服食上清真人的毒丹。与许翙和周子良相比，他在殉道的道路上显得畏缩，然而简略地回顾一下五世纪的道教发展史，他这些情况是可以理解的。 </p>
+<p class="unnamed1">　　上面讲过陶弘景不是 &ldquo;冥人&rdquo;。他一辈子孜孜从事于写作，态度极为谨严，著作基本上都是学术性的。他精通古代各门学问，却不盲目崇拜古代经书。他最尊崇、最慼兴趣的是比他早约一百年的上清经箓。 </p>
+<p class="unnamed1">　　从道统上说陶弘景是上清道派的九祖，实际他才是茅山道派的真正创始人。 (参看805年李渤编撰的《真系》和《茅山志》。)自他以后茅山道出现了一连串大师，而且都是皇帝的密友。他在著作中对道教信仰非常虔诚，而且竭力在学术上和礼仪上按道教的理想对人世作积极的改造，无怪乎冥召来时，他游疑不决，不愿离开人世。他在自己的著作中说得很清楚：他完全知道面前有两条路&mdash;&mdash;驻世还是登真?他选择了驻世。512年(壬辰)是南方的鼎盛时期，冥召来了，当时他已经六十出头，但仍然决定留在人间。他最后卒于536年，享年81岁。这是不是他自己选择的呢?我们不得而知。 </p>
+<p class="unnamed1">　　然而陶弘景确实合过外丹，这一事实又一次向我们提出了这样一个问题：他合丹的目的何在 ?有关的第二手资料说法为何不同?看来人们对中国丹法的老观点大多是从一些间接资料中撷取来的，太相信神仙传和正史中的人物传记。这些传记往往有褒扬推重之嫌。但是现代人却认为：炼丹家迷信，皇帝糊涂，发生&ldquo;吃外丹死人事故&rdquo;。这种看法值得商榷。我们上面已经引证了中世纪道书中的有关文献，对多种毒丹的叙述可谓淋漓尽致。六朝和唐代一些服丹死亡事件很可能并不是什么&ldquo;事故&rdquo;，而是有意的安排。既然事先知道服食某些丹药会死亡，所谓&ldquo;事故&rdquo;只可限于对丹药的误解和误用上。在唐代俗人也常使用化学疗法，不限于道教中人。化学疗法很普遍。 </p>
+<p class="unnamed1">　　如果在七世纪时世俗和宗教人士还普遍合药炼丹，我们就不能生搬六朝文献，硬说丹法已分化为极其不同的类型和派别。正好相反，现存的六朝丹经说明丹法是一步步向前发展的。炼丹家的传授系统和丹方授受系统一样，很容易考察。四至五世纪的丹方就像最早的《道藏》中的其它经书一样，最初是在同一集团的世家中流传的。这一集团是扩大了的 &ldquo;南士&rdquo;。他们的家学保存了汉代的学问，世代相传。正是由于他们的努力，虽然中间有很长的南北分裂时期，汉代的学问和实际经验才得以和新统一的隋唐帝国衔接起来。丹法是他们丰富的传统遗产中的一部份，也是他们所创立的新道派的一个组成部份。因此，丹法虽然在唐代流传比较广泛，却主要在道教中保存了下来。 </p>
+<p class="unnamed1">　　六朝的丹法在内容上相当近似，只不过在使用上各有不同。同一个丹方可以有各种功能：自杀、治病、象征性的譬喻或是存想。它既可用于某项特殊、果敢的行动，也可用于经常性的经忏法事，完全取决于事情的内容和目的。我们对陶弘景的外丹进行考察，应该认清以下这点：要使这项研究不仅有骨架，还得有血有肉，就必需在研究关键性的社会和人物因素的同时，探索发掘有关的经典文献。不论对宗教还是方技，如果进行孤立的研究是不够的。对道教和道教方术的研究必需建立在考察中国社会的坚实基础上。 </p>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

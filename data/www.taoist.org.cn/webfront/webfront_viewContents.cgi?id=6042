@@ -1,0 +1,611 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260400000000000000&targetPage=Fdjxy2">
+						中国道教(2004—2010)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260437000000000000&perPageNum=15&targetPage=Fdjxy3">
+						2010年第1期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	《内景图》与《修真图》初探
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">袁康就</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　近几十年，道教中的两幅修炼图《内景图》（又名《内经图》）和《修真图》被高度评价，更有人考证其为丘处机及张三丰所画，图中藏有秘而不传的功法。然而，透过图中注文来源、选用诗句及所绘内容，即可考其创制年代及修炼含义。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">一、《内景图》的来源</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　&nbsp;《内景图》本是清初道人所画，后来光绪年间被一位叫素云道人（即刘诚印）的太监在高松山斋中检观书画时看到。他发现此图揭露了打坐修炼的重点，非常可贵，便发心付梓印制，并在原图左下角落款，时年光绪丙戌（1886年）；木板印制后由北京白云观收藏。①白云观乃道教全真道龙门派祖庭，影响所及，各大小宫观都有重刻，清宫如意馆更收藏一幅重画彩绘。及后，中国医史博物馆编撰的《文物选粹》亦把此彩绘本收进。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">不过，今人在演说或批注此图时，多有误会，以为此图由丘处机所画。②其实，此图之出现，实缘自两首吕祖（吕洞宾）乩文。《吕祖全书&middot;卷四&middot;文集中》载有此两首律诗，其一是：&ldquo;铁牛耕地种金钱，刻石儿童把贯穿。一粒粟中藏世界，半升铛内煮山川。白头老子眉垂地，碧眼童儿手指天。若向此中玄会得，此玄玄外更无玄。&rdquo;其二是：&ldquo;我家勤种我家田，内有灵苗活万年。花似黄金苞不大，子如白玉颗皆圆。栽培全赖中宫土，灌溉须凭上谷泉。只候九年功满日，和根拔入大罗天。&rdquo;③由此推敲，相信制作此图的故事大概是：清初有某道人读《吕祖全书》，④浏览此两首诗后有所心悟，明白个中修丹之道，便把诗画成图画，以教后学。作画时，作者把原诗文字略作修改，把&ldquo;童儿&rdquo;改作&ldquo;胡僧&rdquo;，⑤以示修炼之事可通道佛二教。⑥至于《吕祖全书》，清乾隆七年（1742），一位叫刘体恕的人把吕祖乩文总合，汇辑而成。⑦根据《吕祖全书》原凡例，记有&ldquo;吕祖文集传世既久&rdquo;。⑧或说，作图者早就读到两首律诗，而《内景图》画于《吕祖全书》之前，但当刘体恕看到《内景图》两首律诗，在不能确定其为吕祖诗文之下，他应不会把诗纳入《吕祖全书》。有趣的是，今《内景图》出现后近几十年已蜚声八方，若此图古已有之，当不至于寂寂无闻。况且，刘体恕汇辑严谨，倘若他先从坊间搜罗得此律诗，再看到《内景图》创画于此，见文字又有所不同的话，校订之间必下脚注以资识别，⑨或凡例中指出&ldquo;不无鲁鱼亥豕之讹&rdquo;⑩之余，当交代两首律诗已被引以为画等等。观乎文集所载两首律诗，不见任何脚注，故《内景图》不可能在《吕祖全书》之前。《内景图》的制作期应该是《吕祖全书》之后，刘素云之前，即1742至1886年之间。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">道教从来对廋辞、隐语、秘图等珍而重之，虽明言秘传，但必高调提及。假若此图一早就有，金元以降的数百年，有关修丹之文献又无半句提过，实难以置信。可以确定，此图绝非丘真人所作。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">二、《内景图》的炼功启示</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">这是一幅体内气机运化图。此图由底开始，展示气在锻炼过程中所行之径路。首先一对男女孩童踏着玄牝车，把肾水由底开动，逆流而上。由于小腹下丹田是身中火炉，炼者可在此区做适当工夫将水化成气。气沿脊椎上涌，过脊如过山。气通三关：下关尾闾、中关夹脊、上关玉枕。过关要靠三车搬运：下关羊车，羊善走山路；中关鹿车，鹿跑速较快；上关牛车，牛力大可撞入泥丸，故称&ldquo;三关一撞直入泥丸&rdquo;。脑中有九山，象征脑内九宫，泥丸为最重要宫位，是总部。气至泥丸，经舌底辗转到达咽喉，循&ldquo;十二重楼&rdquo;下降。重楼旁边有写&ldquo;十二重楼藏秘诀&rdquo;。此时舌下津液质素有了提升，咽之可长生，隐藏由气转成炁的工夫。秘诀是指&ldquo;如何使气转成丹（真炁）&rdquo;。气入泥丸后，前方口腔部位，分别有&ldquo;白头老子眉垂地&rdquo;及&ldquo;碧眼胡僧手托天&rdquo;，寄意&ldquo;舌抵上颚&rdquo;。胡僧手托天，承接那眉鬓垂地之气，造就&ldquo;上鹊桥&rdquo;，使气循督脉下传任脉。白头、白发、白眉等，都是气的代词。由于真炁萌生，故重楼旁有一股气团延伸，引出&ldquo;刻石儿童把贯穿&rdquo;之意象。此&ldquo;儿童&rdquo;源于老子的&ldquo;复归于婴儿&rdquo;</span><span>11</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">，丹家以炼得丹炁为&ldquo;逆修成仙&rdquo;之第一步。丹炁就是&ldquo;先天炁&rdquo;，以婴儿象之。炼得先天丹炁便能舞动北斗七星于指掌间。北斗七星之寓意是，天地运行规律已定，不可违；能随意舞弄北斗七星，即能改变命运，我命在我不在天。此义可远溯五代钟离权《破迷正道歌》，内有&ldquo;若遇神仙亲指诀，捉住北斗周天轮&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">炼就丹炁的条件，是&ldquo;牛耕&rdquo;及&ldquo;女织&rdquo;两图所示工夫。牛耕田于下丹田，指肾气启动。女织布于中丹田，指心液输布。当肾气交合心液，便是古丹语所谓&ldquo;采药&rdquo;工夫，又称&ldquo;龙虎交媾&rdquo;。但龙虎交媾必靠&ldquo;媒人&rdquo;，身中作为&ldquo;中间人&rdquo;角色的是&ldquo;意&rdquo;，故工夫重点是用&ldquo;意&rdquo;把两者交合。只不过，此意非有意之意，而是无意之意，称&ldquo;真意&rdquo;，源自脾土。中丹田位置有六句子，出自《黄庭经》，云&ldquo;心神丹元字守灵&rdquo;、&ldquo;肾神玄冥字育婴&rdquo;、&ldquo;脾神常在字魂亭&rdquo;、&ldquo;胆神龙曜字威明&rdquo;、&ldquo;肺神华皓字虚成&rdquo;及&ldquo;肝神龙烟字含明&rdquo;。心肝脾肺肾皆脏，胆为腑。胆为腑，亦兼脏之性，因其胆汁常藏之故。唐代之&ldquo;六字诀&rdquo;就以胆作为腑之代表，不是三焦。五脏一腑之寓意，是脏腑皆炼的意思，要做到各脏腑器官能转化至高质素的真炁，称&ldquo;五气朝元&rdquo;，此乃后话。值得注意的是，脾出意，是修炼的&ldquo;媒&rdquo;，其自身不在&ldquo;被炼&rdquo;之列。较早的版本没有&ldquo;脾神常在字魂亭&rdquo;一句，它是由自作聪明之士后加上去的。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">打坐时，若要炼得真炁，&ldquo;意&rdquo;的处理是最重要及最基本的工夫。一般人静坐时杂念纷飞，难以入定。用功日久，自然进至恍惚入定之境。恍惚中有真意，似有还无。图中左上方另一首吕祖乩诗有句子&ldquo;栽培全藉中宫土&rdquo;。中宫土就是这个真意。没有真意，未能坐至恍惚，丹炁不会萌生。没有丹，金钱树便种不出来。金钱树本来就在中丹田织女旁边，运转有法，树上才见&ldquo;花似黄金苞不大，子如玉粒果皆圆&rdquo;，金丹是也。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">三、《修真图》的图画意象</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《修真图》与《内景图》一样，是近代备受注目的修炼图，而且，《修真图》似乎比《内景图》更为人推崇，可能因为它的内容较为丰富，多了年周天、月周天、八卦、八脉、九地狱、符、咒及神兽配五行的解释等。当我们把《内景图》和《修真图》平铺展示，感觉《修真图》作者企图在《内景图》的基础上，进一步说明和发挥。一眼望去，本来在《内景图》较抽象的躯干与头部，在《修真图》已绘画了五官，连脚趾也清晰分明。《修真图》与《内景图》一样，由底部开始解读。&ldquo;机关之窍，引仙之门&rdquo;，气由此修，成仙之路由此开步。气循脊椎上，借羊车、鹿车和牛车，三车运气过三关。气到头顶，脑有九瓣，顶上有九真。&ldquo;十二重楼&rdquo;画上十二块气管软骨，很写实。以二十八宿喻肺叶的中医古图，也被借来一用。中间的北斗七星，明显是《内景图》的继承。不过，《内景图》的&ldquo;十二重楼藏秘诀&rdquo;，指丹炁萌生，&ldquo;婴儿手执北斗七星&rdquo;之图象，隐喻内丹修炼得炁后对命运的改变；今《修真图》仅把北斗七星画出，放弃&ldquo;婴儿手执北斗七星&rdquo;的精辟图义，是因为选取了&ldquo;内伏天罡斡运，外用斗柄推迁&rdquo;</span><span>12</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">一义。然斗牛即虚危穴。柳华阳（1736-?）曾指出&ldquo;虚危宿在坎宫子位&rdquo;，</span><span>13</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">可能作图者有所误会，于坎卦炼精处刻上&ldquo;斗牛女虚危室壁&rdquo;七星。但前贤包括柳华阳在内，言虚危穴者，实指真炁由任督二脉之交会处作起止，非在腹间。</span><span>14</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">至于丹炁的形成，图中有坎卦男孩象肾，位于下丹田炼精；离卦女婴象心，位于中丹田炼炁。&ldquo;得药&rdquo;则有中宫黄庭刀圭土釜做媒，以应&ldquo;顺则凡、逆则圣&rdquo;之辨。可惜的是，腹部应配坤卦，象丹炁萌生处，</span><span>15</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">却错放了乾卦，使头顶之乾与腹之乾两处重复，再次反映作图者道学不高。后来的版本已有所修改。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">四、《修真图》错误源头</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《修真图》败笔甚多，除上面所提过的，还有三处。其一，脊椎骨24节配24节气，是不适合的。冬至在尾闾可以，大雪在颈椎顶部则不可，因为顶峰阳气最旺，卦配乾，当象夏至，不是冷冰冰的大雪。</span><span>16</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">其二，月周天以魂魄展示，是进阳火、退阴符之重要参考，然初八与廿三的弧形月魄，反映作图者不晓上下弦平如绳</span><span>17</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">的天文现象，幸好后来版本有所修正。其三，六具神兽的选择和注文，有商榷余地。六具神兽是《内景图》五脏一腑修炼意向的进一步描述，而象征真意的脾土是媒，不应&ldquo;被炼&rdquo;。此外，若以神兽配五行，我们常以龟蛇混体的玄武象北，武当山就有北帝玄武，而最常用的仍是龟。此图以鹿为北，龟蛇混体的玄武却是胆。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">注文除力引《黄庭经》文字外，更多文字来自《黄庭遁甲缘身经》，神兽的选择和批注全由此出。《黄庭遁甲缘身经》里有&ldquo;六字诀&rdquo;的工夫，腑的代表是胆而非三焦，兼有呼吸补泻的观念。若循着&ldquo;六字诀&rdquo;的发展来考据，《黄庭遁甲缘身经》当是唐代作品。</span><span>18</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">此经以鹿为北为水，以龟蛇为胆，与别不同。《黄庭遁甲缘身经》又因不同句读法，出现单头鹿与双头鹿两种版本。《修真图》玄鹿旁边的注文是：&ldquo;肾属北方水，于卦属坎，形似玄鹿两头，名玄冥，字育婴，象如卵石。&rdquo;《云笈七签》所载的《黄庭遁甲缘身经》本无标点，对原文的正确认识全凭句读是否准确。原文是&ldquo;其色黑其象如圆石其神如白鹿两头化为玉童&rdquo;。一种句读是&ldquo;其色黑，其象如圆石，其神如白鹿，两头化为玉童&rdquo;。另一种则是&ldquo;其神如白鹿两头，化为玉童&rdquo;。《云笈七签》因此有不同的附图，出现单头鹿与双头鹿两种。</span><span>19</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&ldquo;两头&rdquo;实指&ldquo;两只&rdquo;，人有两肾之故；不是&ldquo;两个头&rdquo;。幸好，较早的《修真图》用第一种，即单头鹿。但重刻多次后又有自作聪明的人改用第二种，即双头鹿，更加&ldquo;之&rdquo;字而为&ldquo;形似玄鹿之两头&rdquo;，使&ldquo;两头之鹿&rdquo;意义确凿。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">五、《修真图》创作于民国时期</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">武当山紫霄宫之木刻版藏，一般视为《修真图》最早版本，称&ldquo;武当山炼性修真全图&rdquo;。</span><span>20</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">此木刻版是民国13年（1924）夏，由武当山南岩宫监院刘理卿组织刻板。有人认为此图是张三丰所创，徐本善（1851-？）修订，再由刘理卿刻板云云，</span><span>21</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">都无确实的证据。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">我们试从文字的来源推敲其创作年代。图之右上方有&ldquo;人之一身&rdquo;一段，交代大小宇宙同一、天人相应之理。文字取自《丘祖秘传大丹直指》。</span><span>22</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">内文有&ldquo;天心三寸六分，地肾三寸六分，中丹田一寸二分，非八寸四分而何&rdquo;，《修真图》作者全部把它抄下，连&ldquo;非八寸四分而何&rdquo;的反问式语句也丝毫无改。另外《大成捷要&middot;关窍秘诀》有相同的一大段文字，</span><span>23</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">只是没有&ldquo;非八寸四分而何&rdquo;之疑问句，而见&ldquo;天心三寸六分，地肾三寸六分，中丹田一寸二分，总计八寸四分，合天地之全数，人身一天地也&rdquo;。</span><span>24</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《大成捷要》是由崂山朱文彬得崂山太清宫监院赵泰昌相赠，</span><span>25</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">因见其为内丹珍本，遂于民国二十二年，即1933年嘱友李炳章付梓面世。其原序则由太清宫姚至果在1929年撰写。</span><span>26</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">至于《丘祖秘传大丹直指》，当不是丘祖（丘处机）之作，然丘祖确实有《大丹直指》，收于《正统道藏》洞真部。《丘祖秘传大丹直指》附有陈撄宁（1880-1969）按语及后记，交代了书的来历，大概是：一位青岛道友把这部手抄本带到上海，请陈撄宁审定；陈发觉文理不通，错字又多，曾作了大番修改云云，时为民国37年（1948）。</span><span>27</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《丘祖秘传大丹直指》有几个特色。第一，奇经八脉。阴阳■、阴阳维均有提及。第二，内呼吸。例如&ldquo;汝欲内呼吸，汝当得其一，则万事毕&rdquo;。</span><span>28</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">第三，回光。例如&ldquo;蟾光，即眼光也；西川，即脐下坤地也。若用眼回光于脐下，以调真息，是神入炁穴。如筑基一般，回光久，肾中一点真阳直上与心神相合，则心息相依。&hellip;&hellip;心息相依，则水火既济。回光调息工夫&hellip;&hellip;&rdquo;</span><span>29</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">我们不妨对这三点讨论一下。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　第一，有关八脉。过去以八脉连系内丹功法，只见于明末以后伍柳派系；</span><span>30</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">若以专题论述者，则只有先天派千峰老人赵避尘（1860-1927）</span><span>31</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">。《修真图》刻有阴腧、阳腧、阴■、阳■，最大可能是赵避尘或其后学所作，其次是伍柳。首先，八脉的提倡是来自一个重要的修炼意向，即&ldquo;开通八脉&rdquo;。赵避尘的《性命法诀明指》有《开通八脉》一章，说&ldquo;人身通气八脉，总根在生死窍，上通泥丸，下通涌泉，真气聚散，皆以此窍为转移&rdquo;。</span><span>32</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">赵避尘用心设计&ldquo;开通八脉&rdquo;为其内丹修炼的基本功，有其师承渊源。其胞兄魁一子曰&ldquo;八脉开通却病无，全凭心意用功夫&rdquo;，其师了然曰&ldquo;师授之后亲自用，八脉一开阳气升&rdquo;，另一师了空曰&ldquo;走精走气八脉分，阴阳腧■仔细行&rdquo;。再前期有柳华阳&ldquo;（任督）二脉通时，则百脉俱通矣&rdquo;，</span><span>33</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">又云&ldquo;其炁之行，后通乎督脉，前通乎任脉，中通乎冲脉，横通乎带脉，上通乎心，下通乎阳关，上后通乎肾，上前通乎脐。散则透于周身，为百脉之总根，故谓之先天。其穴无形无影，炁发则成窍，机息则渺茫。以待成全八脉，则八脉凑成共拱一穴，为造化之枢纽，名曰炁穴&rdquo;。</span><span>34</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">赵避尘师从了空，了空师从柳华阳，</span><span>35</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">可见一脉相承。然晚明以前不讲&ldquo;开通八脉&rdquo;，只讲&ldquo;开通百脉&rdquo;。例如，张三丰曰&ldquo;身静于杳冥之中，心澄于无何有之乡，则真息自住，百脉自停&rdquo;，&ldquo;日充月盈，达乎四肢，流乎百脉，撞开夹脊，双关而上游于泥丸&rdquo;，</span><span>36</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">又云&ldquo;刀圭入口，顷刻一窍开，百脉皆开&rdquo;。</span><span>37</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">张三丰主要说明修炼可致百脉皆开，但未提及八脉皆开之观念。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">再观乎《丘祖秘传大丹直指》，有&ldquo;人能任督通，则百脉皆通&rdquo;，口吻与柳华阳一致。《丘祖秘传大丹直指》作者及柳华阳企图把八脉通即百脉通连成一义。若以中医学角度看，任脉为阴经之海，而督脉为阳经之海，任督通指身中所有阴阳经皆通，故八脉通与百脉通同义。不过，原观念在于百脉，在于&ldquo;一通众通&rdquo;义，&ldquo;百脉&rdquo;指众多，非实数；后发展至八脉，有&ldquo;一通使八条重要经脉皆通&rdquo;义，&ldquo;八脉&rdquo;是实有经脉，非众多义。这个用字上的不同，反映着源流之先后。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">有趣的是，《大成捷要》在崂山太清宫出现，不晚于1929年；</span><span>38</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">而陈撄宁所校之《丘祖秘传大丹直指》，是由一位青岛道友亲手带来的。可以猜想，《丘祖秘传大丹直指》大有可能抄录自崂山太清宫的《大成捷要》。以反问句&ldquo;非八寸四分而何&rdquo;为线索，我们可以说，《修真图》&ldquo;人之一身&rdquo;一段文字最早见于《大成捷要》。《大成捷要》存于太清宫，有人以此为基础，加上奇经八脉为骨干写成《丘祖秘传大丹直指》，小改内文而有&ldquo;非八寸四分而何&rdquo;，再有道人以此段文字及其他数据绘画成《修真图》。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">回头又假说《修真图》由伍柳派所创。查柳华阳《金仙证论》中有附图，皆言下丹田、上丹田、脏腑分布等。不论《修真图》是否柳华阳所绘或传自张三丰，若柳华阳已得《修真图》，当推《修真图》以说明，没必要再画较为抽象并略欠清晰的简图，故《修真图》作者是伍柳或之前的机会亦不大。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　第二，有关&ldquo;内呼吸&rdquo;。&ldquo;内呼吸&rdquo;在内丹学是一较新的概念。柳华阳曰：&ldquo;人若能明乎内呼吸，则橐籥自鼓，而乾坤自运矣。&rdquo;</span><span>39</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">内呼吸能使人提升至先天状态，呼吸与乾坤同度，有造就先天炁的条件。具体打坐中，我们的呼吸形态是由粗至幼，由快至慢，直至近于闭息的所谓&ldquo;胎息&rdquo;。这是王重阳援禅入道，把命功直指心性以后，元明之间，尤以张三丰为首，提出&ldquo;凝神入炁中&rdquo;或&ldquo;神炁合一&rdquo;后形成的工夫。&ldquo;神入炁中&rdquo;的呼吸形态即&ldquo;内呼吸&rdquo;。相信最早提出这个概念是张三丰，他说&ldquo;初学必从内呼吸下手，此个呼吸，乃是离父母重立胞胎之地。人能从此处立功，便如母吸亦吸之时，好像重生之身一般&rdquo;</span><span>40</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">，又曰&ldquo;每逢打坐，必须心静神凝，一毫不起忖度希冀之心，只要抱住内呼吸做功夫&rdquo;。</span><span>41</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">查五代时钟吕、金元的南北二宗，未尝见过此词的运用。出现于民国的《道乡集》</span><span>42</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">有：&ldquo;此指内呼吸而言，非口鼻呼吸也。坐至神凝息定，口鼻之气自断，而内呼吸生焉。外呼吸离炉尚远，岂能有益于道？内呼吸一升一降，如风箱之往来，故名橐籥。&rdquo;这段文字很清楚地比较内外呼吸的不同，内呼吸非口鼻之气，是一种真实的&ldquo;无气&rdquo;呼吸，此与橐籥齐用，皆因张三丰指出&ldquo;凡有形质者，不能升入窍内，夫惟真气橐籥，乃能进于窍内也，故圣人直指先天一炁，冲开此窍，又曰修行之径路，可以续命延年，修真而全真，无来无去，不生不灭&rdquo;。</span><span>43</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">由此可见，真橐籥是一种与先天炁、内呼吸同度的状态。这几个概念在张三丰以后一直都有发现，且愈趋明显细致。然《丘祖秘传大丹直指》有内呼吸的引用，我们虽未能确定其下限，但上限绝不会是丘祖作品。不论其下限是谁，若以&ldquo;内呼吸&rdquo;结合&ldquo;八脉&rdquo;两个概念的运用观之，《丘祖秘传大丹直指》当是先天派赵避尘之后的作品。再者，文字抄自《丘祖秘传大丹直指》的《修真图》，也同样创作于赵避尘之后。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">　　第三，有关&ldquo;回光&rdquo;。修炼者对光的关注，很早就有。庄子一句&ldquo;虚室生白&rdquo;</span><span>44</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">提出以后，炼养家就以见光来诠释&ldquo;生白&rdquo;。</span><span>45</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">早期的道书《太平经》有说打坐守一所得之光如日出：&ldquo;守一明之法，明有日出之光，日中之明。&rdquo;</span><span>46</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">但&ldquo;回光&rdquo;则不同，回光是把光回归至下丹田。关于这一点，发挥得最早的是王重阳。王重阳简化钟吕的繁复丹法，以回光为大药萌生的决定性条件。他注《五篇灵文&middot;产药章第二》：&ldquo;元神下照，回光静定，逆施造化，拨转天关，大药自此而生，金丹由是而结也。&rdquo;此回光工夫，是指凝定之中，元神下照小腹丹田。此概念一直沿用，张三丰《道言浅近说》接着这个意思云：&ldquo;夫守中者，须要回光返照，注意规中，于脐下一寸三分处，不即不离。&rdquo;</span><span>47</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">明清以降，回光的概念愈讲愈炽。柳华阳说：&ldquo;已熟或坐或卧，不觉忽然阳生，即回光返照，凝神入炁穴，息息归根。&rdquo;</span><span>48</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">清咸丰年间黄元吉《乐育堂语录》云：&ldquo;至人以顺行之常道，为逆修之丹道，始而垂帘塞兑，息虑忘机，默默回光，返照于丹田一窍之中，以采取真阳之气，烹炼至阴之精。&rdquo;不过，以回光为专题讨论、阐释最具条理的，应该是清康熙七年（1668）吕祖乩文《太乙金华宗旨》，</span><span>49</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">内有回光守中、回光调息、回光差谬、回光证验、回光活法及性光识光等。至于民国的赵避尘，其著《性命法诀明指》亦多处讨论性光、蟾光、慧光及回光，如&ldquo;此外武外文二火&hellip;&hellip;又是炼四相和合，五行攒簇归根，回光返照，日月合并之法也&rdquo;；</span><span>50</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">又云&ldquo;若回光返照之，将此真炁炼成舍利子如○，舍利子足，六根振动，可采大药&rdquo;，</span><span>51</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">又言舍利子足则现蟾光：&ldquo;这光又名曰慧光，养足曰蟾光。精不足不能生慧光，舍利子不足不能生蟾光。慧光如月光，蟾光如金光。这舍利子是阳精虫生的。&rdquo;</span><span>52</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">又有&ldquo;此先天真一之祖炁和合归并一处，强名图曰○，此为先天真性，是精炁神所聚真性光，会聚于祖窍之前，有之则生，无之则死。&hellip;&hellip;若得金公木母和合，日月归并一处，两眼似这个○○，此为回光返照&rdquo;，</span><span>53</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">又有&ldquo;此圈信受笃行性命双修真功，而又勤行勿怠，加紧练习，莫有不得此慧光者&hellip;再进一步，立现慧命真性光，谓之五气朝元，此光即我真性&rdquo;。</span><span>54</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《丘祖秘传大丹直指》是承接以神入炁中、心息相依、调真息等观念来演绎回光，这些都源自王重阳、张三丰一脉。但论回光之余所说到的蟾光、观音堂，正是赵避尘所用的语言。赵避尘做回光法时，日月归并一处是两眼收神于中，与《丘祖秘传大丹直指》论观音堂有相同之说：&ldquo;心肾相接处，为观音堂，主持一身者也。自两眼角心一时收来，收到两眼角中间，观音堂也。&rdquo;</span><span>55</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">而赵避尘说的蟾光，也见于《丘祖秘传大丹直指》：&ldquo;又曰&lsquo;蟾光终日照西川&rsquo;即此便是药之根。蟾光，即眼光也。西川，即脐下坤地也。&rdquo;若以回光讨论延伸至蟾光、甚有佛味的观音堂来看，《丘祖秘传大丹直指》作者极有可能是先天派的传人。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">六、结论</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《修真图》文字抄自《丘祖秘传大丹直指》，而后者在内容上表现出先天派的痕迹。此其一。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">赵避尘的先天派理论有其特色，宣扬&ldquo;开通八脉&rdquo;。虽然八脉运用是其师爷辈伍柳首倡，但以专题讨论者却是赵避尘。《修真图》上的阴阳腧、阴阳■等刻字，配合&ldquo;人之一身&rdquo;一段文字的考证，反映作者是先天派之继承者。此其二。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">赵避尘的传道特色是以图示揭秘。他曾拜三十多位老师而感慨求师之苦，遂立志把所学尽传后世，</span><span>56</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">他得到时人高度的评价。</span><span>57</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">对于图解丹法，他更善于运用，他为&ldquo;采外药&rdquo;一章附图，很自信地说&ldquo;此图一出，假道学则无容身之地&rdquo;，</span><span>58</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">可见他极懂运用绘图来宣示内丹之秘，也正因如此，《修真图》不会是他的作品，因为他不会秘传不语。正如徐兆仁说&ldquo;先天派传诀一反常规，敢于冒各种风险，毅然将教门视为绝密的内修真诀实法和盘托出，倾泻无余&rdquo;。</span><span>59</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《修真图》企图揭露内丹之秘，很有赵避尘的气象，想必为其后人秉持宗师态度而后出的作品。此其三。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">最后，也是最令人忽略的一点是，《修真图》抄录了《内景图》诗文（亦即吕祖乩诗）。在下丹田的文字有&ldquo;白头老子青玄之处，实我命造化山川也&rdquo;。在绛宫则有&ldquo;一名真阴，又名碧眼胡儿&rdquo;。&ldquo;白头老子眉垂地，碧眼胡僧手托天&rdquo;是《内景图》主题诗的其中两句，抄自《吕祖全书》。很明显，《修真图》出现于《内景图》之后。此其四。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">总结以上四点，《修真图》比《内景图》晚出；亦即是说，《内景图》出现于清代，《修真图》则出现于民国。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">可以想象，《修真图》作者企图绘画一幅比《内景图》更清晰的修炼图，于是很努力地搜集资料。不幸的是，《修真图》的复杂、累赘、错处多的负面特征，反映了作图者的道学知识尚未到位。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; TEXT-INDENT: 24pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">注：</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">①北京白云观藏之《内景图》下款有&ldquo;此图向无传本，缘丹道广大精微，钝根人无从领取，是以罕传于世。予偶于高松斋中检观书画，此适悬壁上。绘法工细，筋节脉络注解分明，一一悉藏窍要。展玩良久，觉有会心，始悟一身之呼吸吐纳，即天地之盈虚消息，苟能神而明之，金丹大道思过半矣，诚不敢私为独得，妥急付梓，以广流传。素云道人刘诚印敬刻并识。板存京都白云观&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">②陈禾塬引《武当杂志创刊十周年精华本》下卷中&ldquo;内经图&rdquo;一段文字：&ldquo;此图源出于邱（丘）真人之笔。当时为众生宣扬教化，费尽婆心。厥后，时转境迁，各方杂教纷起，迤今道脉虽曰有存，而得其真传者，盖亦寡矣！日今修身图行世者虽不少见，然年久而讹错多，人多忌之而不着意焉。幸经张化真人特授意我学社，真有讹错者，更之改之。从此此图之真便又见于今日矣。&rdquo;载自陈禾塬《丹道修炼与养生学》，北京：社会科学文献出版社，2007年，第393页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">③版本用《吕祖全书》，香港：青松观，1991年。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">④即使乩诗已流传而尚未编汇，作图者或仅看到乩诗而非《吕祖全书》，即《吕祖全书》成书在此图之前，亦不会太影响《内景图》创作年份的上限估计，因为乩文之来源主要是刘体恕在武昌主持的乩坛。刘体恕整理原有的《百字碑》、《黄鹤赋》、《窑头歌》、《敲爻歌》、《沁园春》等，其后再把顺治年建成的涵三宫所出扶鸾《前八品经》、《后八品经》、《五品经》、《三品经》、《参同经》等全部载入。见《吕洞宾全集&middot;王沐序言》，广州：花城出版社，1995年，页19-20。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑤除了&ldquo;童儿&rdquo;改作&ldquo;胡僧&rdquo;之外，还有&ldquo;若向此中玄会得&rdquo;改成&ldquo;若问此玄玄会得&rdquo;，疑误&ldquo;向&rdquo;为简体&ldquo;问&rdquo;字。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑥图左上方有&ldquo;法藏云：绀目澄清四大海，白毫宛转至须弥&rdquo;，凭此即见作图者乃佛道双修之士。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑦《吕祖全书》除了刘体恕总合文章外，还有几位参与校阅工作，他们是黄诚恕、刘荫诚和刘允诚等。见书序。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑧见《吕洞宾全集》，广州：花城出版社，1995年，第23页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑨校订时多加脚注以&ldquo;一作某字&rdquo;辨之，例如同卷另一律诗&ldquo;本来无作亦无行&rdquo;之下&ldquo;玉药无根得地生&rdquo;，&ldquo;玉&rdquo;字有下加脚注&ldquo;一作至&rdquo;。此两首律诗则无任何脚注。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑩凡例中云：&ldquo;吕祖文集，传世既久，不无鲁鱼亥豕之讹，今俱校订分注清晰。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>11</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见《老子》第28章：&ldquo;知其雄，守其雌，为天下溪。为天下溪，常德不离。常德不离，复归于婴儿。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>12</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">语出自元混然子王道渊。见柳华阳《金仙证论&middot;风火经第六》引言，徐兆仁编《仙道正传》，北京：中国人民大学出版社，1992年，第175页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>13</span><span>14</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见《仙道正传》第176页，第187页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>15</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">例如张伯端《悟真篇》云：&ldquo;依他坤位生成体，种在乾家交感宫。&rdquo;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>16</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">虽然，作图者尽量运用天人相应理论诠释人身小宇宙，脊椎骨24节配24节气当有其理，但在已画出头顶为乾、月周天为望的气旺区间展示年周天大雪，必令人有所误会。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>17</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">即半月、魂魄各半成一直线，故云&ldquo;上弦平如绳&rdquo;、&ldquo;下弦平如绳&rdquo;。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>18</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&ldquo;六字诀&rdquo;在不同时代有着不同的炼功方法，&ldquo;呼吸补泻&rdquo;和&ldquo;腑用胆&rdquo;两个特点，可以作为考据要点。&ldquo;六字诀&rdquo;最早由南北朝陶弘景（456-536）在《养性延命录》提出，&ldquo;心&rdquo;有二声，但无腑。隋代智■（538-597）以五脏配五声，加了三焦为腑之代表。到了唐代孙思邈（581-682），加了大呼细呼的处理，复跟随陶弘景，六声无腑。到了胡愔的《黄庭内景五脏六腑补泄图》，有胆为腑之代表，亦有呼吸补泻观念。凭此发展可知《黄庭遁甲缘身经》是唐代作品。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>19</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">句读为单头鹿的版本有蒋力生等校注，北京华夏出版社1996年版。句读为双头鹿的版本有李永晟点校，北京中华书局2003年版，及北京书目文献出版社1992年版。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>20</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《修真图》有多种版本，武当山紫霄宫藏木刻板、北京白云观藏木刻板、龙虎堂藏板等，而武当山藏为最早。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>21</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">持这个说法有陈禾塬，见其著《丹道修炼与养生学》，第189页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>22</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《丘祖秘传大丹直指》共有14章，《修真图》这段文字与《第十三章论三关三田》一样。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>23</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">版本用郭任治点校，山西人民出版社，1988。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>24</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见《大成捷要》，山西：山西人民出版社，1988年，第10-11页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>25</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">据白云观陈园普写《大成捷要缘起》，提及《大成捷要》来历，此书乃丹功练师王乾一游河南中岳嵩山崇福宫时发现，视之为玄门秘典，抄录后带回辽宁，辗转传至青岛太清宫。尔后，朱文彬得赵泰昌检院赠《大成捷要》，还得白云洞王全启赠《道乡集》。见《大成捷要》第1，5-8页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>26</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见《大成捷要叙》。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>27</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见胡海牙编《仙学辑要》，香港：天地图书公司，2004年，第586页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>28</span><span>29</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见《丘祖秘传大丹直指&middot;二论玄窍》，《仙学辑要》，第588页，第588-589页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>30</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">开通八脉是伍柳派不传之秘，伍柳派以前未见八脉结合丹法的专论。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>31</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">赵避尘，龙门派第11代，道号顺一子，有&ldquo;千峰老人&rdquo;之称。光绪21年，即1895，师从了然、了空禅师。其与弟子有关内丹修炼问答辑为《性命法诀明指》，书中第三口诀有&ldquo;开通八脉&rdquo;，文中提到呼吸工夫可通阴阳腧、阴阳■。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>32</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见《性命法诀明指&middot;第三口诀&middot;开通八脉》，徐兆仁编《伍柳法脉》，北京：中国人民大学出版社，1990年，第33页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>33</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见柳华阳《慧命经》，《伍柳法脉》，第201页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>34</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见柳华阳《金仙证论&middot;图说第十》，徐兆仁编《仙道正传》，北京：中国人民大学出版社，1992年，第190页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>35</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见《性命法诀明指&middot;千峰序语》，徐兆仁编《先天派诀》，北京：中国人民大学出版社，1990年，第2页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>36</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见张三丰《道言浅近说》，徐兆仁编《太极道诀》，北京：中国人民大学出版社，1990年，第21页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>37</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见张三丰《玄机直讲&middot;一粒黍米说》，《太极道诀》页8。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>38</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《大成捷要叙》是由大清宫姚至果所写，时为民国十八年，即1929年。故《大成捷要》应当出现于1929年或之前。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>39</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">柳华阳《金仙证论》，《仙道正传》页178。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>40</span><span>41</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见张三丰《道言浅近说》，《太极道诀》，第20-21页，第22页。&nbsp;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>42</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《道乡集》传自清代崂山白云洞道长王全启，民国22年（1933）由道人玄中子朱文彬辑校成书。见《仙道正传》页8-9。另《大成捷要》页7-8。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>43</span><span>47</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见张三丰《大道论》，《太极道诀》，第34页，第20页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>44</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《庄子&middot;人间世》：&ldquo;虚室生白，吉祥止止。夫且不止，是之谓坐驰。&rdquo;&nbsp;</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>45</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">例子不胜枚举，譬如赵避尘云&ldquo;忽有眉间又掣电光，虚室生白，由炁内生出，金光三现也，是采大药之景到&rdquo;。见《性命法诀明指&middot;第十三口诀&middot;采大药过关》，《先天派诀》第138页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>46</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见《太平经合校&middot;卷18-34&middot;守一明法》第16页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>48</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">柳华阳《金仙证论&middot;火候次序第十六》，《仙道正传》第197页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>49</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《太乙金华宗旨》降乩于康熙七年（1668），但到了乾隆四十年（1775）才有抄本面世。此书有&ldquo;回光&rdquo;专论，例如第三章回光守中、第四章回光调息、第五章回光差谬、第六章回光证验、第七章回光活法，及第十章性光识光等，全都关乎内丹修炼出现回光的专题演说。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>50</span><span>51</span><span>52</span><span>53</span><span>54</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见《性命法诀明指&middot;第五口诀&middot;外文武火法》，《先天派诀》，第48页，第69页，第124页，第74页，第75页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>55</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">见《丘祖秘传大丹直指&middot;二论玄窍》，《仙学辑要》第588页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>56</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">赵避尘说：&ldquo;今将所得放师及自己所曾经验者，尽情宣布。希望依法修炼者，证位仙班，或同登寿域，于愿足矣。&rdquo;见《千峰序语》，《性命法诀明指》第2页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>57</span><span>58</span><span>59</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">李子欣亦说此书&ldquo;泄千古之秘，字字真诠，言言秘诀&rdquo;，见《李子欣序》，《性命法诀明指》第8页，第37页。</span><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0" align="right"><span style="FONT-FAMILY: &quot;宋体&quot;; FONT-SIZE: 12pt; mso-spacerun: 'yes'">（作者系香港针灸师、香港中文大学道教文化研究中心兼任讲师）</span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

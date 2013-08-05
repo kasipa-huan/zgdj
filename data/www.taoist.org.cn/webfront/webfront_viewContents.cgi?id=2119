@@ -1,0 +1,599 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260200000000000000&targetPage=Fdjxy2">
+						中国道教(1987—1997)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260206000000000000&perPageNum=15&targetPage=Fdjxy3">
+						1988年第2期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	道教与中国民间文化
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<div align="center">刘守华 </div>
+<div><strong>(一)</strong></div>
+<div style="TEXT-INDENT: 21pt">道教被人们看作是中国的民族宗教。近几年来，海内外学者对道教的兴趣日益增强、研究工作十分活跃、不断有新的发现。特别值得我们注意的是，关于道教对中国文化的贡献，人们的评价越来越高、有些论断大大超出我们平素的估计。</div>
+<div style="TEXT-INDENT: 21pt">英国著名科学家李约瑟博士在伽的巨著《中国科学技术史》中，不但指出在道家思想中，&ldquo;涵蕴着丰富的科学思想&rdquo;，&ldquo;东亚的化学、矿物学、植物学、动物学和药物学，都渊源于道家&rdquo;，他们在科学史上占着非常重要的地位；还由此揭示出道家思想在中国整个思想文化史上的重要位置，认为&ldquo;今日道家思想在中国人的思想中所占的地位，至少和儒家同样的重要。&rdquo;特别是在下面这段话里，他热情洋溢地肯定了道家的文化传统。</div>
+<div style="TEXT-INDENT: 21pt">&ldquo;总而言之，儒家和道教仍然是笼罩中国人思想的两大主流。&hellip;&hellip;中国人的特性中，很多最吸引人的地方，都来自道家的传统，中国如果没有道家，就象大树没有根一样，道家在中国文化中，至今还是生气蓬勃的。&rdquo;(1)</div>
+<div style="TEXT-INDENT: 21pt">台湾学者认为&ldquo;中国文化的组成中自有一支道教文化&rdquo;，除在科学技术、文学艺术方面作出许多特殊贡献外，还在民族心理上留下了深刻烙印；</div>
+<div style="TEXT-INDENT: 21pt">道教既出世又入世，它不追求飘渺的未来，也不沉腼于过去，而是努力寻求现在的满? <span>足。这种现实主义的色彩，使得道教学者认为道教最能表现中国人现实主义的精神。(2)</span></div>
+<div style="TEXT-INDENT: 21pt">台湾版《道教人辞典》的编纂者李叔还对道教文化的评价更高。他认为:<span>东方文化以中国文化为主流，中国文化以道家文化为中心。文化虽为表现社会各方面文明成绩之综合体，在昔中国，则纯以道教文化表现之。盖昔之道家，即后之道教也，是以道教文化即中华文化之根源！(3)</span></div>
+<div style="TEXT-INDENT: 21pt">国内学者对道教的研究也有重要进展。特别是彝族学者刘尧汉新近出版的《中国文明源头新探&mdash;道家与彝族虎字宙观》一书，以道家、道教思想文化为中心，对中华文明之源所作的探索。该书依据保留至今的彝族十月太阳历等民族文化资料指出，西南地区彝族本为远古虎伏羲民族部落遗裔，该族以虎为图腾，世代崇虎，认为虎尸解成宇宙万物，道教崇信的伏羲&ldquo;太极&rdquo;或&ldquo;太一&rdquo;，即由虎抽象概括而来，在道家、道教的宇宙观里隐含着彝族的虎宇宙观。因此，他不赞成某些学者关于孔子塑造中华民族性格和文化的说法，而提出&ldquo;道儒共同塑造中华民族性格和文化&rdquo;的论断。虽然这本书中的某些意见还有待充实，它从民族民间文化的鲜活资料入手，考察道家、道教文化在我国的久远传统，巨大生命力和广泛群众基础，却给了我们以宝贵的启示。</div>
+<div style="TEXT-INDENT: 21pt">道教的思想方术，具有&ldquo;杂而多端&rdquo;的特点。因此关于道教的统一性问题，成为有关国际学者研讨的中心，作为哲学家的道家和作为宗教的道教，官方支持的正统道教和民间信仰的道教当然是有区别的，研究中国道教成果最为突出的日本学者，却倾向于把道家、道教和中国民间信仰看作同一道家世界观的不同表现形式，因为他们的出发点是把道教看作是中国统一的民族宗教。(4)<span>本文作者赞同这一意见，在考察道教文化时使用广义的统一的道教概念。</span></div>
+<div>(二)</div>
+<div style="TEXT-INDENT: 21pt">我在一九八二年写成的《道教与中国民间故事传说》一文中，写过一段话：每个民族的传统文化，似乎都有实际的、世俗的和想象的、神奇的两个系统。在哲学、文学、宗教、民俗等各个领域中均有表现。在中国长期封建社会中，孔子的儒家学说支配着人们的世俗生活，而只要进入神秘幻想世界，则道家的影响无处不在。虽然汉族地区的民间宗教信仰，往往佛道混杂，&ldquo;合二而一&rdquo;，道教由于扎根于本民族的生活与文化土壤之上，它对人们的内心信仰、外部习俗的口头文学之影响，更为广泛深刻。(5)</div>
+<div style="TEXT-INDENT: 21pt">本文即沿着这一线索，继续探讨道教与中国民间传统文化的联系，作为它的续篇。</div>
+<div style="TEXT-INDENT: 21pt">道教对我国各族民间文化的影响是多方面的。</div>
+<div style="TEXT-INDENT: 21pt">1.关于道教流行的情况。据统计解放前全国共有道士、道姑四万多人，职业道徒的数量并不多。可是道教信仰却拥有广泛的群众基础。它是汉民族的主要宗教信仰，其实际影响远远超过佛教。据中央民族学院编印的《中国少数民族宗教概览》(6)所提供的调查材料，在我国55个少数民族中，存在道教信仰的就有22个。其中有满族、朝鲜族、蒙古族、达斡尔族、土族、羌族、彝族、白族、布依族、侗族、水族、壮族、瑶族、低佬族、纳西族、毛难族、京族、黎族、土家族、苗族等。自然，信仰的程度不一，许多民族是多种宗教信仰并存，信奉佛教、道教，伊斯兰教和天主教的人都有，没有全民族单一信仰道教的情况。广西的京族以信奉道教为主，是个新的发现。就地区而言，道教流行全国，却以南方为主，可以说它是南方民族的宗教。过去人们以为道教的影响只限于汉族，其实不然。究其原因，不只是由于中国历史上唐宋元明等几个封建王朝曾大力推行道教，主要还是因为道教本从民间的原始宗教信仰发展而来，因而同许多少数民族现存的民间宗教一拍即合，很容易互相渗透，融为一体。</div>
+<div style="TEXT-INDENT: 21pt">2.道教信仰与民间的生活习俗息息相关。道教信奉多神，认为人们生产生活的各个方面都有神灵主宰，如南斗主生，北斗主死，山神管野物，龙王管旱涝，火神管火灾，财神管钱财，瘟神管疾病，文昌帝君管功名，灶神管一家一户，土地、城隙管一方黎民，玉皇大帝总管天下等等。因此，人们要求得生产顺利和生活美满，就须向各个庙观的神像烧香跪拜，道教诸神中的大多数，是通情达理、与人为善的，太白金星就是玉皇手下的一位大清官，各个地方的土地菩萨和城煌老爷实际上是人们所企望的开明地方官的化身，民众往往按照自己的意愿来想像这些神灵。并流传着各种故事：给灶神吃怡搪，不让他上天瞎说乱道就是一个有趣例子。</div>
+<div style="TEXT-INDENT: 21pt">3.道教和其他宗教一样，十分重视道德教化。《太上感应篇》和《文昌帝君阴鹭文》就是它们对世人的道德训诫。就其道德规范而言，和儒释两家并无多大区别，它认为&ldquo;祸福无门，唯人自召，善恶之报，如影随形&rdquo;。说天上有北斗神灵，录人罪恶，雷公在头顶惩罚恶人；又道人身上有三尸神，每到庚申日即上天言过;还说做三百件善事可以成地仙，做一千三百件善事则可以成天仙等等，则是道家的创造。这些善恶报应的观念，曾对促使人们从善去恶，树立道德风尚，有着深远影响。就《太上感应篇》所提倡的二十项善行和反对的一百五十项恶行本身来看，大多数是对民间淳朴道德规范的认可，有些是我们民族传统美德的体现，如&ldquo;矜孤恤寡，敬老怀幼，昆虫草木，犹不可伤，悯人之凶，乐人之善，济人之急，救人之危&rdquo;等，值得我们今天在新的思想基础上加以发扬。</div>
+<div style="TEXT-INDENT: 21pt">4.中国民间的道教信仰常和丰富多样的文化娱乐活动结合，基于多神崇拜。道教的许多神圣诞日，如正月初九为玉皇大帝诞，正月十五为上元天官诞，二月初三为文昌帝君诞，二月十五为太上老君诞，三月三日为王母诞，三月十五为昊天大帝诞，三月十八为中岳大帝诞，三月十九为日宫太阳星君诞，三月二十八为东岳大帝诞，四月十四为吕祖诞，五月十一为都城阻诞，五月十三(一说，六月二十四)为关帝诞，六月二十三为火神诞，一七月十五为中元地官诞，七月二十为财神诞，八月初二为北斗诞，八月初十为北岳大帝诞，九月初一为南斗诞，九月初九为斗姆诞，十月十五为卞元水官诞，十月二十七为北极紫微大帝诞，十月初六为西岳大帝诞，十二月十六为南一岳大帝诞等，(7)在这些日子里，有关地方的民众赶赴庙观集会，许愿、还愿，求神、谢神，热闹非常。它们既是一种宗教信仰活动，又借此举行各种文化娱乐，积久成习，并演进为民间文化节日了。如旧时北京一带在每年据称是真武大帝下界的正月十六日要举行盛大的中幡会，幡高近两丈，张挂于竹竿之上，每幡由五六人护擎，轮流表演肩肘功夫。各村高幡会合之后组成幡队浩浩荡荡向庙观进发，行列中还杂有秧歌高跷表演，十分壮观，幡上绣有各路神像，绝大多数属于道教诸神，尤以真武大帝、碧霞元君和关帝最受崇敬。(8)耍中幡后来演变成为北方杂技中的一个重要节目，实为道教文化的产物。南方京族的&ldquo;唱哈节&rdquo;，也是受道教影响，以歌唱来祭神娱人，年长日久，演变成为一年一度最隆重的民族节日。(9)</div>
+<div style="TEXT-INDENT: 21pt">道士在庙观内外举办斋醮，都要鼓吹弹唱，从而促进了道教音乐的发展。据陈国符先生在《道乐考略稿》(10)<span>所提供的材料，早期道教音乐比较简单，主要曲调为《步虚声》与《华夏赞》，使用钟磐两种乐器，后来得到极大的丰富发展。一方面引进宫廷音乐，崇信道教的唐明皇不但校正过道乐曲谱，还制作了&ldquo;降真召仙之曲，紫微送仙之曲，于太清宫奏之。&rdquo;另一方面大量引进民间俗乐。五代修斋用乐，就已出现了&ldquo;广陈杂乐，巴歌渝歌，悉参其间&rdquo;的情况。明代武当山紫霄宫的道乐中，有《一定金》、《清江引》、《采茶歌》、《小采茶歌》等民间曲调、到了明末清初，道场的情景更是&ldquo;赞诵宜扬，引商刻羽，合乐笙歌，竟同优戏。&rdquo;可见道教音乐在向世俗化演进的过程中，融合了许多民间音乐成分。道教音乐广泛吸取滋养，进行自己的创造，使雅乐与俗乐融为一体，成为中国民族音乐的一个宝贵组成部分。</span></div>
+<div style="TEXT-INDENT: 21pt">5.道教与民间口头文学的密切关系。</div>
+<div style="TEXT-INDENT: 21pt">神话是一种最古老原始的口头创作，是具有多种价值的民族文化珍宝。同儒家排斥神话，或将神话故事历史化不同，道家十分尊重民族神话，道教的信仰，有不少承袭了占代神话。玉皇大帝、东王公、西王母、盘古真人等等在古代神话中均可见到，他们以郑重的态度把这些神话保存下来，用文字写定时即使有些改削，也能大致保持其本来面日，以巫山神女故事为例，由于年代久远，现今民众口头已不能完整地讲述原故事，唐末道士杜光庭在《集仙录》中，作《云华夫人传》，并派生出一系列三峡风光传说来，一直流传至今。</div>
+<div style="TEXT-INDENT: 21pt">苏联学者在研究中国神话时，曾将&ldquo;道家神话&rdquo;作为中国古代神话的四人组成部分之一，给予很高评价。&ldquo;道家神话&rdquo;能否单列，似可商榷。道家对保存中国神话所作的巨大贡献，则已为国内外学人所公认。</div>
+<div style="TEXT-INDENT: 21pt">道教对中国民间故事传说的发展也有巨大影响。道教的神仙故事，如八仙传说和关于泰山、华山、龙虎山、武当山的传说等，均盛传于民间。这些口头传说，往往生动地反映出民众的美好意愿，祖国山川的奇险风光以及道家人物的巨大神通，把三者融合一体，具有独特风采。由于这些名山胜境现在多已成为旅游胜地，有关传说更是脍炙人口。台湾学者对这些道教传说故事作了颇有见地的评价，他们写道：</div>
+<div style="TEXT-INDENT: 21pt">道教传说流播于世，其丰富的想象、幻异的情节，均能在不同时代说话者口中制造出不少趣味；人类在现实社会中不能满足的：诸如婚姻、病痛，以及死亡，都可在娓娓叙述中获得暂时的解脱；尤其通过舞台，一些度脱成仙，仙道解困，以及神仙游戏人间，随心所欲的能力，更为长期生活在困顿中的百姓，在哄堂嬉笑声中涤荡心灵。这种文学艺术的满足，绝不限于文士的寄托幽隐而已，更是广大民众的生活乐趣，而为中国文学中特出的艺术成就之一。(11)</div>
+<div style="TEXT-INDENT: 21pt">此外，人们还吸取道教的神奇幻想，构造了许多广泛反映现实斗争的民间幻想故事。其中虽有鬼神形象、道功道法出现，却是对于人民群众反抗自然与社会邪恶势力的英勇斗争的曲折反映，内容更为刚健清新。(12)</div>
+<div>(三)</div>
+<div style="TEXT-INDENT: 21pt">考察道教同中国民间文化的联系，我们不能止于陈述各种文化生活事相，尤应着重从文化心理上予以探讨。从深层考察，道家的文化哲学或者说道教精神中，也有富于积极意义，甚至构成我们民族优良精神品质，至今仍然显得很有生气的宝贵成分。现试述如下。</div>
+<div style="TEXT-INDENT: 21pt">1.道教以&ldquo;恶死乐生&rdquo;(《鹃冠子》)作为自己的人生观，同佛教以生为苦，以一死作为解脱恰恰相反。它不企求来世的虚幻幸福，着力追求今生的现实享受，而且渴望长生不死，法术通神，进入唯意所适的自由极乐境地，抱朴子葛洪满怀信心地写道：&ldquo;若夫仙人，以药物养身，以术数延命，使内疾不生，外患不人，虽久视不死，而旧身不改，苟有其道，无以为难也。&rdquo;(《抱朴子&middot;论仙》)他们相信人的寿命能够延长，自然界龟鹤的高龄可以仿效。为了延年益寿，他们大胆实践，如烧炼丹药，研究出一整套进行内外修炼，使精气神合一的方术。其中不少强身保健之术深入民间，得到不断的发展和提高。在气功武术方面，已取得震惊海内外的成就，对人类生命科学作出了宝贵贡献。而贯串在这些活动中的对人生的乐观进取精神，则成为我们民族性格的一个美好侧面。</div>
+<div style="TEXT-INDENT: 21pt">2.和&ldquo;不语怪力乱神&rdquo;的儒家不同，道教崇尚神奇，穷究自然奥秘的精神。葛洪所写的下面两段话，就表达了道教的这种精神，至今我们读起来还是感到十分亲切。他说：</div>
+<div style="TEXT-INDENT: 21pt">&ldquo;夫目之所曾见，当何足言哉了天地之间，无外之大，共中殊奇，岂遮有限，诣老戴天，而莫知其上，终身履地，而莫识其下。形骸已所自有也，而莫知其心志之所以然焉。寿命在我者也，而莫知其修短之能至焉。况乎神仙之远理，道德之幽玄，仗其短浅之耳目，以断微妙之有无，岂不悲哉了&rdquo;(<span>《论仙》)</span></div>
+<div style="TEXT-INDENT: 21pt">&ldquo;陶冶造化，莫灵于人。故达其浅者，则能役用万物，得其深者，则能长生久视。&rdquo;(<span>《对俗》)</span></div>
+<div style="TEXT-INDENT: 21pt">在他看来，宇宙间人类已经认识的事物很有限，而尚未认识的事物则无限丰富。头顶天，脚踏地，并不认识天地的由来。身体属于自己所有，却不能控制寿命的短长，也不能说明心志即思维活动的奥秘。因此，一般人凭借耳闻目睹的短浅见识来判断许多事物的虚实有无，便常常靠不住。但作为万物灵长的人类，是有潜在能力来通达宇宙奥秘，役用万物，乃至长生不老的。</div>
+<div style="TEXT-INDENT: 21pt">道教的这种自然哲学观念。是含有合乎辩证法的科学成分，那就是不为短浅的见闻所拘限，相信自然界具有变化创造的无穷奥秘，对探索未知领域的奇异事物抱有巨大热情和好奇心。在《抱朴子》这部书中，葛洪对男女易形，断指再植，驴马杂交生骡，人工制作水晶碗，不灰之木，火院之布，越人用银针起死回生，鲁班造木鸟展翅飞天等均持肯定态度。一千多年前这些为常人所不理解的自然奇迹与人工创造，今天均已为现代科学所证实。由此可以看出道教的远见卓识。《抱朴子》的观点是有代表性的。因有上述科学思想，道教便积极投身于烧炼丹药的科学试验，或仿效动物生活习性探求长寿之术，并积极支持民间的各种方术技艺，从而对中国古代科技发展起了积极促进作用。正如编著《东亚&middot;传统和变化》一书的美国学者指出的：&ldquo;中国原始科学的发展主要部分是同热爱自然的道家相联系，而不是同死读书的濡家相联系的。&rdquo;(13)<span>中国民间的一些技艺行业，常祀奉道教人物为祖师和保护神，如金银铁匠以太上老君为祖师，医药业以孙思邀为药王，北京玉器行业以邱长春为祖师等，就是道教和民间科技活动有着生动联系的反映。道教的这种科学思想，即使在今天，也仍然显露出它的生气。在气功和其他人体特异功能面前，学术界发生过严重争议。道家认为自然界的奥秘并未穷尽，反对拘俗守常，用短浅的见闻加以识别的主张，对我们正确认识和对待这些奇异事物，揭破自然之迷，就能给予有益的启示。</span></div>
+<div style="TEXT-INDENT: 21pt">3.道教具有自然和社会邪恶勇猛抗争的精神，民间信奉的道教诸神，如太上老君、真武大帝、张天师、许真君等，均有斩妖驱邪的巨大法力，容不得妖孽祸害百姓。江西、湖北一带盛传许真君斩蛟的传说。蛟害是对南方无情水患的象征，许真君关心民众疾苦，除恶务尽，所向无敌的形象，至今犹为民众所称道。</div>
+<div style="TEXT-INDENT: 21pt">道教也主张以武力惩治社会邪恶，改变人世间的不平。《太平经》认为天地生财，就是为着养育万民。因此，那些&ldquo;积财亿万，不肯救穷周急，使人饥寒而死&rdquo;的人，就是&ldquo;与天为怨，与地为咎，与人为大仇，百神僧之&rdquo;，死有余罪。(15)<span>这种由天地人三者合一而致太平的社会政治观念，成为古代多次农民起义的思想武器。</span></div>
+<div style="TEXT-INDENT: 21pt">道教的这种杭争精神，在口头传说和实际生活中都有充分的表现。</div>
+<div style="TEXT-INDENT: 21pt">南方民间传说中，常以法术通神、勇于抗争的法师作主人公，编织出威武壮烈的故事。湖南的《向法官治龙》(16)<span>，讲一农民学得除妖斩鬼、降龙伏虎的道法之后，能用雄杆撑天，叫太阳不落山。后来为救一方百姓，与霸占龙洞，兴妖作怪的恶龙苦斗，因一时疏忽大意，未能取胜，最后同归于尽。</span></div>
+<div style="TEXT-INDENT: 21pt">鄂西流行的《张号的故事》(17)<span>讲一个叫张号的小伙子，经师父&ldquo;传授秘法&rdquo;，反抗土王的暴虐统治。师父要他&ldquo;三年另六个月不出大门，在家炼功，期满之日将插在神龛上的三支丝茅草箭射往南方，再把屋后的紫竹全部砍断，自有兵马出现，可夺土王天下。&rdquo;张号因性急，提早起事，三支神箭飞出，均未射中土王；砍断竹子，竹节里的金人金马也未成形，因而造反失败。这两篇故事在南方许多民族中间都有异文流传，是两个大的故事圈。主人公原是一普通农民，拜师学法后，立志降伏代表某种自然灾害的精怪；或不堪忍受黑暗统治，企图以武力夺取江山，改朝换代。这些故事均凝聚着民众向自然界与社会下邪恶势力进行抗争的勇猛气概。</span></div>
+<div style="TEXT-INDENT: 21pt">道教崇信的诸神和民间的道公、法师，都不是以&ldquo;温良恭俭让&rdquo;，而是以神奇威猛为特征。这从他们普遍以镜和剑作为法器就可看出。拿镜子就是为了照妖，使一切妖魔鬼怪均&ldquo;不能于镜中易其真形&rdquo;(<span>《抱朴子》)，而所佩之剑则可以&ldquo;指天天裂，指地地拆，指星辰则失度，指江河则逆流，万邪不敢当&rdquo;(《列仙全传》)。他们的神圣职责就是顺应天理人情，明辨邪恶，仗剑执法，斩妖驱鬼，护佑善良。历代封建统治者也曾借助他们的威猛来威慑民众和异已势力，以巩固自己的宝座，明成祖就宣称&ldquo;开国靖难，神多效灵&rdquo;，说披发仗剑的真武大帝在统一全国的战争中显灵相助，于是在全国掀起了崇信真武的热潮，然而在民间信仰中，这些神的威猛形象，主要由民众意愿塑造而成。贵族道教着力追求长生不老之术，民间道教则崇尚勇武，不但企求道教诸神以强有力的手段扫荡妖邪，而且渴望自己经过拜师学法，成为天地间的强者，创造惊世骇俗的奇迹。</span></div>
+<div style="TEXT-INDENT: 21pt">在道教文化，特别是民间道教信仰的深层，可以说蕴含着一种&ldquo;斗争哲学&rdquo;，一种勇猛争斗无所不能的豪迈气概，这是我们民族特别是南方各民族的性格心理长期积淀的成果。如果我们承认，道教文化在中华民族的性格塑造上也留下了自己的烙印，这是一个重要侧面。</div>
+<div style="TEXT-INDENT: 21pt">4.道教关于阴阳两极对立统一的宇宙观对民间文化的渗透。</div>
+<div style="TEXT-INDENT: 21pt">道教把天地万物作为一个整体来看待，探求贯串其中的&ldquo;道&rdquo;，不但企图认识宇宙的本原，而且渴望由此掌握支配天地万物的神秘力量。阴阳学说就是他们的重要发现之一。他们认为，天地万物都由阴阳两极相互作用构成。&ldquo;太极生两仪(<span>阴阳)，两仪生四象(春夏秋冬)，四象生八卦(乾坤震巽哭坎离艮兑)&rdquo;(《周易》)。八卦可以变化为六十四卦，并由此衍生出万物。所谓&ldquo;介之斯为一，衍之斯为万&rdquo;。(18)这一字宙观，其深刻意义和巨大价值，现已逐渐为国内外学者所认识。李约瑟在《中国科学技术史》中说：&ldquo;一切现代科学所探讨的世界结构，老早已在阴阳学说里预示出来了。&rdquo;(19)他还告诉我们，现代电子计算机所用的二进位制数学，就是德国数学家莱布尼兹在1701年收到友人从北京寄去的伏羲六十四卦图之后受到它的启发而创造出来的。(20)</span></div>
+<div style="TEXT-INDENT: 21pt">新近出版的《现代物理学与东方神秘主义》一书评述这一学说道：</div>
+<div style="TEXT-INDENT: 21pt">按照中国人的观点，道的所有表现形式都是这两极力量相互作用的结果。</div>
+<div style="TEXT-INDENT: 21pt">阴和阳的能动性质用中国古代的太极图来表示。这个图中黑色的阴和白色的阳是对称的，但这种对称并不是静止的。这种合理的对称暗示着强有力的无休止的运动。在图中的园点象征着这样的思想，每当这两种力量之一达到自己的极端时，它早就孕育着自己对极的种子。</div>
+<div style="TEXT-INDENT: 21pt">这对阴和阳是渗透中国文化的主题并决定了传统中国生活方式的所有特点。(21)</div>
+<div style="TEXT-INDENT: 21pt">早期道教的这种哲学观念被后来的道教所继承，作为一种神秘信仰普及于民间太极图成为镇邪之物，随处可见。&ldquo;阴阳相生相克&rdquo;，成为流行俗语。由于受科学文化发展水平的限制，人们对阴阳学说的哲学内涵尚不完全理解。甚至被封建迷信所利用给社会造成祸害。但民间在农业生产、中医治病和气功武术上已广泛用于指导实践，并取得了显著效果。太极拳大师王培生最近就对访问他的人讲，蜚声中外的吴氏太极拳，就是以道家哲学为指导，依据《太极拳经》中的阴阳对立统一的道理来辩证地处理有无、虚实、动静、刚柔、上下、前后、左右、张弛、开合、表里、进退等动作而练成的。(22)<span>这一观念对中国民间文化和民众意识的渗透也是广泛而深刻的。</span></div>
+<div style="TEXT-INDENT: 21pt">近年，一些彝族学者提出，彝族古代的十月太阳历，将一年分为十个月、五个季节，每季分别以土、铜、水、木、火五元素作代表，而且以双月为雌(<span>阴)，单月为雄(阳)，早已蕴含着阴阳五行思想，中国早期道教和后来道教的这一宇宙观，即渊源于此。这一事例更表明了道教文化和中国民间文化的有机联系。</span></div>
+<div>(四)</div>
+<div style="TEXT-INDENT: 21pt">道教文化属于宗教文化，民间文化属干世俗文化。就它们的本质而言，自然是有区别的。按照文化学家的意见，这种区别主要表现在&ldquo;世俗文化&mdash;&mdash;这是在创作活动中主观的具体化和客观的人文主义化;<span>宗教文化&mdash;&mdash;这是主观的异化和客观的神化。&rdquo;(23)宗教文化表现人受制于异己的力量。世俗文化则相反，中国道教因承袭了早期道家的思想，又具有日本学者所说的&ldquo;渗透在中国人的全部生活之中&rdquo;的特点，这样，它同民间文化之间就构成了你中有我，我中有你，互相影响，彼此渗透的关系。在实际考察时，难以作截然异质的评判。我们研究这两种文化的联系，主要目的是在这复合的文化形态中，剔除槽粕，吸取其中至今仍有生气的优良文化成分，以滋养新的社会主义文化。</span></div>
+<div style="TEXT-INDENT: 21pt">我们欣喜地看到，道教文化和具有道教色彩的民族民间文化，同其他文化成分汇合，共同构成中华民族传统文化的主流，经过几千年的流逝，它已冲出重重峡谷，今天正在宽广无垠的河道上，以浩荡的气势，朝着更加光辉灿烂的目标奔涌向前。</div>
+<div>注释</div>
+<div>??? (1)转引自刘尧汉《中国文明源头新探；191页，云南人民出版社一九八五年版</div>
+<div style="TEXT-INDENT: 21pt">(2)《中国文化新论》宗教卷251页台北联经山版公司1983年版</div>
+<div style="TEXT-INDENT: 21pt">(3)转引自《中国文明源头新探》第18页</div>
+<div style="TEXT-INDENT: 21pt">(4)见《道教和中国文化:相互关系问题》，《中国文化研究集刊》第一辑480页复旦大学出版社一九八四年</div>
+<div style="TEXT-INDENT: 21pt">(5)《思想战线》一九八三年第二期</div>
+<div style="TEXT-INDENT: 21pt">(6)覃光广等编者，中央民族学院一九八二年出版</div>
+<div style="TEXT-INDENT: 21pt">(7)见《太上感应篇注讲证案汇编》卷四</div>
+<div style="TEXT-INDENT: 21pt">(8)张紫晨《白云观传说的演变及北京的有关习俗》，学术论文</div>
+<div style="TEXT-INDENT: 21pt">(9)覃光广等编著《中国少数民族宗教概览》481页</div>
+<div style="TEXT-INDENT: 21pt">(10)见《道旅源流考》中华书局一九八六年版</div>
+<div style="TEXT-INDENT: 21pt">(11)《中国文化新论》宗教卷302页台北联经出版公司一九八三年版</div>
+<div style="TEXT-INDENT: 21pt">(12)详见拙作《道教与民间故事传说》，《思想战线》一九八三年第二期</div>
+<div style="TEXT-INDENT: 21pt">(13)见《中国文化研究集刊》第一辑981页复旦大学出版社一九八四年版</div>
+<div style="TEXT-INDENT: 21pt">(14)《中国民间诸神》736页河北人民出版社一九八七年版</div>
+<div style="TEXT-INDENT: 21pt">(15)见卿希泰《道教思想史纲》第一卷124页四川人民出版社一九八一年版</div>
+<div style="TEXT-INDENT: 21pt">(16)《石门县民间故事资料本》石门县民间文学集成办公室一九八六年编印</div>
+<div style="TEXT-INDENT: 21pt">(17)《白鹤井》，鹤峰土家族自治县文化馆一九八二年编印</div>
+<div style="TEXT-INDENT: 21pt">(18)邵雍《皇极世书&middot;观物外篇》见《中国文明源头新探》89页</div>
+<div style="TEXT-INDENT: 21pt">(19)同上81页</div>
+<div style="TEXT-INDENT: 21pt">(20)见《文明中国的彝族十月历》95云南人民出版社一九八六年</div>
+<div style="TEXT-INDENT: 21pt">(21)《现代物理学与东方神秘主义》85页灌耕据F&middot;卡普拉《物理学之道》编译四川人民出版社一九八四年版</div>
+<div style="TEXT-INDENT: 21.75pt">(22)志云：《太极大师王培生》《人民日报》海外版一九八七年八月三日。《太极拳经》道：&ldquo;太极者，无极而生，动静之几,阴阳之母也&rdquo;。</div>
+<div style="TEXT-INDENT: 21.75pt">(23) (罗)亚&middot;泰纳谢《文化与宗教》25页中国社会科学出版社一九八四年版</div>
+<div>&nbsp;</div>
+<div align="left">&nbsp;</div>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

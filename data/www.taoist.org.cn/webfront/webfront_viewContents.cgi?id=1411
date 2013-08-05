@@ -1,0 +1,616 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260100000000000000&targetPage=Fdjxy2">
+						道协会刊(1962—1986)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260104000000000000&perPageNum=15&targetPage=Fdjxy3">
+						第4期（1964年10月）
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	道教知識類編初集 (二續) 
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p class="unnamed1" align="center">本會研究室 </p>
+<p class="unnamed1" align="center">三、道經道書 </p>
+<p class="unnamed1"><strong>　　</strong>[道藏]是我國道經、道書的一部大總集，其中包括了明代以前道教中的絕大部份經典。 它是在歷代帝王的支持下由道士們自己彙集和編纂起來的。 </p>
+<p class="unnamed1">　　道藏的內容，主要是由道家書、方書、道經和有關的傳記四大部分組成的。其中最早出現的是道家書，它就是諸子書中的道家部分，《漢書 &middot;藝文志》中有&ldquo;道，三十七家&rdquo;，大概為先秦人著作。這些書是道教理論的來源，而《老》、《莊》更為最重要的根據。其次是方書，包括面很廣，其中有古代神仙家、陰陽家和房中家的書，但晉葛洪《抱朴子&middot;遐覽篇》所收集的方書中也包括了許多道經在裹面；同時，一般的方伎書，像醫、卜、星、相之類，也應當說是方書。再其次是道經，最早的有漢代人著作，如于吉所傳的《太平經》；《三國志&middot;張魯傳》中說，張陵自己也曾造作道書，但多數道經則為魏、晉、南北朝人所作。現在我們所能看到的最古道經僅有《太平經》殘本。又其次是和道教有關的一些傳記書，其中最古的大概要算《山海經》、《穆天子傳》、《列仙傳》之類的書了。此外，在道藏中還有些儒家書、雜家書和集部等書。儒書中最重要的是和《易經》有關的一些著述；集部所出較晚，大抵為歷代修纂道藏時編入的。 </p>
+<p class="unnamed1">　　道書目錄最早見于載笈的，當推《抱朴子 &middot;遐覽篇》，其中列舉&ldquo;經&rdquo;類137種，共434卷；&ldquo;記&rdquo;類29種，共51卷；&ldquo;法&rdquo;類5種，共15卷；&ldquo;文&rdquo;類4種，共10卷；&ldquo;錄&rdquo;類3種，共4卷；&ldquo;集&rdquo;類2種，共2卷；&ldquo;雜&rdquo;類(如養生書、昇天儀、微言、九宫、囊中要、大禁、奪笄律、立亡術、道要、道意、大覽、肘後等)12種，共150卷；&ldquo;圖&rdquo;類13種，共13卷；&ldquo;符&rdquo;類共620卷；統計以上九類，共有1299卷(這個數字比較確實，以往諸家所引《遐覽篇》，都不免錯誤)。繼葛洪之後，劉宋陸修靜有《三洞經書目錄》，梁孟法師有《玉緯七部經目》，陶弘景有《陶隱居經目》，阮孝緒有《仙道錄》(七錄外篇之二)，北周時有《玄都經目》，《隋書&middot;經籍志》中有《道書總目》，初唐時道士尹文操也有《玉緯經目》。其中最主要的則為陸修靜的《三洞經書目錄》和北周的《玄都經目》。陸目共收集道經、道書一千二百二十八卷，其中實有的是一千九十卷，這些書大致說來，就是《抱朴子&middot;遐覽篇》所提到的一些方書，以及東晉以來楊羲、許謐、葛巢甫等人所傳出的經笈符錄。這一批書由陸修靜整理並編出目錄之後，劉宋皇帝將它存放在華林園中，一直流傳到唐初，它還大致完整，這就是《開元道藏》收集和編纂的主要根據。《開元道藏》本身也有目錄，它的名字叫《三洞瓊綱》，是在唐玄宗主持下，由道士張仙庭負責編纂的，其中所收集道經、道書為三千七百四十四卷。 </p>
+<p class="unnamed1">　　繼《開元道藏》之後，宋代曾五次興修道藏，第一次是在太宗時期，它是由徐鉉和王禹傅負責領導修纂的，他們根據唐藏並搜求了更多的民間道經、道書共七千多卷，去其重複，僅得三千七百三十七卷，這是宋初的第一部道藏。第二、三次重修都在真宗時期，並且都是由王欽若負責領修的。在大中群符年間，先由王欽若等人根據宋初道藏增補了六百二十二卷，共為四千三百五十九卷，並撰咸篇目上進，賜名《寶文統錄》。後來在天禧年間又修補了一次，增為四千五百六十五卷，以千字文為函目，始於 &lsquo;天'字，終於&lsquo;宮'字，共得四百二十五字，故稱為《天宮寶藏》。第四次是在徽宗政和年間編出了《萬壽道藏》，一般又稱它為《政和道藏》。第五次是在南宋淳熙間，名叫《瓊章寶藏》。但其中最有名的還是《政和道藏》，我國道藏也從此時才有了正式刊本，它的卷數是五千四百多卷。金章宗根據宋藏，又編纂成《大金玄都寶藏》，計六千幾百卷。元初全真教道士宋德方等募緣再修道藏，也名為《玄都寶藏》，其時道藏卷數已發展為七千幾百卷了，後被焚毁，故卷數不全。明代在永樂年間曾修纂一次，但沒有成功；正統年間又繼續修纂，編成了《正統道藏》；計五千三百零五卷，並刊行多部，分頒國內各大名山道觀中珍藏。現在北京白雲觀中還有當時的赐經碑存在。萬曆年間又刊布了《續道藏》，計一百八十卷，以上明代的正、續兩部道藏，共計五千四百八十五卷，它也就是我國現在所保存的明版道藏。民國十四年左右，上海涵芬樓又將明道藏影印了一次，除將原版縮小外，並將梵夾本改為線装本，因此，道藏在外面始有流傳。 </p>
+<p class="unnamed1">　　現傳道藏的分類是三洞、四輔、十二類。 </p>
+<p class="unnamed1">　　三洞即 &ldquo;洞真&rdquo;、&ldquo;洞玄&rdquo;、&ldquo;洞神&rdquo;，它是根據陸修靜的《三洞經書目錄》承襲下來的。&ldquo;洞&rdquo;字作&ldquo;通&rdquo;字解，即通真、通玄、通神之義。這些道經不是一個來源，當初各有它自己的傳授系統，所以分為三洞，後來道經愈出愈多，系統早已混亂，道藏目錄仍用三洞名稱，那就毫無意味了。 </p>
+<p class="unnamed1">　　四輔是 &ldquo;太清&rdquo;、&ldquo;太平&rdquo;、&ldquo;太玄&rdquo;和&ldquo;正一&rdquo;。這在唐藏中是沒有的，宋初修纂第一次道藏時還只有六部，宋晁公武《讀書志》中說：&ldquo;道藏書六部：一日大洞真部，二日靈寶洞玄部，三日太上洞神部，四日太真部，五日太清部，六日正一部。&rdquo;《通志》七十二，說：&ldquo;太玄經以諱故，崇文改為太真，所以此處的太真部就是太玄部。後來王欽若等修纂《寶文統錄》時，才根據了《玉緯七部經目》的分類法加上了現在道藏中所謂的四輔；這也就是在晁志所說的六部外，又加上了太平部。王欽若等為此還曾編撰了《三洞四輔經目》。四輔中的經典，主要是收集了當時民間流傳的一些道經、道書，在原有三洞之外又做了一些補充。 </p>
+<p class="unnamed1">　　十二類是；本文、神符、玉訣、靈圖、譜錄、戒律、威儀、方法、眾術、記傳、讚誦、表奏。十二類在宋代以前原稱十二部，後來因為這個&ldquo;部&rdquo;字和三洞四輔共稱七部的&ldquo;部&rdquo;字相同，七部指的是各書的系統，十二部指的是各書的性質，兩種名稱不宜混淆，所以就把&ldquo;十二部&rdquo;改稱&ldquo;十二類&rdquo;。《道教義樞》和《雲笈七籤》中關於十二類的解釋很多，閱者不蓉易明瞭，今再作簡單的說明如下： </p>
+<p class="unnamed1">　　第一 本文類 先出現道經，而後才創立道教，經是教的本源，所有三洞經文都歸此類。 </p>
+<p class="unnamed1">　　第二 神符類 &ldquo;神&rdquo;是神妙莫測，&ldquo;符&rdquo;是信如符契，所有三洞符錄都歸此類。 </p>
+<p class="unnamed1">　　第三 玉訣類 &ldquo;玉&rdquo;是寶貴之物，&ldquo;訣&rdquo;是解決疑問，古人寫道經，常用金書，因此各道經的註解都叫作玉訣，取金玉兩相配合之義。 </p>
+<p class="unnamed1">　　第四 靈圖類 &ldquo;靈&rdquo;即靈異，&ldquo;圖&rdquo;即畫圖，道經道書中凡是以圖為名者，都歸此類。 </p>
+<p class="unnamed1">　　第五 譜錄類 &ldquo;譜&rdquo;是譜系，&ldquo;錄&rdquo;是記錄，凡高真上聖的功德名位和應化事迹，皆歸此類。 </p>
+<p class="unnamed1">　　第六 戒律類 &ldquo;戒&rdquo;是勸善止惡的告誡，&ldquo;律&rdquo;是應當遵守的條文，凡與戒律有關的經書及功過格等，皆歸此類。 </p>
+<p class="unnamed1">　　第七 威儀類 &ldquo;威&rdquo;是氣象莊嚴，&ldquo;儀&rdquo;是齋醮儀式，《道藏》中這一類書很多，大約有六百卷左右。 </p>
+<p class="unnamed1">　　第八 方法類 本意指設壇祭煉及身內修持各種方法，後來與&ldquo;眾術類&rdquo;混雜不分。 </p>
+<p class="unnamed1">　　第九 眾術類 本意指外丹爐火、五行變化和一切術數，後來又與&ldquo;方法類&rdquo;各書相混雜。 </p>
+<p class="unnamed1">　　第十 記傳類 如十洲記、冥通記、列仙傳、神仙傳、各種碑銘、各種山志等。 </p>
+<p class="unnamed1">　　第十一 讚頌類 &ldquo;讚&rdquo;是讚美，&ldquo;頌&rdquo;是歌頌，如步虛詞、讚頌靈章、諸具寶誥等。 </p>
+<p class="unnamed1">　　第十二 表奏類 &ldquo;表&rdquo;是表白願望，&ldquo;奏&rdquo;是上奏天庭，凡祈禱時所用的表文，以及宋明兩代文章中所謂青詞、近代道教中所謂疏頭，皆屬此類。 </p>
+<p class="unnamed1">　　唐代以前道教經書，因為有宗派系統，所以分成七部，自宋代而後，三洞四輔久已混亂，並非原有的面貌，明代重修《道藏》，仍沿用七部舊規。至於十二類的劃分，雖不能說它不對，但各類中所收之書，未必都合於定例，常常發現其中有許多錯誤；三洞項下各分十二類，已嫌重複，而四輔項下又不分類，更嫌蕪雜不清。凡是做研究工作者，如果想檢查某一種書，就得把全部《道藏目錄》都要翻遞，非但浪費時間，還恐怕難免遺漏。本會陳撄寧會長有鑒於此，曾根據《道藏》全書的內容、性質作了初步分析，將它分為十四大類，即：道家類、道通類、道功類、道術類、道濟類、道餘類、道總類、道史類、道集類、道教類、道經類、道戒類、道法類、道儀類等，並擬編寫一部新的&ldquo;道藏分類目錄提要&rdquo;，以供給後來學者們研究上的便利；但因這項工作繁重，不能草率從事，現在伺無暇進行。 (原版道藏共4735册，縮印本道藏共1120册，包括1476種書。) </p>
+<p class="unnamed1">　　此外，道藏還有兩種節本；首先是宋代的《雲笈七籤》，它是北宋張君房等人根據《天宮寶藏》而編纂的，全書為一百二十二卷，完全是北宋道藏的雛形，其中所節錄的經典原本，有些到後來已失傳了，所以它的存古之功不可埋沒。張君房自序中說：他是 &ldquo;掇雲笈七部之英，略寶蘊諸子之奧。&rdquo;再者，清朝嘉慶年間(公元1796--1820)，蔣元庭又根據《正統道藏》選擇其中一部分，編成了《道藏輯要》，包括道書二百七十九種，共二百一十九册，分装二十八函；清光緒末期，因原版《道藏輯要》市上已經罕見，成都二仙菴道院又將它翻刻了一次，並有所增加，這也算是《道藏》的節本，其中還有一些在明版《道藏》以外的晚出的道書，可惜選擇不精，有用之書嫌少，無用之書嫌多。四十年前，上海某書局還 出版了《道藏精華錄》，內容包括道書一百種，那些書也是由明版《道藏》和《道藏輯要》中選擇出來的，其實所選者並非全是精華，而道書精華亦不止於此，該書本屬營業性質，也就毋須苛求了。 </p>
+<p class="unnamed1">　<strong>　</strong>[道德真經] 即《老子》，周老聃著。老聃之名，最早見於《莊子》書中，其它如《禮記》、《韓非子》、《呂氏春秋》、《說苑》各書中也多提到老聃。關於他的歷史，向來無確實記載，司馬遷的《老子傳》已難使人相信，漢劉向的《列仙傳》、晉葛洪的《神仙傳》上面都有老子的事迹，更不足為憑。(《史記&middot;老子傳》已轉錄於《道協會刊&middot;創刊號》；《列仙傳》見縮印本《道藏》第138册；《神仙傳》不見於《道藏》，收在其它叢書中) </p>
+<p class="unnamed1">　　老聃的學說，據《漢書 &middot;藝文志》說，是&ldquo;出於史官&rdquo;，是從歷史上的&ldquo;成敗、存亡、禍福&rdquo;中吸取了經驗教訓而得出的哲學理論。《史記&middot;太史公自序》则說它是各家學說的總和。他說道家之學，&ldquo;其為術也，因陰陽之大順，采儒墨之善，撮名法之要&rdquo;，是集諸家之大成。但這樣說法似乎不够完備，他還觀察並研究了宇宙間的自然現象，從自然規律中求得了更多的論證。如他談長生，就是從&ldquo;天長地久&rdquo;的道理而推想出來的。他在《道德經》中說：&ldquo;天地所以能長且久者，以其不自生，故能長生。是以聖人後其身而身先，外其身而身存。&rdquo;他說的&ldquo;不爭&rdquo;，則是研究了水的特性而獲得的結論。如他說；&ldquo;水善利萬物而不爭。&rdquo;又說：&ldquo;江海之所以能為百谷王者，以其善下之。&rdquo;他談&ldquo;柔弱&rdquo;，則是根據了&ldquo;萬物草木之生也柔弱，其死也枯槁。&rdquo;因而發現了&ldquo;堅強者死之徒，柔弱者生之徒&rdquo;的道理。所以說，老聃的哲學是觀察了多方面的自然現象和社會現象，而得出他自己的結論。 </p>
+<p class="unnamed1">　　《道德經》全部內容，主要是發揮作者對於&ldquo;道&rdquo;和&ldquo;德&rdquo;兩個名詞的涵義；又可以說，這兩個名詞也就代表了老子的哲學思想。 </p>
+<p class="unnamed1">　　他所說的 &ldquo;道&rdquo;既闡明了他的宇宙觀，也包括了他的人生哲學和修養方法的原理。至於&ldquo;道&rdquo;究竟是什麼?研究老聃哲學的，各人所見不同，自古至今沒有定論；我們的領會則是：&ldquo;道&rdquo;就是&ldquo;空&rdquo;，就是太空的&ldquo;空&rdquo;，但在《道德經》中未曾看見一個&ldquo;空&rdquo;字，因為他把&ldquo;無&rdquo;字代替了&ldquo;空&rdquo;字，這在本經中是有根據的。如第十一章說：&ldquo;三十輻，共一轂，當其無，有車之用；埏墒以為器，當其無，有器之用；鑿戶牖以為室，當其無，有室之用。&rdquo;這一聯串的&ldquo;無&rdquo;字，意思都當&ldquo;空&rdquo;字講，並非絕對的無；這&ldquo;道&rdquo;是無形無象的存在於太空中，它和太空是分不開的。&ldquo;道&rdquo;是宇宙的本源，萬物化生是出於它的運動和變化，所以本經第二十五章說：&ldquo;有物混成，先天地生，寂兮寥兮，獨立而不改，周行而不殆，可以為天下母，吾不知其名，字之日道。&rdquo;第二十一章又說：&ldquo;道之為物，惟恍惟惚，惚兮恍兮，其中有象；恍兮惚兮，其中有物；窈兮冥兮，其中有精；其精甚真，其中有信。&rdquo;這裏很清楚地說明了&ldquo;道&rdquo;的一切。至於什麼叫做&ldquo;德&rdquo;?&ldquo;德&rdquo;也就是&ldquo;道&rdquo;，不過&ldquo;道&rdquo;是它的總體，&ldquo;德&rdquo;是由&ldquo;道&rdquo;中分化出來的個體。萬物的化生都是得了&ldquo;道&rdquo;的微末一部分，它們所得的一部分就叫做&ldquo;德&rdquo;。如《道德經》第五十五章說：&ldquo;含德之厚&rdquo;，第五十九章又說：&ldquo;是謂重積德&rdquo;，所說的就是這個&ldquo;德&rdquo;。老子對於&ldquo;道&rdquo;和&ldquo;德&rdquo;的解說，就是他的宇宙觀；將它運用在社會生活方面，就是他的社會政治思想。將它運用於身體內部，以控制人的生理過程(生、老、病、死)，得出了他的修養法。以上說明老聃哲學的全貌，也就是一部《道德經》的真詮所在。 </p>
+<p class="unnamed1">　　《道德經》在先秦諸子中被列為道家書。西漢初年，黄老之學大興，研究老聃學說的人從此多起來了，《道德經》在黄老學派中被視為主要的經典；東漢桓帝時，黄老之學衍變成為黄老道，他們此時神化了老聃，說老聃就是老君化身，《道德經》於是更渲染上了一層宗教色彩。道教中經典，最初他們自己創造出來的就是《太平經》，這部書比較漢魏以後繼續出現於世的許多道經完全兩樣，大概也受了《老子》的影響不少。 </p>
+<p class="unnamed1">　　東漢張陵父子創立五斗米道，開始以《老子五千文》教導他的弟子，《道德經》從此成為道教中必讀之書；到了唐代，唐玄宗又設立崇玄館，令館內諸生講習道經，並以《道德經》為眾經之首，於是這部經就更普遍地受到道教徒們的尊奉和信仰了；從張道陵創教時算起，一千八百年來公認為它是教中第一部經典。 </p>
+<p class="unnamed1">　　《道德經》註本很多，其中時代較早而為人所知的，则有漢《河上公章句》、漢嚴遵道《道德指歸》和魏王弼《老子注》。這三種註本皆曾流行於唐代，但我國歷來學者大抵都否定河上公本和嚴遵本。唐劉知幾說，《老子》無河上公注，欲廢之而立王弼注；唐陸德明《經典釋文&middot;老子道德經昔義》也只取王弼注，但以河上公作為參考；惟司馬貞則主張二注並用，調其各有所長。這三個人在當時都號稱博雅，但他們的見解並不一致。嚴遵的《道德指歸》雖收入《道藏》中，原書已殘缺一半，可置之不論；河上公《老子》注，文字既不似漢代人手筆，理解亦瑕瓏互見，似是南北朝時道流所依託；王弼注本亦未能使人滿意。現傳《道德經》註本中，最早的應當說是近代在敦煌所發現的《老子想爾註二》殘卷，它是南北朝人所寫的系師 (張衡)傳本，據近人饒宗頤考證，注是張陵所著；在羅振玉《道德經考異》中也有南北朝人寫本一種，只可惜如今皆非全璧了。此外，比較完整的《道德經》古本，還有唐人碑刻，像玄宗開元二十六年的經幢，中宗景隆二年和昭宗景福二年的碑刻等，這些都要算是難得的古本了。此外，像傅奕校定本、李榮註本等現在還都存在於道藏中。這些古本大抵是篇章不分，或是只分篇而不分章的。 </p>
+<p class="unnamed1">　　後來研究《道德經》的人，因為《道德經》的理論可以運用在許多方面，仁智之見，有所不同，取捨之間，也就各有所異了。清談家將它看成玄言；縱横家將它看成權謀；大用之，则為國家施政方針；小用之，则為個人處世哲學；更有把它當作兵書看的，如宋人所撰《道德真經論兵要義述》之類。在道教中雖有一些人想發揮老子的修養法，而對於本書的認識不足，所說未免支離，如白玉蟾的《道德寶章》、李清庵的《道德會元》，每喜用禪門的話頭附會《老子》，當然文不對題；又如明陸西星的《老子玄覽》、清李西月的《東來正義》都是用《參同契、悟真篇》金丹之說而隱約其辭的來解釋《老子》，也是費力不討好的一件事；惟清代黄元吉所撰《道德經講義》，全部用修養法作注，雖亦不免有牽強附會之處，但比較尚屬可觀 (此書原名《道德經註釋》，是清光緒十年即公元1884年的作品，到了公元1920年第二次翻印時，才有人把它改名《道德經講義》，原作者是，黄裳，字元吉，清代江西省豐城縣人)。 </p>
+<p class="unnamed1">　　古今有關於《老子》的撰述，現存於世者，重要的約有九十種左右 (連《道藏》所收五十種在內)，如果專門從事研究工作，像這些書都應該注意，此處不能一一介紹。 </p>
+<p class="unnamed1">　　[南華真經] 即《莊子》，戰國時蒙人莊周著。(公元前369&mdash;&mdash;前286年，據馬敍倫《莊子年表》。&ldquo;蒙&rdquo;是地名，屬春秋時宋國，故址在今河南省商丘縣。) </p>
+<p class="unnamed1">據《漢書 &middot;藝文志》記載，原書共五十二篇，但後來流傳下來的只有三十三篇，即內篇七，外篇十五，雜篇十一；其它十九篇均早已亡伕。又我國學者中有人認為，其中只有內七篇是莊周原著，外、雜二十六篇則是老莊學派後學們的述作。明代的李蛰和王夫之都主張此說，近人羅根澤對此也做過詳細考證，他們的說法已大致為我國學術界所公認。 </p>
+<p class="unnamed1">　　《史記 &middot;莊子傳》說，他是楚國蒙人，曾為蒙漆園吏，和梁惠王、齊宣王同時。&ldquo;楚威王聞莊周賢，使使厚幣迎之，許以為相。莊周笑謂楚使者曰：&lsquo;千金，重利；卿相，尊位也。子獨不見郊祭之犧牛乎?養食之數歲，衣以文綉，以入太廟，當是之時，雖欲為孤豚，豈可得乎?子亟去，無污我！我寧游戲污瀆之中自快，無 為有國者所羈。終身不仕，以快吾志焉'！&rdquo;此外還有他在生活方面及與當時學者們講論學術的一些故事，則散見於《南華經》和其它子書中。 </p>
+<p class="unnamed1">　　莊周的學說，基本上是繼承了老聃的思想，《莊子傳》說他： &ldquo;其學無所不规，然其要本歸於老子之言。&rdquo;又說他作書目的也是為了要&ldquo;明老子之術&rdquo;。這話是可以相信的。我們看莊子書中關於&ldquo;道&rdquo;的概念和老子所謂&ldquo;道&rdquo;，大體也差不多，如《莊子&middot;大宗師篇》中說：&ldquo;天道，有情有信，無為無形，可傳而不可受，可得而不可見，自本自根，未有天地，自古以固存。&rdquo;這和《老子》第二十一章所說的：&ldquo;道之為物，唯恍唯惚。&hellip;&hellip;窈兮冥兮，其中有精。其精甚真，其中有信。自古及今，其名不去。&rdquo;並沒有什麼兩樣。但莊子只強調了老子消極的一面，對其積極的一面，他似乎避而不談。而且他對於政治，更是抱消極的態度，&ldquo;寧游戲於污瀆之中自快，無為有國者所羈&rdquo;；又在《南華經&middot;秋水篇》中以神龜自喻，寧生而曳尾於塗中，而不願死而留骨於廟堂之上。這種思想與老子《道德經》&ldquo;貴以身為天下，则可以託天下；愛以身為天下，则可以寄天下。&rdquo;的意旨不相符合，莊子所言者是&ldquo;窮则獨善其身&rdquo;，而老子所言者是&ldquo;達则兼善天下&rdquo;；因兩人的生活環境不同，故其志趣遂大有差別。 </p>
+<p class="unnamed1">　　他不同於老聃的另一個特點，就是他發揮了老聃的 &ldquo;長生久視&rdquo;，成為他自己的神仙思想。如《逍遙遊篇》中說：&ldquo;藐姑射之山，有神人居焉，肌膚若冰雪，淖約若處于，不食五穀，吸風飲露，乘雲氣，御飛龍，而遊乎四海之外；其神凝，使物不疵癘而年穀熟。&rdquo;這是我國文獻中對於神仙的最早的描寫。此外，他多處談到道家的修養功夫，如《大宗師篇》中說；&ldquo;古之真人，其寢不夢，其覺無憂，其食不甘，其息深深。真人之息以踵。&rdquo;後來道教在修養法方面，接受了莊周的思想。 </p>
+<p class="unnamed1">　　《南華經》的外、雜諸篇，大抵是老莊學派後學們的作品，據現代哲學研究家的分析，認為，其中一部分是莊子後學所作，一部分是老子後學所作，一部分是楊朱學派的後學所作，一部分是宋鉼、尹文學派的後學所作。楊朱和宋鉼、尹文也都是老聃弟子，他們對瘀老聃學說的發揮，雖各有偏頗不同，但總來說，不失為是一個學術體系下的產物。 </p>
+<p class="unnamed1">　　《南華經》的編定成書，雖然是在西漢初期，但當時研究黄老之學的人們则只重 &ldquo;老&rdquo;而不重&ldquo;莊&rdquo;，一直到了漢成帝時，從嚴遵起，才開始以老莊並論。《漢書&middot;王貢兩龔鮑傳》說他&ldquo;依老子、嚴周(莊周)之旨，著書十萬餘言。&rdquo;繼嚴遵之學的是揚雄和班嗣，揚雄是他的弟子，班嗣则是揚雄的朋友，《前漢書&middot;敍傳》說，&ldquo;嗣雖修儒學、然貴老、嚴(莊)之術。&rdquo;這就是莊周學說流傳的開始。魏晉時期，玄談之風大盛，當時名士以《老》、《莊》、《易》為三玄。魏正始(公元240&mdash;248)年間的何晏、王弼更是喜歡莊子學說的人，《晉書&middot;王弼傳》說；&ldquo;魏正始中，何晏、王弼等祖述老、莊。&rdquo;莊周的學說，從此大行；到了兩晉時期，又有了進一步發展，此時著名的道教家葛洪所撰《抱朴子&middot;內篇》第一篇就是《暢玄》。他所說的&ldquo;玄&rdquo;，其實就是老、莊所說的&ldquo;道&rdquo;，不過他更接近莊子一些，而且更具體地將&ldquo;仙&rdquo;和&ldquo;道&rdquo;聯系到一起。他說，第一等通玄道的人，可以&ldquo;乘流光，策逝景，出乎無上，入乎無下，逍遙恍惚之中，倘佯彷彿之表，咽九華於雲端，咀六氣於丹霞，徘徊茫昧，翱翔希微&rdquo;。次一等的&ldquo;则能肥遜勿用，頤光山林，動息知止，無往不足，昤嘯蒼崖之間，怡顏豐柯之下，養浩然之氣於蓬華之中，與渾成等其自然，與造化均其符契，泰爾有餘歡於無為之場，忻然齊貴賤於不爭之地，含醇守樸，無欲無憂。&rdquo;這是不折不扣的接受了莊子的思想。他所說第一等得玄道的，實際上就是莊周所描寫的&ldquo;藐姑射山之神人&rdquo;；第二等通玄道的，則完全是《南華經》中所謂&ldquo;具人&rdquo;的印象。從這裹可以看出兩晉道教和玄學的關係，也可以說明莊周思想給予當時道教的影響。後來的道教家也非常重視莊子的，如唐代的名道士成玄英、孫思邈、李含光，宋代的陳景元、褚伯秀，他們都曾註過《南華經》，這些註本現在都還存於《道藏》中。在唐代的崇元舘中，它和《老子》、 《列子》、《文子》都是生徒門的必修課本，都是准以明經例考試的道教經典之一；它和《文子》、《列子》、《庚桑子》還曾敕稱為四子真經(《舊唐書&middot;玄宗本紀》)。所以《南華真經》在道教中的地位，一直被視為僅亞於《道德真經》的一部經典。到了清朝，道教全真派中每逢戊日，定要講習《道德》、《南華》、《文始》、《譚子》、《黄庭》等經(王常月《初真戒&middot;入戒要規》)。 </p>
+<p class="unnamed1">　　《南華經》註本，最早為晉司馬彪本，它是二十一卷，五十二篇。據唐陸德明《經典釋文 &middot;序錄》說，內篇七，外篇二十八，雜篇十四，解說三。它的篇數和《漢志》所說&ldquo;莊子五十二篇&rdquo;數字相符，所以它是《南華經》的最早註本，也是最完整的註本，可惜其書早已散失。它現有輯本兩種：為孫馮翼輯，在《間經堂叢書》中；一為茅泮林輯，在《古逸叢書》中。現存《南華經》最早的註本是晉郭象本，它的篇數為三十三篇，即前面所說現有《南華經》的實在篇數。據《世說新語》說，向秀嘗為《莊子》解義，惟《秋水》、《至樂》二篇未竟而卒。郭象見秀義不傳，便將它竊為己註了。此外，歷代註《南華經》的人也很多，但都以郭本為宗，所以在這裹也就不必多說了。至於所伕亡的十九篇，除解說三篇外，還有十六篇，其中有篇目可考的九篇，據關鋒同志考證，說是闢奕、意修、危言、游晃、子胥(《釋文&middot;序錄》)、惠施(《北齊書&middot;杜弼傳》)、畏壘虛(《史記&middot;老莊列傳》)。馬捶(《南史&middot;文學傳》)、淮南王莊子要略(清人俞正燮《癸巳類稿》)等篇。近人馬敍倫的《莊子伕文》中還輯有關奕、游凫、子胥等篇伕文。 </p>
+<p class="unnamed1">　　[陰符經] 又稱《黄帝陰符經》。經文很短，共有四百餘字；但據一般說， </p>
+<p class="unnamed1">　　從 &ldquo;觀天之道&rdquo;起，至&ldquo;我以時物文理哲&rdquo;為止，是它的原文，僅三百餘字，所以《悟真篇》云：&ldquo;陰符寶字逾三百。&rdquo;自&ldquo;我以時物文理哲&rdquo;以下一百餘字，說是後人增補，但這一段文字，是宋代以來即已經有了的，如朱熹在註《陰符經》時，即非常贊賞其中的&ldquo;自然之道靜，故天地萬物生；天地之道浸，故陰陽勝&rdquo;幾句話，他說：&ldquo;四句說得極妙&rdquo;。又說：&ldquo;浸字下得最好&rdquo;。也有人說：這一段最早見於柳公權書《陰符》(《宣和書譜》有唐柳公權書《陰符經》)，如《黄帝陰符經註解》引高氏《緯略》說：&ldquo;蔡端明云：柳書《陰符經》之最精者，善藏筆鋒。&rdquo;那麼，應當更早了。至於它究竟是多少字?因為各家傳本不同，我們也不能肯定。 </p>
+<p class="unnamed1">　　《陰符經》字數雖然不多，但一般傳本總將它分為三篇或三章。大概是從 &ldquo;觀天之道&rdquo;至&ldquo;知之修煉，謂之聖人&rdquo;為上篇，又叫《演道章》，或稱《神仙抱一演道章》；從&ldquo;天生天殺&rdquo;至&ldquo;小人得之輕命&rdquo;為中篇，又叫《演法章》，或稱《富國安民演法章》；從&ldquo;瞽者善聽&rdquo;至&ldquo;昭昭者進乎象矣&rdquo;為下篇，又叫《演術章》，或稱《強兵戰勝演術章》。但某些傳本，也有不分篇章的；有的雖分篇章，却不用篇目，即篇目的名稱，也常有不同。 </p>
+<p class="unnamed1">　　它的內容，各家看法並不一致，懸殊很大，有的認為它是談道家修養方法的書，但其中又有談 &ldquo;道&rdquo;和談&ldquo;丹&rdquo;之分；有的認為它是縱横家的書，所談都是權謀術數；也有人認為它是兵家的書。比較來說，以第一種看法為多，因為在《陰符經》上篇中是很清楚的說出&ldquo;知之修練是謂聖人&rdquo;。可見它的宗旨所在，是說道家的修養方法，主要是&ldquo;觀天之道，執天之行&rdquo;，並認為能够做到這一點就可以&ldquo;宇宙在乎手，萬化生乎身&rdquo;，也就是掌握了長生久視的自主之權。宋代的學者，像周敦頤、程頤、程顥、朱熹他們都很喜歡《陰符經》，對這一部書十分推重；但當時也有一些學者則不同意他們的看法，如黄震說：&ldquo;經以符言，既異矣；符以陰言，尤異矣。&rdquo;又說它&ldquo;言用兵而不能明其所以用兵，言修煉而不能明其所以修煉，言鬼神而不能明其所以鬼神，蓋異端之士掇拾異說而本無所定見者，此其所以為陰符歟！&rdquo;是完全否定了這一部書。 </p>
+<p class="unnamed1">　　《陰符經》的作者和他的出現時代，各家說法不同，唐李筌《陰符經疏 &middot;自序》說：這一部書是他在嵩山虎口岩中所得到的寇謙之藏書，經文是黄帝所撰，經義是驪山老母所傳。宋人黄庭堅首先否定了這種說法，他在《山谷题跋》卷四中說；&ldquo;《陰符經》出於唐李筌。讀其文知非黄帝書也。&rdquo;朱熹在《陰符經考異》中也說：&ldquo;《陰符經》恐是李筌所為，&hellip;&hellip;只因他說起，便行於世。&rdquo;但近代學者也有人認為經疏是李筌所作，經文则不一定出於李筌之手，因為有些較早於李筌、的人，如吳筠在他的《形神可固論》中，歐陽詢在《藝文類聚》中都曾經引過《陰符經》的經文；同時他們還相信初唐的書法家褚遂良也確曾寫過《陰符經》。 </p>
+<p class="unnamed1">　　李筌的身世，歷史記載不多，只有《神仙感遇傳》中說：他號達觀子，居少室山，好神仙之道，常歷名山博採方術。開元中為江陵節度副使，有將略，嘗作《太白陰經》及《中台志》。後入名山訪道，不知其所。但據他自己的《進太白陰經表》及《太白陰經自序》中說：他在肅宗乾元二年 (公元759年)曾做過&ldquo;正議大夫持節幽州軍州事、幽州刺史、並本州防御史&rdquo;等官，在代宗永泰四年(公元765年)還做過&ldquo;河東節度使都虞侯&rdquo;。此外，他著作見于記載的還很多，除了上述三種而外，還有《孫子註》，見道藏太玄部《孫子》十家註中；《青囊括》一卷，《六壬大玉帳歌》十卷，並見《崇文總目》中；《阃外春秋》殘卷，見《鳴沙石室伕書叢編》中。 </p>
+<p class="unnamed1">　　在我國道教中，對於《陰符經》也非常重視的，常將它和《道德》、《南華》視為同等地位的道教經典。宋元名道士中，如王道淵、侯善淵、蹇昌辰、黄居真、任照一等皆曾註過《陰符經》，其書均見今道藏中。據《金蓮正宗記》說：王重陽在甘河鎮再遇異人所傳授給他的秘典，也就是《陰符經》。他的弟子劉處玄也曾經註過《陰符》。但他們大抵都不甚喜歡李筌註，如《雲笈七籤》中只收張果註，而不收李註。 </p>
+<p class="unnamed1">　　補充 關於《陰符經》的注解及雜著，在宋鄭樵《通志》上所載書目共有三十九種之多，明《正統道藏》所收的咸書也不下二十種，後之學者縱然把這些注解都閱遍了，恐怕仍舊不能明白《陰符經》是怎麼一回事。《戰國策》言：蘇秦得&ldquo;太公陰符之謀，伏而讀之&rdquo;；而《史記&middot;蘇秦傳》則言：&ldquo;得周書陰符，伏而讀之&rdquo;。《隋書&middot;經籍志》有《太公陰符鈐錄》一卷、《周書陰符》九卷，皆列入兵家一類中，此或是蘇秦當日所讀之書，但其書今已失傳。至於《道藏》中現存之《陰符經》，很容易看出它是專門修鍊家言，與兵家無涉，凡以兵家的權謀術數作註者皆文不對題，其間亦有不談兵而泛論國家政治及人事得失者，都與《陰符經》的宗旨相去甚遠。宋儒朱熹雖不識《陰符經》作用，但也有幾句好評；而黃震的見解又不及朱子，對於此書的名稱尚未弄清楚，就盲目的加以詆毁，更難令人心服。 </p>
+<p class="unnamed1">　　《陰符經》原文有三百餘字的，也有四百餘字的，何種版本為可靠 ?今日已無從斷定。所幸其中要緊的話在各種版本上都一致保存，大體尚無妨礙。惟注解總嫌蕪雜，閱之徒亂人意。有些地方，經文並不難懂，如果看了注解以後，再和經文兩相對照，就覺得滿紙都是荆棘。不知它在那裏說什麼話?即如經文&ldquo;君子得之固躬，小人得之輕命&rdquo;，本意是說正派人得到這個法子，能够使自己身體堅固；邪派人得到這個法子，反而輕易促短自己的壽命；有些版本把&ldquo;固躬&rdquo;改作&ldquo;固窮&rdquo;，或許因為《論語》有&ldquo;君子固窮&rdquo;之說，遂妄改之，但不思與上文&ldquo;其盗機也，天下莫能見，莫能知&rdquo;三句怎樣可以連在一起?&ldquo;盜機&rdquo;的作用和&ldquo;固窮&rdquo;的品格究竟有什麼相干?又如經文&ldquo;天人合發&rdquo;一句，本是修煉家的專門術語，註家不得其解，把它改作&ldquo;天人合德&rdquo;，一字之差，竞至點金咸鐵。而且&ldquo;天人合發&rdquo;的&ldquo;發&rdquo;字是根據上文&ldquo;天發殺機、人發殺機&rdquo;兩句而來，若把&ldquo;發&rdquo;字改為&ldquo;德&rdquo;字，試問有何根據?又如&ldquo;天發殺機，龍蛇起陸&rdquo;，原文只有兩句，後來各種版本把兩句改成四句，而改法又不相同：(1)&ldquo;天發殺機，移星易宿；地發殺機，龍蛇起陸。&rdquo;(2)&ldquo;天發殺機，龍蛇起陸，地發殺機，星辰隕伏。&rdquo;(3)&ldquo;天發殺機，星辰隕伏；地發殺機，龍蛇起陸。&rdquo;現在看他們所添改的四句都不及原來的兩句好，反而覺得累贅。原文是&ldquo;天&rdquo;與&ldquo;人&rdquo;相對待，不需要把&ldquo;地&rdquo;排列進去；他們把&ldquo;天、地、人&rdquo;三才並列，遂失却原文的意旨。原文&ldquo;龍蛇起陸&rdquo;是隱語，不是其有這件事，而他們當真的認為龍蛇在地下潛藏不住，都跑到地面上來了，因此就憑自己的理想，加入&ldquo;地發殺機&rdquo;一句；又因&ldquo;天發殺機&rdquo;沒有下文，變成孤立的句子，於是再用&ldquo;星辰隕伏&rdquo;或&ldquo;移星易宿&rdquo;以補足原文語氣，讀者更莫名其妙。又如經文&ldquo;其盜機也，天下莫能見，莫能知&rdquo;，而李筌的註本上則多了兩個&ldquo;不&rdquo;字，作&ldquo;天下莫不能見，莫不能知&rdquo;，這是顯然的錯誤，但李筌並未加以校正，而且將錯就錯的曲為之說，原來是很容易懂的話，竞弄得非常難懂，所以後人讀《陰符經》，最好不要看註解。 </p>
+<p class="unnamed1">　　《陰符經》在唐以前尚未出現於世，據李筌自序云， &ldquo;得之於嵩山虎口岩石室中&rdquo;，後人遂疑是李筌自作而自注之，但觀其注文與經文常多背謬，如果是他作偽，當不至於自相矛盾如此；而且經文格調有些像《鬼谷子》，又有些像《周易繫辭》，唐朝人不會做這種文章。先秦古籍完整者少，經過後人搜集綴述者很多，《陰符經》究竟出於誰的手筆雖不可知，但原作者最晚也是戰國末期的人。因為戰國時代有這樣風氣，凡道家、術數家、方技家等撰著，每喜加上一個&ldquo;黄帝&rdquo;稱號，意思說，書中記載都是自古相傳的名言和經驗，希望讀者不要輕視，並非教人確信這部書真是黄帝所作。《漢書&middot;藝文志》所列各家書目，其中有二十一種書託名於黄帝，今只存《黄帝內經》一種，其餘各種都已亡伕。官家收藏之書，年代久遠，尚且不容易保存，何況私人的抄本。《黄帝陰符》若非藏在嵩山石室中偶爾被李筌所發現，當早就和《太公陰符》、《周書陰符》同歸泯滅了。 </p>
+<p class="unnamed1">　　[太平經] 是東漢于吉所傳《太平青領書》的簡稱。它是東漢方士們的著作，是最早的一部道經。據范曄《後漢書&middot;襄楷傳》說：&ldquo;桓帝延熹九年(公元166年)，襄楷上疏曰：&lsquo;臣前上琅邪宫崇受于吉神書，不合明聽。'復上書曰：&lsquo;前者宮崇所獻种書，專以奉天地、順五行為本，亦有興國廣嗣之術，其文易曉，參同經典。而順帝不行，故國胤不興。'&rdquo;《襄楷傳》又說：&ldquo;初，順帝時，琅邪宮崇詣闕，上其師于吉在曲陽泉水上所得神書百七十卷，皆縹白素、朱介、青首、朱目，，號《太平青領書》。其言以陰陽五行為家，而多巫觋雜語。有司奏崇所上妖妄不經，及收藏之。後張角頗有其書。&rdquo;同書唐章懷太子李賢注說：&ldquo;神書宜口今道家《太平經》也。其經以甲乙丙丁戊己庚辛壬癸為部，每部一十七卷也。&rdquo; </p>
+<p class="unnamed1">　　此書最早見著錄者，晉葛洪《抱朴子 &middot;遐覽篇》所載道教書目，其中有《太平經》五十卷&rdquo;，又有《甲乙經》一百七十卷&rdquo;。在西晉時期，《太平青領書》已經叫做《太平經》了；它為什麼又有《甲乙經》之名呢?《太平經》是它的本名，《甲乙經》則因它分為甲乙丙丁等十部而得名。至於五十卷和一百七十卷的卷數所以不同，料想當時就有兩種傳本。 </p>
+<p class="unnamed1">　　現在道藏中的《太平經》就是《太平青領書》所流傳下來的殘本和五代時間丘方遠《太平經鈔》的合編。但這裏所說的《太平青領書》是否全為于吉所傳的原本呢？当然其中不免有後人改寫增竄的地方，可是大體上還保存着東漢晚期著作的本來面目。現傳《太平經鈔》中的第一章，即有人認為是後人竄入的；又如《太平御覽》 (據涵芬樓影宋本及清人鮑廷博刊本)卷六百六十六所引《太平經》中的神仙方士傳記竞涉及到魏晉南北朝人，更顯然地看出其中有混亂之處。 </p>
+<p class="unnamed1">　　《太平經鈔》即是《太平青領書》的節本，不過因為《太平青領書》流傳日久，散失不全，在後來編纂道藏的時候，便將兩者合而為一了。據宋賈善翔《猶龍傳》卷四說：今於正經外，&ldquo;又有《太平 (經)鈔》十卷，不著撰人名氏。&rdquo;宋鄧牧《洞霄圖志》卷五則說：&ldquo;先是《太平青領書》自漢于真人傳授，卷帙浩繁，複文隱秘，先生(指閭丘方遠)鈔為二十卷，文約旨博，學者便之。&rdquo;但前者說十卷，後者則說成二十卷，疑卷數有誤。 </p>
+<p class="unnamed1">　　據本會陳撄寧會長考證，現傳《太平經》中還包括了部分的《太平洞極經》在裏面，全書中曾有二十幾處引到《洞極經》的話。 </p>
+<p class="unnamed1">　　《太平青領書》的作者是誰 ?陳撄寧會長說：這一部書是脫胎於西漢的《天官歷包元太平經》，《天官歷包元太平經》又是根據秦漢之際燕齊一帶海上方士所傳授的資料而編寫出來的，此書當初只有十二卷，因為秘密相傳，日久年深，傳經者各自運用手筆，逐漸地使它篇幅擴大，數量增多，遂成為後來一百七十卷的鉅著。所以我們在這裹也就不妨說它是東漢方士們的著述。 </p>
+<p class="unnamed1">　　《太平青領書》的卷數，傳說不同，但較多的說法，则為一百七十卷，其書分甲乙丙丁戊己庚辛壬癸十部，每部為十七卷。現在道藏中的《太平經》共為六十七卷；但其中還包括了《太平經鈔》十卷，所以實存的《太平青領書》殘本只有五十七卷。 </p>
+<p class="unnamed1">　　《太平經》的基本內容，前面《襄楷傳》襄楷疏中說，是 &ldquo;專以奉天地，順五行為本，亦有興國廣嗣之術。&rdquo;范曄說，是&ldquo;以陰陽五行為家，而多巫觋雜語。&rdquo;《神仙傳》說，是&ldquo;專論陰陽、否泰、災眚之事，有天道，有地道，有人道，云治國者用之，可以長生，此其旨也。&rdquo;他們的分析，大致是對的，不過這一部書內容龐雜，思想觀點常有一些自相矛盾的說法。總的說來，它是我國古代道家和陰陽家的餘緒，而更多地煊染了當時巫觋方士、圖書懺緯的色彩，因此就駁雜不純了。 </p>
+<p class="unnamed1">　　《太平經》中關於&ldquo;道&rdquo;和&ldquo;道、德&rdquo;的思想，繼承了老子的說法。如在《太平經鈔 &middot;乙部》中說：&ldquo;夫道何等也?萬物之元首，不可得名者。&rdquo;又說：&ldquo;道無所不化。&rdquo;《太平經鈔&middot;乙部》又有幾處說：&ldquo;君宜守道，臣宜守德，道之與德，若衣之表裡。&rdquo;&ldquo;夫君貴道德，下刑罰；小人反，下道德，上刑罰。&rdquo;&ldquo;夫王者靜思道德，行道安身，求長生自養。&rdquo;這些都是道家的傳統觀念，《太平經》並沒有打破這個圈子。所以有些近代學者們說，這一部書是上承老子遺教。除了&ldquo;道德&rdquo;而外，《太平經》更着重於老子所常說的&ldquo;自然&rdquo;和老子還未曾說過的&ldquo;元氣&rdquo;，如《經鈔乙部》中說：&ldquo;元氣自然，共為天地之性也。&rdquo;又說：&ldquo;故元氣樂即生大昌，自然樂则物強。&rdquo;它認為&ldquo;元氣&rdquo;和&ldquo;自然&rdquo;是天地的根本；萬物的昌強，都要以它為轉移。所以又說：&ldquo;元氣行道，以生萬物。&rdquo;&ldquo;故元氣守道，乃行其氣，乃生天地。&rdquo;將&ldquo;元氣&rdquo;和&ldquo;道&rdquo;說成並行不悖的兩種事物；此處所謂&ldquo;道&rdquo;似乎專指自然變化的規律而言。它所說的&ldquo;元氣&rdquo;，實際上不過是老子&ldquo;道&rdquo;的意思，也並非奇特。同時它又將&ldquo;神&rdquo;和&ldquo;道&rdquo;兩者聯係起來，如在《太平經鈔&middot;乙部》中說；&ldquo;與道合同，錄身正神。&rdquo;又說：&ldquo;陽者為道，陰者為刑。陽者為善，陽神助之；陰者為惡，陰神助之。在《太平經》中不少地方表現出宗教唯心論和有神論。 </p>
+<p class="unnamed1">　　《太平經》的社會思想認為天人一體，人的一切能够影響天道；人治不和，天必降以災禍，小至損傷疾病，大至滅國亡家，都與此有關。如《太平經鈔&middot;乙部》中說： &ldquo;天人一體，可不慎哉！&rdquo;又說：&ldquo;太陰、太陽、中和三氣共為理，更相感動，人為樞機，故當深知。&rdquo;又說：&ldquo;作道治正，當如天行；不與人相應，皆為逆天道。&rdquo; </p>
+<p class="unnamed1">　　此外，《太平經》中還提到不少的道家修養方法，其中主要的就是 &ldquo;守一&rdquo;。&ldquo;守一&rdquo;的名詞最早見於《莊子》，不過《太平經》中的&ldquo;守一&rdquo;是更濃厚地炫染了神道設教的色彩，如《太平經聖君秘旨》中說；&ldquo;守一既久&hellip;&hellip;羣神將集，故能形化為神。&rdquo;又說；&ldquo;守一之法，凡害不害，&hellip;&hellip;百神千鬼，不得相尤。&rdquo; </p>
+<p class="unnamed1">　　《太平經》的流傳，可以分為兩個階段： 1．在黄巾張角的太平道興起以前，這部書一向是秘密相傳的。在歷史上可考的傳經人有甘忠可、夏賀良、帛和、于吉、宮崇等人，其中最主要的當然還是于吉，我們在前面已經談到他受經和演經的記載。《三國志&middot;孫策傳》註引《江表傳》說；&ldquo;時有道士琅琊于吉&hellip;&hellip;往來吳會，立精舍，燒香，讀道書，制作符水以治病，吳會人多事之。&rdquo;這裏所說的道書疑即是《太平經》。自黄巾失敗以後，《太平經》雖成了禁書，但我們相信它一直還流傳在民間，因為《抱朴子&middot;遐覽篇》中曾有過著錄。2。《太平經》的再度出現，是在南北朝時期，《道學傳》卷十五說：&ldquo;梁初，崑崙山渚平沙中有三古漆笥，內有黄素寫干君(郎于吉)所出《太平經》三部。&hellip;&hellip;(桓)闿因就村人求分一部，還都供養，先呈陶(弘景)君。陶君云：此真干君古本。&rdquo;又，《太平經複文序》中也說：&ldquo;南朝喪亂，《太平》不復行；暨梁，陶先生弟子桓法闿&hellip;&hellip;於溪谷間得《太平》本文。&rdquo;從此《太平經》再傳於世。 </p>
+<p class="unnamed1">　　歷代以研究《太平經》而著名的，前後有二人：第一個是南北朝陳宣帝時候的名道士周智響，《太平經複文序》中說： &ldquo;周智響善於《太平經》義，常自講習，時號太平法師。&rdquo;第二個则是晚唐時期的閭丘方遠，這在前面已經談到，此處不再多述。這部書一直流傳到宋元時代，還是完整不缺的，《宋史藝文志》和元馬端臨《文獻通考》中都曾有著錄，而且還都是完整的一百七十卷。它的開始殘缺，大概是在明代，雖然白云霽《道藏目錄詳註》著錄仍為一百七十卷，但《正統道藏》中的《太平經》第一至第十卷则已非《太平經》原文，而為《太平經鈔》了，此書的殘缺，應始於此時。清代賀龍骧刊印《欽定道藏全書總目》時，《太平經》仍存一百一十九卷。他在《國朝功刻道書目錄》中還著錄了道藏以外的坊刻本《太平經》一百餘卷。可惜今已不見。只有《正統道藏》中的五十七卷本，是現存《太平經》的唯一傳本。 </p>
+<p class="unnamed1">　　此外，在道藏中還有《太平經聖君秘旨》，它和《太平經鈔》一樣，也是《太平經》的節本，內容著重於《太平經》中修養法資料的收集，據《太平經合校 &middot;前言》中說，疑還是閭丘方遠所選輯。此外，如《雲笈七籤》、《要修科儀戒律鈔》、《道典論》並其他各道書中也有一些《太平經》的伕文，值得參考。 </p>
+<p class="unnamed1">　　[黄庭經] 為我國早期道經之一，現傳《黄庭經》二種；一為《太上黄庭內景玉經》，一為《太上黃庭外景玉經》。另有《太上黄庭中景經》一種，疑為後人著作，僅見道藏中；一般提到《黄庭》，大抵都不包括《中景》在內。 </p>
+<p class="unnamed1">　　《內、外景經》中，首先出世的是《外景》，所謂《黄庭經》實在就是它的本名。後來因為又出現了《內景》，《外景》的名字即從此替代了《黄庭》本名，所以《黄庭經》也就成為兩者的總稱，又是它們的簡稱。 </p>
+<p class="unnamed1">　　《外景經》在晉葛洪《抱朴子 &middot;遐覽篇》中曾有著錄；《抱朴子》咸書於元帝建武中(公元317&mdash;318年)，《外景》此時已有傳本。宋歐陽修在《删正黄庭經序》中說：&ldquo;世傳《黄庭經》者，魏晉間道士養生之書也。&rdquo;所指的便是這一部書。又世傳此書係由晉代魏夫人(名華存)所留傳下來的。《外景經》的出世時間，大約在西晉初年。其書到了西晉末年已非常流行，如宋歐陽修即曾親眼見到永和十三年(公元357年)的《黄庭》石本。晉代著名的書法家王羲之也曾經寫過《外景》。 </p>
+<p class="unnamed1">　　這一部書的作者，在經文中說。 &ldquo;老子閑居作七言，解說身形及諸神。&rdquo;是託言老聃所著。但《外景》傳人之一的王襃，在唐釋道世《法苑珠林》卷六十九中，說他曾撰《洞玄經》，我們疑此經係出王襃之手，但此人並不是西漢末年的詞賦家王襃，而是一個和撰作《化胡經》王浮一樣的魏晉間道士。 </p>
+<p class="unnamed1">　　《內景經》據務成子注敍說，它一名《太上琴心文》，一名《大帝金書》，一名《東華玉篇》。《雲笈七籤》說，其書也是魏夫人所傳，但《上清經》是授自王襃；《內景》則授自暘谷神王。 </p>
+<p class="unnamed1">　　其作者，經文託言為王宸君。但根據經中提到了《洞玄經》，又提到了《大洞經》，兩者都是南北朝時期所流行的道教經典。又經內所提到的一些神名，如玉宸君、玉清虛無老、紫清上皇大道君都是南北朝以前不曾有過的神名。又如第三十六章說。&ldquo;《黄庭內經玉書》暢，授者曰師受者盟，雲錦鳳羅金鈕纏，以代割髮肌膚全，攜手登山歃液丹，金書玉景乃可宣。&rdquo;更是陸修靜以後才出現的道教中的繁文缛儀。同時這一部書在《舊唐書》中還沒有著錄，所以它的出世時間最早也在南北朝以後，而極有可能是出於晚唐五代的道流之手。我們所見到《內景經》最早的本子就是《雲笈七鐵》中梁邱子和務成子的註本。 </p>
+<p class="unnamed1">　　《中景經》在宋鄭樵《通志》中曾有著錄，今道藏中有李千乘註本。其書作者無考，註經人李千乘的時代、身世亦不祥，惟李書在《宋史藝文志》有著錄，其人似為南宋以來道流。 </p>
+<p class="unnamed1">　　《黄庭經》的內容，是一部專談養生方法的道教經典。它的理論和我國古代的醫學家說有關。 </p>
+<p class="unnamed1">　　《黄庭》兩個字的本義： &ldquo;黄&rdquo;在五色中是代表中央的顏色，所以&ldquo;黄&rdquo;字在這裹是隱喻&ldquo;中央&rdquo;的意思；&ldquo;庭&rdquo;為階前空地，它表示身中部位，也隱喻着&ldquo;中空&rdquo;的意思。&ldquo;景&rdquo;字一般作&ldquo;景象&rdquo;解；&ldquo;黄庭外景&rdquo;四個字聯系在一起，就是說修養功夫的&ldquo;中空景象&rdquo;。换句話講，也就是靜功做到玄關出現時的一切景象。若要附會其說，则老子《道德經》中所謂&ldquo;竅妙&rdquo;、&ldquo;谷神&rdquo;、&ldquo;玄牝&rdquo;等名詞，亦可作為&ldquo;黄庭&rdquo;同樣的解釋。《外景經》中說：&ldquo;扶養性命守虛無，恬淡無為何思慮&rdquo;，&ldquo;恬淡無為守德園&rdquo;，&ldquo;清靜無為神留止&rdquo;。老子的清靜無為就是《黄庭經》中神氣合一的基本法则。 </p>
+<p class="unnamed1">　　同時，它還更具體地提出了所謂 &ldquo;內觀&rdquo;，或稱為&ldquo;內視&rdquo;的修養方法。經中說：&ldquo;窺視天地存童子&rdquo;，&ldquo;坐於廬下觀小童&rdquo;，這裹所說的天地，是指自己的身體；&ldquo;童子&rdquo;也就是說內觀的時候要恬淡無慾像童子一樣。&ldquo;內觀&rdquo;在經中又常說成&ldquo;存神&rdquo;，它們的意思是差不多的。如《內景經》中說：&ldquo;泥丸九真皆有房&hellip;&hellip;但思一部壽無窮。&rdquo;即指的是存神方法。 </p>
+<p class="unnamed1">　　此外，經中還提出了一些有關修持的重要問題。如說：&ldquo;仙人道士非有神，積精累氣以成真，人皆食穀與五味，獨食太和陰陽氣&rdquo;，&ldquo;噓吸廬間以自償，保守完堅身受慶，方寸之中謹盏藏，精神還歸老復壯&rdquo;，是說明呼吸服氣和養生的關係。如說：&ldquo;口為玉池太和官，嗽咽靈液災不乾，體生光華氣香阑，却滅百邪玉煉顏&rdquo;，&ldquo;取津玄膺入明堂，下溉喉嚨神明通&rdquo;，是說嗽津的功效。如說：&ldquo;長生至慎房中急，何為死作令神泣，忽之禍鄉三靈滅。但當吸氣鍊子精，&hellip;&hellip;專閉御景乃長寧，保我泥丸三奇靈&rdquo;，&ldquo;急守精室勿妄洩，閉而寶之可長活&rdquo;，是說養生必須斷欲，這也是魏晉以來方士所主張的&ldquo;還精補腦&rdquo;的理想。關於養生方術中在身體上應當重視的某些部位和它們彼此間的關係，經中也都一一提及，如所說泥丸、關元、丹田、命門，都是身體中不可忽視的部分；又如它也說明了心和舌、肝和目等類生理上的相互關係。總的來說，這部書是有一定內容的，但術語連篇，措詞晦澀，常使讀者不易理解，所以歷來傳授《黄庭》的人都采取了持誦的方法。 </p>
+<p class="unnamed1">　　《黄庭經》傳本很多，在歷代名人法帖中，王羲之以後，有六朝人寫本的《黄庭》；唐代書法家褚遂良，宋代書法家米芾、黄庭堅等也都曾經寫過它。所以這一部道經，不但是在道教中，即在文人學士的階層裏也是非常流行的，如唐李白詩中有：&ldquo;山陰道士如相見，應寫黄庭换白鵝。&rdquo;宋陸游詩有：&ldquo;白頭始悟頤生妙，盡在《黄庭》兩卷中。&rdquo; </p>
+<p class="unnamed1">　　《黄庭經》現存的最早註本，也是最通行的註本就是前面已經提到的梁邱子、務成子註本。清人董德寧在他的《黄庭經發微》凡例中說：《黄庭》註本， &ldquo;世之所行者，皆梁邱子所註；即偶有別本，亦是從梁註所出。&rdquo;這是確切地說明了梁註本的流傳情況。 </p>
+<p class="unnamed1">　　梁邱子和務成子的時代身世均無考，據近人考證認為他們是南宋以前的道流；但這話說得太籠統一些，我們因為此書曾見於《雲笈七讖》，並且在鄭樵《通志》中有過著錄，疑心他們是五代時人。 </p>
+<p class="unnamed1">　　《黄庭經》的卷數，從來沒有定說，較早的記載作一卷或二卷不等，《唐書藝文志》中《老子黄庭經》作一卷；前述陸游詩則作二卷。一般《內景》不分卷，但裏面却分作三十六章。《外景》三卷，不分章；但也有些本子不分卷而分做二十四章。歷代名道士及著名道教家註《黄庭》的也很多，如金代的劉處玄，明代的陸西星，清代的李涵虛等皆曾註過《黄庭》。後來的道教全真派中更以它作為講習功課之一。 </p>
+<p class="unnamed1">　　[清靜經] 全稱為《太上老君說常清靜妙經》，後來道教中則簡稱為《清靜經》，又稱為《常清靜經》。道教全真派曾以它作為日常持誦的功課經之一；他們在領受初真戒時也必須要善持此經，所以它在後來道教中被視為一部非常重要的經典。 </p>
+<p class="unnamed1">　　《清靜經》在宋鄭樵《通志》中曾著錄董朝奇等六家註本，經名作《太上混元上德皇帝說常清淨經》，其書今均不傳。今道藏中有白文本及各家註本共七種，經文三百九十一字，經後有仙人葛翁、左玄真人、正一真人三篇讚語。 </p>
+<p class="unnamed1">　　《清靜經》的作者，據經文起句為 &ldquo;老君曰&rdquo;，係託稱老君所著。葛玄贊說：此經是東華帝君所授，皆口口相傳，不記文字，他才書而錄之，因以傳世。所以後來道教中都相信它是晉葛玄所傳。但宋代學者黄震在論《陰符經》文中說：&ldquo;後世有偽為道書者曰《清淨經》。&rdquo;已肯定它不屬早期道經；近代學者更認為它是唐、五代以來道流所作。現傳《清靜經》註本，最早的是五代杜光庭註本；此外，道藏中還有無名氏註本，註中列舉持誦此經的靈驗，其故事多出唐代。同時我們所看到的最早刊本，有宋太平興国五年的石刻本，以上關於《清靜經》出世時代的論斷，大致是可相信的。但在《雲笈七籤》卷十七有《老君清淨心經》，其書並見道藏太清部，經文約六百餘字，它的內容和現在流傳的《清靜經》基本相同，兩者的關係如何?孰先孰後，是誰因襲了誰，這一點也值得考證和研究。金元以來的名道士都很重視《清靜經》，如金代的侯善淵，元代的王阶、李道純等都曾註過此經，因此，它即更普遍地流傳開來。 </p>
+<p class="unnamed1">　　《清靜經》的內容，以發揮 &ldquo;清靜&rdquo;兩字為主，簡明地敍述了道家修養方法的基本原理，它認為修養方法主要是清靜，靜到極處，就是&ldquo;心无其心&rdquo;，&ldquo;形无其形&rdquo;，&ldquo;物无其物&rdquo;，&ldquo;唯見於空&rdquo;。甚至&ldquo;觀空亦空。&hellip;&hellip;无无亦无&rdquo;的時候，则四大都无，性光常照而入於&ldquo;常靜常應&rdquo;的境地了，如此，也就是入道。它的說法，主要是根據老子清靜无為的理論；但它只片面談到了修性，過份強調&ldquo;心&rdquo;的作用，而忽略了道家傳統的修命一面。總的來說，此經言簡意賅，確能指出&ldquo;清靜&rdquo;中自己受用處，並無其他荒誕無稽的神話，在道經中尚不失為純正的作品。 </p>
+<p class="unnamed1">　　《清靜經》的傳本，在道教唪誦時所使用的大都為白文本；註本中所最通行的是水精子增註的混然子纂圖本。 </p>
+<p class="unnamed1">　　混然子就是王玠，元長洲人，亦云善化人，字介玉，一字道淵，是當時的名道士，著述很多。他所纂經圖，明白易曉，條理暢達，融會貫通，很能說明經中微奧，其書存道藏中，但水精子增註本已於王圖略有改異，然大致還不失王本舊範。 </p>
+<p class="unnamed1">　　水精子，時代身世未詳。據我們推想，大概是明、清間人，如經註中所引&ldquo;觀音古佛&rdquo;的稱號，則是明中葉以後才出現的稱號。 </p>
+<p class="unnamed1">　　[高上玉皇本行集經] 一般簡稱為《皇經》，它是現在道教中主要的一部經，每逢較大的道教節日，他們一定要唸誦此經。 </p>
+<p class="unnamed1">　　《玉皇經》最早見於道藏，它出世時間不詳，作者亦無考。經卷前有託名天樞上相張良的序，後面還有他的奏陳表文。據近代學者考證，有人認為是隋唐道流所作。 </p>
+<p class="unnamed1">　　&ldquo;玉皇&rdquo;這一個名稱最早見於六朝人所撰道經中，《雲笈七籤》引《大洞經》說：&ldquo;玉清文始東王金暉仙公號曰玉皇二道君。&rdquo;《真靈位業圖》中在&ldquo;上皇道君&rdquo;之次也有《玉皇道君》的名位。《真靈位業圖》相傳為梁陶弘景所撰。當時玉皇的地位並不是獨一無二的最高尊神。後來唐人詩中也常常出現這個名稱，韓愈《李花詩》說：&ldquo;夜飲張徹投盧同，乘雲共至玉皇家。&rdquo;柳宗元《界圍岩水簾詩》說：&ldquo;忽如朝玉皇，天冕垂前旒。&rdquo;更為膾炙人口的是元稹的詩；&ldquo;我是玉皇香案吏，謫居猶得住蓬萊。&rdquo;從以上詩中口氣來看，此時玉皇的地位升了格已經成為宇宙間的第一尊神。但正式提出玉皇尊號的，還是在宋代，《宋史&middot;禮志》說：在真宗群符五年(公元1012年)上玉皇大帝尊號為&ldquo;太上開天執符御歷合具體道玉皇大天帝&rdquo;；徽宗政和六年(公元1116年)再上玉帝尊號為&ldquo;太上開天執符御歷含具體道昊天玉皇上帝&rdquo;。俗傳&ldquo;玉皇大帝&rdquo;的名稱係開始於此時。道教中普遍地供奉玉皇，则時代更後，而是在明朝初年，從那時起各地道觀中才更多的構建了玉皇閣和玉皇殿。在道教派系中首先唪誦《玉皇經》的，一般傳說始於全真派。根據以上資料來看，《玉皇經》是有極大可能性為明代人的著作，最早當也不會早於宋代。 </p>
+<p class="unnamed1">　　這一部道經，因為它是經懺中的唪誦經典，所以沒有什麼思想內容可言。全書分為三卷五章，即&ldquo;清微天宮神通品第一&rdquo;、&ldquo;太上大光明園滿大神咒品第二&rdquo;、&ldquo;洞玄靈寶玉皇功德品第三&rdquo;、&ldquo;天真護持品第四&rdquo;、&ldquo;洞玄靈寶報應神驗品第五&rdquo;等五個章節。其主要內容就是述說玉皇的來歷和正告讀經的信男善女們要重視這一部經典，最後更提出了一些持誦靈驗的事例；這些事例是假託唐代故事。從這裏我們也可以看出，本經作者的撰作目標，就是希望大家將它看成隋唐以前的道經；這更显然地證明它是述作於隋唐之後了。經中還說：&ldquo;味之者可以神治太和，誦之者可以心離諸漏，神功妙範，誠修具至命之密言也。&rdquo;同時在它的第二章中還有不少的符和咒，所以它即自然地發展成為後來道教中最主要的一部唪誦經典了。 </p>
+<p class="unnamed1">　　本經體例大致模倣釋典，在隋代佛經中有一部《佛本行集經》，這大概就是 &ldquo;玉皇經&rdquo;所以叫作&ldquo;本行集經&rdquo;的來由。 </p>
+<p class="unnamed1">　　《玉皇經》的最早傳本，就是道藏本，也就是前面所說天樞上相的張良校正本；但一般唪誦時的經卷本，则全為白文。此外還有一些乩註本，它們大概都是明代以後人們的偽託之作。 </p>
+<p class="unnamed1" align="center">&nbsp;</p>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

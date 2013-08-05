@@ -1,0 +1,574 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260800000000000000&targetPage=Fdjxy2">
+						中国道教2011—
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260803000000000000&perPageNum=15&targetPage=Fdjxy3">
+						2011年第3期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	《周易参同契》注者储华谷考（二）
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">三</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">没有发现储泳的传记。储泳《袪疑说》和卫宗武《挽储华谷四首》显示了储泳其人的大致轮廓。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">储泳《袪疑说》之《符印咒诀不灵祭将召邪》中有一段自述曰：<font face="Times New Roman">&ldquo;</font><font face="宋体">余自总角爱行持，传授殆遍，法书数箱，印几百颗</font><font face="Times New Roman">&hellip;&hellip;</font><font face="宋体">忽遇至人授以口诀，不出数旬，遂纵横于诸法中。方知将吏只在身中，神明不离方寸，符印咒诀皆符合之具也。</font><font face="Times New Roman">&rdquo;&nbsp;</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">储泳自述的大意是：他自幼喜爱行持，广为求学，收集了不少经书和符印。偶然遇至人授以口诀，很快精通诸法，演行自如，成为行持高手。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">储泳所说的行持，应是画符念咒、诵章上表、召神劾鬼的符箓派道术以及各种术数。他当是符箓派道士或法师，但不知他有无自己的坛场或属于何教团。至少可以称他为方士或术士。没有资料表明储泳是龙虎山、茅山或閤皂山符箓派道士，也没有资料表明他与白玉蟾教团有何种关系。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">卫宗武《挽储华谷四首》回顾、赞扬了储泳的一生。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">其第一首曰：<font face="Times New Roman">&ldquo;</font><font face="宋体">吾里文华士，平生湖海襟。四书穷洛学，五字逼唐吟。多识精能事，诸公竞赏音。结交犹恨晩，十载独知心。</font><font face="Times New Roman">&rdquo;</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">此首诗的大意是：储泳是我们华亭的文化名人，一生表现出江河湖海般宽阔的胸襟。他熟读四书五经，穷研<font face="Times New Roman">&ldquo;</font><font face="宋体">二程</font><font face="Times New Roman">&rdquo;</font><font face="宋体">洛学。他五言诗的魅力几乎可与唐诗相媲美。他广识多能，朋友们争先恐后地赞赏他。我与他结交恨晚，十年来他是我唯一的知心。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">其第二首曰：<font face="Times New Roman">&ldquo;</font><font face="宋体">处晦心常乐，安贫节愈坚。遗书订无极，妙蕴发先天。扬子惟存宅，龟蒙粗有田。阨穷身至泯，遗子独青编。</font><font face="Times New Roman">&rdquo;</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&ldquo;<font face="宋体">扬子惟存宅</font><font face="Times New Roman">&rdquo;</font><font face="宋体">的典故是说扬雄。西汉扬雄家贫，不慕富贵，曾作寓言《逐贫赋》，自称离俗独处，与贫长伴。</font><font face="Times New Roman">&ldquo;</font><font face="宋体">龟蒙粗有田</font><font face="Times New Roman">&rdquo;&nbsp;</font><font face="宋体">的典故是说陆龟蒙。唐代陆龟蒙有下等田地，生活困苦，经常亲自下田耕种。《新唐书&nbsp;</font><font face="Times New Roman">&middot;&nbsp;</font><font face="宋体">隐逸列传》曰：陆龟蒙</font><font face="Times New Roman">&ldquo;</font><font face="宋体">有田数百亩，屋三十橱。田苦下，雨潦则与江通。故常苦饥，身备插袜刺无休时</font><font face="Times New Roman">&rdquo;</font><font face="宋体">。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">此首诗的大意是：储泳地位不高但内心保持着快乐，安于贫困，志向更坚定。他著书考订无极之理，阐发先天易学妙蕴。像扬雄那样与贫长伴，像陆龟蒙那样经常亲自下田耕种。他贫困一生，遗留给子孙的唯有他的著作。&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">其第三首曰：<font face="Times New Roman">&ldquo;</font><font face="宋体">世慕长生术，君尤早用功。谈玄徒至老，养素竟成空。身已随朝露，神应到阆风。清言那复接，赖有注《参同》。</font><font face="Times New Roman">&rdquo;</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">此首诗的大意是：世人羡慕长生术，储泳很早就开始用功。他白白地阐述玄理直到老年，养生竟然落空。他的身体已经随着朝露消失了，灵魂应当到了仙宫。谁来继续他的论述呢？靠他的《周易参同契注》。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">卫宗武说储泳<font face="Times New Roman">&ldquo;</font><font face="宋体">多识精能事</font><font face="Times New Roman">&rdquo;</font><font face="宋体">，《祛疑说》可以证明储泳受此评价当之无愧。《祛疑说》之《鬼神之理》讲鬼神阴阳变化，《阳神阴灵之说》讲性命，《天道不远说》讲天人感应，《行持是正心诚意之学》、《符印咒诀不灵祭将召邪》和《邪正》讲符箓道法，《神像所以灵》讲风水，《阴阳家多拘忌》讲阴阳术，《易占说》和《龟卜说》讲占卜，《辨身壬法》、《赤口煞》、《驿马是先天三合数》、《三刑是极数》、《六壬三杀乃先天四冲数》、《贵人是十干合气》、《大五行说》和《辨岁本说》讲六壬等术数，《论男女之分生杀之炁》和《服丹药》讲养生，《锻朱砂说》讲服食，《辨脉》讲诊脉，《辨针》讲罗盘，《刻漏说》讲刻漏，《墨说》讲制墨。此外，《咒水自沸移景法》、《叱剑斩鬼》、《咒枣烟起咒枣自焦》、《烧香召雷神钱入水即化》、《请封书仙》、《呼鹤自至》、《呼鼠祛蚊》、《覆射》、《知术》、《黄白之术》和《烧金炼银》等揭露骗术，显示他掌握一些古代自然科学知识。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">储泳的<font face="Times New Roman">&ldquo;</font><font face="宋体">多识精能事</font><font face="Times New Roman">&rdquo;</font><font face="宋体">颇有影响。宋愚谷老人《延寿第一绅言》、元俞琰《读易举要》卷</font><font face="Times New Roman">3</font><font face="宋体">、明方以智《物理小识》卷</font><font face="Times New Roman">10</font><font face="宋体">和《通雅》卷</font><font face="Times New Roman">51</font><font face="宋体">、章潢《图书编》卷</font><font face="Times New Roman">72</font><font face="宋体">和顾炎武《日知录》卷</font><font face="Times New Roman">11</font><font face="宋体">等都引用了《祛疑说》。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">卫宗武说储泳<font face="Times New Roman">&ldquo;</font><font face="宋体">四书穷洛学</font><font face="Times New Roman">&rdquo;</font><font face="宋体">，指出他也是宗奉程朱理学的儒士。储泳揭露一些方士的骗术，与他的儒士立场有关。其《袪疑说》之《行持是正心诚意之学》更是以儒士自居。其曰：</font><font face="Times New Roman">&ldquo;</font><font face="宋体">道家之行持，即吾儒格物之学也。盖行持以正心诚意为主，心不正则不足以感物，意不诚则不足以通神。神运于此，物应于彼，故虽万里可驱摄于呼吸间，非至神孰能与此？</font><font face="Times New Roman">&rdquo;&nbsp;</font><font face="宋体">他的儒士立场获得了以儒学为正统的四库馆臣们的好评。《祛疑说》之《四库提要》曰：</font><font face="Times New Roman">&ldquo;</font><font face="宋体">《祛疑说》一卷，宋储泳撰</font><font face="Times New Roman">&hellip;&hellip;</font><font face="宋体">是书以平生笃好术数，久而尽知其情伪，因作此而辨之</font><font face="Times New Roman">&hellip;&hellip;</font><font face="宋体">其言皆平易切实，足以警醒世俗</font><font face="Times New Roman">&hellip;&hellip;</font><font face="宋体">盖虽泛滥道术而能折衷于经义者，宜其立说之悉轨于正也。</font><font face="Times New Roman">&rdquo;</font></span><span>15</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">卫宗武说储泳<font face="Times New Roman">&ldquo;</font><font face="宋体">平生湖海襟</font><font face="Times New Roman">&rdquo;</font><font face="宋体">，包含着称赞储泳文友众多的意思在内。除施枢和卫宗武之外，《江湖后集》卷</font><font face="Times New Roman">11</font><font face="宋体">收录的《题胡琴窗方径》、《送陈云厓》、《送卢萍斋》、《悼古镜果佛慧法师》、《送兄潮举》和《寄兄玉老》等诗，宋末不知名者编《诗家鼎脔》卷上收录的《秋夕怀友》，都是因文友而写的。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">他的文友中不乏高人，如胡琴窗，获得文天祥极高的赞誉。文天祥《跋胡琴窗诗卷》曰：<font face="Times New Roman">&ldquo;</font><font face="宋体">琴窗游吾山所为诗，凡一卷。或谓游吾山如读少陵诗，平淡奇崛，无所不有。或谓读琴窗诗，如行山阴道中，终日应接不暇。诗犹山邪？山犹诗邪？琴窗善鼓琴，髙山流水，非知音不能听。然则观琴窗诗，必如听琴窗琴。琴窗胡氏，名日宣。</font><font face="Times New Roman">&rdquo;</font></span><span>16</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">卫宗武说<font face="Times New Roman">&ldquo;</font><font face="宋体">酸心阅旧诗</font><font face="Times New Roman">&rdquo;</font><font face="宋体">。除《江湖后集》和《诗家鼎脔》外，查为仁、厉鹗《绝妙好词笺》卷</font><font face="Times New Roman">5</font><font face="宋体">收录储泳《齐天乐》词一首。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">储泳还作过诗歌评论。《历代诗话》卷<font face="Times New Roman">67</font><font face="宋体">记载：</font><font face="Times New Roman">&ldquo;</font><font face="宋体">储泳曰：</font><font face="Times New Roman">&lsquo;</font><font face="宋体">性情偏隘者其词躁，宽裕者其词平，端靖者其词雅，疏旷者其词逸，雄伟者其词壮，酝藉者其词婉。涵养性情，发于色，形于言，此诗之本原也。</font><font face="Times New Roman">&rsquo;&rdquo;</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">四</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">笔者撰储华谷《周易参同契注》提要曰：<font face="Times New Roman">&ldquo;</font><font face="宋体">注文引张伯端《悟真篇》，可知是《注》不早于宋神宗时。</font><font face="Times New Roman">&rdquo;</font></span><span>17</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">之后，章伟文分析了储华谷的易学内丹学思想，评价甚高。他认为：储华谷《周易参同契注》<font face="Times New Roman">&ldquo;</font><font face="宋体">出于南宋中后期，约当在朱熹著《周易参同契考异》之后</font><font face="Times New Roman">&rdquo;</font><font face="宋体">。</font></span><span>18</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">章伟文的推断比笔者更精确了。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">章伟文提出三点理由。第一，储华谷此注受朱熹注影响较深；第二，储华谷注明确提出《周易参同契》经文中含<font face="Times New Roman">&ldquo;</font><font face="宋体">魏伯阳造</font><font face="Times New Roman">&rdquo;</font><font face="宋体">四字隐语；第三，陈显微《周易参同契解》附文《参同契摘微》只提彭晓、陈显微、储华谷三注，不提宋元之际的俞琰注和陈致虚注。</font></span><span>19</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">这些理由均可信。储华谷为南宋中后期人，亦可印证章伟文的推断。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">卫宗武《挽储华谷四首》之第三首曰：<font face="Times New Roman">&ldquo;</font><font face="宋体">清言那复接，赖有注《参同》。</font><font face="Times New Roman">&rdquo;</font><font face="宋体">卫宗武认为储华谷一生的内丹体验和论述，能够靠储华谷的《周易参同契注》传授下去。这表明在卫宗武眼里，《周易参同契注》是储华谷的成熟之作。由此推测，储华谷注《周易参同契》，盖为其晚年封笔之作，盖作于淳祐十二年（</font><font face="Times New Roman">1252</font><font face="宋体">）前不久。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">明罗钦顺曰：<font face="Times New Roman">&ldquo;</font><font face="宋体">《参同契》有彭晓、陈显微、储华谷、阴真人、俞琰、陈致虚六家注，皆能得其微旨。内，俞注最佳，次则二陈。阴注似乎意未尽达，盖秘之也。储注甚简，中间却有眼目。彭注亦未甚明。又有无名氏二家注，一家专言内事，一家以傅会炉火之术，失之远矣。俞有《易外别传》一卷，亦佳，其言大抵明备而含蓄，此所以优于他注也。</font><font face="Times New Roman">&rdquo;</font></span><span>20</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">储华谷《周易参同契注》宣讲南宗阴阳双修丹法。</span><span>21</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">罗钦顺说储华谷《周易参同契注》<font face="Times New Roman">&ldquo;</font><font face="宋体">有眼目</font><font face="Times New Roman">&rdquo;</font><font face="宋体">，盖指阴阳双修。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">五</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">综上所述，我们可拟储华谷小传如下：</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">储华谷，名泳，字文卿，号华谷，云间（亦称华亭，今上海松江区）人。为南宋中后期人，盖生于绍熙三年（<font face="Times New Roman">1192</font><font face="宋体">）左右，卒于淳祐十二年（</font><font face="Times New Roman">1252</font><font face="宋体">）。储华谷自幼喜爱符箓派道术及各种术数，广为求学。遇至人授以口诀，很快精通。他终身实践养生术，修炼内丹。储华谷工于诗词，有诗名，文友众多，《江湖后集》、《诗家鼎脔》、《绝妙好词笺》和《历代诗话》等收录储华谷诗词及诗话。储华谷博学多能，表现为精通易学，熟读四书五经，穷研</font><font face="Times New Roman">&ldquo;</font><font face="宋体">二程</font><font face="Times New Roman">&rdquo;</font><font face="宋体">洛学，掌握一些古代自然科学知识，懂中医诊脉、罗盘使用、调试刻漏、制墨技艺等。储华谷安贫乐道，著述不辍，著《易说》、《老子注》，皆已亡佚。丁易东《大衍索隐》和俞琰《读易举要》存《易说》佚文。储华谷著《袪疑说》述诸学，注《周易参同契》</font><font face="Times New Roman">3</font><font face="宋体">卷述南宗阴阳双修丹法，今存。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">注：</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">①</span><span>17</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">任继愈主编：《道藏提要》，第<font face="Times New Roman">750</font><font face="宋体">页，中国社会科学出版社，</font><font face="Times New Roman">1991</font><font face="宋体">年</font><font face="Times New Roman">7</font><font face="宋体">月第</font><font face="Times New Roman">1</font><font face="宋体">版第</font><font face="Times New Roman">1</font><font face="宋体">次印刷。</font><font face="Times New Roman">1995</font><font face="宋体">年</font><font face="Times New Roman">8</font><font face="宋体">月第</font><font face="Times New Roman">2</font><font face="宋体">次印刷（第</font><font face="Times New Roman">750</font><font face="宋体">页）和</font><font face="Times New Roman">2005</font><font face="宋体">年</font><font face="Times New Roman">12</font><font face="宋体">月第</font><font face="Times New Roman">3</font><font face="宋体">次印刷（第</font><font face="Times New Roman">457</font><font face="宋体">页），本条提要皆无改动。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">②</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">拙著《道藏分类解题》，第<font face="Times New Roman">311</font><font face="宋体">页，华夏出版社，</font><font face="Times New Roman">1996</font><font face="宋体">年</font><font face="Times New Roman">1</font><font face="宋体">月第</font><font face="Times New Roman">1</font><font face="宋体">版。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">③</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">陈起编：《江湖后集》卷<font face="Times New Roman">11</font><font face="宋体">注。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">④</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《周易参同契发挥》卷<font face="Times New Roman">7</font><font face="宋体">，《道藏》第</font><font face="Times New Roman">20</font><font face="宋体">册，第</font><font face="Times New Roman">244</font><font face="宋体">页下。文物出版社、上海书店、天津古籍出版社，</font><font face="Times New Roman">1988</font><font face="宋体">年</font><font face="Times New Roman">3</font><font face="宋体">月第</font><font face="Times New Roman">1</font><font face="宋体">版。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑤</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《四库全书总目》卷<font face="Times New Roman">121</font><font face="宋体">，下册，第</font><font face="Times New Roman">1046</font><font face="宋体">页下。中华书局，</font><font face="Times New Roman">1965</font><font face="宋体">年</font><font face="Times New Roman">6</font><font face="宋体">月第</font><font face="Times New Roman">1</font><font face="宋体">版。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑥</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">陈起编：《江湖后集》卷<font face="Times New Roman">11</font><font face="宋体">。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑦</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《周易参同契》卷中，《道藏》第<font face="Times New Roman">20</font><font face="宋体">册，第</font><font face="Times New Roman">308</font><font face="宋体">页上。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑧</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《周易参同契》卷上，《道藏》第<font face="Times New Roman">20</font><font face="宋体">册，第</font><font face="Times New Roman">301</font><font face="宋体">页上。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑨</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《周易参同契》卷上、下，《道藏》第<font face="Times New Roman">20</font><font face="宋体">册，第</font><font face="Times New Roman">302</font><font face="宋体">页中，第</font><font face="Times New Roman">310</font><font face="宋体">页上。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: '宋体'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">⑩</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《四库全书总目》卷<font face="Times New Roman">187</font><font face="宋体">，下册，第</font><font face="Times New Roman">1701</font><font face="宋体">页上～</font><font face="Times New Roman">1702</font><font face="宋体">页上。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>11</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">潘美月、杜洁祥主编：《古典文献研究辑刊》二编第<font face="Times New Roman">2</font><font face="宋体">册，第</font><font face="Times New Roman">5</font><font face="宋体">页，花木兰文化出版社（台北县），</font><font face="Times New Roman">2006</font><font face="宋体">年</font><font face="Times New Roman">3</font><font face="宋体">月初版。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>12</span><span>14</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《四库全书总目》卷<font face="Times New Roman">165</font><font face="宋体">，下册，第</font><font face="Times New Roman">1413</font><font face="宋体">页上。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>13</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《秋声集》卷<font face="Times New Roman">3</font><font face="宋体">。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>15</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《四库全书总目》卷<font face="Times New Roman">121</font><font face="宋体">，上册，第</font><font face="Times New Roman">1046</font><font face="宋体">页下。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>16</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《文山集》卷<font face="Times New Roman">14</font><font face="宋体">。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>18</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">章伟文著：《宋元道教易学初探》，第<font face="Times New Roman">126</font><font face="宋体">页，巴蜀书社，</font><font face="Times New Roman">2005</font><font face="宋体">年</font><font face="Times New Roman">12</font><font face="宋体">月第</font><font face="Times New Roman">1</font><font face="宋体">版。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>19</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">章伟文：《储华谷〈周易参同契〉注年代略考》，《中国道教》<font face="Times New Roman">2003</font><font face="宋体">年第</font><font face="Times New Roman">6</font><font face="宋体">期。章伟文著：《宋元道教易学初探》，第</font><font face="Times New Roman">126</font><font face="宋体">～</font><font face="Times New Roman">130</font><font face="宋体">页。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>20</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">《困知记》卷下。</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span>21</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">参阅拙著《宋元南宗阴阳双修的代表人物和经诀》，《宗教学研究》<font face="Times New Roman">2010</font><font face="宋体">年第</font><font face="Times New Roman">2</font><font face="宋体">期，第</font><font face="Times New Roman">1</font><font face="宋体">～</font><font face="Times New Roman">11</font><font face="宋体">页，</font><font face="Times New Roman">2010</font><font face="宋体">年</font><font face="Times New Roman">6</font><font face="宋体">月。</font></span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<p style="TEXT-ALIGN: right; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt" class="p0"><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'">（作者系四川大学道教与宗教文化研究所教授）</span><span style="FONT-FAMILY: 'Times New Roman'; FONT-SIZE: 12pt; mso-spacerun: 'yes'"><o:p></o:p></span></p>
+<!--EndFragment-->
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

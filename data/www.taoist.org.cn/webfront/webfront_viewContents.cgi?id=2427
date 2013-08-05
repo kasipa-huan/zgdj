@@ -1,0 +1,525 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260400000000000000&targetPage=Fdjxy2">
+						中国道教(2004—2010)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260416000000000000&perPageNum=15&targetPage=Fdjxy3">
+						2006年第4期
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	张可久散曲的 “道化”与“雅化”
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	吴国富
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p class="unnamed1" align="left">　　学界论述元代后期散曲大家张可久，莫不以&ldquo;雅&rdquo;形容其散曲的风格，而这种&ldquo;雅&rdquo;又与他运用宋词手法写曲有关。如任讷《散曲概论&middot;派别》说&ldquo;其曲之十之八九为雅丽一派，&hellip;&hellip;总嫌参用词法过多。&rdquo;邓绍基《元代文学史》说：&ldquo;他的散曲运用诗词手法，讲究含蓄蕴藉，且多熔炼诗词名句，形成典雅工丽的特色。&rdquo;&ldquo;张可久热衷于学习词的表现手法，在程度上已经超过前期作家中杨果等人的以词绳曲。&rdquo;①由此导致他的散曲与前期散曲明显不同，形成了一种雅化的倾向。其实，张可久许多散曲的&ldquo;雅&rdquo;，与宋词关系不大，而与他的&ldquo;道化&rdquo;有关，体现了内丹心性修炼的特点。<br />　　张可久做过路吏、首领官、桐庐典史及昆山幕僚，一生都无踌躇满志的时光，他的【庆东原】《和马致远先辈韵》九首和【醉太平】《感怀》等，写出了读书人的牢骚感叹，颇为真切。但是，在他九百多首散曲中，这类以沉沦落魄之感为内容的作品只占一小部分，更多的散曲体现了一种超然世外的归隐情怀，体现了与道家文化的密切关系。他喜好探幽访胜，散曲中仅歌咏西湖的就有一百多首。张可久到过会稽、三衢及天台山，也游过虎丘、吴门和吴淞江，登临茅山、黄山与括苍山，写下为数众多的玩赏之作。除此之外，以登高和看雨、晚凉及月明、秋晴与雪晴为题的也有二百多首。在山水风景中，他悲也淡淡，欢也淡淡，没有发泄澎湃汹涌的情感。作为下层小吏，张可久结识了一些权贵，如梅元帅、赵使君等，但为数不多；有一些相好的妓女，但并不显得放浪；他与卢挚、刘时中、贯云石等名士也有交往，但不算密切，从总体上看，张可久访道宫，过佛寺，与和尚特别是道士交游最多，比如茅山道士王寿衍，在他曲中屡屡出现，两人情谊非同一般。这样的交游，使他创作了大量的小隐、山中、幽居、游仙等作品，它们与红尘的关系在若即若离之间。韦金满《从小山乐府看张可久散曲的道教色彩》②，对张可久与道教中人的交游关系有详细的阐述。因此，在当时的社会氛围中，张可久接受的主要是道教文化与隐逸文化的影响，而在他的散曲里，也浸透了道教文化的痕迹。<br />　　在时人的心目中，张可久也是一位&ldquo;隐士&rdquo;或者&ldquo;道人&rdquo;，如元末张仲深《子渊诗集》卷二《题张小山君子亭》一诗说：<br />　　我尝西湖谋卜居，前有水竹后芙蕖；羁红縻翠眩人目，云锦倒映青珊瑚。归来试问隐者庐，嘉葩美植同纷敷。彩鸾踏孔夜不啄，文鸳陨粉秋生珠。竹秉君子操，莲如君子清，我亭居其中，乐以君子名。道人寓物不着物，岂唯物美唯德称，满帘花气香馥馥，一亭翠景风泠泠。愿君志如莲，濯于泥而不染；操如竹，拍霜雪而不零。我今闻之当乞盟，制荷为衣竹为策，迥谢浊世全吾生。<br />　　张仲深与张可久同为庆元（今浙江省宁波）人。他在诗中称呼张可久为&ldquo;隐士&rdquo;，为&ldquo;道人&rdquo;，完全符合张可久的散曲中表现的情况。从散曲来看，张可久醉心于道士的生活，【双调&middot;折桂令】《游太乙宫》云：&ldquo;华山高与云齐，远却尘埃，睡煞希夷。踏藕童闲，携琴客至，跨鹤人归。&rdquo;可知他到过当时全真教的活动地区华山，并对陈抟式的生活极为羡慕。陈抟是北宋初道士，隐居华山，号称&ldquo;睡神仙&rdquo;，在道教典籍中他是吕洞宾的师友，到了元代，又被全真教当作做修炼内丹的成功者广泛宣传，名声大噪，于是元曲家也频频提及，张可久不过是其中的一位而已。<br />　　道教文化的熏染，使张可久深谙内丹修炼之道，【越调&middot;寨儿令】《桃源亭上》写道：<br />倒金莲，散金钱，先生醉骑鹤上天。月影娟娟，霞袂翩翩，即我是神仙。入蓬莱行见桑田，看梅花误入桃源。溪头卖酒家，洞口钓鱼船，专唱我《会真篇》。<br />　　吕薇芬、杨镰的《张可久集校注》③，将末句提到的《会真篇》注为唐代元稹《莺莺传》中的《会真诗》，这是不对的，因为全诗都谈修道成仙之事，与艳情无关。实际上《会真篇》是一部道书。根据任继愈《道藏提要》第２４５条，《西山群仙会真记》五卷，施肩吾撰，南宋曾慥摘录是书，编入《道枢》卷三十八，题作《会真篇》。到了元代，它成为内丹经典，曾慥也被列入全真南宗祖师名册，见李简易《玉溪子丹经指要》。张可久在散曲中表现了大量的道教思想，大都符合该书的论述，尤其是关于内丹心性理论的内容。如《会真篇》论述云：<br />　　是以从道受生谓之命，自一禀性谓之性，所以任物谓之心。古先圣人，教人修道，即修心也；虚心以还其实也，无心以除其有也，定心令不动也，安心令不危也，静心令不乱也，正心令不邪也，清心令不浊也，净心令不秽也。<br />　　金元全真教继承了这一思想，如全真七子之一的谭处端作词歌咏云：<br />　　道人心，处无心，自在逍遥清静心。闲闲水云心。利名心，纵贪心，日夜煎熬劳役心。何时休歇心。（《长思仙》）<br />　　修行心，包容心，一片清虚冷淡心。闲闲无用心，灭嗔心，去贪心，寂寞清贫合圣心。天生现本心。（同上）④<br />　　张可久也有大量的论&ldquo;心&rdquo;之曲。<br />　　第一是无心。按全真的说法，人生之初，心灵没有容纳任何外界事物的影像，等于一张白纸，因此生命能量诸如精、气、神等均完好无损。修行者不能回到婴儿时代，却可以腾空后天接受的知识和影像，让心灵恢复到完整的浑纯状态，形成修炼内丹的基础，张可久【中吕&middot;红绣鞋】《仙居》说：&ldquo;有客樽前谈笑，无心江上渔樵。&rdquo;打渔之人，驾一叶小舟，出没于风波之间，宛然是世上追名逐利者的缩影，他们内心被贪欲、焦虑日夜煎熬，在通往死亡的路上飞奔。他自己却早已脱离了名利的行伍，【越调&middot;寨儿令】《山中》云：&ldquo;寡见闻，乐清贫，逍遥百年物外身。糜鹿相亲，巢许为邻，仙树小壶春。住青山远却红尘，挂乌纱高卧白云。&rdquo;寡见闻是收视反听，关闭心灵的门窗；乐清贫是不让心灵再去追逐外物；与动物为邻，一则表示无贪残之心，二则表示象太古时代那样浑沌纯朴。这就是以无心为本的道人心，也可称为&ldquo;水云心&rdquo;、&ldquo;休歇心&rdquo;、&ldquo;冷淡心&rdquo;。只有以无心为本，人们才能不贪名，不竞利，不劳心，不劳力，如【中吕&middot;满庭芳】道：&ldquo;急疏利锁，顿解名缰&rdquo;，是化解名利之心；同调《金华道中》：&ldquo;营营苟苟，纷纷扰扰，莫莫休休，厌红尘拂断归山袖。&rdquo;是厌弃红尘之心。<br />　　其次是灭嗔心。心灵的空白，不等于心灵没有波动。婴儿也有悲欢，何况是成年之人。全真祖师曾如是设喻：一个道人在山中修行多年，自以为是心如止水。有一天来了两个手持兵器的人，问他要吃的，他马上去煮些山果。其中一人看到了，嫌伙食太差，勃然大怒，恶语相向，还要打翻铁锅。道人不动声色，借口外出，在门外操了一根木棒，大喊两人出来，拼个高低。两人大笑：&ldquo;先生修行多年，原来只是如此？&rdquo;起身便走，倏忽不见。事见《盘山栖云王真人语录》。所以，主动忘怀名利不等于在被动情况下也能经受考验，而张可久也还要考虑如何在名利的刺激下灭绝嗔心。【越调&middot;凭栏人】说：&ldquo;宝剑英雄血已干，玉府神仙心自闲。炼霞成大丹，袖云归故山。&rdquo;特别指出心波起伏的基础即气血业已干涸，外界任何震荡都不能令他心动，根本不在乎什么英雄落魄，怀才不遇。【双调&middot;落梅风】道：&ldquo;青山隐居心自远，放浪他柳莺花燕。&rdquo;也隐喻在纷繁万事面前毫不动心。<br />　　总之，上述内容均合于内丹家的阐述，也表明张可久在内丹修炼方面已达到一定的造诣。元代全真高道李道纯《中和集》说：&ldquo;忘情养性，虚心养神；万缘顿息，百虑俱澄；身心不动，神凝气结，是谓丹基，喻曰圣胎也。&rdquo;当这种心境出现之后，就可以着手修炼内丹了。张可久已经符合这种要求，因此他屡以神仙自居。?眼南吕&middot;金字经?演道：&ldquo;一棹烟波湖上春，真，神仙身外身。&rdquo;内丹家所说的成仙，实际指内丹修炼成功之时到达的境界，内丹的样子大约像一个剔透玲珑的圆球。张可久是否炼成，无从知道，但他确实满心喜悦地描述过内丹，【双调&middot;沉醉东风】《气球》说：&ldquo;元气初包浑沌，此囊自喜囫囵。闲田地著此身，绝世虑萦方寸。圆满也不必烦人，一脚腾空上紫云，强似向红尘乱滚。&rdquo;这样的金丹，是数十年保养修炼精、气、神的结果，也是全真道教理想境界的极限。接受这一理想的人，道化程度已非常之深了。<br />　　明代朱权评张可久的散曲&ldquo;有不食人间烟火气&rdquo;，指出了那种清虚恬淡的道境。这种概括是很有道理的。我们可以说张可久的散曲体现了明显的&ldquo;道化&rdquo;特征。这种&ldquo;道化&rdquo;加重了散曲的&ldquo;雅化&rdquo;倾向，但是&ldquo;道化&rdquo;带来的&ldquo;雅&rdquo;与宋词表现的&ldquo;雅&rdquo;有明显的区别。<br />　　中国诗体文学明显出现&ldquo;雅&rdquo;的特征，应从宋代开始。宋代以前，诗歌风格众多，但在当时及后代都很少有人用&ldquo;雅&rdquo;字去形容某个诗人的风格。到宋代婉约词兴盛起来之后，&ldquo;雅&rdquo;的特征明显出现，而后代人评晏殊、姜夔等人的词作，都用到了&ldquo;雅&rdquo;字。婉约派重视借景传情，表达含蓄蕴藉，避免了粗俗与质朴，显得雅致，这是&ldquo;雅&rdquo;的主要含义。豪放派词人表达感情激扬喷薄，毫不遮掩，就不能称为&ldquo;雅&rdquo;。但是，讲究情感的含蓄表达，并不意味着词人不愿意表达情感，或者是极力淡化情感。例如姜夔的词，向来有&ldquo;清空骚雅&rdquo;之称，但这并不意味他努力消解自己的情感，只是不愿意说得太实太露罢了。如张炎在《词源》中，称白石词如《疏影》、《暗香》、《琵琶仙》等曲，&ldquo;不惟清虚，又且骚雅，读之使人神观飞越&rdquo;。但是，这种清虚骚雅的词作，绝非无情之作，而是情致动人的作品：&ldquo;矧情至于离别，则哀怨必至；苟能调感怆于融会中，斯为得矣。白石《琵琶仙》、秦少游《八六子》，离情如此作，全在情景交炼，得言外意，&hellip;&hellip;乃为绝唱。&rdquo;在张炎看来，《琵琶仙》等词的成功，在于情感的哀怨真切以及表现情感的高超艺术，两者缺一不可。陈廷焯《白雨斋词话》说：&ldquo;姜尧章词清虚骚雅，每于伊郁中饶蕴藉。&rdquo;可见&ldquo;骚雅&rdquo;不排斥感情，情感表现是&ldquo;骚雅&rdquo;不可缺少的成分。朱彝尊《词综发凡》说：&ldquo;言情之作，易流于秽，此宋人选词多以&lsquo;雅&rsquo;为目。&rdquo;⑤他说的&ldquo;雅&rdquo;就是&ldquo;言情而不秽&rdquo;，并非让情怀淡化到虚无状态。总之，消解世情、超凡脱俗既不是宋代多数词人的生活目标，缥渺虚无、清虚简淡也不是他们追求的风格，因此宋词表现的&ldquo;雅&rdquo;与张可久表现的&ldquo;雅&rdquo;并不相同，因为张可久的&ldquo;道化&rdquo;，是努力追求情感淡化的表现。<br />　　张可久的散曲很少描写实实在在的世事，形神毕现的细节。关汉卿的铜豌豆，王和卿的大蝴蝶，浸透着俗气与蒜酪味，诙谐泼辣，但都没有出现在张可久的艺术视野里。这种特点，有点类似于姜夔的&ldquo;清空&rdquo;，但它显然不是一种单纯的艺术追求，而是与他的思想涵养有关。如上所述，张可久的散曲以写景、访道、隐居为主要内容。作为一个小吏，并非没有机会广泛结交，之所以如此，是因为他另有迷醉。他在道教的天地里尽情遨游，自然就疏远了人世；作为道教涵养的结果，情感的淡化就必然表现在张可久的散曲中。偶然出现的情怀散淡，属于常人的感觉，与道化没有必然联系，也不需要长期的调控与涵养。一贯性的情感淡化则不同，它来自于始终不渝的追求。<br />　　本来作为作家，他的情怀必然要在诗词歌赋中流露出来，但在张可久散曲中，几乎看不到那种生动率真的世俗气息，作为沉沦下僚的人，也没有多少抑郁悲愤的表现。?眼中吕&middot;卖花声?演《客叹》中&ldquo;十年落魄江滨客，几度雷轰荐福碑，男儿未遇暗伤怀&rdquo;之语，被许多人用来概括张可久散曲的思想内容，但&ldquo;十年&rdquo;一词却说明这是早年的作品，因为他混迹下僚至少也有三十年。这种悲愤的存在，说明他并非天性超脱，而是经历了从起初的不平静到后来的平静这样一个过程，其中道化的作用不可低估。现实的黯淡使他痛苦，但是他接受了全真教将世俗生活、荣华富贵以及英雄历史视作虚无的思想，追求着内丹心性的境界，从宁静恬淡到金丹脱壳，步步深入，不但与牢骚满腹的前期曲家不同，与后期许多世俗气息很浓的散曲家也有所不同。散曲大家如马致远、乔吉等人多借道教的虚无观进行自我安慰，而张可久却在努力消释那些需要安慰的情怀，淡化往日的失落与悲郁；这种努力使他后来不需要多少自我安慰就能获得心理平静。在许多散曲中，他的情怀淡化到即将逸出社会的地步，所未忘却的只是词章之工。艺术追求与他的无限淡泊的情怀结合，形成了小山曲的&ldquo;雅丽&rdquo;；在这种风格统领下，景语胜于情语，并由悠远的道韵，支撑着工丽的语言。例如?眼越调&middot;小桃红?演《鉴湖夜泊》：<br />　　鉴湖一段水云宽，鸳锦秋成段。醉花间影凌乱。夜漫漫，小舟只向西林晚。仙山梦短，长月满天，玉女驾青鸾。<br />　　在这首曲中，我们品不出世俗喜怒哀乐的情味，看（转下页）（接上页）不到驰逐往来的人影，也不能指出鲜明的个性和思想，甚至无从了解他要表述的现实内容。一连串的景语，构成了清丽的画面，主调是&ldquo;仙山梦短，长月满天&rdquo;中透露的悠远道境。最富动感的&ldquo;醉舞&rdquo;一句，也仅存影迹，如云烟飘拂于仙山杳梦之中，与散曲固有的欢快活泼情调很不相同，而是近似于全真谭处端《太常引》的词境：<br />　　非僧非俗亦非仙，茅屋两三椽。白石与清泉，更谁问，桃源洞天。一炉宝篆，一瓯春雪，浇灌净三田。闲想谷神篇，不觉松枝月圆。<br />　　在为数众多的散曲中，张可久表现出他淡化到不留影迹的情怀。他的英雄业迹之心已消磨殆尽。&ldquo;宝剑英雄血已干&rdquo;，甚至连一丝慨叹也没有。他的功名之念不复存留，【正宫&middot;塞鸿秋】《道情》：&ldquo;一身行路难，两鬓秋霜染，老来莫起功名念。&rdquo;【双调&middot;水仙子】《次韵》：&ldquo;名不上琼林殿，梦不到金谷园，海上神仙。&rdquo;往日怀才不遇的心事，在吟咏间已化作一缕青烟。他对世态人情全不关心，甚至连旧有的交情也逐渐忘却，【双调&middot;落梅风】《碧云峰书堂》：&ldquo;人间自晴还自雨，恋青山白云不去。&rdquo;【正宫&middot;端正好】《渔乐》：&ldquo;市朝远，故人疏，有樵夫做伴侣。&rdquo;这些内容与曲境交织在一起，形成小山曲风格不可分割的一部分。因此，宋词的&ldquo;雅&rdquo;，有的是富贵者的雍容闲雅，有的是高洁者的萧散淡雅，而张可久的&ldquo;雅&rdquo;是文化修养与道教修养相结合的产品。<br />　　南宋以来，理学家也讲心境的静虚，但与张可久追求的道境区别甚大。元代理学家吴澄《静虚精舍记》说：&ldquo;学静虚者，亦曰敬以存其心而已。所存之心何哉！仁义礼智之心也，非如异教之枯木死灰者。&rdquo;他们对人生之情，世俗之感并非全盘否定，一概弃绝，而是分出是非好歹，去伪存真。因仁义礼智而发的情怀，是天理流行的表现，不但不抑制，还应大力弘扬，这就使得他们修养出的心境，并非远离尘世，而是&ldquo;静后见天地外物，自然皆有春意&hellip;&hellip;妄念不起，恶事不留，此心廓然豁然，与天地同其静虚。&rdquo;但是张可久的心魂里，却没有人世感召的内容，他的春意寄托在远离尘世的清梦里，在不染着世念与事物的空灵之境里。在这种比较中，我们更可以看出张可久散曲&ldquo;雅化&rdquo;与&ldquo;道化&rdquo;的密切关系。</p>
+<p class="unnamed1">注：<br />①《元代文学史》，人民文学出版社，１９９１年。<br />②《道家文化研究》第９辑，１９９６年。<br />③《张可久集校注》，浙江古籍出版社，１９９５年。<br />④《谭处端刘处玄王处&mdash;郝大通孙不二集》，齐鲁书社，２００５年。<br />⑤夏承焘《姜白石词编年笺校&middot;辑评》，上海古籍出版社，１９８１年。</p>
+<p class="unnamed1" align="right">（作者单位：江西九江学院学报编辑部）</p>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

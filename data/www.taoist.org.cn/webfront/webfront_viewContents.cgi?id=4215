@@ -1,0 +1,631 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260100000000000000&targetPage=Fdjxy2">
+						道协会刊(1962—1986)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260114000000000000&targetPage=Fdjxy2">
+						第14期(1984年6月）
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	《太极图》、《无极图》、《太极先天图》蕴义及源流考辨（3）
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　到了五代 (公元907&mdash;960)，后蜀彭晓著《周易参同契分章通真义》，叙述了《参同契》的来历及义旨： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　按神仙传，真人魏伯阳者，会稽虞人， &hellip;&hellip;不知师授谁氏，得古文《龙虎经》，尽获妙旨，乃约《周易》，撰《参同契》三篇。又云未尽纤微，复作《补塞遗脱》一篇，继演丹经之玄奥，所述多以寓言，借事隐显异文。密示青州徐从事，徐乃隐名而注之。至后汉孝桓帝时，公复传授与同郡淳于叔通，遂行於世。公撰《参同契》者，谓修丹与天地造化同途，故托易象而论之。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　这里已十分明确地道出了《参同契》在理论上的主旨是 &ldquo;修丹与天地造化同途&rdquo;。这种模拟自然的金丹道，也就是模拟自然的内丹道的前奏。关键就是在&ldquo;天人一体&rdquo;思想指导下的模拟自然。彭晓既用外丹观点注解《参同契》，可是他又作《还丹内象金钥匙》⒆，讲述内丹。基本理论都是&ldquo;修丹与天地造化同途&rdquo;。因此，我们便不难理解《参同契》义旨被转变为内丹图学的内在依据了。下面我们将《参同契》中有关原文及彭晓《注》摘录以与《无极图》、《太极图》等相对照。《参同契&middot;乾坤易之门户章第一》： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　乾坤者易之门户，众卦之父母。坎离匡郭，运毂正轴。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　彭晓注解： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&hellip;&hellip;以乾坤为鼎器，以坎离为匡郭，以水火为夫妻，以阴阳为龙虎，以五行为纬而含其精，以三才为经而聚纯粹。寒来暑往，运行於三百八十四爻，兔起鸟沈，升降于三百八十四日。此皆始终乾坤二卦之体而成变化者也。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《参同契 &middot;天地设位章第七》： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　天地设位，而易行乎其中矣。天地者，乾坤之象也。设位者，列阴阳配合之位也。易谓坎离，坎离者乾坤二用。二用无爻位，周流行六虚，往来既不定，上下亦无常，幽潜沦匿，变化挺中，包囊万物，为道纪纲。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　彭晓注解： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　天地设位者，以其既济鼎器，法象乾坤也。易行乎其中者，乃阴阳坎离符火运行其中也。既器，法乾坤，复於其中安金母，以备天地人三才也。坎离二用无爻位者，谓外施水火运转，动静无常，故周流六虚，往来上下无常位也。或隐或显或用或潜，更为变化之宗，互作生成之母。故云为道纪纲也。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　以上所说的 &ldquo;中有真一之精&rdquo;、&ldquo;循坎离否泰之数&rdquo;、&ldquo;易谓教离&rdquo;、&ldquo;既济鼎器&rdquo;等，都是造作&ldquo;水火匡郭&rdquo;图式的根据。《天极图》等图式中所包含的&ldquo;坎离匡郭&rdquo;图的含义，也与《参同契》及彭晓注基本是一致的。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　又《参同契&middot;言不苟造章第九》： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&hellip;&hellip;坎戊月精，离已目光。日月为易，刚柔相当。土王四季，罗络始终。青赤白黑，各居一方。皆禀中宫戊己之功。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　彭晓注解： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　坎戊月精者，月阴也。戊阳也，乃阴中有阳，象水中生金，虎也。离已日光者，日阳也，已阴也，乃阳中有阴，象火中生汞，龙也。故修丹采日月之精华，合阴阳之灵气，周星数满，阴阳运终，尽归功于土德，而神精备矣。 &hellip;&hellip;</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　《参同契&middot;太阳流珠章第六十八》： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&hellip;&hellip;五行错王，相据以生，火性销金，金伐木荣，三五与一，天地至精&hellip;&hellip;。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　彭晓注解： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&hellip;&hellip;火能销金，火又生于木，金复克木，是以火金木反制为荣。歌曰：丹砂、木精，得金乃并。又曰：三性既合会，二味自相拘，固济胎不泄，变化在须臾。三性者，火金木也。二味者，铅汞龙虎也。故云三五与一，天地至精也。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　又彭晓注解《参同契&middot;知白守黑章第二十三》中说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&hellip;&hellip;水数一，为天地阴阳五行万物之始也。水一、火二、木三、金四、土五是也。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　这些理论与解说，十分明显是造作&ldquo;三五至精&rdquo;的根据。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　据五代彭晓《明镜图诀》记载，《周易参同契》在假借爻象以明炼丹之意时，已制作有九个图式，即《水火匡郭图》、《三五至精图》、《斗建子午图》、《将指天罡图》、《昏见图》、《晨见图》、《九宫八卦图》、《八卦纳甲图》、《含元播精三五归一图》。这都是陈抟、周敦颐据以另制图式的资料。即使这些图为彭晓所造，也是对《参同契》主要内容的图解。《参同契》为彭晓能提供作图的启示与资料，当然也能够为陈抟、周敦颐提供作图的启示与资料。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　综上所述，可以肯定《无极图》、《太极图》等图式皆源自东汉魏伯阳《周易参同契》。不过理学家们对《太极图》的解说是依据 &ldquo;顺以生人&rdquo;的世界生成模式而阐发的，与道教&ldquo;逆以成丹&rdquo;的理论，有所不同而已。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　然则《周易参同契》的义旨，是怎样衍变而为陈抟的《无极图》的呢 ?这便不能不探讨隋唐内丹的出现及五代内丹道的形成。因为没有五代钟吕内丹道教的兴起，也就不会有陈抟&ldquo;逆以成丹&rdquo;的理论与图式。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">第 二 节 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">五代的钟呂內丹道 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　隋代之前，道教无内丹之说，只有胎息、导引、行气、存想等内养方术。至隋文帝开皇年间 (公元581&mdash;600)，有罗浮山道士青霞子苏元朗，托言曾学道茅山，得大茅真君秘旨，著《旨道篇》以示人，自此道教始有内丹之说。⒇以后，把晋代葛洪所倡养的金丹，乃相对而称外丹。唐刘知古撰《日月玄枢论》将魏伯阳《周易参同契》作内丹解释；五代彭晓撰《还丹内象金钥匙》亦阐发内丹。五代内丹道教兴起，其最著名的便是钟离权和吕洞宾。至今道教全真派(重内丹修炼的教派)仍尊钟离权与吕洞宾为祖师。他们的名字，在道教界中虽然人人皆知，而且伪托其名的道书也很多，可是在比较正式的史籍上，有关他们的记载却没有或极少。按：钟离权，道教又称汉钟离，传说为仙人，唐末，吕洞宾遇之于长安，受&ldquo;大道天遁剑法，龙虎金丹秘文&rdquo;。据宋郑樵《通志》第六十七卷&ldquo;道家(四)修养&rdquo;类著录有《钟离授吕公灵宝毕法十卷》。道教传说钟离是汉代人，这不过是有意神化，如果确有其人，我以为极可能是唐末五代人，&ldquo;汉&rdquo;乃指五代后汉。因为只有在这个时间他才有可能与吕洞宾相遇，如是汉代如何能相遇呢?关于吕洞宾其人，《宋史&middot;陈抟传》中有简短记载： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　关西逸人吕洞宾，有剑术，百余岁而童颜，步履轻疾，顷刻数百里，世以为神仙。皆数宋抟斋中，人咸异之。《岳阳风土记》说他是唐代山西礼部尚书吕渭之孙。《雅言系述 &middot;吕洞宾传》：吕洞宾&ldquo;关右(今陕西西安)人。(唐)咸通初，举进士不第。值(黄)巢贼为梗，携家隐居终南(山)，学老子之法。&rdquo;宋人吴曾收录的岳州石刻《吕洞宾自传》云：&ldquo;吾乃京兆(西安)人。唐末，累举进士不第，因游华山，遇钟离，传授金丹大药之家。&rdquo;&ldquo;吕洞宾&rdquo;在宋代便已被神仙化。道教传说吕洞宾便是改金丹与黄白之术为内丹的关键性人物。自始以后，内丹道教便逐渐兴盛起来。我认为吕洞宾是确有其人的，他与彭晓、刘海蟾、陈抟基本同时，主要活跃於五代。他受之于钟离的《灵宝毕法》，便是用易学象数理论来讲究炼养之道的。这样，内丹道教便是由青霞子苏元朗首创其说，而宣扬、发展内丹道者则为刘知古、彭晓、吕洞宾、刘海蟾，我认为其中最神秘的人物则是吕洞宾。陈抟的&ldquo;逆以成丹&rdquo;之道，极可能受之于吕洞宾。故没有唐末五代内丹道教的兴起，也便不会有陈抟的图学了。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　为什么在五代时期，道教会兴起内丹道，发生这样一个大改变呢 ?我认为这既有其转变的内在根据，也有其外在的客观历史条件。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　笔者在本章上节中已提到模拟自然的金丹道是模拟自然的内丹道的前奏，关键在於同为 &ldquo;天人一体&rdquo;基础理论指导下的模拟自然。用道教的话说，即&ldquo;修丹与天地造化同途&rdquo;。这个&ldquo;修丹&rdquo;，隋代以前是指金丹(外丹)，隋代以后则内丹道也据此说。其实&ldquo;天人一体&rdquo;的理论，在我国由来甚古，古代诸子百家，大都吸取这种理论以为立论依据。至於道家及神仙家，自来相信这种理论。《老子道德经》中说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　人法地，地法天，天法道，道法自然。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　道生一，一生二，二生三，三生万物，万物负阴而抱阳，冲气以为和。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　塞其兑，闭其门，挫其锐，解其纷，和其光，同其尘，是谓玄同。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　又如《庄子》中说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　天地与我并生，而万物与我为一。 (《庄子&middot;齐物论》) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　自其同视者之，万物皆一也。 (《庄子&middot;德充符篇》) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　壹其性，养其气，合其德，以通乎物之造化。 (《庄子&middot;达生篇》)</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　又如《淮南子&middot;精神训》，更是认为人体的生理机构与性情都是与天地的形象与自然变化相契合的： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　故头之园也象天，足之方也象地。天有四时、五行、九解、三百六十日，人亦有四肢、五脏、九窍、三百六十节。天有风雨寒暑，人亦有取与喜怒。故胆为云，肺为气，肝为风，肾为雨，脾为雷，以与天地相参也，而心为之主。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　又如《阴符经》中说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&hellip;&hellip;天有五贼，见之者昌。五贼在心，施行于天。宇宙在乎手，万物生乎身。天性人也，人心机也。立天之道，以定人也。 &hellip;&hellip;</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　再如《太平经》： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　相去远，应之近，天人一体，可不慎哉 ?(《太平经钞&middot;乙部》) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　随天可为，视天可兴，无乱天文，与之同力，可谓长吉。 (《太平经》卷五十) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　然夫天地人本同一元气，分为三体，各有自祖始。 (《太平经》卷六十) </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　与丹道 &ldquo;修丹与天地造化同途&rdquo;的理论有密切关系的是《周易》，丹道除了假借《周易》的系统语言，在天人关系的思想方面也是有所吸取的。如： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&hellip;&hellip;法象莫大乎天地，变通莫大乎四时，悬象著明莫大乎日月。&hellip;&hellip;是故天生神物，圣人则之；天地变化，圣人效之；天垂象，见吉凶，圣人象之。(《系辞上传》第十一章)</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　古者包牺氏之王天下也，仰则现象於天，俯则观法於地&hellip;&hellip;近取诸身，远取诸物，於是始作八卦，以通神明之德，以类万物之情。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　以上这些效法自然的思想，都是道教丹道模拟自然所援引的理论根据。由于认为天地自然形象、变化与人体生理机构的形态、性情是相似、相应、相通的关系，故进而认为宇宙为大天地，人体则为一小天地，人体是自然天地的缩小体。因此，模拟自然的外丹理论，也就可以转变而为模似自然的内丹理论，不外是将代表物质和物质变化的术语，改为代表人体的生理机构和生理变化现象而已。这里要加以说明的是，古代自然天道观是唯物的，而宗教将自然天道观套用于人体，则变而为宗教天道观了。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　这种模似自然的神仙术说既然早已存在，为什么隋以前只有金丹 (外丹)之术，而无内丹之说呢?这就归之于客观的历史条件了。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　隋、唐五代，正是金丹道逐渐兴盛的时期，帝王、官僚、富贵者，不少人热衷于这种长生之道。可是正由于富贵者及术士们的实践，从而其弊害也便逐渐败露。据赵翼《廿二史创记》卷十九《唐诸帝多饵丹药条》，记唐太宗、宪宗、穆宗、敬宗、武宗、宣宗皆服丹药中毒致死；臣下如杜伏威、李道古、李抱真皆服食中毒致死。宋李季可《松窗百说》谓唐太学博士李千受方士柳贲药，服之下血死。又唐代归登、李虚白、孟简俱以服食而毙。《唐书》中正式记录了金丹的毒害，如《旧唐书 &middot;宪宗本纪》： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&hellip;&hellip;十四年十一月丁酉，上服方士柳泌金丹药。起居合人裴溝上表切谏，以金石含酷烈之性，加烧炼则火毒难制。&hellip;&hellip;十五年春正月甲戍朔，上以饵金丹小不豫，罢元会。&hellip;&hellip;上自服药不佳，数不视朝，人情恂惧。&hellip;&hellip;庚子，上崩於大明宫之中和殿，享年四十三，时以暴崩，皆言内官陈弘志弒逆，史氏讳而不书&hellip;&hellip;。《旧唐书&middot;穆幸本纪》： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　上始御延英，对宰臣诏曰：山人柳泌，轻怀左道，上惑先朝。固求牧人，贵欲疑众。自知虚诞，仍更遁逃，僧大通医方不精，药术皆妄。既延祸衅，俱是奸邪。邦国固有常刑，人神所宜共弃，付金兆府决杖处死。《旧唐书 &middot;武宗本纪》：</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　重方士，颇服食修摄，亲受法箓，至是药躁，喜怒失常，疾既笃，旬日不能言，宰相李德裕等请见不许，中外莫知安否，人情危惧，是月二十三日&hellip;&hellip;崩。<br />　　五代时，蜀何光远《鉴诫录》谓梁太祖服方山道士庞九经所进金丹，眉发立坠，头背生痈。南唐史虚白之仲子所撰《钓矶立谈》谓南唐烈祖服金石药，患疽致死。<br />　　可见金丹道术的风行时期，也正是人们经过服食而逐渐认清其毒害的时期，同时也是术土们另觅求仙之术的时期。富贵者为贪恋享受，幻想获长生之道；方术士为谋取富贵，亦必另觅蹊径。因此，在烧炼金丹，幻想服丹后移金属不朽之质于肉体，同样毕天不朽，这种幻想破产后，便逐渐转向在自身小天地中效法自然，以求长生久视。况且这种术、说，古已有之，如胎息、导引、行气，内丹道不过是在此基础上更向神秘之&ldquo;仙道&rdquo;发展而巳。<br />　　另一情况是，隋唐时烧炼黄白之术盛行，有些道士名为炼外丹以求登仙长生，实际却在烧炼药金银，即假金银，以谋财利。如《太平广记》卷四百引来戴君孚《广异记》中便说，隋末有道者居太白山炼丹砂，合成大还丹，化赤铜为黄金。这些药金報乃伪物，在社会流行便成一害。因此，外丹术亦被人视为欺人之术，加以鄙弃。<br />　　陈抟以逆则成丹为宗旨的《无极图》，便是这个时期的产物。它既是内丹道兴起的标志，也是五代钟吕内丹道的总结与发展。<br />　　从外丹到内丹的衍变，由于有内在理论上的依据，我们不难理解；至于北宋儒家周敦颐为什么不顾门户之别，而吸取道教修丹的图式，而开创其道学呢?仙、儒之间又有什么内在的联系?客观外界又有什么促成其融合的条件?总的来说，就是宋代的理学与道教的关系及相融合的历史条件问题。笔者认为这都是应当探讨的问题，不然，我们就弄不清为什么道教的《无极图》会成为儒家道学《太极图》之源。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">第 五 章 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">宋代道学与道教的关系 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">第 一 节 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">周敦颐吸取《无极图》的历史原因 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　周敦颐一生经历了宋真宗、仁宗、英宗、神宗四个皇帝的统治时期，主要是宋仁宗时期 (公元1023年&mdash;1063年)。在周敦颐生活的这小时代，宋朝统治者面临着三大问题。第一是北方契丹及西夏的不断侵略；第二是民间不断暴发的农民起义；第三是朝政方面的改革图新与因循守旧之争。宋统治者对上述三大问题，对异族入侵则采取屈辱求和、妥协苟安的政策；对朝廷政事则推行因循保守的政治主张；对不断的农民起义则采取残酷镇压与思想消弭的方针。与这种政治路线相适应的思线，则是改变宋初轻视儒学的路线，而尊孔崇儒，以儒学作为宋王朝政治的指导思想；与此同时，也崇佛崇道，以佛教道教作为辅助儒学的精神工具。来真宗曾撰《文宣王赞》，歌颂孔丘是&ldquo;人伦之表&rdquo;，儒学是&ldquo;帝道之纲&rdquo;。《宋史&middot;真宗本纪》记载：&ldquo;作《崇儒术论》，刻石国学&rdquo;。《崇儒术论》中便说：&ldquo;儒术污隆，其应实大， 国家崇替，可莫由斯&rdquo;。真宗还多次到国子监命学官讲儒学经典，大力提倡儒学。宋真宗也曾撰《崇释论》，提倡佛教，说佛教与孔孟&ldquo;迹异而道同&rdquo;。宋真宗也是道教的提倡者。据《宋史&middot;真宗本纪》记载： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　丁末，法驾入乾封县奉高宫。戊申，王钦若等献泰山芝草三万八千馀本。己酉，五色云起岳顶。庚戍，法驾临山门，黄云覆辇，道经险峻，降辇步进。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　秋七月癸巳，上清宫道场获龙於香合中。 &hellip;&hellip;巳酉，亳州官吏父老三千三百人诣阙请谒太清宫。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　八月庚申，诏来春亲谒亳州太清宫。辛酉，以丁谓为奉祀经度制置使。丙庚，禁太清宫五里内樵采。庚午，加号 &ldquo;太上老君混元上德皇帝&rdquo;，置礼仪院。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&hellip;&hellip;癸酉，谒玉清昭应宫。己卯，作《步虚词》付道门。壬午，降圣节赐会如先天节仪。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　八年春正月壬午朔，谒王清昭应宫，奉表告尊上 &ldquo;玉皇大天帝&rdquo;圣号，奉安刻玉天书于宝符阁。&hellip;&hellip;庚寅，置清卫二指挥奉宫观。乙末，皇女入道。&hellip;&hellip; </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　天禧元年春正月辛丑朔，改元。诣玉清昭应宫荐献，上玉皇大天帝宝册，衮服。 &hellip;&hellip;乙卯，宰相读天书於天安殿，遂幸玉清昭应宫，作《钦承宝训述》示群臣。壬戍，诏以四月旦为天祥节。丙寅，命王旦为兖州太极观奉上册宝使。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　宋真宗对道教神祇祭祀之隆重以及其伪造天书之频繁，显示他提倡道教和利用宗教的热切。元脱脱《宋史 &middot;真宗本纪》附《赞》中评议道： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&hellip;&hellip;及澶渊既盟，封禅事作，祥瑞沓臻，天书屡降，导迎奠安，一国君臣如病狂然，吁，可怪也。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　宋仁宗基本上和真宗所推行的政治路线与思想路线相同，不过更为尊儒。据《宋史 &middot;仁宗本纪》记载： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　&hellip;&hellip;壬申，幸国子监谒孔子，有司言旧仪止肃揖，帝特再拜。元脱脱在《宋史&middot;仁宗本纪》之后附《赞》评议其对外对内的政策说： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　至於夏人犯边，御之出境；契丹渝盟，增以岁币。在位四十二年之间，吏治若偷情，而任事蔑残刻之人；刑法似纵弛，而决狱多平允之士。国未尝无弊仲，而不足以累治世之体；朝未尝无小人，而不足以胜善类之气。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　因循保守、苟且偷安的政治路线与尊儒学、崇佛道的思想路线，导致宋朝的统治陷入了越来越深的危机。自真宗统治以来，朝廷中有识之士就议论着挽救宋室统治危机的主张，如王禹上疏建言 &ldquo;五事&rdquo;；宋祁主张免除&ldquo;三冗三费&rdquo;；范仲淹提出十项建策的&ldquo;新政&rdquo;，文彦博的建议&ldquo;省兵&rdquo;，裁减禁军归农；王安石的&ldquo;变法&rdquo;等。朝廷存在着主张改革与主张保守的斗争。与此同时，由于朝政的腐敗，统治者对人民的残酷压榨，激起了连绵不断的农民起义，如宋真宗咸平三年(公元1000年)王均为首的益州起义；景德二年(公元1005年)以王长寿为首的起义；景德四年(公元1007年)的陈进起义；宋仁宗庆历三年(公元1043年)的王伦起义和张海起义，庆历四年(公元1044年)保州士兵起义；庆历七年(公元1047年)的王则起义等等，极大地震撼了宋王朝，宋统治者对此惶惶不安。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　周敦颐就是出生、成长在这样的一个历史时期，宋统治者的政治路线与思想路线对他有直接的影响。他就是在宋统治者尊儒术的情况下提倡孔孟之学，在宋统治者崇佛崇道、三教有融合趋势的情况下吸取道教《无极图》的思想因素的。他所开创的以儒学为核心并吸取了佛道思想的道学 (理学)，是为宋统治者对外苟且偷安，对内因循守旧、及&ldquo;攘外必先安内&rdquo;，从精神上消弭改革及农民起义的政治路线服务的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">第 二 节 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">《太极图》与《无极图》之迹异道同 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　宋代周敦颐是儒家学者，陈抟《无极图》乃是道教内丹修炼术的图式，周子《太极图》讲的是 &ldquo;顺以成人&rdquo;，道教讲的是&ldquo;逆以成丹&rdquo;，儒家追求修养成圣人，道教追求修炼成仙人，儒道两家自来有矛盾，那么，除了因宋统治者以儒家为主，以佛道为辅的思想路线造成容许三教相融合的历史条件外，儒学与道教之间有什么可促使其相融合的内在依据呢?换句话说，即儒家学者周敦颐在儒学基础上为什么能够吸取道教的理论?吸取了陈抟《无极图》的什么理论?宋代道学(理学)与道教之间相交融的关系是怎样来的和以后又怎样发展? </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　首先，儒家学者周敦颐为适应宋王朝的政治需要，迎合统治者崇道的热切，在倡导以孔孟之学为政治主导思想的基础上吸取了陈抟《无极图》中的宇宙生成论的根本理论。按《无极图》固然是道教内丹修炼术的图式，把《老子道德经》中所说 &ldquo;反者道之动&rdquo;，应用于炼丹术，所谓&ldquo;逆以成丹&rdquo;，即对宇宙生成论的逆转运用之意，而其前提则是先承认&ldquo;无极&rdquo;为宇宙本原的宇宙生成论。儒家也有儒家的宇宙生成论，认为《周易》中所说的&ldquo;太极&rdquo;是宇宙万物的根源。儒家所说的&ldquo;太极&rdquo;，解释不一，或谓&ldquo;太极&rdquo;即&ldquo;道&rdquo;，或谓&ldquo;太极&rdquo;即&ldquo;理&rdquo;，或谓&ldquo;太极&rdquo;即&ldquo;阴阳&rdquo;，或谓&ldquo;太极&rdquo;即&ldquo;气&rdquo;， 或说&ldquo;道&rdquo;即&ldquo;阴阳&rdquo;，&ldquo;阴阳&rdquo;之中有&ldquo;动静&rdquo;，或说&ldquo;理&rdquo;寓于&ldquo;元气&rdquo;之中，&ldquo;理&rdquo;即是&ldquo;道&rdquo;。认为&ldquo;太极&rdquo;是&ldquo;元气&rdquo;，这是朴素的唯物主义宇宙观，认为&ldquo;太极&rdquo;是&ldquo;道&rdquo;、&ldquo;理&rdquo;，是非物质的观念，这就是客观唯心主义宇宙观。道家与以后的道教，认为&ldquo;无极&rdquo;是宇宙的根源，是宇宙存在动静运动的第一推动力，它是神秘的虚幻的精神力量，或人格化而为&ldquo;天神&rdquo;，这也是客观唯心主义的宇宙观。周敦颐不过是在宇宙本体问题上扬弃儒家朴素唯物主义思想，而在儒家客观唯心主义思想基础上更向前迈了一步，吸取道家&ldquo;无极&rdquo;的观念，认为&ldquo;太极&rdquo;来自&ldquo;无极&rdquo;，&ldquo;太极&rdquo;属于&ldquo;有&rdquo;，&ldquo;无极&rdquo;才是&ldquo;无&rdquo;，是宇宙的本原。这就是在客观唯心主义的基础上融合了道家及儒家的宇宙生成论，成了他所开创的道学的宇宙生成论。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　次者， &ldquo;天人一体&rdquo;、&ldquo;道法自然&rdquo;的哲学思想模式，是儒家及道教都承认而且奉为思想旨圭的。道教认为&ldquo;道&rdquo;是阴阳五行之至精的凝聚体，它是永恒的，按照天人一体的原则，人身中亦有阴阳五行之至精，如能效法自然，以已身为小天地，循阴阳转化及五行相生相克的&ldquo;规模&rdquo;而逆转运动，则可以使阴阳五行至精凝聚而得&ldquo;道&rdquo;，归真返朴，与&ldquo;道&rdquo;同一体性而长生。儒家认为人性是天所赋予的，是阴阳五行妙合而成。人是天地秀灵之气形成的，人们的社会伦理道德；中、正、仁、义、诚，也是天地五行之性在社会伦理方面的自然体现。人如能遵循这些封建的社会道德，便能够主静无欲，诚而无妄、无事、无为，成为圣人，而圣人的精神是能够永存的。儒家也好，道教也好，&ldquo;天人一体&rdquo;、&ldquo;道法自然&rdquo;的基本哲学思想是一致的，均有別于自然天道观，而同属唯心主义，各自在此思想基础上建立各自的思想体系，不过衍义有异而已。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　再者，在对待封建社会的伦理道德方面，儒家与道教自来一致。认为封建伦理道德是作人的准则，是维系社会安定的保证，同时也是人要修 &ldquo;仙&rdquo;及成&ldquo;圣人&rdquo;的最基本的条件。道教所讲究的&ldquo;性&rdquo;，与儒家所强调的封建伦理道德是相同的相通的。这也是便于周敦颐吸取并改变道教&ldquo;二五至精&rdquo;的内在条件之一。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　再次者，不论道教追求成 &ldquo;仙&rdquo;，是出世的人生观也好，儒家追求成&ldquo;圣人&rdquo;，是入世的人生观也好，都主张应主静无欲。前者诱导人们忍受现实的痛苦，追求彼岸的幸福；后者也是要人们安於现实的贫困，不要生欲望。两者殊途同归，对钳制人民的思想，维护封建统治，其政治作用是一致的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　就是由于这种在政治上、哲学思想上、伦理道德观念上的共同之处和相近之处，所以周敦颐能够吸取道教的思想因素，制作了《太极图》。无怪乎明末清初思想家颜元说： &ldquo;论宋儒，谓是集汉晋释道之大成则可，谓是尧舜周孔之正脉则不可&rdquo;。〔21〕清代中期思想家戴震也说：&ldquo;宋儒借阶于老、庄、释氏&rdquo;，&ldquo;宋儒出入于老释，故杂乎老释之言以为言&rdquo;。〔22〕其实，《太极图》与《无极图》在实质上是迹异而道同的。自此以后道学(理学)与道教相互吸取、相互影响，是交融的关系。比如在宋代兴起的道教净明派，就是在道学的影响之下产生的。净明派鼓吹忠孝，认为只有忠孝者才能成神仙。在政治上这固然是适应宋王朝的需用，在思想上则正是把道学家们宣扬的封建伦理道德教义化了。是否可以这样说，道学将道教的教义哲学化，尔后道教又将道学的哲学思想宗教化，相互吸取，相互利用。</span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">结　论 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　一、在北宋统治者采取对外屈辱求和、对内因循保守的政治路线和以儒为主、佛道为辅的思想路线下，儒家学者一方面倡导孔孟之学为政治主导思想，另一方面吸取佛道教中的义理，开创了道学 (理学)。周敦颐就是道学的开创者。他受陈抟《无极图》于穆修，然后与儒家&ldquo;太极&rdquo;之说相结合，制作了《太极图》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　二、陈抟的《无极图》来源于五代钟吕内丹道教的仙学理论。传说陈抟受之于吕洞宾或麻衣道人。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　三、《上方大洞真元妙经图》中的《太极先天图》、《文昌大洞仙经》中的《无极图》，为宋末或元代作品，根本不可能是陈抟《无极图》和周敦颐《太极图》之源。《上方大洞真元妙经品》前的 &ldquo;唐明皇御制序&rdquo;是不可信的。因此，清毛奇齡、朱彝尊等认为《太极先天图》在唐玄宗时已行世，而且是诸图之源的论断，是不可信的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　四、五代兴起的钟吕内丹道，将东汉魏伯阳《参同契》的外丹理论，转变为内丹仙学理论。《参同契》才是《无极图》、《太极图》之源。特別是《参同契》中的 &ldquo;坎离匡郭&rdquo;、&ldquo;三五至精&rdquo;，是所述诸图的基本内容。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　五、陈抟《无极图》与周敦颐《太极图》同为世界生成论模式，同属客观唯心主义宇宙观，迹异而道同， &ldquo;顺以成人&rdquo;也好，&ldquo;逆以成丹&rdquo;也好，都是虛幻的。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　六、宋代的道学与道教在 &ldquo;天人一体&rdquo;、&ldquo;道法自然&rdquo;等哲学思想上基本上是一致的，因而它们之间，是相互影响、相互吸取、互为表里的关系。儒、仙交融既是一定历史条件下促成的潮流，也是两者在基本哲学思想方面有相通相同之处的发展结果。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　七、弄清诸图源流，对弄清五代以后哲学思想的发展及道教的发展，有重要意义。如果将早出的作品当作晚出，晚出的作品当着早出，这就势必会将因果始末弄颠倒，从而也就背离哲学思想史及道教史的客观史实与规律。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">　　上述看法，极可能是隔靴搔痒，笔者不过抛砖引玉而已，希得方家指正。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">1984</span><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">年2月 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">注　释： </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑴《周濂溪集》卷四《诸儒太极发明》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑵《朱文公文集》卷七十六。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑶《朱文公文集》卷七十五。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑷指潘兴嗣《濂溪先生墓志铭》，见《周子全书》卷二十。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑸《周子全书》卷二十。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑹《朱文公文集》卷七十五。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑺见《昭代丛书》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑻《毛西河先生全集》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑼《周子全书》卷三。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑽宋宁宗嘉定十三年，赐周敦颐谥曰元。见《周子全书》卷二十一《列代褒崇》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑾《昭代丛书》中之《易学辨惑&middot;太极图说辨》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⑿《太极图说遗议》：庄子云：&lsquo;在太极之先而不为高'。此欲加之端也。《淮南子》云： &lsquo;引类于太极之上'。与《庄子》问。是皆几几欲加之，而引而不发，未尝实有所加也。然在《列子》，则早已阴立诸太，而特未敢显，然与太极并列其名，但曰：有太易、有太初、有太始、有太素。至伪为三坟书者，则始搀太极于太始、太易之中，然尚曰：太始一，太极次之，太易为二，太初为四。而《易纬&middot;钩命诀》则直曰：&lsquo;天地未分之前，谓之一气，于中有太易、太初、太始、太素、太极而为五运'。则直降太极于末，而升四太于太极之前，故《禅源铨集》有《原人论》云：&lsquo;彼始曰太易，五重运转，乃至太极'。则在汉后二氏始于太极之上实有所加，然而犹未加以无也。自《纬书&middot;乾坤凿度》，未知出于何时，中历引《列子》四太而断之曰：&lsquo;太易始著太极成，太极成，乾坤行'。太易无也，太极有也。太易从无入有，圣人知太易有理未行，故曰太易，则始逗无字，而其所谓无极无形，太极有理之说，已骎骎乎具之矣。及王辅嗣作《易》注，则老氏学也。引《老子》及《易纬》之说，注云：&ldquo;夫有必始於无，故太极生两仪，太极者无称之称，不可得而名，取其有之所极，况之无极者也&rdquo;。而于是无之名生焉。是以唐僧杜顺作《华严疏》，其演义有云：&ldquo;以四太言之，则太易为始。以五太言之，则太极为终&rdquo;。夫一阴一阳之谓道，道者，何无之称也?但寂然无体，不可为象，必有之用极而无之功显，则是以无为极，以极为无，无在极前与极在无后。在二氏所言亦既断断焉，无所不至，而特未尝以现成&ldquo;无极&rdquo;二宇，显加之《太极》之上，而《图说》加之，且其所加者，则又历见道释诸书，明立其名，以与&ldquo;太极&rdquo;相抵捂者曰&lsquo;无极'&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⒀即《阴真君长生金丹诀》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⒁南宋宁宗嘉定七年，即公元1214年。亦即金宜宗贞祐二年。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⒂见于明《正统道藏洞真部&middot;玉诀类》。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⒃见明《正统道藏》太玄部。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⒄指魏伯阳《周易参同契》上篇第一章。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⒅此书已佚。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⒆此书今佚。《云笈七签》卷七十盖节录此书。《云笈七签》卷七十一《上清黄庭内景经》释题：&ldquo;外象谕即日月星辰云霞之象，内象谕即血肉筋骨藏府之象也&rdquo;。既曰内象，当述内丹。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">⒇《罗浮山志》：苏元朗&ldquo;隋开皇中来居罗浮山&rdquo;，&ldquo;乃著《旨道篇》示人，自此道徒知内丹矣&rdquo;。 </span></div>
+<div style="LINE-HEIGHT: 150%"><span style="FONT-SIZE: 12pt; LINE-HEIGHT: 150%; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">〔21〕颜元《习斋记馀》卷三《太上仓陆桴亭先生序》。 </span></div>
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LETTER-SPACING: 0.5pt">〔22〕戴震《孟子字义疏证&middot;理》。</span>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

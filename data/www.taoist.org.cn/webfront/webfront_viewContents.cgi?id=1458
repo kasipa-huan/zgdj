@@ -1,0 +1,605 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #FFFFFF; text-decoration:none;
+}
+a:visited {
+	color: #990000; text-decoration:none;
+}
+a:hover {
+	color: #FFFFFF; text-decoration:none;
+}
+a:active {
+	color: #FFFFFF; text-decoration:none;
+}
+
+</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Mon Aug 04 14:01:17 GMT+0800 2008-->
+</head>
+<body  style="background:url(images/bg1.jpg)">
+<table width="1007" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><!-- row 1 -->
+   <td width="1007" height="325" valign="top">
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>中国道教协会</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name="description" content="FW 8 DW 8 XHTML" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.navsub {
+	width: 1000px;
+}
+.navsub a:link {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:visited {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:active {
+	font-size: 12px;
+	color:#763F07;
+	text-decoration: none;
+}
+.navsub a:hover {
+	font-size: 12px;
+	color:#562E05;
+	text-decoration: none;
+}
+#jl{position:relative;}
+
+#jl #Layer1 {
+	position:absolute;
+	padding-left:57px;
+	padding-top:11px;
+	width:63px;
+	height:62px;
+	z-index:1;
+	background-color: #F4EADC;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body bgcolor="#F7F0E6">
+<table width="1003" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#F7F0E6">
+  <tr>
+    <td id="jl"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="69%">
+	<div id="Layer1">
+			  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="65" height="65">
+			    <param name="movie" value="images/w4.swf" />
+			    <param name="quality" value="high" />
+			    <param name="wmode" value="transparent" />
+			    <embed src="images/w4.swf" width="65" height="65" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+			  </object>
+			</div>
+	<img src="images/ittop.jpg" width="692" height="86" /></td>
+    <td width="31%" rowspan="2" align="right"><img src="images/itright.jpg" width="315" height="256" border="0" usemap="#Map" /></td>
+  </tr>
+  <tr>
+    <td height="170" align="center" background="images/itbottom.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="692" height="170">
+      <param name="movie" value="flash/top.swf" />
+      <param name="quality" value="high" />
+      <param name="wmode" value="transparent" />
+      <embed src="flash/top.swf" width="692" height="170" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object></td>
+    </tr>
+</table>
+
+    	</td>
+  </tr>
+  <tr>
+    <!-- row 1 -->
+    <td width="1003" align="center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="998">
+        <tr>
+          <!-- row 1 -->
+          <td width="998"><script type="text/javascript">
+function fetch_object(idname)
+{
+    var my_obj = document.getElementById(idname);
+	//alert("idname==="+idname);
+    return my_obj;
+	
+}
+
+function toggle_nav(obj)
+{
+//alert(obj);
+
+    for (index = 1; index<13; index++  )
+    {
+       var nav_img = fetch_object("nav_" + index);
+	
+       var sub_nav = fetch_object("sub_nav_" + index);
+		
+   var sub_nav_index =  fetch_object("sub_nav_0");
+		
+    sub_nav_index.style.display = "none";
+//alert(index +":===="+ sub_nav);
+		
+        if (obj == index)
+        {
+            nav_img.src = "images/nav_" + index + "_on.jpg";
+			
+           sub_nav.style.display = "block";
+        }
+        else
+        {
+          nav_img.src = "images/nav_" + index + "_off.jpg";
+         sub_nav.style.display = "none";
+        }
+    }
+
+}
+</script>
+            <a href="webfront_frontPage.cgi" ><img src="images/nav_1_on.jpg" alt="首页" name="nav_1" width="94" height="36" border="0" id="nav_1" onmouseover="javascript:toggle_nav(1)"/></a><img name="dh_r1_c2" src="images/dh_r1_c2.jpg" width="6" height="36" border="0" id="dh_r1_c2" alt="" /><a href="webfront_showDirList.cgi?dircode=1010000000000000000&targetPage=Fdjxy"><img src="images/nav_2_off.jpg" alt="道教信仰" name="nav_2" width="94" height="36" border="0" id="nav_2" onmouseover="javascript:toggle_nav(2)"/></a><img name="dh_r1_c4" src="images/dh_r1_c4.jpg" width="6" height="36" border="0" id="dh_r1_c4" alt="" /><a href="webfront_showDirList.cgi?dircode=1020000000000000000&targetPage=Fdjxy" ><img src="images/nav_3_off.jpg" alt="道教经典" name="nav_3" width="94" height="36" border="0" id="nav_3" onmouseover="javascript:toggle_nav(3);"/></a><img name="dh_r1_c6" src="images/dh_r1_c6.jpg" width="6" height="36" border="0" id="dh_r1_c6" alt="" /><a href="webfront_showDirList.cgi?dircode=1080000000000000000&targetPage=Fdjxy"><img src="images/nav_4_off.jpg" alt="道教礼仪" name="nav_4" width="94" height="36" border="0" id="nav_4" onmouseover="javascript:toggle_nav(4);"/></a><img name="dh_r1_c8" src="images/dh_r1_c8.jpg" width="6" height="36" border="0" id="dh_r1_c8" alt="" /><a href="webfront_showDirList.cgi?dircode=1090000000000000000&targetPage=Fdjxy" ><img src="images/nav_5_off.jpg" alt="道教历史" name="nav_5" width="94" height="36" border="0" id="nav_5" onmouseover="javascript:toggle_nav(5);"/></a><img name="dh_r1_c12" src="images/dh_r1_c12.jpg" width="6" height="36" border="0" id="dh_r1_c12" alt="" /><a href="webfront_showDirList.cgi?dircode=1100000000000000000&targetPage=Fdjxy"><img src="images/nav_6_off.jpg" alt="教派人物" name="nav_6" width="94" height="36" border="0" id="nav_6" onmouseover="javascript:toggle_nav(6);"/></a><img name="dh_r1_c14" src="images/dh_r1_c14.jpg" width="6" height="36" border="0" id="dh_r1_c14" alt="" /><a href="webfront_showDirList.cgi?dircode=1140000000000000000&targetPage=Fdjxy"><img src="images/nav_7_off.jpg" alt="名山宫观" name="nav_7" width="94" height="36" border="0" id="nav_7" onmouseover="javascript:toggle_nav(7)"/></a><img name="dh_r1_c16" src="images/dh_r1_c16.jpg" width="6" height="36" border="0" id="dh_r1_c16" alt="" /><a href="webfront_showDirList.cgi?dircode=1110000000000000000&targetPage=Fdjxy"><img src="images/nav_8_off.jpg" alt="道教修持" name="nav_8" width="94" height="36" border="0" id="nav_8" onmouseover="javascript:toggle_nav(8)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1120000000000000000&targetPage=Fdjxy"><img src="images/nav_9_off.jpg" alt="文学艺术" name="nav_9" width="94" height="36" border="0" id="nav_9" onmouseover="javascript:toggle_nav(9)"/></a><img name="dh_r1_c18" src="images/dh_r1_c18.jpg" width="6" height="36" border="0" id="dh_r1_c18" alt="" /><a href="webfront_showDirList.cgi?dircode=1130000000000000000&targetPage=Fdjxy"><img src="images/nav_10_off.jpg" alt="道教组织" name="nav_10" width="94" height="36" border="0" id="nav_10" onmouseover="javascript:toggle_nav(10)"/></a> </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <!-- row 2 -->
+    <td height="25" align="left" valign="middle"><!--副导航-->
+      <div class="navsub">
+        <div id="sub_nav_0" style="display:block; "></div>
+        <div id="sub_nav_1" style="display:none;"></div>
+        <!--副导航-道教信仰-->
+        <div id="sub_nav_2" style="display:none; padding-left:70px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="198">
+            <tr>
+              <!-- row 1 -->
+              <td><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td><table width="180" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td background="images/fdh_r1_c2.jpg">
+                    <img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E">
+					<a href="webfront_showContent.cgi?dircode=1010100000000000000&perPageNum=1&targetPage=nr" target="_blank">
+					道德</a>&nbsp; 
+					<a href="webfront_showDirList.cgi?dircode=1010200000000000000&targetPage=Fdjxy2">神仙&nbsp;</a> 
+					<a href="webfront_showDirList.cgi?dircode=1010300000000000000&targetPage=Fdjxy2" >
+					道教义理</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道信仰结束-->
+        <!--副导航-道教经典-->
+        <div id="sub_nav_3" style="display: none; padding-left:105px;"></div>
+        <!--道教经典结束-->
+        <!--副导航-道教礼仪-->
+        <div id="sub_nav_4" style="display:none; padding-left:265px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="301">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="283"><table width="283" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="283" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1080100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教斋醮</a> <a href="webfront_showList.cgi?dircode=1080200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教戒律</a> <a href="webfront_showContent.cgi?dircode=1080300000000000000" >道教服饰</a> <a href="webfront_showList.cgi?dircode=1080400000000000000&perPageNum=10&targetPage=Fdjxy3" >道教称谓 </a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教礼仪结束-->
+        <!--副导航-道教历史-->
+        <div id="sub_nav_5" style="display:none;"></div>
+        <!--副导航-道教历史结束-->
+        <!--副导航-教派人物-->
+        <div id="sub_nav_6" style="display:none; padding-left:470px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="152">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="134"><table width="134" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="134" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1100100000000000000&targetPage=Fdjxy2" >教派&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="webfront_showDirList.cgi?dircode=1100200000000000000&targetPage=Fdjxy2" >人物</a></td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="42"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-教派人物结束-->
+        <!--副导航-名山宫观-->
+        <div id="sub_nav_7" style="display:none; padding-left:580px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="257"><table width="256" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="230" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1140200000000000000&targetPage=Fdjxy2">名山宫观介绍</a>&nbsp;&nbsp;&nbsp; &nbsp; <a href="webfront_showList.cgi?dircode=1140100000000000000&perPageNum=10&targetPage=Fdjxy3" >全国各地宫观通讯录</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-名山宫观结束-->
+        <!--副导航-道教修持-->
+        <div id="sub_nav_8" style="display:none; padding-left:655px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="185">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="167"><table width="166" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="138" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1110100000000000000&targetPage=Fdjxy2" >内丹</a>&nbsp; <a href="webfront_showList.cgi?dircode=1110200000000000000&perPageNum=10&targetPage=Fdjxy3" >养生</a>&nbsp;&nbsp;<a href="webfront_showList.cgi?dircode=1110300000000000000&perPageNum=10&targetPage=Fdjxy3" >武术</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="10"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教修持结束-->
+        <!--副导航-文学艺术-->
+        <div id="sub_nav_9" style="display:none; padding-left:630px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="275">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="213"><table width="274" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="274" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showList.cgi?dircode=1120100000000000000&perPageNum=10&targetPage=Fdjxy3" >道教美术</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120200000000000000&perPageNum=10&targetPage=Fdjxy3" >道教建筑     &nbsp;
+                      <a href="webfront_showList.cgi?dircode=1120300000000000000&perPageNum=10&targetPage=Fdjxy3" >道教音乐</a>&nbsp;&nbsp; <a href="webfront_showList.cgi?dircode=1120400000000000000&perPageNum=15&targetPage=Fdjxy3" >道教故事 </a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="53"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-文学艺术结束-->
+        <!--副导航-道教组织-->
+        <div id="sub_nav_10" style="display:none; padding-left:600px;">
+          <table border="0" cellpadding="0" cellspacing="0" width="403">
+            <tr>
+              <!-- row 1 -->
+              <td width="9"><img name="fdh_r1_c1" src="images/fdh_r1_c1.jpg" width="9" height="23" border="0" id="fdh_r1_c1" alt="" /></td>
+              <td width="385"><table width="385" height="23" border="0" align="left" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <!-- row 1 -->
+                    <td width="320" background="images/fdh_r1_c2.jpg"><img name="fdh_r1_c2" src="images/fdh_r1_c2.jpg" width="1" height="2" border="0" id="fdh_r1_c2" alt="" /></td>
+                  </tr>
+                  <tr>
+                    <!-- row 2 -->
+                    <td align="center" bgcolor="#DEC09E"><a href="webfront_showDirList.cgi?dircode=1130100000000000000&targetPage=Fdjxy2" >中国道教协会</a> <a href="webfront_showContent.cgi?dircode=1130200000000000000&perPageNum=1&targetPage=nr" target="_blank">省一级地方道教协会</a> 
+                      <a href="webfront_showContent.cgi?dircode=1130300000000000000&perPageNum=1&targetPage=nr" target="_blank">地区、市一级地方道教协会</a> </td>
+                  </tr>
+                  <tr>
+                    <!-- row 3 -->
+                    <td background="images/fdh_r3_c2.jpg"><img name="fdh_r3_c2" src="images/fdh_r3_c2.jpg" width="1" height="2" border="0" id="fdh_r3_c2" alt="" /></td>
+                  </tr>
+                </table></td>
+              <td width="9"><img name="fdh_r1_c3" src="images/fdh_r1_c3.jpg" width="9" height="23" border="0" id="fdh_r1_c3" alt="" /></td>
+            </tr>
+          </table>
+        </div>
+        <!--副导航-道教组织结束-->
+      </div>
+      <!--副导航结束-->
+    </td>
+  </tr>
+</table>
+
+
+<map name="Map" id="Map">
+<area shape="rect" coords="16,3,108,24" href="http://www.taoist.org.cn/" /><area shape="rect" coords="122,2,211,25" href="http://www.taoist.org.cn/webfront/English.jsp" /><area shape="rect" coords="221,2,311,26" href="http://www.taoist.org.cn/webfront/spain.jsp" />
+</map></body>
+</html>
+
+	</td>
+  </tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="1005">
+  <tr>
+    <!-- row 1 -->
+    <td>
+	<div style=" width:955px;height:34px; float:left; text-align:left ; background:url(images/sr_r1_c1.jpg) left top no-repeat;padding-left:50px; line-height:34px;font-size: 12px;
+	color: #FFFFFF;"> 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<style type="text/css">
+		a:link {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:visited {
+			color: #FFFFFF; text-decoration:none;
+		}
+		a:hover {
+			color: #562E0A; text-decoration:none;
+		}
+		a:active {
+			color: #FFFFFF; text-decoration:none;
+		}
+		
+	</style>
+  	<link href="images/font.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  您现在的位置是： <a href="webfront_frontPage.cgi">首页</a>
+  	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+					<a href="webfront_showDirList.cgi?dircode=1260000000000000000&targetPage=Fdjxy">
+						《中国道教》杂志 
+					</a>
+				
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+			<!-- 不是末级,进入栏目列表 -->
+			 &gt;
+				
+				
+					<a href="webfront_showDirList.cgi?dircode=1260100000000000000&targetPage=Fdjxy2">
+						道协会刊(1962—1986)
+					</a>
+				
+				
+			
+			<!-- 其他状态 -->
+			
+	
+			<!-- 末级 -->
+			
+				<!-- 内容页模板 -->
+				
+				<!-- 末级列表页模板，显示信息的列表 -->
+				 &gt;
+					<a href="webfront_showList.cgi?dircode=1260108000000000000&perPageNum=15&targetPage=Fdjxy3">
+						第8期（1981年12月）
+					</a>
+				
+				<!-- 链接到外网 -->
+				
+				<!-- 其他情况 -->
+				
+			
+			<!-- 不是末级,进入栏目列表 -->
+			
+			<!-- 其他状态 -->
+			
+	
+  </body>
+</html>
+</div>	
+</td>
+  </tr>
+</table>
+<table border="0" height="600" cellpadding="0" cellspacing="0" width="1007" style="background:url(images/bg1.jpg)" align="center">
+<!-- fwtable fwsrc="未命名" fwbase="sr.jpg" fwstyle="Dreamweaver" fwdocid = "1344182167" fwnested="1" -->
+  <tr><!-- row 1 -->
+    <td align="right" valign="top">
+    
+		<!--标题开始-->
+	      <div style="font-family:'华文行楷'; font-size:18pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	道教史资料选编 (二续)
+	      </div>
+	      <!-- 副标题 -->
+	      <div style="font-family:'华文行楷'; font-size:16pt;  color:#411500; text-align:center; padding-top:15px;">
+	      	
+	      </div>
+	      <!--标题结束-->
+		<div style="text-align:center"><a name="1" id="1"></a>
+		<img name="sr_r3_c1" src="images/sr_r3_c1.gif" width="293" height="32" border="0" id="sr_r3_c1" alt="" /></div>
+		<!--图片-->
+		
+		<!--图片结束-->
+		<!-- 作者 -->
+		
+			<div style="font-family:'宋体'; font-size:12pt;  color:#411500; text-align:center;padding-bottom:8px;">
+		      	
+		    </div>
+		
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 显示内容 -->
+	   		<p class="unnamed1" align="center"><strong>本刊资料组 </strong></p>
+<p class="unnamed1" align="center"><strong>桓　帝 </strong></p>
+<p class="unnamed1">　　二年，冬十月，长平陈景自号 &ldquo;黄帝子&rdquo;，署置官属，又南顿管伯亦称&ldquo;真人&rdquo;，并图举兵，悉伏诛。 </p>
+<p class="unnamed1" align="right">《后汉书》卷七《桓帝纪》 </p>
+<p class="unnamed1">　　(周)勰字巨胜，少尚玄虚，以父任为郎，自免归家，&hellip;&hellip;时梁冀贵盛，被其征命者，莫敢不应，唯勰前后三辟，竟不能屈。&hellip;&hellip;慕老聃清静，杜绝人事，巷生荆棘，十有余岁。至延熹二年(一五九)，乃开门延宾，游谈宴乐，及秋而梁冀诛，年终而勰卒，时年五十。 </p>
+<p class="unnamed1" align="right">《后汉书》卷六十一《周举传》 </p>
+<p class="unnamed1">　　(延熹)八年春正月，遣中常侍左倌之苦县，祠老子。十一月，使中常侍管霸之苦县，祠老子。 </p>
+<p class="unnamed1" align="right">《后汉书》卷七《桓帝纪》 </p>
+<p class="unnamed1">　　桓帝即位十八年，好神仙事。延熹八年，初使中常侍之陈国苦县祠老子。九年，亲祠老子于濯龙。文厨为坛，饰淳金扣器，设华盖之坐，用郊天乐也。 </p>
+<p class="unnamed1" align="right">《后汉书》志第八《祭祀中》 </p>
+<p class="unnamed1">　　论曰：前史称桓帝好音乐，善琴笙。饰芳林而考濯龙之宫，设华盖以祠浮图、老子，斯将所谓 &ldquo;听于神&rdquo;乎!及诛梁冀，奋威怒，天下犹企其休息。而五邪嗣虐，流衍四方。自非忠贤力争，屡折奸锋，虽愿依斟流彘，亦不可得已。 </p>
+<p class="unnamed1" align="right">《后汉书》卷七《桓帝纪》 </p>
+<p class="unnamed1">　　襄楷字公矩，平原隰阴人也。好学博古，善天文阴阳之术。桓帝时，宦官专朝，政刑暴滥，又比失皇子，灾异尤数。延熹九年，楷自家诣阙上疏曰： &ldquo;&hellip;&hellip;臣前上琅砑宫崇受干吉神书，不合明听。[干姓，吉名也。神书，即今道家《太平经》也。]&hellip;&hellip;&rdquo;书奏不省。十余日，复上书，曰：&ldquo;&hellip;&hellip;前者宫崇所献神书，专以奉天地顺五行为本，亦有兴国广嗣之术。其文易晓，参同经典，而顺帝不行，故国胤不兴，&hellip;&hellip;又闻宫中立黄老、浮屠之祠。此道清虚，贵尚无为，好生恶杀，省欲去奢。今陛下嗜欲不去，杀罚过理，既乖其道，岂获其祚哉!或言老子入夷狄为浮屠。浮屠不三宿桑下，不欲久生恩爱，精之至也。天神遣以好女，浮屠曰：&ldquo;此但革囊盛血。&rdquo;遂不眄之。其守一如此，乃能成道。今陛下淫女艳妇，极天下之丽，甘肥饮美，单天下之味，柰何欲如黄老乎?&rdquo;&hellip;&hellip;初，顺帝时，琅玡宫崇诣阙，上其师于吉于曲阳泉水上所得神书百七十卷，皆縹白素朱介青首朱目，号《太平清领书》。其言以阴阳五行为家，而多巫觋杂语。有司奏崇所上妖妄不经，乃收臧之。后张角颇有其书焉。及灵帝即位，以楷书为然。 </p>
+<p class="unnamed1" align="right">《后汉书》卷三十下《襄楷传》 </p>
+<p class="unnamed1">　　延熹九年 (一六六)。平原襄楷诣阙上疏&hellip;&hellip;书奏，不省。十余日，复上书曰：&ldquo;臣闻殷纣好色，妲已是出；叶公好龙，真龙游廷。今黄门、常侍，天刑之人，陛下爱待，兼倍常宠，系嗣未兆，岂不为此!又闻宫中立黄、老、浮屠之祠，此道清虚，贵尚无为，好生恶杀，省欲去奢。今陛下嗜欲不去，杀罚过理，既乖其道，岂获其祚哉!浮屠不三宿桑下，不欲久生恩爱，精之至也；其守一如此，乃能成道。今陛下淫女艳妇，极天下之丽，甘肥饮美，单天下之味，柰何欲如黄、老乎!&rdquo;书上，即召入，诏尚书间状。楷言：&ldquo;古者本无宦臣，武帝末数游后宫，始置之耳。&rdquo;尚书承旨，奏：&ldquo;楷不正辞理，而违背经艺，假借星宿，造合私意，诬上罔事，请下司隶正楷罪法，收送雒(洛)阳狱。&rdquo;帝以楷言虽激切，然皆天文恒象之数，故不诛；犹司寇论刑。自永平以来，臣民虽有习浮屠术者，而天子未之好；至帝，始笃好之，常躬自祷祠，由是其法浸盛，故楷言及之。 </p>
+<p class="unnamed1" align="right">《资治通鉴》卷五十五《汉纪四十七》 </p>
+<p class="unnamed1">　　延熹九年。河南张成，善风角，推占当赦，教子杀人。司隶李膺督促收捕，既而逢宥获免。膺愈怀愤疾，竟按杀之。成素以方伎 (技)交通宦官，帝亦颇讯其占，宦官教成弟子牢修上书，告&ldquo;膺等养太学游士，交结诸郡生徒，更相驱驰，共为部党，诽讪朝廷，疑乱风俗。&rdquo;于是天子震怒，班下郡国，逮捕党人，布告天下，使同忿疾。 </p>
+<p class="unnamed1" align="right">《资治通鉴》卷五十五《汉纪四十七》 </p>
+<p class="unnamed1">　　延熹中，桓帝事黄老道，悉毁诸房祀，唯特诏密县存故太傅卓茂庙，洛阳王渙祠焉。 </p>
+<p class="unnamed1" align="right">《后汉书》卷七十六《王涣传》 </p>
+<p class="unnamed1">　　刘瑜字季节，广陵人也。高祖父广陵靖王。父辩，清河太守。瑜少好经学，尤善图谶、天文、历算之术，州郡礼请不就。 </p>
+<p class="unnamed1" align="right">《后汉书》卷五十七《刘瑜传》 </p>
+<p class="unnamed1">　　(张楷)性好道术，能作五里雾。时关西人裴优亦能为三里雾，自以不如楷，从学之，楷避不肯见。桓帝即位，优遂行雾作贼，事觉被考，引楷言从学术，楷坐系廷尉诏狱，积二年，恒讽诵经籍，作《尚书》注，后以事无验，见原还家。 </p>
+<p class="unnamed1" align="right">《后汉书》卷三十六《张霸传》灵帝 </p>
+<p class="unnamed1">　　熹平二年 (一七三)， 国相师迁追奏相魏情与宠共祭天神，希幸非冀，罪至不道。有司奏遣使者案验。是时新诛勃海王悝，灵帝不忍复加法，诏槛车传送愔、迁诣北寺诏狱，使中常待王鋪与尚书令侍御史杂考。愔辞与王共祭黄老君，求长生福而已，无它冀幸。 </p>
+<p class="unnamed1" align="right">《后汉书》卷五十《陈敬王羡传》 </p>
+<p class="unnamed1">　　光和元年 (一七八)。秋，七月，壬子，青虹见玉堂后殿庭中。诏召光禄大夫杨赐等诣金商门，问以灾异及消复之术。赐对曰：&ldquo;《春秋谶》曰：天投霓，天下怨，海内乱。[注：《春秋演孔图》曰：霓者，斗之乱精也，失度投虮见。]加四百之期，亦复垂及。[注：《春秋演孔图》曰：刘四百岁之际，褒汉王辅，皇王以期，有名不就。]&hellip;&hellip;&rdquo; </p>
+<p class="unnamed1" align="right">《资治通鉴》卷五十七《汉纪四十九》 </p>
+<p class="unnamed1">　　中平元年春二月，钜鹿人张角自称 &ldquo;黄天&rdquo;，其部(师)[帅]有三十六(万)[方]，皆著黄巾，同日反叛。安平、甘陵人各执其王以应之。三月戊申，以河南尹何进为大将军，将兵屯都亭。置八关都尉官。壬子，大赦天下党人，还诸徙者，唯张角不赦。诏公卿出马、弩，举列将子孙及吏民有明战阵之略者，诣公车。遣北中郎将卢植讨张角，左中郎将皇甫嵩、右中郎将朱俊讨颖川黄巾。庚子，南阳黄巾张曼成攻杀郡守褚贡。夏四月，&hellip;&hellip;朱俊为黄巾波才所败。&hellip;&hellip;汝南黄巾败太守赵谦于邵陵。广阳黄巾杀幽州刺史郭勋及太守刘卫。五月，皇甫嵩、朱俊复与波才等战于长社，大破之。六月，南阳太守秦颉击张曼成，斩之。交址屯兵执刺史及合浦太守来达，自称&ldquo;柱天将军&rdquo;，遣交址刺史贾琮讨平之。皇甫嵩、朱俊大破汝南黄巾于西华。诏嵩讨东郡，朱俊讨南阳。卢植破黄巾，围张角于广宗。宦官诬奏植，抵罪。遣中郎将董卓攻张角，不克。&hellip;&hellip;秋七月，巴郡妖巫张修反，寇郡县。八月，皇甫嵩与黄巾战于仓亭，获其帅。乙巳，诏皇南嵩北讨张角。&hellip;&hellip;冬十月，皇甫嵩与黄巾贼战于广宗，获张角弟梁。角先死，乃戮其尸。以皇甫嵩为左车骑将军。十一月，皇甫嵩又破黄巾于下曲阳，斩张角弟宝。&hellip;&hellip;癸巳朱俊拔宛城，斩黄巾别帅孙夏。 </p>
+<p class="unnamed1" align="right">《后汉书》卷八《灵帝纪》 </p>
+<p class="unnamed1">　　初，巨鹿张角自称 &ldquo;大贤良师&rdquo;，奉事黄老道，畜养弟子，跪拜首过，符水咒说以疗病，病者颇愈，百姓信向之。角因遣弟子八人使于四方，以善道教化天下，转相诳惑。十余年间，众徒数十万，连结郡国，自青、徐、幽、冀、荆、杨、兗、豫八州之人，莫不毕应。遂置三十六方。方犹将军号也。大方万令人，小方六七千，各立渠帅。讹言&ldquo;苍天已死，黄天当立，岁在甲子，天下大吉&rdquo;，以白土书京城寺门及州郡官府，皆作&ldquo;甲子&rdquo;字。中平元年，大方马元义等先收荆、杨数万人，期会发于邺。元义数往来京师，以中常侍封谞、徐奉等为内应，约以三月五日内外俱起。未及作乱，而张角弟子济南唐周上书告之，于是丰裂元义于洛阳。灵帝以周章下三公、司隶，使鉤盾令周斌将三府椽属，案验宫省直卫及百姓有事角道者，诛杀千余人，推考冀州，逐捕角等。角等知事已露，晨夜驰勃，诸方一时俱起。皆著黃巾为标帜，时人谓之&ldquo;黄巾&rdquo;，亦名为&ldquo;蛾贼&rdquo;。杀人以祠祀天。角称&ldquo;天公将军&rdquo;，角弟宝称&ldquo;地女将军&rdquo;，宝弟梁称&ldquo;人公降军&rdquo;。所在燔烧官府，劫略聚邑，州郡失据，长吏多逃亡。旬日之间，天下向应，京师震动。 </p>
+<p class="unnamed1" align="right">《后汉书》卷七十一《皇甫嵩传》 </p>
+<p class="unnamed1">　　光和六年 (一八三)。初，巨鹿张角奉事黄、老，以妖术教授，号&ldquo;太平道&rdquo;。咒符水以疗病，令病者跪拜首过，或时病愈，众共神而信之。角分遣弟子周行四方，转相诳诱，十余年间，徒众数十万，有青、徐、幽、冀、荆、扬、兗、豫八州之人，莫不毕应。或弃卖财产'流移奔赴，填塞道路，未至病死者亦以万数。郡县不解其意，反言角以善道教化，为民所归。&hellip;&hellip;角遂置三十六方；方，犹将军也，大方万余人，小方六七千人，各立渠帅；讹言&ldquo;苍天已死，黄天当立，岁在甲子，天下大吉。&rdquo;以白土书京城寺门及州郡宫府，皆作&ldquo;甲子&rdquo;字。大方马元义等先收荆、扬数万个，期会发于邺。元义数往来京师，以中常侍封讶、徐奉等为内应，约以三月五日内外俱起。中平元年(一八四)。春，角弟子济南唐周上书告之。于是收马元义，车裂于雒阳。诏三公、司隶按验宫省直卫及百姓有事角道者，诛杀千余人，下冀州逐捕角等。角等知事己露，晨夜驰敕诸方，一时俱起，皆著黄巾以为标帜，故时人谓之&ldquo;黄巾贼&rdquo;。二月，角自称天公将军，角弟宝称地公将军，宝弟梁称人公将军，所在燔烧官府，劫略聚邑，州郡失据，长吏多逃亡；句月之间，天下响应，京师震动。安乎，甘陵人各执其王应贼。 </p>
+<p class="unnamed1" align="right">《资治通鉴》卷五十八《汉纪五十》 </p>
+<p class="unnamed1">　　沛人张鲁，母有姿色，兼挟鬼道，往来焉家，遂任鲁以为督义司马， (遂)与别部司马张修将兵掩杀汉中太守苏固，断绝斜谷，杀使者。鲁既得汉中，遂复杀张修而并其众。&hellip;&hellip;张鲁以璋 (刘焉子)暗懦，不复承顺。璋怒，杀鲁母及弟，而遣其将庞羲等攻鲁，数为所破。鲁部曲多在巴土，故以羲为巴郡太守。鲁因袭取之，遂雄于巴汉。&hellip;&hellip;明年，曹操破张鲁，定汉中。鲁字公旗。初，祖父陵，顺帝时客于蜀，学道鹤鸣山中[山在今益州晋原县西]，造作符书，以惑百姓。受其道者辄出米五斗，故谓之&ldquo;米贼&rdquo;。陵传子衡，衡传于鲁，鲁遂自号&ldquo;师君&rdquo;。其来学者，初名为&ldquo;鬼卒&rdquo;，后号&ldquo;祭酒&rdquo;。祭酒各领部众，众多者名曰&ldquo;理头&rdquo;。皆校以诚信，不听欺妄，有病但令首过而已。诸祭酒各起义合于路，同之亭传，具置米肉以给行旅。食者量腹取足，过多则鬼能病之。犯法者先加三原，然后行刑。不置长吏，以祭酒为理，民夷信向。[《典略》曰：&ldquo;初，熹平中(一七七至一七八)，妖贼大起，汉中有张修。[骆曜教民缅匿法，角]为太平道，(张角) [脩]为五斗米道。太平道师持九节杖，为符祝，教病人叩头思过，因以符水饮之，病或自愈者，则云此人信道，其或不愈，则云不信道。修法略与角同，加施净室，使病人处其中思过。又使人为奸令祭酒，主以《老子》五千文，使都习，号&ldquo;奸令&rdquo;。为鬼吏，主为病者请祷。[请祷]之法，书病人姓字，说服罪之意。作三通，其一上之天，著山上，其一埋之地，其一沉之水，谓之&ldquo;三官手书&rdquo;。使病者家出米五斗以为常，故号&ldquo;五斗米师&rdquo;也。实无益于疗病，[但为淫妄]，小人昏愚，竟共事之，后角被诛，修亦亡。及鲁自在汉中，因其人信行修业，遂增饰之。教使起义合，以米[肉]置其中，以止行人。又[教]使自隐，有小过者，当循道百步，则罪除，又依《月令》，春夏禁杀，又禁酒。流移寄在其地者，不敢不奉也。]朝廷不能讨，遂就拜鲁镇夷中郎将，领汉宁太守，通其贡献。韩遂、马超之乱，关西民奔鲁者数万家。时人有地中得玉印者，群下欲尊鲁为汉宁王。鲁功曹阎闹谏曰：&ldquo;汉川之民，户出十万，四面险固，财富土沃，上匡天子，则为桓文，次方窦融，不失富贵。今承制署置，执足斩断。遽称王号，必为祸先。&rdquo;鲁从之。鲁自在汉川垂三十年，闻曹操征之，至阳平，欲举汉中降。其弟卫不听，率众数万，拒关固守。操破卫，斩之。鲁闻阳平已陷，将稽颡归降。阎圃说曰：&ldquo;今以急往，其功为轻，不如且依巴中，然后委质，功必多也。&rdquo;于是乃奔南山。左右欲悉焚宝货仓库，鲁曰：&ldquo;本欲归命国家，其意未遂。今日之走，以避锋锐，非有恶意。&rdquo;遂封藏而去。操入南郑，甚嘉之。又以鲁本有善意，遣人慰安之。鲁即与家属出逆，拜镇南将军，封阆中候，邑万户，将还中国，待以客礼。封鲁五子及阎圃等皆为列侯。鲁卒，谥曰原侯，子富嗣。 </p>
+<p class="unnamed1" align="right">《后汉书》卷七十五《刘焉传》 </p>
+<p class="unnamed1">　　&hellip;&hellip;益州贼马相亦自号&ldquo;黄巾&rdquo;，合聚疲役之民数千人，先杀绵竹令，进攻雒县，杀郗俭，又击蜀郡、犍为，旬月之间，破坏三郡。马相自称&ldquo;天子&rdquo;，众至十余万人。 </p>
+<p class="unnamed1" align="right">《后汉书》卷七十五《刘焉传》</p>
+<p class="unnamed1" align="center"><strong>献　帝 </strong></p>
+<p class="unnamed1">　　初平二年 (一九一)。刘焉在益州阴图异计。沛人张鲁，自祖父陵以来世为五斗米道，客居于蜀。鲁母以鬼道常往来焉家，焉乃以鲁为督义司马，以张修为别部司马，与合兵掩杀汉中太守苏固，断绝斜谷阁，杀害汉使。 </p>
+<p class="unnamed1" align="right">《资治通鉴》卷六十《汉纪五十二》 </p>
+<p class="unnamed1">　　初平三年。青州黄巾众百万入兖州，杀任城相郑遂，转入东平。刘岱欲击之，鲍信谏曰： &ldquo;今贼众百万，百姓皆震恐，士卒无斗志，不可敌也。观贼众群辈相随，军无辎重，唯以钞略为资，今不若畜士众之力，先为固守。彼欲战不得，攻又不能，其势必离散，后选精锐，据其要害，击之可破也。&rdquo;岱不从，遂与战，果为所杀，信乃与州吏万潜等至东郡迎太祖领兖州牧。遂进兵击黄巾于寿张东。信力战斗死，仅而破之。[《魏书》曰：太祖将步骑千余人，行视战地，卒抵贼营，战不利，死者数百人，引还。贼寻前进，黄巾为贼久，数乘胜，兵皆精悍。太祖旧兵少，新兵不习练，举军皆惧。太祖被甲婴冑，亲巡将士，明劝赏罚，众乃复奋，承间讨击，贼稍折退。贼乃移书太祖曰：&ldquo;昔在济南，毁坏神坛，其道乃与中黄太乙同，似若知道，今更迷惑。汉行已尽，黃家当立。天之大运，非君才力所能存也。&rdquo;太祖见檄书，呵骂之，数开示降路；遂设奇伏，昼夜会战，战辄禽获，贼乃退走。]购求信丧不得，众乃刻木如信形状，祭而哭焉。追黄巾至济北。乞降。冬，受降卒三十余万，男女百余万口，收其精锐者，号为青州兵。 </p>
+<p class="unnamed1" align="right">《三国志》卷一《魏书 &middot;武帝第一》 </p>
+<p class="unnamed1">　　(初平)三年四月，司徒王允、尚书仆射士孙瑞、卓将吕布共谋诛卓。是时，天子有疾新愈，大会未央殿。布使同郡骑都尉李肃等，将亲兵十余人，伪著卫士服守掖门。布怀诏书。卓至，肃等格卓。卓惊呼布所在。布曰&ldquo;有诏&rdquo;，遂杀卓，夷三族。主薄田景前趋卓尸，布又杀之；凡所杀三人，余莫敢动。[《英雄记》曰：时有谣言曰：&ldquo;千里草，何青青，十日卜，犹不生。&rdquo;又作《董逃》之歌。又有道士书布为&ldquo;吕&rdquo;字以示卓，卓不知其为吕布也。卓当入会，陈列步骑，自营至宫，朝服导引行其中。马踬不前，卓心怪欲止，布劝使行，乃衷甲而入。卓既死，当时日月清净，微风不起。&hellip;&hellip;]长安士庶咸相庆贺，诸阿附卓者皆下狱死。 </p>
+<p class="unnamed1" align="right">《三国志》卷六《魏书 &middot;董二袁刘传第六》 </p>
+<p class="unnamed1">　　建安元年 (一九六)。袁术以谶言&ldquo;代汉者当涂高&rdquo;，自云名字应之。[贤曰：&ldquo;当涂高&rdquo;者，魏也。然术自以&ldquo;术&rdquo;及&ldquo;路&rdquo;皆是涂，故云应之。]又以袁氏出陈，为舜后，以黄代赤，德运之次，遂有僭逆之谋。 </p>
+<p class="unnamed1" align="right">《资治通鉴》卷六十二《汉纪五十四》 </p>
+<p class="unnamed1">　　建安五年 (二零零)。张鲁以刘璋暗懦，不复承顺，袭别部司马张修，杀之而并其众。璋怒，杀鲁母及弟，鲁遂居汉中，与璋为敌。 </p>
+<p class="unnamed1" align="right">《资治通鉴》卷六十三《汉纪五十五》 </p>
+<p class="unnamed1">　　建安五年，曹公与袁绍相拒子官渡，策阴欲袭许，迎汉帝， [&hellip;&hellip;《江表传》曰；时有道士琅邪于吉，先寓居东方，往来吴会，立精舍，烧香读道书，制作符水以治病，吴会人多事之。策尝于郡城门楼上，集会诸将宾客，吉乃盛服杖小函，漆画之，名为仙人铧，趋度门下。诸将宾客三分之二下楼迎拜之，掌宾者禁呵不能止。策即令收之。诸事之者，悉使妇女入见策母，请救之。母请策曰：&ldquo;于先生亦助军作福，医护将士，不可杀之。&rdquo;策曰：&ldquo;此子妖妄，能幻惑众心，远使诸将不复相顾君臣之礼，尽委策下楼拜之，不可不除也。&rdquo;诸将复连名通白事陈乞之。策曰：&ldquo;昔南阳张津为交州刺史，舍前圣典训，废汉家法律，尝著绛帕头，鼓琴烧香，读邪俗道书，云以助化，卒为南夷所杀。此甚无益，诸君但未悟耳。今此子已在鬼箓，勿复费纸笔也。&rdquo;即催斩之，县首于市。诸事之者，尚不谓其死而云尸解焉，复祭祀求福。《志林》曰：初顺帝时，琅邪宫崇诣阙上师于吉所得神书于曲阳泉水上，白素朱界，号《太平青领道》凡百余卷。顺帝至建安中，五六十岁，于吉是时近已百年，年在耄悼，礼不加刑。又天子巡狩，问百年者，就而见之，敬齿以亲爱，圣王之至教也。吉罪不及死，而暴加酷刑，是乃谬诛，非所以为美也。喜推考桓王之薨，建安五年四月四日。是时曹、袁相攻，未有胜负。案夏侯元让与石威则书，袁绍破后也。书云：&ldquo;授孙贲以长沙，业张津以零、桂。&rdquo;此为桓王于前亡，张津于后死，不得相让，譬言津之死意矣。] </p>
+<p class="unnamed1" align="right">《三国志》卷四十六《吴书 &middot;孙破虏讨逆传第一》 </p>
+<p class="unnamed1">　　郑玄，字康成，北海高密人也。 &hellip;&hellip;以山东无足问者，乃西入关，因涿郡卢植，事扶风马融。融门徒四百余人，升堂进者五十余生。融素骄贵，玄在门下，三年不得见，乃使高业弟子传授于玄。玄日夜寻诵，未尝怠倦。会融集诸生考论图纬，闻玄善算，乃召见于楼上，玄因从质诸疑义，问毕辞归。融喟然谓门人曰：&ldquo;郑生今去，吾道东矣!&rdquo;&hellip;&hellip;五年春，梦孔子告之曰：&ldquo;起，起，今年岁在辰，来年岁在已。&rdquo;既寤，以谶合之，知命当终，有顷寝疾。时袁绍与曹操相拒于宫度，令其子谭遣使逼玄随军。不得已，载病到元城县，疾笃不进，其年六月卒，年七十四。 </p>
+<p class="unnamed1" align="right">《后汉书》卷三十五《郑玄传》 </p>
+<p class="unnamed1">　　建安六年 (二零一)。张鲁以鬼道教民，使病者自首其过，为之请祷；实无益于治病，然小人昏愚，竞共事之。犯法者，三原，然后乃行刑；不置长吏，皆以祭酒为治。[鲁以鬼道教民，其来学者，初名为鬼卒，后号祭酒。祭酒各领部众。]民、夷便乐之，流移寄在其地者，不敢不奉其道。后遂袭取巴郡。朝廷力不能征，遂就宠鲁为镇民中郎将，领汉宁太守，通贡献而已。 </p>
+<p class="unnamed1" align="right">《资治通鉴》卷六十四《汉纪五十六》 </p>
+<p class="unnamed1">　　建安十五年 (二零一)。朝廷遣南阳张津为交州刺史。津好鬼神事，常著绛帕头，鼓琴、烧香，读道书，云可以助化，为其将区景所杀，刘表遣零陵赖恭代津为刺史。 </p>
+<p class="unnamed1" align="right">《资治通鉴》卷六十六《汉纪五十八》 </p>
+<p class="unnamed1">　　诸将争权，遂杀稠，并其众。汜与作转相疑，战斗长安中。傕质天子于营，烧宫殿城门，略官寺，尽收乘舆服御物置其家。傕使公卿诣汜请和，汜皆执之。相攻击连月，死者万数。 [《献帝起居法》曰：催性喜鬼怪左道之术，常有道人及女巫歌讴击鼓下神，祠祭六丁，符劾厌胜之具，无所不为．&hellip;&hellip;天子使左中郎将李固持节拜作为大司马，在三公之右。作自以为得鬼神之力，乃厚赐诸巫。] </p>
+<p class="unnamed1" align="right">《三国志》卷六《魏书 &middot;董二袁刘传第六》 </p>
+<p class="unnamed1">　　光和末，黄巾起。拜骑都尉，讨颖川贼。迁为济南相，国有十余县，长吏多阿附贵戚，贓污狼籍，于是奏免其八；禁断淫祀，奸宄逃窜，郡界肃然。久之征还为东郡太守；不就，称疾归乡里。顷之，冀州刺史王芬、南阳许攸、沛国周旌等连结豪杰，谋废灵帝，立合肥候，以告太祖。太祖拒之，芬等遂败。 [司马彪《九州春秋》曰：于是陈蕃子逸与术士平原襄楷会于芬坐，楷曰：&ldquo;天文不利宦者，黄门、常侍(贵) (真)族灭矣。&rdquo;逸喜。芬曰：&ldquo;若然者，芬愿驱除。&rdquo;于是与攸等结谋。灵帝欲北巡河间旧宅，芬等谋因此作难，上书言黑山贼攻劫郡县，求得起兵。会北方有赤气，东西竟天，太史上言&ldquo;当有阴谋，不宜北行&rdquo;，帝乃止。敕芬罢兵，俄而征之。芬惧，自杀。] </p>
+<p class="unnamed1" align="right">《三国志》，卷一《魏书 &middot;武帝纪第一》 </p>
+<p class="unnamed1">　　法正字孝直， (右)扶风酈人也。祖父真，有清节高名。[《三辅决录注》曰：真字高卿，少明《五经》，兼通谶纬，学无常师，名有高才。] </p>
+<p class="unnamed1" align="right">《三国志》卷三十七《蜀书 &middot;庞统法正传第七》 </p>
+<p class="unnamed1">　　太祖以琮为青州刺史、封列侯。蒯越等侯者十五人。越为光禄勋；嵩，大鸿胪；羲，侍中；先，尚书令；其余多至大官。 [《零陵先贤传》曰：先字始宗，博学疆记，尤好黄老言，明习汉家典故。] </p>
+<p class="unnamed1" align="right">《三国志》卷六《魏书 &middot;熏二袁刘传第六》 </p>
+<p class="unnamed1">　　甘始，东郭延年、封君达三人者，皆方士也。率能行容成御妇人术，或饮小便，或自倒悬，受嗇精气，不极视大言。甘始、元放 (左慈)、延年皆为操所录，问其术而行之。[曹植《辩道论》论曰：&ldquo;甘始者，老而有少容，自诸术士咸共归之。然始辞繁寡辞，颇切怪言。余尝辟左右独与之言，问其所行。温颜以诱之，美辞以导之。始语余：&ldquo;吾本师姓韩字雅，尝与师于南海作金，前后数四，投数万斤金于海。&rdquo;&hellip;&hellip;言不尽于此，颇难悉载，故粗举其巨怪者。始若遭秦始皇、汉武帝，则复徐市、栾大之徒也。&rdquo;]君达号&ldquo;青牛师&rdquo;。[《汉武帝内传》曰：&ldquo;封君达，陇西人。初服黄连五十余年，入乌举山，服水银百余年，还乡里，如二十者。常乘青牛，故号&ldquo;青牛道士&rdquo;。闻有病死者，识与不识，便以要间竹管中药与服，或下针，应手皆愈。不以姓名语人。闻鲁女生得《五岳图》，连年请求，女生未见授，并告节度。二百余岁乃入玄丘山去。&rdquo;]凡此数人，皆百余岁及二百岁也。 </p>
+<p class="unnamed1" align="right">《后汉书》卷八十二下《甘始传》 </p>
+<p class="unnamed1">　　左慈字元放，庐江人也。少有神道。尝在司空曹操坐，操从容顾众宾曰： &ldquo;今日高会，珍羞略备，所少吴松江鲈鱼耳。&rdquo;放于下坐应曰：&ldquo;此可得也。&rdquo;因求钢盘貯水，以竹竿饵钓于盘中，须臾引出一鲈鱼出。操大拊掌笑，会者皆惊。操曰：&ldquo;一鱼不周坐席，可更得乎?&rdquo;放乃更饵钓沉之，须叟复引出，皆长三尺余，生鲜可爱。操使目前绘之，周浃会者。操又谓曰：&ldquo;既已得鱼，恨无蜀中生姜耳!&rdquo;放曰：&ldquo;亦可得也。&rdquo;操恐其近即所取，因赍：&ldquo;吾前遣人到蜀买锦，可过劾使者，增市二端。&rdquo;语顷，即得姜还，并获操使报命。后操使蜀反，验问增锦之状及时日早晚，若符契焉。后操出近郊，士大夫从者百许人，慈乃为赍酒一升，脯一斤，手自斟酌，百官莫不醉饱。操怪之，使寻其故，行视诸铲，悉亡其酒脯矣。操怀不喜，因坐上收欲杀之，慈乃郃入壁中，霍然不知所在。或见于市者，又捕之，而市人皆变形与慈同，莫知谁是。后人逢慈于阳城山头，因复逐之，遂入走羊群。操知不可得，乃令就羊中告之曰：&ldquo;不复相杀，本试君术耳。&rdquo;忽有一老羝屈前两膝，人立而言曰：&ldquo;逮如许。&rdquo;即竞往赴之，而群羊数百皆变为羝，并屈前脖人立，云&ldquo;遽如许&rdquo;，遂莫知所取焉。[魏文帝《典论》论卻俭等事曰：&ldquo;颖川卻俭能辟谷，饵获苓，甘陵甘始名善行气，老有少容，庐江左慈知补导之术，并为军吏。初，俭至之所，获苓价暴贵数倍。议郎安平李翠学其辟谷，食伏苓，饮寒水，水寒中泄利，殆至殒命。后始来，众人无不鸱视狼顾，呼吸吐纳。军祭酒弘农董芬为之过差，气闭不通，良久乃苏。左慈到，又竞受其补导之术。至寺人峻往从问受，奄竖真无事于斯术也。人之逐声，乃至于是&rdquo;也。] </p>
+<p class="unnamed1" align="right">《后汉书》卷八十二下《左慈传》 </p>
+<p class="unnamed1">　　华陀字元化，沛国谯人也，一名敷，游学徐士，兼通数经。晓养性之术，年且百岁而犹有壮容，时人以为仙。 &hellip;&hellip;广陵吴普、鼓城樊阿皆从佗学。普依准陀疗，多所全济。陀语普曰：&ldquo;人体欲得劳动，但不当使极耳。动摇则谷气得销，血脉流通，病不得生，譬犹户枢，终不朽也。是以古之仙者为导引之事，熊经鸱顾，引挽腰体，动诸关节，以求难老。吾有一术，名五禽之戏：一曰虎，二曰鹿，三曰熊，四曰猿，五曰鸟。亦以除疾，兼利蹄足，以当导引。体有不快，起作一禽之戏，怡而汗出，因以著粉，身体轻便而欲食。&rdquo;普施行之，年九十余，耳目聪明，齿牙完坚。 </p>
+<p class="unnamed1" align="right">《后汉书》卷八十二下《华陀传》 </p>
+<p class="unnamed1">　　冷寿光、唐虞、鲁女生三人者，皆与华陀同时。寿光年可百五六十岁，行容成公御妇人法。常届颈鹅息，鬚发尽白，而色理如三四十时，死于江陵。 </p>
+<p class="unnamed1" align="right">《后汉书》卷八十二下《华陀传》 </p>
+<p class="unnamed1">　　初，同郡人笮融，聚众数百，往依于谦，谦使督广陵、下邳、彭城运粮。遂断三郡委输，大起浮屠寺。上累金盘，下为重楼，又堂阁周回，可容三千许人，作黄金涂像，农以锦彩。每浴佛，辄多设饮饭，布席于路，其有就食及观者且万余人。及曹操击谦，徐方不安，融乃将男女万口、马三千匹走广陵。广陵太守赵昱待以宾礼。融利广陵资货，遂乘酒酣杀昱，放兵大掠，因以过江，南奔豫章，杀郡守朱皓，入据其城。后为杨州刺史刘繇所破，走入山中，为人所杀。 </p>
+<p class="unnamed1" align="right">《后汉书》卷七十三《陶谦传》 </p>
+<p class="unnamed1">　　费长房者，汝南人也。曾为市掾。市中有老翁卖药，悬一壶于肆头，及市罢，辄跳入壶中。市人莫之见，唯长房于楼上睹之，异焉，因往再拜奉酒脯。翁知长房之意其神也，谓之曰： &ldquo;子明日可更来。&rdquo;长房旦日复诣翁，翁乃与俱入壶中。唯见玉堂严丽，旨酒甘肴盈衍其中，共饮毕而出。翁约不听与人言之。后乃就楼上候长房曰：&ldquo;我神仙之人，以过见责，今事毕当去，子宁能相随乎?楼下有少酒，与卿为别。&rdquo;长房使人取之，不能胜，又令十人扛之，犹不举。翁闻，笑而下楼，以一指提之而上。视器如一升许，而二人饮之终日不尽。长房遂欲求道，而顾家人为忧。翁乃断一青竹，度与长房身齐，使悬之舍后。家人见之，即长房形也，以为缢死，大小惊号，遂殡葬之。长房立其傍，而莫之见也。于是遂随从入深山，&hellip;&hellip;长房辞归，翁与一竹杖，曰：&ldquo;骑此任所之，则自至矣。既至，可以杖投葛陂中也。&rdquo;又为作一符，曰&ldquo;以此主地上鬼神。&rdquo;长房乘杖，须臾来归，自谓去家适经旬日，而已十余年矣。即以杖投陂，顾视则龙也。家人谓其久死，不信之。长房曰：&ldquo;往日所葬，但竹杖目。&rdquo;乃发冢剖棺，杖犹存焉。遂能医疗众病，鞭笞百鬼，及驱使社公。 </p>
+<p class="unnamed1" align="right">《后汉书》卷八十二下《费长房传》 </p>
+<p class="unnamed1">　　王真、郝孟节者，皆上党人也。王真年且百岁，视之面有光泽，似未五十者。自云： &ldquo;周流登五岳名山，悉能行胎息胎食之方，漱舌下泉咽之，不绝房室。&rdquo;[《汉武内传》曰：&ldquo;王真字叔经，上党人。习闭气而吞之，名目&lsquo;胎息'；习漱舌下泉而咽之，名曰&lsquo;胎食'。真行之，断谷二百余日，肉色光美，力并数人。&rdquo;]孟节能含枣核，不食可至五年十年。又能结气不息，身不动摇，状若死人，可至百日半年。亦有室家。为人质谨不妄言，似士君子。曹操使领诸方士焉。 </p>
+<p class="unnamed1" align="right">《后汉书》卷八十二下《王真传》 </p>
+<p class="unnamed1">　　[《高土传》曰：世莫知(焦)先所出。或言生手汉末，自陕居大阳，无父母兄弟妻子。见汉室衰，乃自绝不言。及魏受禅，常结草为庐于河之湄，独止其中。冬夏恒不着农，卧不设席，又无草蓐，以身亲土，其体垢污皆如泥漆，五形尽露，不行人间。或数日一食，欲食则为人赁作，人以衣衣之，乃使限功受直，足得一食辄去，人欲多与，终不肯取，亦有数日不食时。行不由邪径，目不与女子逆视。口未尝言，虽有惊急，不与人语。遗以食物皆不受。河东太守杜恕尝以农服迎见，而不与语。司马景王闻而使安定太守董经囚事过视，又不肯语，经以为大贤。其后野火烧其庐，先因露寝。遭冬雪大至，先袒卧不移，人以为死，就视如故，不以为病，人莫能审其意。度年可百岁余乃卒。或问皇甫谣曰：&ldquo;焦先何人?&rdquo;曰：&ldquo;吾不足以知之也。考之于表，可略而言矣。夫世之所常趣者荣味也，形之所不可释者农裳也，身之所不可离者室宅也，口之所不能已者言语也，心之不可绝者亲戚也。今焦先弃荣味，释农服，离室宅，绝亲戚，闭口不言，旷然以天地为栋宇，暗然合至道之前，出群形之表，入玄寂之幽，一世之人不足以挂其意，四海之广不能以回其顾，妙乎与夫三室之先者同矣。结绳已来，未及其至也，岂群言之所能仿佛，常心之所得测量哉!彼行人所不能行，堪人所不能堪，犯寒暑不以伤其性，居旷野不以恐其形，遭惊急不以迫其虑，离荣爱不以累其心，损视听不以汙其耳目，舍足于不损之地，居身子独立之处，延年历百，寿越期颐，虽上识不能尚也。自羲皇已来，一人而已矣!&rdquo;《魏氏春秋》曰：故梁州刺史耿黼以先为&ldquo;仙人也&rdquo;，北地傅玄谓之&ldquo;性同禽兽&rdquo;并为之传，而莫能测之。] </p>
+<p class="unnamed1" align="right">《三国志》卷十一《魏书 &middot;袁张凉国田王邴管传第十一》 </p>
+<p class="unnamed1">　　[《魏略》又载扈累及寒贫者。累字伯重，京兆人也。初平中，山东人有青牛先生者，字正方，客三辅。晓知星历、风角、鸟情。常食青葙芫华。年似如五六十者，人或亲识之，谓其已百余岁矣。初，累年四十余，随正方游学，人谓之得其术。有妇，无子。建安十六年，三辅乱，又随正方南入汉中。汉中坏，正方入蜀，累与相先，随徙民诣邺，遭疾疫丧其妇。至黄初元年，又从诣洛阳，遂不复娶妇。独居道侧，以瓦砖为障，施一厨床，食宿其中。昼日潜思，夜则仰视星宿，吟咏内书。人或问之，闭口不肯言。至嘉平中，年八九十，裁若四五十者。县官以其孤老，给廪日五升。五升不足食，颇行佣作以裨粮，粮尽复出，人与不取。食不求美，衣弊緼，后一二年疾亡。寒食者，本姓石，字德林，安定人也，建安初，客三辅。是时长安有宿儒栾文博者，门徒数千，德林亦就学，始精《诗》、《书》。后好内事，于众辈中最玄默。至十六年，关中乱，南入汉中。初不治产业，不畜妻孥，常读《老子》五千文及诸内书，昼夜吟咏。到二十五年，汉中破，随众还长安，遂痴愚不复识人。食不求味，冬夏常衣弊布连结农。体如无所胜，目如无所见。独居穷巷小屋，无亲里。人与之衣食，不肯取。郡县以其鳏穷，给廪日五升，食不足，颇行乞，乞不取多。人间其姓字，又不肯言，故因号之曰寒贫也。或素有与相知者，往存恤之，辄拜跪，由是人谓其不痴。车骑将军郭淮以意气呼之，问其所欲，亦不肯言。淮因与脯糟及衣，不取其衣，取其脯一朐&middot;糒一升而止。] </p>
+<div align="right"><span class="unnamed1">《三国志》卷十一《魏书 &middot;袁张凉国田王邴传管第十一》 </span></div>
+	   </div>
+	   <div style="text-align:left; color:#88510c; font-size:14px; line-height:20px; width:900px; height:auto; margin:0 auto;">
+	   		<!-- 附件 -->
+	   		
+		   		
+			
+	   </div>
+   
+   
+   </td>
+  </tr>
+  <tr><!-- row 5 -->
+   <td align="right"><a href="javascript:scroll(0,0)"><img name="sr_r6_c1" src="images/sr_r6_c1.gif" width="162" height="35" border="0" id="sr_r6_c1" alt="" /></a></td>
+  </tr>
+<!--   This table was automatically created with Macromedia Fireworks   -->
+<!--   http://www.macromedia.com   -->
+</table>
+<!--========================= STOP COPYING THE HTML HERE =========================-->
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td width="1007" height="165">
+			<iframe allowtransparency="true" src="bottom.htm" width="1007" height="165" frameborder="0" scrolling="no"; align="center"></iframe>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
