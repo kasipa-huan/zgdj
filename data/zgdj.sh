@@ -1,11 +1,18 @@
 #!/usr/bin/env bash
 
+echo -n "År";
+while read -a TOPICS; do
+  echo -n ",${TOPICS[0]}";
+done <keytopics.lst;
+
 while read YEAR HOST; do
 
   # frequencies for this year
 #  [ -s $YEAR.frq ] || {
     find $HOST/segm/$YEAR -name '*.txt' |xargs cat |tr ' ' '\n' |grep -Ev '^[[:punct:]]+$' |sort |uniq -c |sort -nr >$YEAR.frq;
 #  }
+
+  echo -en "\n$YEAR";
 
   # top phrase frequency
   TOP=$(sed -nr -e '1 s/^([^\s]+)\s+(.*)$/\1/p' $YEAR.frq);
@@ -26,14 +33,16 @@ while read YEAR HOST; do
         count=$(($count + 1));
       }
     done
-    [[ $count -gt 0 ]] && {
-      echo -n "$YEAR,$TITLE,";
-      echo "0.5 - l($freq / ($count * $TOP)) / l(2)" |bc -l |sed -r -e 's/\..*$//';
-
-    }
+    echo -n ",";
+    if [[ $count -gt 0 ]]; then
+      echo "l($freq / ($count * $TOP)) / l(2)" |bc -l |tr -d '\n';
+    else
+      echo -n " ";
+    fi
 
   done <keytopics.lst;
 
+  
   
 
 done <zgdj.lst
