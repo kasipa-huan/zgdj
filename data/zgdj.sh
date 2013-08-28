@@ -1,9 +1,16 @@
 #!/usr/bin/env bash
 
+KEYWORDS=$1;
+
+[ $1 -a -s $1 ] || {
+  echo "$0 keyword.lst";
+  exit -1;
+}
+
 echo -n "År";
 while read -a TOPICS; do
   echo -n ",${TOPICS[0]}";
-done <keytopics.lst;
+done <$KEYWORDS;
 
 while read YEAR HOST; do
 
@@ -40,9 +47,6 @@ while read YEAR HOST; do
       echo -n " ";
     fi
 
-  done <keytopics.lst;
-
-  
-  
+  done <$KEYWORDS;
 
 done <zgdj.lst
