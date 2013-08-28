@@ -15,9 +15,9 @@ done <$KEYWORDS;
 while read YEAR HOST; do
 
   # frequencies for this year
-#  [ -s $YEAR.frq ] || {
+  [ -s $YEAR.frq ] || {
     find $HOST/segm/$YEAR -name '*.txt' |xargs cat |tr ' ' '\n' |grep -Ev '^[[:punct:]]+$' |sort |uniq -c |sort -nr >$YEAR.frq;
-#  }
+  }
 
   echo -en "\n$YEAR";
 
@@ -32,7 +32,7 @@ while read YEAR HOST; do
 
     freq=0;
     count=0;
-    for (( i = 1; i < $N; i++ )) do
+    for (( i = 1; i <= $N; i++ )) do
       topic=${TOPICS[$i]};
       f=$(sed -nr -e "s/^([^\s]+)\s+($topic)$/\1/p" $YEAR.frq);
       [[ $f -gt 0 ]] && {
@@ -44,7 +44,7 @@ while read YEAR HOST; do
     if [[ $count -gt 0 ]]; then
       echo "l($freq / ($count * $TOP)) / l(2)" |bc -l |tr -d '\n';
     else
-      echo -n " ";
+      echo -n "";
     fi
 
   done <$KEYWORDS;
