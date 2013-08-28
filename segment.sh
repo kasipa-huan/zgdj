@@ -1,6 +1,6 @@
 #!/bin/sh
 
-BASEDIR=stanford-segmenter-2013-06-20
+BASEDIR=$(dirname $0)/stanford-segmenter-2013-06-20
 DATADIR=$BASEDIR/data
 
 java -mx2g \

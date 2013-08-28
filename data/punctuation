@@ -1,0 +1,1 @@
+LC_ALL=UTF-8 find www.taoist.org.cn/segm/ -name '*.txt' |xargs cat |tr ' ' '\n' |sort -u |grep -Eo '[[:punct:]]+' |sort -u
