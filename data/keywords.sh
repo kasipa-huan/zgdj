@@ -7,17 +7,14 @@ KEYWORDS=$1;
   exit -1;
 }
 
+IFS=":";
+
 echo -n "År";
 while read -a TOPICS; do
   echo -n ",${TOPICS[0]}";
 done <$KEYWORDS;
 
 while read YEAR HOST; do
-
-  # frequencies for this year
-  [ -s $YEAR.frq ] || {
-    find $HOST/segm/$YEAR -name '*.txt' |xargs cat |tr ' ' '\n' |grep -Ev '^[[:punct:]]+$' |sort |uniq -c |sort -nr >$YEAR.frq;
-  }
 
   echo -en "\n$YEAR";
 
@@ -28,11 +25,11 @@ while read YEAR HOST; do
   while read -a TOPICS; do
 
     TITLE=${TOPICS[0]};
-    N=$(( ${#TOPICS[@]} - 1 ));
+    N=$((${#TOPICS[@]}));
 
     freq=0;
     count=0;
-    for (( i = 1; i <= $N; i++ )) do
+    for (( i = 1; i < $N; i++ )) do
       topic=${TOPICS[$i]};
       f=$(sed -nr -e "s/^([^\s]+)\s+($topic)$/\1/p" $YEAR.frq);
       [[ $f -gt 0 ]] && {
